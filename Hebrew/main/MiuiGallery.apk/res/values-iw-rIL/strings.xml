@@ -848,7 +848,6 @@
   <string name="view_by_gallery_tip">גלרית MIUI</string>
   <string name="view_face_album">צפה באלבום</string>
   <string name="view_queuing_status">בדוק סטטוס</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
   <string name="welcome_to_slim">יעל את האחסון המקומי</string>
   <string name="where_is_barcode">איפה קוד ה-QR?</string>
