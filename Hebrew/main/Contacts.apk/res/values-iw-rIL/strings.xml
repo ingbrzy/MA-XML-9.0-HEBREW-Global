@@ -866,8 +866,6 @@
   <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
   <string name="payphone">טלפון ציבורי</string>
   <string name="people">אנשי קשר</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">טלפון</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
