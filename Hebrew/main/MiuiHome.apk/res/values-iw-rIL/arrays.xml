@@ -50,11 +50,4 @@
         <item>אבק</item>
         <item>אובך</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>ערכות נושא</item>
-        <item>"ווידג'טים"</item>
-        <item>טפט</item>
-        <item>אפקטים</item>
-        <item>פריסה</item>
-    </string-array>
 </resources>
