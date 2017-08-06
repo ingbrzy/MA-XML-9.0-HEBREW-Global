@@ -84,4 +84,16 @@
         <item quantity="two">%d כניסות לרשימת החסומים</item>
         <item quantity="many">%d כניסות לרשימת החסומים</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">המשך סנכרון לאחר %d שעות</item>
+        <item quantity="one">המשך סנכרון לאחר שעה %d</item>
+        <item quantity="two">המשך סנכרון לאחר %d שעות</item>
+        <item quantity="many">המשך סנכרון לאחר %d שעות</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">המשך סנכרון לאחר %d דקות</item>
+        <item quantity="one">המשך סנכרון לאחר דקה %d</item>
+        <item quantity="two">המשך סנכרון לאחר %d דקות</item>
+        <item quantity="many">המשך סנכרון לאחר %d דקות</item>
+    </plurals>
 </resources>

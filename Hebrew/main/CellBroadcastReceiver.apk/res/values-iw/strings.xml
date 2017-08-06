@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_reminder_interval_title">תזכורת התראה</string>
-  <string name="alert_sound_duration_title">משך צליל התראה</string>
   <string name="app_label">שידורים סלולריים</string>
   <string name="button_cancel">ביטול</string>
   <string name="button_delete">מחק</string>

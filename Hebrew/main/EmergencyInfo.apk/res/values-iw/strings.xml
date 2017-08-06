@@ -129,6 +129,7 @@
   <string name="confirm_enable_oem_unlock_title">‏האם לאפשר ביטול נעילה של OEM (יצרן ציוד מקורי)?</string>
   <string name="connected_via_passpoint">‏מחובר דרך %1$s</string>
   <string name="connected_via_wfa">‏מחובר באמצעות אסיסטנט ה-Wi-Fi</string>
+  <string name="content_description_menu_button">תפריט</string>
   <string name="convert_to_fbe_warning">"המר את מחיצת הנתונים להצפנה מבוססת-קבצים.
  אזהרה!! פעולה זו תמחק את כל הנתונים.
  תכונה זו זמינה בגרסת אלפא וייתכן שלא תפעל כראוי.
@@ -159,6 +160,8 @@
   <string name="debug_monitoring_category">מעקב</string>
   <string name="debug_networking_category">תקשורת רשתות</string>
   <string name="debug_view_attributes">אפשר בדיקת תכונת תצוגה</string>
+  <string name="dev_logpersist_clear_warning_message">כשאנחנו כבר לא מבצעים מעקב באמצעות המתעד המתמיד, אנחנו נדרשים למחוק את נתוני המתעד המקומי במכשיר.</string>
+  <string name="dev_logpersist_clear_warning_title">האם למחוק את אחסון המתעד המתמיד?</string>
   <string name="dev_settings_warning_message">הגדרות אלה מיועדות לשימוש בפיתוח בלבד. הן עלולות לגרום למכשיר או לאפליקציות המותקנות בו לקרוס או לפעול באופן לא תקין.</string>
   <string name="dev_settings_warning_title">האם להתיר הגדרות פיתוח?</string>
   <string name="development_settings_enable">הפעלת אפשרויות מפתח</string>
@@ -208,7 +211,6 @@
   <string name="keep_screen_on_summary">המסך לעולם לא יהיה במצב שינה במהלך טעינה</string>
   <string name="launch_defaults_none">לא הוגדרו ברירות מחדל</string>
   <string name="launch_defaults_some">הוגדרו כמה ברירת מחדל</string>
-  <string name="legacy_dhcp_client_summary">‏השתמש בלקוח DHCP של Lollipop במקום לקוח DHCP החדש של Android.</string>
   <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
   <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
   <string name="local_backup_password_title">סיסמת גיבוי מקומי</string>
@@ -229,7 +231,7 @@
   <string name="name">שם</string>
   <string name="no">לא</string>
   <string name="no_application">אף אחת</string>
-  <string name="no_info_provided">לא סופק מידע למקרה חירום</string>
+  <string name="no_info_provided">אין מידע על הבעלים של הטלפון</string>
   <string name="o_negative">‏O שלילי</string>
   <string name="o_positive">‏O חיובי</string>
   <string name="oem_unlock_enable">‏ביטול נעילה של OEM</string>
@@ -273,9 +275,12 @@
   <string name="screen_zoom_summary_large">גדול</string>
   <string name="screen_zoom_summary_small">קטן</string>
   <string name="screen_zoom_summary_very_large">יותר גדול</string>
+  <string name="search_menu_title">חפש</string>
   <string name="select_application">בחר אפליקציה</string>
   <string name="select_logd_size_dialog_title">בחר גדלים של יוצר יומן לכל מאגר יומן</string>
   <string name="select_logd_size_title">גדלי מאגר של יוצר יומן</string>
+  <string name="select_logpersist_dialog_title">בחר מאגר נתונים זמני ליומן לשם אחסון מתמיד במכשיר</string>
+  <string name="select_logpersist_title">אחסון נתוני מתעד מתמיד במכשיר</string>
   <string name="select_usb_configuration_dialog_title">‏בחר תצורת USB</string>
   <string name="select_usb_configuration_title">‏בחר תצורת USB</string>
   <string name="select_webview_provider_dialog_title">‏הגדרת יישום WebView</string>
@@ -283,8 +288,6 @@
   <string name="select_webview_provider_toast_text">אפשרות זו כבר אינה תקפה. נסה שוב.</string>
   <string name="show_all_anrs">‏הצג את כל פריטי ה-ANR</string>
   <string name="show_all_anrs_summary">"הצג תיבת דו-שיח של 'אפליקציה לא מגיבה' עבור אפליקציות שפועלות ברקע"</string>
-  <string name="show_cpu_usage">‏הצג את השימוש ב-CPU</string>
-  <string name="show_cpu_usage_summary">‏שכבת-על של מסך שמציגה את השימוש הנוכחי ב-CPU</string>
   <string name="show_hw_layers_updates">הצג עדכוני שכבות חומרה</string>
   <string name="show_hw_layers_updates_summary">הצג הבהוב ירוק לשכבות חומרה כשהן מתעדכנות</string>
   <string name="show_hw_screen_updates">‏הצג עדכוני תצוגה של GPU</string>
@@ -300,6 +303,7 @@
   <string name="strict_mode_summary">גרום למסך להבהב כאשר אפליקציות מבצעות פעולות ארוכות בשרשור הראשי</string>
   <string name="tab_title_contacts">אנשי קשר</string>
   <string name="tab_title_info">מידע</string>
+  <string name="tap_pencil">אם זהו הטלפון שלך, הקש על סמל העיפרון כדי להוסיף מידע שיוצג כאן במקרה חירום</string>
   <string name="tether_settings_title_all">נקודה לשיתוף אינטרנט</string>
   <string name="tether_settings_title_bluetooth">‏שיתוף אינטרנט דרך Bluetooth</string>
   <string name="tether_settings_title_usb">‏שיתוף אינטרנט דרך USB</string>
@@ -368,7 +372,8 @@
   <string name="wifi_display_certification">‏אישור של תצוגת WiFi</string>
   <string name="wifi_display_certification_summary">‏הצג אפשרויות עבור אישור של תצוגת WiFi</string>
   <string name="wifi_fail_to_scan">לא ניתן לסרוק לאיתור רשתות</string>
-  <string name="wifi_no_internet">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
+  <string name="wifi_no_internet">אין גישה לאינטרנט.</string>
+  <string name="wifi_no_internet_no_reconnect">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
   <string name="wifi_not_in_range">מחוץ לטווח</string>
   <string name="wifi_remembered">נשמר</string>
   <string name="wifi_security_none">ללא</string>

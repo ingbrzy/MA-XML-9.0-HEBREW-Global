@@ -9,7 +9,7 @@
   <string name="altitude_uncalibrate_tip">לא ניתן לבצע כיול של מד הגובה</string>
   <string name="altitude_unit">מ</string>
   <string name="angle">%.0f</string>
-  <string name="app_description_content">המצפן משמש לניווט והתמצאות ומציג עבורך את כיווני השמיים. ודא כי באפשרותך להסתדר ללא תכונות אלה לפי הסרת היישום.</string>
+  <string name="app_description_content">המצפן משמש לניווט והתמצאות ומציג עבורך את כיווני השמיים. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום.</string>
   <string name="app_description_title">אודות המצפן</string>
   <string name="app_label">מצפן</string>
   <string name="calibrate_failed">כיול הגובה נכשל</string>

@@ -33,7 +33,7 @@
   <string name="apk_status_installed_old">גירסה ישנה</string>
   <string name="apk_status_uninstalled">לא מותקן</string>
   <string name="app_description_content">"ה'מנקה' מאתר אשפה במכשירך ומפנה שטח אחסון. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
-  <string name="app_description_title">"אודות ה'מנקה'"</string>
+  <string name="app_description_title">"אודות 'מנקה'"</string>
   <string name="app_usage_never">לא היה בשימוש לאחרונה</string>
   <string name="app_usage_recently">בשימוש לאחרונה</string>
   <string name="apps_sort_type_item_size">גודל</string>

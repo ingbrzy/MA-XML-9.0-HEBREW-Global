@@ -60,6 +60,18 @@
         <item>‏4M לכל מאגר יומן</item>
         <item>‏16M לכל מאגר יומן</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>כבוי</item>
+        <item>הכול</item>
+        <item>הכול מלבד רדיו</item>
+        <item>ליבה בלבד</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>כבוי</item>
+        <item>כל מאגרי הנתונים הזמניים של היומן</item>
+        <item>הכול מלבד מאגרי הנתונים הזמניים של יומן הרדיו</item>
+        <item>מאגר נתונים זמני של היומן השמור בליבה בלבד</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>אנימציה כבויה</item>
         <item>‏קנה מידה לאנימציה 5x.</item>

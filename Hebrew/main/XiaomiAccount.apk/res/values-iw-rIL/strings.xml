@@ -84,7 +84,7 @@
   <string name="confirm_phone_number_dialog_message">קוד אימות יישלח אל %s.</string>
   <string name="confirm_phone_number_dialog_title">אשר את מספר הטלפון</string>
   <string name="confirm_unbind">לנתק חשבון זה?</string>
-  <string name="confirm_unbundled_phone_dialog_message">מספר הטלפון %1$s מקושר לחשבון Mi %2$s, הוא לא יהיה מקושר יותר לחשבון Mi %3$s במידה ותמשיך. להמשיך?</string>
+  <string name="confirm_unbundled_phone_dialog_message">מספר הטלפון %1$s מקושר לחשבון Mi %2$s. הוא לא יהיה מקושר יותר לחשבון Mi %3$s במידה ותמשיך. להמשיך?</string>
   <string name="continue_action">המשך</string>
   <string name="current_location_title">מיקום נוכחי</string>
   <string name="delete_action">מחק</string>
@@ -129,7 +129,7 @@
   <string name="find_device_unknown_error">לא ניתן לקבל את סטטוס המכשיר, המתן דקה או שתיים ונסה שוב</string>
   <string name="first_login_time">נסיון כניסה ראשוני: %s</string>
   <string name="get_device_list_failed">לא ניתן לקבל רשימת מכשירים</string>
-  <string name="get_phone_bind_exceed_limit">באפשרותך לקשר עד 3 חשבונות Mi למספר טלפון אחד. לא ניתן להוסיף חשבון חדש.</string>
+  <string name="get_phone_bind_exceed_limit">באפשרותך לקשר עד 3 חשבונות Mi למספר טלפון אחד. לא ניתן להוסיף חשבונות חדשים.</string>
   <string name="get_phone_verifycode_exceed_limit">מספר רב מידי של קודי אימות נשלחו אל מספר זה. נסה שוב לאחר 24 שעות.</string>
   <string name="guest_account_label">חשבון אורח Mi</string>
   <string name="input_email_address_notice">אנו נשתמש בכתובת דוא\"ל זו על מנת לאמת את חשבונך</string>
@@ -149,7 +149,9 @@
   <string name="mipay">תשלום</string>
   <string name="mipay_balance">יתרה</string>
   <string name="mipay_bank_card">כרטיס אשראי</string>
+  <string name="mipay_identitiy_no">לא</string>
   <string name="mipay_identity">אימות זהות</string>
+  <string name="mipay_indentity_done">בוצע</string>
   <string name="mipay_others">אחר</string>
   <string name="mipay_transit_card">כרטיס תחבורה</string>
   <string name="multi_user_not_show_sync_activity_message_1">"נראה כי הינך משתמש ב'שטח ראשון' של חשבון Mi שלך."</string>

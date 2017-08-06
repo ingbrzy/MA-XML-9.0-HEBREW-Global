@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
+  <string name="accessibility_action_divider_left_30">Left 30%</string>
+  <string name="accessibility_action_divider_left_50">Left 50%</string>
+  <string name="accessibility_action_divider_left_70">Left 70%</string>
+  <string name="accessibility_action_divider_left_full">Left full screen</string>
+  <string name="accessibility_action_divider_right_full">Right full screen</string>
+  <string name="accessibility_action_divider_top_30">Top 30%</string>
+  <string name="accessibility_action_divider_top_50">Top 50%</string>
+  <string name="accessibility_action_divider_top_70">Top 70%</string>
+  <string name="accessibility_action_divider_top_full">Top full screen</string>
   <string name="accessibility_airplane_mode">מצב טיסה.</string>
   <string name="accessibility_assistant">כדור מהיר</string>
   <string name="accessibility_back">חזרה</string>
@@ -20,8 +30,10 @@
   <string name="accessibility_data_signal_full">קליטת נתונים מלאה.</string>
   <string name="accessibility_data_three_bars">3 קוי קליטת נתונים.</string>
   <string name="accessibility_data_two_bars">2 קוי קליטת נתונים.</string>
+  <string name="accessibility_desc_recent_apps">סקירה כללית.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">תכונה זו הינה נסיונית ועשויה להשפיע על הביצועים.</string>
   <string name="accessibility_display_daltonizer_preference_title">תיקון צבע</string>
+  <string name="accessibility_divider">Split-screen divider</string>
   <string name="accessibility_home">בית</string>
   <string name="accessibility_ime_switch_button">החלף את לחצן שיטת הקלט.</string>
   <string name="accessibility_managed_profile">פרופיל עבודה</string>
@@ -40,6 +52,12 @@
   <string name="accessibility_recent_task_locked">נעול, החלק מטה לביטול הנעילה.</string>
   <string name="accessibility_recent_task_memory_info">סה\"כ זכרון RAM: %2$s | זכרון RAM זמין: %1$s. הקשה כפולה לניקוי.</string>
   <string name="accessibility_recent_task_unlocked">הנעילה מבוטלת</string>
+  <string name="accessibility_recents_all_items_dismissed">All recent applications dismissed.</string>
+  <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
+  <string name="accessibility_recents_item_launched">מפעיל את %s.</string>
+  <string name="accessibility_recents_item_open_app_info">פתח את פרטי היישום %s.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
+  <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">נקה התראה.</string>
   <string name="accessibility_ringer_silent">השתקת צלצול.</string>
   <string name="accessibility_ringer_vibrate">רטט בצלצול.</string>
@@ -68,6 +86,8 @@
   <string name="apn_settings_not_available">"הגדרות 'שם של נקודת גישה' אינן זמינות עבור משתמש זה"</string>
   <string name="app_label">ממשק המערכת</string>
   <string name="app_process_limit_title">מגבלת תהליך רקע</string>
+  <string name="as_important">חשובות</string>
+  <string name="as_unimportant">לא חשובות</string>
   <string name="audio_effect_custom">כוון</string>
   <string name="audio_effect_info">ייעל שמע</string>
   <string name="audio_effect_settings">בחר סוג אוזניות</string>
@@ -99,7 +119,7 @@
   <string name="bluetooth_connected_no_map">מחובר (ללא גישה להודעות)</string>
   <string name="bluetooth_connecting">מתחבר…</string>
   <string name="bluetooth_disable_absolute_volume">השבת עוצמה אבסולוטית</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Disable absolute volume for Bluetooth in case of volume issues with remote devices, such as unacceptably loud volume or inability to control it.</string>
   <string name="bluetooth_disconnected">מנותק</string>
   <string name="bluetooth_disconnecting">מתנתק…</string>
   <string name="bluetooth_dun_profile_summary_connected">מחובר לשרת DUN</string>
@@ -157,22 +177,24 @@
   <string name="camera_key_action_shortcut_title">קיצור דרך</string>
   <string name="camera_key_action_shortcut_wake">נעל/הער את המכשיר</string>
   <string name="camera_key_action_toggle_title">מתג טריגר</string>
+  <string name="cancel">ביטול</string>
   <string name="category_personal">אישי</string>
   <string name="category_work">עבודה</string>
   <string name="charge_length_format">%1$s ago</string>
   <string name="chooseUsbActivity">בחר יישום עבור התקן ה- USB</string>
-  <string name="choose_profile">בחירת פרופיל</string>
+  <string name="choose_profile">Choose profile</string>
   <string name="clear_adb_keys">שלוש הרשאות ניפוי שגיאות USB</string>
+  <string name="click_to_return_multi_window">Click to return Multi Window Mode</string>
   <string name="confirm_enable_oem_unlock_text">אזהרה: תכונות הגנה על המכשיר לא יעבדו במכשיר זה בעת שהגדרה זו מופעלת.</string>
   <string name="confirm_enable_oem_unlock_title">לאפשר ביטול נעילת OEM?</string>
   <string name="connected_via_passpoint">מחובר באמצעות %1$s</string>
   <string name="connected_via_wfa">מחובר באמצעות אשף הרשתות האלחוטיות</string>
   <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
- !!Warning!! This will erase all your data.
- This feature is alpha, and may not work correctly.
+ Warning: This will erase all your data.
+ This feature is being developed, and may not work correctly.
  Press 'Wipe and convert…' to continue."</string>
   <string name="convert_to_file_encryption">המרה להצפנת קובץ</string>
-  <string name="convert_to_file_encryption_done">Already file encrypted</string>
+  <string name="convert_to_file_encryption_done">Files are encrypted</string>
   <string name="convert_to_file_encryption_enabled">המרה…</string>
   <string name="daltonizer_mode_deuteranomaly">דוטרנומליה (אדום-ירוק)</string>
   <string name="daltonizer_mode_disabled">מושבת</string>
@@ -199,15 +221,16 @@
   <string name="debug_hw_drawing_category">צלימת חומרה מואצת</string>
   <string name="debug_hw_overdraw">ניפוי שגיאות חריגת GPU</string>
   <string name="debug_input_category">קלט</string>
-  <string name="debug_layout">הצג את גבולות הפריסה</string>
-  <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
+  <string name="debug_layout">Show layout boundaries</string>
+  <string name="debug_layout_summary">Show clip boundaries, margins, etc.</string>
   <string name="debug_monitoring_category">ניטור</string>
   <string name="debug_networking_category">נטוורקינג</string>
-  <string name="debug_view_attributes">Enable view attribute inspection</string>
+  <string name="debug_view_attributes">Enable viewing attributes</string>
+  <string name="demo_mode">Demo mode</string>
   <string name="description_direction_left">החלק שמאלה עבור %s.</string>
   <string name="description_direction_up">החלק מעלה עבור %s.</string>
   <string name="description_target_search">חיפוש</string>
-  <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
+  <string name="dev_settings_warning_message">These settings are intended for developers only. Enabling these features may make your device and the apps on it misbehave or cause errors.</string>
   <string name="dev_settings_warning_title">לאפשר את הגדרות הפיתוח?</string>
   <string name="development_settings_enable">אפשר אפשרויות מפתח</string>
   <string name="development_settings_not_available">הגדרות המפתח אינן זמינות עבור משתמש זה</string>
@@ -215,8 +238,8 @@
   <string name="development_settings_title">אפשרויות מפתח</string>
   <string name="disable_notification_summary">לעולם אל תציג התראות מיישומים נבחרים</string>
   <string name="disable_notification_title">הסתר התראות</string>
-  <string name="disable_overlays">השבת שכבות על של HW</string>
-  <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור הרכבת שכבות המסך</string>
+  <string name="disable_overlays">Disable HW overlay</string>
+  <string name="disable_overlays_summary">Always use GPU for screen rendering</string>
   <string name="disabled_by_admin">מושבת על ידי המנהל</string>
   <string name="disabled_by_admin_summary_text">נשלט על ידי המנהל</string>
   <string name="dismount_storage">לא</string>
@@ -227,12 +250,14 @@
   <string name="dlg_confirm_kill_storage_users_title">הפעל אחסון USB</string>
   <string name="dlg_error_title">פעולת USB נכשלה</string>
   <string name="dlg_ok">אישור</string>
+  <string name="dock_forced_resizable">App may not work with split-screen.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen</string>
   <string name="drive_mode_tip">אתה במצב רכב</string>
   <string name="enable_adb">ניפוי שגיאות USB</string>
   <string name="enable_adb_summary">"מצב 'ניפוי שגיאות' כש-USB מחובר"</string>
   <string name="enable_freeform_support">אפשר חלונות ספונטניים</string>
   <string name="enable_freeform_support_summary">אפשר תמיכה עבור חלונות ספונטניים נסיונייים.</string>
-  <string name="enable_opengl_traces_title">הפעל מעקבי OpenGL</string>
+  <string name="enable_opengl_traces_title">Enable OpenGL tracing</string>
   <string name="enable_power_save_mode">"הפעל את 'חסכון בסוללה'"</string>
   <string name="enable_terminal_summary">אפשר יישום טרמינל אשר מציע SSH מקומי</string>
   <string name="enable_terminal_title">טרמינל מקומי</string>
@@ -258,10 +283,10 @@
   <string name="ext_media_unmountable_notification_title">אחסון USB פגום</string>
   <string name="float_incall_ignore">התעלם</string>
   <string name="float_incall_message">הודעה</string>
-  <string name="force_allow_on_external">Force allow apps on external</string>
+  <string name="force_allow_on_external">Force allow apps ro write on external storage</string>
   <string name="force_allow_on_external_summary">הופך כל יישום לכשיר לכתיבה באחסון חיצוני, ללא קשר לערכי מניפסט</string>
   <string name="force_hw_ui">אלץ צלימת GPU</string>
-  <string name="force_hw_ui_summary">אלץ שימוש ב-GPU עבור ציור דו-מימדי</string>
+  <string name="force_hw_ui_summary">Force use GPU for 2D drawing</string>
   <string name="force_msaa">אלץ 4x MSAA</string>
   <string name="force_msaa_summary">אפשר 4x MSAA ביישומי OpenGL ES 2.0</string>
   <string name="force_resizable_activities">מאלץ פעילויות להיות בעלות אפשרות של שינוי גודל</string>
@@ -275,7 +300,8 @@
   <string name="help_feedback_label">עזרה ומשוב</string>
   <string name="home">"עמוד הבית של 'הגדרות'"</string>
   <string name="immediately_destroy_activities">אל תשאיר פעילויות</string>
-  <string name="immediately_destroy_activities_summary">סגור כל פעילות כאשר המשתמש עוזב אותה</string>
+  <string name="immediately_destroy_activities_summary">End every activity as soon as the user leaves it</string>
+  <string name="important_desc">"כל ההתראות החשובות יופיעו ישירות ב'לוח ההתראות'."</string>
   <string name="inactive_app_active_summary">פעיל. לחץ להפעלה/כיבוי.</string>
   <string name="inactive_app_inactive_summary">לא פעיל. לחץ להפעלה/כיבוי.</string>
   <string name="inactive_apps_title">יישומים שאינם פעילים</string>
@@ -283,6 +309,7 @@
 השתמש במטען בלבד."</string>
   <string name="keep_screen_on">הישאר עירני</string>
   <string name="keep_screen_on_summary">המסך לעולם לא יעבור למצב שינה בעת טעינה</string>
+  <string name="keyboard_shortcut_group_system_recents">לאחרונה</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">הצג</string>
   <string name="launch_defaults_none">לא הוגדרו ברירות מחדל</string>
@@ -293,9 +320,9 @@
   <string name="local_backup_password_summary_change">לחץ לשינוי או הסרה של סיסמת הגיבויים המלאים עבור שולחן העבודה</string>
   <string name="local_backup_password_summary_none">גיבויים מלאים של שולחן העבודה אינם מוגנים כרגע</string>
   <string name="local_backup_password_title">סיסמת גיבוי לשולחן העבודה</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">New password and confirmation don’t match</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Passwords don’t match</string>
   <string name="local_backup_password_toast_success">סיסמת גיבוי חדשה הוגדרה</string>
-  <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
+  <string name="local_backup_password_toast_validation_failure">"Couldn't set backup password"</string>
   <string name="lockscreen_carrier_default">אין שירות</string>
   <string name="long_screenshot_not_support_msg">היישום הנוכחי אינו תומך בצילומי מסך נגללים</string>
   <string name="long_screenshot_out_of_memory_error">התמונה גדולה מידי</string>
@@ -390,10 +417,28 @@
   <string name="quick_settings_wifi_detail_empty_text">לא קיימת רשת אלחוטית זמינה</string>
   <string name="quick_settings_wifi_label">רשת אלחוטית</string>
   <string name="quick_settings_wifi_nearby">בחר רשת מקרבת מקום</string>
+  <string name="recent_dock_tip">Click to choose application</string>
   <string name="recent_task_app_info_text">פרטים</string>
   <string name="recent_task_cleaning">מנקה יישומים…</string>
   <string name="recent_task_lock_text">נעילה</string>
   <string name="recent_task_unlock_text">ביטול נעילה</string>
+  <string name="recents_app_info_button_label">פרטי היישום</string>
+  <string name="recents_caption_resize">בחר מתוה משימה חדש</string>
+  <string name="recents_drag_hint_message">גרור לכאן על מנת להשתמש במסך מפוצל</string>
+  <string name="recents_empty_message">אין פריטים שנוספו לאחרונה</string>
+  <string name="recents_empty_message_dismissed_all">"You've cleared everything"</string>
+  <string name="recents_empty_message_multi_window">Please go home to open an application</string>
+  <string name="recents_exit_multi_window_mode">Exit SplitScreenMode</string>
+  <string name="recents_incompatible_app_message">"היישום אינו תומך ב'מסך מפוצל'"</string>
+  <string name="recents_launch_disabled_message">"%s מושבת ב'מצב בטוח'."</string>
+  <string name="recents_launch_error_message">לא ניתן היה להפעיל את %s.</string>
+  <string name="recents_lock_to_app_button_label">screen pinning</string>
+  <string name="recents_multi_window_mode">SplitScreenMode</string>
+  <string name="recents_multistack_add_stack_dialog_split_custom">Split Custom</string>
+  <string name="recents_multistack_add_stack_dialog_split_horizontal">Split Horizontal</string>
+  <string name="recents_multistack_add_stack_dialog_split_vertical">Split Vertical</string>
+  <string name="recents_search_bar_label">חיפוש</string>
+  <string name="recents_stack_action_button_label">נקה הכל</string>
   <string name="reject_call">דוחה שיחה</string>
   <string name="remaining_length_format">%1$s left</string>
   <string name="return_to_incall_screen">חזרה לשיחה</string>
@@ -421,7 +466,8 @@
   <string name="screenshot_dlg_cancel">ביטול</string>
   <string name="screenshot_dlg_delete_button">מחק</string>
   <string name="screenshot_edit">עריכה</string>
-  <string name="screenshot_failed_text">לא ניתן לבצע צילום מסך עקב נפח אחסון מוגבל, או כיוון שזוהי פעולה שאינה מורשית על ידי היישום או על ידי הארגון שלך.</string>
+  <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space or the app forbid that."</string>
+  <string name="screenshot_insert_failed">Fail to load the screenshot, please retake a new one or view the picture in the album</string>
   <string name="screenshot_long_screenshot">גלילה</string>
   <string name="screenshot_saved_text">לחץ להצגת צילום המסך שלך.</string>
   <string name="screenshot_saved_title">צילום המסך בוצע</string>
@@ -430,10 +476,10 @@
   <string name="screenshot_saving_title">שומר צילום מסך…</string>
   <string name="screenshot_send">שליחה</string>
   <string name="select_application">בחר יישום</string>
-  <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
-  <string name="select_logd_size_title">גדלי לוגר בפר</string>
-  <string name="select_usb_configuration_dialog_title">בחר תצורת USB</string>
-  <string name="select_usb_configuration_title">בחר תצורת USB</string>
+  <string name="select_logd_size_dialog_title">Select size for log buffers</string>
+  <string name="select_logd_size_title">Log buffer sizes</string>
+  <string name="select_usb_configuration_dialog_title">Select USB configuration</string>
+  <string name="select_usb_configuration_title">Select USB configuration</string>
   <string name="select_webview_provider_dialog_title">הגדר הטמעת WebView</string>
   <string name="select_webview_provider_title">הטמעת WebView</string>
   <string name="select_webview_provider_toast_text">אפשרות זו אינה חוקית יותר. נסה שוב.</string>
@@ -443,19 +489,21 @@
   <string name="settings_toggle_position_reset">איפוס מתגים</string>
   <string name="share">שיתוף</string>
   <string name="show_all_anrs">הצג את כל דוח\"ות ה-ANR</string>
-  <string name="show_all_anrs_summary">"הצג את דו\"ח 'היישום אינו מגיב' עבור יישומי רקע"</string>
+  <string name="show_all_anrs_summary">Show \"App not responding\" dialog for background apps</string>
   <string name="show_cpu_usage">הצג שימוש ב-CPU</string>
-  <string name="show_cpu_usage_summary">שכבת העל של המסך מציגה שימוש נוכחי ב-CPU</string>
-  <string name="show_hw_layers_updates">הצג עדכונים עבור שכבות חומרה</string>
-  <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
-  <string name="show_hw_screen_updates">הצג עדכונים עבור תצוגת GPU</string>
-  <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
+  <string name="show_cpu_usage_summary">Show CPU usage using screen overlay</string>
+  <string name="show_demo_mode">Show demo mode</string>
+  <string name="show_hw_layers_updates">Show hardware level updates</string>
+  <string name="show_hw_layers_updates_summary">Hardware items that are being updated will flash green</string>
+  <string name="show_hw_screen_updates">Visualize GPU rendering</string>
+  <string name="show_hw_screen_updates_summary">Flash windows where videos are being rendered by GPU</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_screen_updates">הצג עדכונים על פני השטח</string>
   <string name="show_screen_updates_summary">הבזק את מלוא פני השטח של חלונות כאשר הם מתעדכנים</string>
   <string name="show_touches">הצג נגיעות</string>
   <string name="show_touches_summary">הצג משוב ויזואלי עבור הקשות</string>
   <string name="simulate_color_space">צור הדמיה של מרחב צבעים</string>
+  <string name="status_bar_accessibility_dismiss_recents">נקה יישומים אחרונים</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
@@ -472,8 +520,10 @@ d MMMM"</string>
 החלק מטה לנעילה"</string>
   <string name="status_bar_recent_guide_bottom">החלק מטה לנעילה</string>
   <string name="status_bar_recent_guide_top">החלק מעלה לסגירה</string>
+  <string name="status_bar_recent_inspect_item_title">פרטי היישום</string>
   <string name="status_bar_recent_memory_info1">זמינים %2$sB | %1$sB בסה\"כ</string>
   <string name="status_bar_recent_memory_info2"/>
+  <string name="status_bar_recent_remove_item_title">הסר מהרשימה</string>
   <string name="status_bar_recording_back">חזרה לרשמקול</string>
   <string name="status_bar_recording_pause">הרשמקול עצר</string>
   <string name="status_bar_safepay_risk">התגלו סיכוני תשלום</string>
@@ -493,7 +543,7 @@ d MMMM"</string>
   <string name="tether_settings_title_usb_bluetooth">שיתוף אינטרנט</string>
   <string name="tether_settings_title_wifi">נקודה חמה ניידת</string>
   <string name="tethering_settings_not_available">הגדרות שיתוף האינטרנט אינן זמינות עבור משתמש זה</string>
-  <string name="title_convert_fbe">Converting to file based encryption</string>
+  <string name="title_convert_fbe">Converting to file based encryption…</string>
   <string name="title_usb_accessory">אביזר USB</string>
   <string name="torch_activity_hint">החזק את [icon] להדלקת הפנס מתוך מסך הנעילה</string>
   <string name="torch_activity_name">פנס</string>
@@ -501,7 +551,7 @@ d MMMM"</string>
   <string name="torch_opened">הפנס פועל</string>
   <string name="track_frame_time">צלימת GPU של פרופיל</string>
   <string name="transition_animation_scale_title">קנה מידה להנפשת מעבר</string>
-  <string name="tts_default_lang_summary">מגדיר את קול השפה הספציפי עבור הטקסט האמור</string>
+  <string name="tts_default_lang_summary">Set the default language for text-to-speech output</string>
   <string name="tts_default_lang_title">שפה</string>
   <string name="tts_default_pitch_summary">משפיע על נימת הדיבור המסונתז</string>
   <string name="tts_default_pitch_title">גובה הצליל</string>
@@ -510,7 +560,7 @@ d MMMM"</string>
   <string name="tts_default_sample_string">זוהי דוגמה עבור סינתזת דיבור</string>
   <string name="tts_engine_network_required">"שפה זו דורשת חיבור רשת פעיל עבור פלט 'טקסט לדיבור'."</string>
   <string name="tts_engine_preference_section_title">מנוע מועדף</string>
-  <string name="tts_engine_security_warning">מנוע סינתזת דיבור זה עשוי להיות מסוגל לאסוף את כל הטקסט האמור, כולל נתונים אישיים כגון סיסמאות ומספרי כרטיס אשראי. הוא מגיע ממנוע ה-%s. לאפשר את השימוש במנוע סינתזת הדיבור?</string>
+  <string name="tts_engine_security_warning">This voice engine may be able to record and collect everything you say, including personal data like passwords and credit card numbers. This voice engine is provided by %s. Turn on voice engine?</string>
   <string name="tts_engine_settings_button">הגדרות מנוע</string>
   <string name="tts_engine_settings_title">הגדרות עבור %s</string>
   <string name="tts_general_section_title">כללי</string>
@@ -525,10 +575,13 @@ d MMMM"</string>
   <string name="tts_settings">"הגדרות 'טקסט לדיבור'"</string>
   <string name="tts_settings_title">"פלט 'טקסט לדיבור'"</string>
   <string name="tts_status_checking">בודק…</string>
-  <string name="tts_status_not_supported">%1$s אינה נתמכת</string>
+  <string name="tts_status_not_supported">"%1$s isn't supported"</string>
   <string name="tts_status_ok">%1$s נתמכת במלואה</string>
   <string name="tts_status_requires_network">%1$s דורשת חיבור לרשת</string>
   <string name="tts_status_title">סטטוס שפת ברירת המחדל</string>
+  <string name="un_important_notifications">התראות לא חשובות</string>
+  <string name="unimportant_desc">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת.</string>
+  <string name="unimportant_title">לא חשובות</string>
   <string name="unknown">לא ידוע</string>
   <string name="usb_accessory_confirm_prompt">לפתוח את %1$s כאשר אביזר USB זה מחובר?</string>
   <string name="usb_accessory_permission_prompt">לאפשר ליישום %1$s לגשת לאביזר ה-USB?</string>
@@ -578,10 +631,10 @@ d MMMM"</string>
   <string name="wait_for_debugger_summary">היישום המנופה ממתין למנפה השגיאות לבצע צירוף לפני השלמת הביצוע</string>
   <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">עודכן %1$s</string>
-  <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
-  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-  <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
+  <string name="wifi_aggressive_handover">Automatic Wi‑Fi to Cellular handover</string>
+  <string name="wifi_aggressive_handover_summary">When enabled, connection will switch to mobile data more actively, when Wi‑Fi signal is low.</string>
+  <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi roam scans</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Allow or restrict Wi‑Fi roam scans based on the amount of data traffic present in the interface.</string>
   <string name="wifi_connected_no_internet">מחובר, ללא אינטרנט</string>
   <string name="wifi_disabled_generic">מושבת</string>
   <string name="wifi_disabled_network_failure">לא ניתן היה להגדיר את תצורת כתובת ה-IP</string>
@@ -598,9 +651,11 @@ d MMMM"</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">ללא</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
@@ -609,7 +664,7 @@ d MMMM"</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">אפשר Verbose Logging של רשתות אלחוטיות</string>
-  <string name="wifi_verbose_logging_summary">"הגבר רמת רישום רשת אלחוטית, הצג לפי SSID RSSI ב'בוחר הרשתות האלחוטיות'"</string>
+  <string name="wifi_verbose_logging">Enable Wi‑Fi verbose logging</string>
+  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show RSSI for every SSID in the list of Wi‑Finetworks.</string>
   <string name="window_animation_scale_title">קנה מידה להנפשה של חלון</string>
 </resources>

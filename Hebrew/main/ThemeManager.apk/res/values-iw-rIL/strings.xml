@@ -116,8 +116,10 @@
   <string name="my_gifts_received">התקבלו</string>
   <string name="no_data">לא ניתן להתחבר לרשת</string>
   <string name="online_no_network">לא ניתן להתחבר לרשת</string>
+  <string name="online_precust_dreams">Dreams</string>
+  <string name="online_precust_midnight">Midnight</string>
   <string name="online_search_hint">חפש אחר משאבים מקוונים</string>
-  <string name="present_local_themes">הורדו</string>
+  <string name="present_local_themes">המשאבים שלי</string>
   <string name="present_online_themes">קבל ערכות נושא נוספות בחינם</string>
   <string name="provision_default_theme_title">ברירת מחדל</string>
   <string name="provision_loading_tips">רק רגע…</string>

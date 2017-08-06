@@ -182,6 +182,11 @@
   <string name="michat_wait_for_a_moment">רק רגע, העזרה בדרך!</string>
   <string name="michat_webview_title">הצג פרטים</string>
   <string name="min_error">על ה- %1$s שלך להיות ארוך יותר.</string>
+  <string name="mobile_data_note_dialog_cancel">המתן לחיבור רשת אלחוטית</string>
+  <string name="mobile_data_note_dialog_confirm">העלאה</string>
+  <string name="mobile_data_note_dialog_content">שימוש בנתונים סלולריים להעלאת יומנים עשוי לגרום לחיובים נוספים.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">העלאת יומנים באמצעות חיבור הנתונים הסלולרי תזדקק ל-%sMB של נתונים.</string>
+  <string name="mobile_data_note_dialog_title">אזהרת שימוש בנתונים</string>
   <string name="modem_tool_log">לכד יומני מודם</string>
   <string name="modem_tool_log_start">התחלה</string>
   <string name="modem_tool_log_start_toast">שומר את יומן המודם ב: %s</string>

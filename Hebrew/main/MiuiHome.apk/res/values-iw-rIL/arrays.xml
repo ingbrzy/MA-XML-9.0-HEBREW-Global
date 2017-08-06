@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>קלאסי</item>
-        <item>עימעום</item>
+        <item>עמעום</item>
         <item>נפילה</item>
         <item>דפדוף</item>
         <item>מדורג</item>
@@ -16,6 +16,10 @@
         <item>ימין</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
@@ -49,5 +53,10 @@
         <item>ברד</item>
         <item>אבק</item>
         <item>אובך</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>טפט</item>
+        <item>"ווידג'טים"</item>
+        <item>Setting</item>
     </string-array>
 </resources>

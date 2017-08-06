@@ -96,9 +96,10 @@
   <string name="button_convert_fbe">מחק והמר...</string>
   <string name="category_personal">אישי</string>
   <string name="category_work">עבודה</string>
-  <string name="change_default_dialer_dialog_title">האם לשנות את אפליקציית החייגן שבברירת מחדל?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">האם להשתמש ב-%s כאפליקציית החייגן שבברירת מחדל?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">האם להשתמש ב-%1$s במקום ב-%2$s כאפליקציית החייגן שבברירת מחדל?</string>
+  <string name="change_default_dialer_dialog_affirmative">הגדר כברירת מחדל</string>
+  <string name="change_default_dialer_dialog_negative">ביטול</string>
+  <string name="change_default_dialer_dialog_title">"האם להפוך את %s לברירת המחדל לאפליקציית 'טלפון'?"</string>
+  <string name="change_default_dialer_warning_message">"%s תוכל להתקשר ולשלוט בכל ההיבטים של השיחות. מומלץ לבחור רק אפליקציות שאתה סומך עליהן כברירת המחדל לאפליקציית 'טלפון'."</string>
   <string name="charge_length_format">לפני %1$s</string>
   <string name="choose_profile">בחר פרופיל</string>
   <string name="clear_adb_keys">‏ביטול הרשאות לניפוי ב-USB</string>
@@ -106,6 +107,7 @@
   <string name="confirm_enable_oem_unlock_title">‏האם לאפשר ביטול נעילה של OEM (יצרן ציוד מקורי)?</string>
   <string name="connected_via_passpoint">‏מחובר דרך %1$s</string>
   <string name="connected_via_wfa">‏מחובר באמצעות אסיסטנט ה-Wi-Fi</string>
+  <string name="content_description_menu_button">תפריט</string>
   <string name="convert_to_fbe_warning">"המר את מחיצת הנתונים להצפנה מבוססת-קבצים.
  אזהרה!! פעולה זו תמחק את כל הנתונים.
  תכונה זו זמינה בגרסת אלפא וייתכן שלא תפעל כראוי.
@@ -136,6 +138,8 @@
   <string name="debug_networking_category">תקשורת רשתות</string>
   <string name="debug_view_attributes">אפשר בדיקת תכונת תצוגה</string>
   <string name="delete_icon_description">ביטול חסימה</string>
+  <string name="dev_logpersist_clear_warning_message">כשאנחנו כבר לא מבצעים מעקב באמצעות המתעד המתמיד, אנחנו נדרשים למחוק את נתוני המתעד המקומי במכשיר.</string>
+  <string name="dev_logpersist_clear_warning_title">האם למחוק את אחסון המתעד המתמיד?</string>
   <string name="dev_settings_warning_message">הגדרות אלה מיועדות לשימוש בפיתוח בלבד. הן עלולות לגרום למכשיר או לאפליקציות המותקנות בו לקרוס או לפעול באופן לא תקין.</string>
   <string name="dev_settings_warning_title">האם להתיר הגדרות פיתוח?</string>
   <string name="development_settings_enable">הפעלת אפשרויות מפתח</string>
@@ -181,7 +185,6 @@
   <string name="keep_screen_on_summary">המסך לעולם לא יהיה במצב שינה במהלך טעינה</string>
   <string name="launch_defaults_none">לא הוגדרו ברירות מחדל</string>
   <string name="launch_defaults_some">הוגדרו כמה ברירת מחדל</string>
-  <string name="legacy_dhcp_client_summary">‏השתמש בלקוח DHCP של Lollipop במקום לקוח DHCP החדש של Android.</string>
   <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
   <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
   <string name="local_backup_password_title">סיסמת גיבוי מקומי</string>
@@ -253,6 +256,8 @@
   <string name="select_application">בחר אפליקציה</string>
   <string name="select_logd_size_dialog_title">בחר גדלים של יוצר יומן לכל מאגר יומן</string>
   <string name="select_logd_size_title">גדלי מאגר של יוצר יומן</string>
+  <string name="select_logpersist_dialog_title">בחר מאגר נתונים זמני ליומן לשם אחסון מתמיד במכשיר</string>
+  <string name="select_logpersist_title">אחסון נתוני מתעד מתמיד במכשיר</string>
   <string name="select_usb_configuration_dialog_title">‏בחר תצורת USB</string>
   <string name="select_usb_configuration_title">‏בחר תצורת USB</string>
   <string name="select_webview_provider_dialog_title">‏הגדרת יישום WebView</string>
@@ -260,8 +265,6 @@
   <string name="select_webview_provider_toast_text">אפשרות זו כבר אינה תקפה. נסה שוב.</string>
   <string name="show_all_anrs">‏הצג את כל פריטי ה-ANR</string>
   <string name="show_all_anrs_summary">"הצג תיבת דו-שיח של 'אפליקציה לא מגיבה' עבור אפליקציות שפועלות ברקע"</string>
-  <string name="show_cpu_usage">‏הצג את השימוש ב-CPU</string>
-  <string name="show_cpu_usage_summary">‏שכבת-על של מסך שמציגה את השימוש הנוכחי ב-CPU</string>
   <string name="show_hw_layers_updates">הצג עדכוני שכבות חומרה</string>
   <string name="show_hw_layers_updates_summary">הצג הבהוב ירוק לשכבות חומרה כשהן מתעדכנות</string>
   <string name="show_hw_screen_updates">‏הצג עדכוני תצוגה של GPU</string>
@@ -337,7 +340,8 @@
   <string name="wifi_display_certification">‏אישור של תצוגת WiFi</string>
   <string name="wifi_display_certification_summary">‏הצג אפשרויות עבור אישור של תצוגת WiFi</string>
   <string name="wifi_fail_to_scan">לא ניתן לסרוק לאיתור רשתות</string>
-  <string name="wifi_no_internet">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
+  <string name="wifi_no_internet">אין גישה לאינטרנט.</string>
+  <string name="wifi_no_internet_no_reconnect">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
   <string name="wifi_not_in_range">מחוץ לטווח</string>
   <string name="wifi_remembered">נשמר</string>
   <string name="wifi_security_none">ללא</string>

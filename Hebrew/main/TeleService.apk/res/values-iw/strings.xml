@@ -180,6 +180,18 @@
   <string name="change_num">עדכן</string>
   <string name="change_pin">‏שנה PIN של SIM</string>
   <string name="change_pin2">‏שנה PIN2</string>
+  <string name="change_pin_cancel_label">ביטול</string>
+  <string name="change_pin_confirm_pin_header">אשר את קוד הגישה</string>
+  <string name="change_pin_confirm_pins_dont_match">קודי הגישה אינם תואמים</string>
+  <string name="change_pin_continue_label">המשך</string>
+  <string name="change_pin_enter_new_pin_header">הגדר קוד גישה חדש</string>
+  <string name="change_pin_enter_new_pin_hint">האורך של קוד הגישה חייב להיות %2$d-%1$d ספרות.</string>
+  <string name="change_pin_enter_old_pin_header">אשר את קוד הגישה הישן</string>
+  <string name="change_pin_enter_old_pin_hint">הזן את קוד הגישה לדואר הקולי כדי להמשיך.</string>
+  <string name="change_pin_ok_label">אישור</string>
+  <string name="change_pin_succeeded">קוד הגישה לדואר הקולי עודכן</string>
+  <string name="change_pin_system_error">לא ניתן להגדיר את קוד הגישה</string>
+  <string name="change_pin_title">שינוי של קוד הגישה לדואר הקולי</string>
   <string name="charge_length_format">לפני %1$s</string>
   <string name="choose_profile">בחר פרופיל</string>
   <string name="clear_adb_keys">‏ביטול הרשאות לניפוי ב-USB</string>
@@ -194,6 +206,7 @@
   <string name="connected_via_wfa">‏מחובר באמצעות אסיסטנט ה-Wi-Fi</string>
   <string name="connection_service_default_label">שירות חיבור מובנה</string>
   <string name="contactPhoto">תמונה של איש קשר</string>
+  <string name="content_description_menu_button">תפריט</string>
   <string name="convert_to_fbe_warning">"המר את מחיצת הנתונים להצפנה מבוססת-קבצים.
  אזהרה!! פעולה זו תמחק את כל הנתונים.
  תכונה זו זמינה בגרסת אלפא וייתכן שלא תפעל כראוי.
@@ -226,7 +239,9 @@
   <string name="debug_networking_category">תקשורת רשתות</string>
   <string name="debug_view_attributes">אפשר בדיקת תכונת תצוגה</string>
   <string name="default_notification_description">צליל ברירת מחדל (%1$s)</string>
-  <string name="default_preference_summary">‏&lt;לא הוגדר&gt;</string>
+  <string name="default_preference_summary_domain_address">‏&lt;לא מוגדרת&gt;</string>
+  <string name="default_preference_summary_password">‏&lt;לא מוגדרת&gt;</string>
+  <string name="default_preference_summary_username">‏&lt;לא מוגדר&gt;</string>
   <string name="delete_fdn_contact">מחק מספר חיוג קבוע</string>
   <string name="deleting_fdn_contact">מוחק מספר חיוג קבוע...</string>
   <string name="description_delete_button">Backspace</string>
@@ -235,6 +250,8 @@
   <string name="description_dialpad_overflow">אפשרויות נוספות</string>
   <string name="description_image_button_plus">פלוס</string>
   <string name="description_voicemail_button">דואר קולי</string>
+  <string name="dev_logpersist_clear_warning_message">כשאנחנו כבר לא מבצעים מעקב באמצעות המתעד המתמיד, אנחנו נדרשים למחוק את נתוני המתעד המקומי במכשיר.</string>
+  <string name="dev_logpersist_clear_warning_title">האם למחוק את אחסון המתעד המתמיד?</string>
   <string name="dev_settings_warning_message">הגדרות אלה מיועדות לשימוש בפיתוח בלבד. הן עלולות לגרום למכשיר או לאפליקציות המותקנות בו לקרוס או לפעול באופן לא תקין.</string>
   <string name="dev_settings_warning_title">האם להתיר הגדרות פיתוח?</string>
   <string name="development_settings_enable">הפעלת אפשרויות מפתח</string>
@@ -317,6 +334,7 @@
   <string name="enabled_by_admin">הופעל על ידי מנהל המערכת</string>
   <string name="enhanced_4g_lte_mode_summary">‏השתמש בשירותי LTE כדי לשפר את הקול ודרכי תקשורת אחרות (מומלץ)</string>
   <string name="enhanced_4g_lte_mode_title">‏מצב 4G LTE משופר</string>
+  <string name="enhanced_4g_lte_mode_title_variant">שיחה משופרת</string>
   <string name="enter_input" formatted="false">‏הודעת USSD חייבת להיות באורך של %d עד %d תווים. נסה שוב.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">‏PIN של SIM:</string>
@@ -374,6 +392,7 @@
   <string name="inactive_app_inactive_summary">אפליקציה לא פעילה. הקש כדי להחליף מצב.</string>
   <string name="inactive_apps_title">אפליקציות לא פעילות</string>
   <string name="incall_error_call_failed">השיחה נכשלה.</string>
+  <string name="incall_error_cannot_add_call">לא ניתן להוסיף את השיחה כרגע.</string>
   <string name="incall_error_ecm_emergency_only">עליך לצאת ממצב חירום של התקשרות חזרה כדי לבצע שיחות שאינן שיחות חירום.</string>
   <string name="incall_error_emergency_only">לא רשום ברשת.</string>
   <string name="incall_error_missing_voicemail_number">מספר הדואר הקולי אינו מוכר.</string>
@@ -382,6 +401,7 @@
   <string name="incall_error_out_of_service_wfc">רשת סלולרית אינה זמינה. התחבר לרשת אלחוטית כדי לבצע שיחה.</string>
   <string name="incall_error_power_off">בטל את מצב טיסה כדי לבצע שיחה.</string>
   <string name="incall_error_power_off_wfc">בטל את מצב טיסה או התחבר לרשת אלחוטית כדי לבצע שיחה.</string>
+  <string name="incall_error_promote_wfc">"‏הפעל את 'שיחות Wi-Fi' כדי להתקשר."</string>
   <string name="incall_error_supp_service_conference">אין אפשרות לנהל שיחות ועידה.</string>
   <string name="incall_error_supp_service_hangup">לא ניתן לשחרר שיחות.</string>
   <string name="incall_error_supp_service_hold">לא ניתן להחזיק שיחות.</string>
@@ -418,7 +438,6 @@
   <string name="lafs_enable">מופעלים לוחות הזמנים של טיסות בנמלי תעופה מקומיים</string>
   <string name="launch_defaults_none">לא הוגדרו ברירות מחדל</string>
   <string name="launch_defaults_some">הוגדרו כמה ברירת מחדל</string>
-  <string name="legacy_dhcp_client_summary">‏השתמש בלקוח DHCP של Lollipop במקום לקוח DHCP החדש של Android.</string>
   <string name="list_language_dtitle">שפות</string>
   <string name="list_language_summary">בחר את שפת החדשות</string>
   <string name="list_language_title">שפה</string>
@@ -689,6 +708,8 @@
   <string name="select_automatically">בחר אוטומטית</string>
   <string name="select_logd_size_dialog_title">בחר גדלים של יוצר יומן לכל מאגר יומן</string>
   <string name="select_logd_size_title">גדלי מאגר של יוצר יומן</string>
+  <string name="select_logpersist_dialog_title">בחר מאגר נתונים זמני ליומן לשם אחסון מתמיד במכשיר</string>
+  <string name="select_logpersist_title">אחסון נתוני מתעד מתמיד במכשיר</string>
   <string name="select_usb_configuration_dialog_title">‏בחר תצורת USB</string>
   <string name="select_usb_configuration_title">‏בחר תצורת USB</string>
   <string name="select_webview_provider_dialog_title">‏הגדרת יישום WebView</string>
@@ -699,8 +720,6 @@
   <string name="settings_label">הגדרות רשת</string>
   <string name="show_all_anrs">‏הצג את כל פריטי ה-ANR</string>
   <string name="show_all_anrs_summary">"הצג תיבת דו-שיח של 'אפליקציה לא מגיבה' עבור אפליקציות שפועלות ברקע"</string>
-  <string name="show_cpu_usage">‏הצג את השימוש ב-CPU</string>
-  <string name="show_cpu_usage_summary">‏שכבת-על של מסך שמציגה את השימוש הנוכחי ב-CPU</string>
   <string name="show_hw_layers_updates">הצג עדכוני שכבות חומרה</string>
   <string name="show_hw_layers_updates_summary">הצג הבהוב ירוק לשכבות חומרה כשהן מתעדכנות</string>
   <string name="show_hw_screen_updates">‏הצג עדכוני תצוגה של GPU</string>
@@ -740,7 +759,7 @@
   <string name="sip_settings">‏הגדרות SIP</string>
   <string name="sip_system_decide">אוטומטי</string>
   <string name="sports_news_settings">חדשות הספורט</string>
-  <string name="status_hint_label_incoming_wifi_call">‏שיחת Wi-Fi נכנסת</string>
+  <string name="status_hint_label_incoming_wifi_call">‏שיחת Wi-Fi מאת</string>
   <string name="status_hint_label_wifi_call">‏שיחת Wi-Fi</string>
   <string name="stk_cc_ss_to_dial_error">‏בקשת SS שונתה לבקשת DIAL.</string>
   <string name="stk_cc_ss_to_ss_error">‏בקשת SS שונתה לבקשת SS חדשה.</string>
@@ -847,22 +866,34 @@
   <string name="verify_apps_over_usb_title">‏אמת אפליקציות באמצעות USB</string>
   <string name="vm_change_failed">"לא ניתן לשנות את מספר הגישה לדואר הקולי.
 אם הבעיה נמשכת, פנה לספק."</string>
+  <string name="vm_change_pin_error_invalid">קוד הגישה החדש מכיל תווים לא חוקיים.</string>
+  <string name="vm_change_pin_error_mismatch">קוד הגישה הישן אינו תואם.</string>
+  <string name="vm_change_pin_error_system_error">לא ניתן לשנות את קוד הגישה</string>
+  <string name="vm_change_pin_error_too_long">קוד הגישה החדש ארוך מדי.</string>
+  <string name="vm_change_pin_error_too_short">קוד הגישה החדש קצר מדי.</string>
+  <string name="vm_change_pin_error_too_weak">קוד הגישה החדש חלש מדי. בסיסמה חזקה אסור שיהיו ספרות ברצף מספרי או ספרות שחוזרות על עצמן.</string>
+  <string name="vm_change_pin_new_pin">קוד גישה חדש</string>
+  <string name="vm_change_pin_old_pin">קוד גישה ישן</string>
+  <string name="vm_change_pin_progress_message">אנא המתן.</string>
   <string name="vm_changed">המספר של הדואר הקולי השתנה.</string>
   <string name="voice_privacy">פרטיות קול</string>
   <string name="voice_privacy_summary">הפוך מצב פרטיות משופרת לפעיל</string>
   <string name="voicemail">דואר קולי</string>
   <string name="voicemail_abbreviated">דואר קולי:</string>
+  <string name="voicemail_change_pin_dialog_title">שינוי קוד הגישה</string>
   <string name="voicemail_default">הספק שלך</string>
   <string name="voicemail_notification_ringtone_title">צליל</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">רטט</string>
   <string name="voicemail_notification_vibrate_when_title">רטט</string>
   <string name="voicemail_number_not_set">‏&lt;לא הוגדר&gt;</string>
   <string name="voicemail_provider">שירות</string>
+  <string name="voicemail_set_pin_dialog_title">הגדרת קוד גישה</string>
   <string name="voicemail_settings">הגדרות</string>
   <string name="voicemail_settings_number_label">המספר של הדואר הקולי</string>
   <string name="voicemail_settings_with_label">דואר קולי (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">דואר קולי ויזואלי</string>
   <string name="vpn_settings_not_available">‏הגדרות VPN אינן זמינות עבור המשתמש הזה.</string>
+  <string name="vvm_unsupported_message_format">סוג ההודעה לא נתמך. התקשר למספר %s כדי להאזין לה.</string>
   <string name="wait_for_debugger">המתן למנקה באגים</string>
   <string name="wait_for_debugger_summary">אפליקציה שנוקו בה הבאגים ממתינה למנקה הבאגים לצירוף לפני ביצוע</string>
   <string name="wait_prompt_str">"לשלוח את הצלילים הבאים?
@@ -880,7 +911,8 @@
   <string name="wifi_display_certification">‏אישור של תצוגת WiFi</string>
   <string name="wifi_display_certification_summary">‏הצג אפשרויות עבור אישור של תצוגת WiFi</string>
   <string name="wifi_fail_to_scan">לא ניתן לסרוק לאיתור רשתות</string>
-  <string name="wifi_no_internet">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
+  <string name="wifi_no_internet">אין גישה לאינטרנט.</string>
+  <string name="wifi_no_internet_no_reconnect">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
   <string name="wifi_not_in_range">מחוץ לטווח</string>
   <string name="wifi_remembered">נשמר</string>
   <string name="wifi_security_none">ללא</string>

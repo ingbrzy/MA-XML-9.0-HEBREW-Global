@@ -4,6 +4,7 @@
   <string name="add_frequent_phrases">הוסף ביטויים שכיחים</string>
   <string name="all_call_livetalk_enable">שימוש בחבילת Top-up עבור שיחות מקומיות ובינלאומיות</string>
   <string name="all_call_livetalk_remain_mins">דקות שנותרו: %1$s עבור שיחות מקומיות או %2$s עבור שיחות בינלאומיות</string>
+  <string name="always">תמיד</string>
   <string name="alwaysUsePrompt">זכור את הבחירה שלי</string>
   <string name="apply_password_action">אישור</string>
   <string name="apply_password_confirm_dlg_msg">השתמש בסיסמת מסך הנעילה הנוכחית שלך על מנת לגשת להגדרות עבור %s.</string>
@@ -28,10 +29,13 @@
   <string name="call_record_sample_prefix_miui">שיחה</string>
   <string name="caller_info_name_delimiter">" או "</string>
   <string name="cancel_action">ביטול</string>
+  <string name="close">כיבוי</string>
   <string name="configure_input_methods">בחר מקלדות</string>
   <string name="copy">העתק</string>
   <string name="cut">גזור</string>
   <string name="default_name">ברירת מחדל</string>
+  <string name="description_title">מצב שקט</string>
+  <string name="eighthours">8 שעות</string>
   <string name="enable_livetalk_summary">חסוך 70% מהחיובים בגין השיחות שלך</string>
   <string name="enable_livetalk_title">הפעל חבילת Top-up</string>
   <string name="fc_dialog_body">לשלוח דו\"ח שגיאות אל Mi לצורך ניתוח? דו\"ח זה עשוי להכיל מידע המאפשר זיהוי אישי. הדו\"ח שלך יעזור בתיקון תקלה זו ולעולם לא ישותף בשום הקשר מסחרי.</string>
@@ -40,6 +44,7 @@
   <string name="fm_record_smaple_prefix_miui">הקלטת FM</string>
   <string name="force_exit_message">%1$s נסגר בכפייה</string>
   <string name="force_exit_skip_message">לא ניתן לסגור את %1$s משום שהוא נחוץ לפעילות המערכת.</string>
+  <string name="fourhours">שעתיים</string>
   <string name="fp_nav_center_action_choose_dlg_msg">"באפשרותך לחזור ל'מסך הבית' על ידי הקשה עדינה על לחצן ה'בית'. תוכל להפעיל ולכבות הגדרה זו ב'הגדרות' &gt; 'הגדרות נוספות' &gt; 'לחצנים' &gt; 'הקש על לחצן הבית למעבר למסך הבית'."</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">לא כעת</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">הפעלה</string>
@@ -73,6 +78,7 @@
   <string name="memory_clear_nothing_result">המטמון נקי</string>
   <string name="memory_clear_result">%1$sB נוקו</string>
   <string name="miui_upgrading_notification_title">המערכת מבצעת טעינה, תכונות מסויימות עשויות להיות מוגבלות</string>
+  <string name="onehour">30 דקות</string>
   <string name="package_delete_confirm_step_1">למחוק את %s?</string>
   <string name="package_delete_confirm_step_2">מחיקת יישום זה עשויה לגרום למערכת שלך להפוך לבלתי יציבה.</string>
   <string name="package_delete_confirm_step_3">לא תוכל לפתוח יישום זה לאחר מחיקתו.</string>
@@ -85,6 +91,7 @@
   <string name="reboot_info_auto_boot">כיבוי המכשיר מתוזמן ל- %s</string>
   <string name="reboot_info_shutdown_alarm">השעון המעורר הבא: %s</string>
   <string name="reboot_progress">מאתחל…</string>
+  <string name="remain">נותרו: %s</string>
   <string name="replace">החלף</string>
   <string name="resource_select">בחר</string>
   <string name="screen_button_notification_text">"על מנת להפעילם, לחץ במקביל על לחצן ה'בית' ולחצן ה'הפעלה'."</string>
@@ -111,10 +118,14 @@
   <string name="set_password_title">הגדר סיסמה</string>
   <string name="shutdown_confirm_title">לכבות את המכשיר כעת?</string>
   <string name="shutdown_progress">מכבה…</string>
+  <string name="silence_mode">מצב שקט</string>
   <string name="sim_added_reboot_confirm">אתחל</string>
   <string name="sim_added_reboot_title">כרטיס ה-SIM יופעל לאחר אתחול המכשיר.</string>
   <string name="softap_notifif_summary">%d מחוברים</string>
   <string name="softap_notifif_title">הנקודה החמה \"%s\" מופעלת</string>
+  <string name="standard">שקט</string>
+  <string name="standard_description">[Silent] השתק צלצולים עבור שיחות נכנסות והתראות</string>
+  <string name="standard_title">שקט..</string>
   <string name="start_security_permission_verify_text">אמת הרשאות עם חשבון Mi שלך</string>
   <string name="status_bar_toggle_auto_brightness">בהירות</string>
   <string name="status_bar_toggle_battery_saver">חסכון בסוללה</string>
@@ -140,10 +151,14 @@
   <string name="status_bar_toggle_wifi">רשתות אלחוטיות</string>
   <string name="status_bar_toggle_wifi_ap">נקודה חמה</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="total">נא לא להפריע</string>
+  <string name="total_description">[DND] Silence sounds and turn off vibration for all items except the Alarm clock</string>
+  <string name="total_title">נא לא להפריע..</string>
   <string name="translation_more">עוד</string>
   <string name="translation_query_error">לא ניתן היה להשיג תוצאות</string>
   <string name="translation_query_error_network">לא ניתן היה לקבל מידע, בדוק את החיבור לרשת ונסה שוב</string>
   <string name="turn_off">כבה</string>
+  <string name="twohours">שעה 1</string>
   <string name="unknown_caller">מספר לא ידוע</string>
   <string name="user_switching_dialog_text">מחליף…</string>
   <string name="xspace_resolver_activity_title">בחר יישום</string>

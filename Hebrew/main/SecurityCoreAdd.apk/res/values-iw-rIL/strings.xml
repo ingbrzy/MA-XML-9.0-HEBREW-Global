@@ -222,6 +222,7 @@
 על מנת להיכנס ל'שטח שני' מ'מסך הנעילה"</string>
   <string name="start_setting_guide_desc_title">ישנם מספר דברים שיש להגדיר</string>
   <string name="summary_switch_apps_settings">בחר יישומים שנעשה בהם שימוש בשטח הנוכחי</string>
+  <string name="support_desc">שירותי האבטחה מסופקים על ידי Graphite</string>
   <string name="sure_to_use">אשר</string>
   <string name="switchDataSummary">העבר פריטים בין השטחים</string>
   <string name="switch_apps_settings">הגדרות יישומים</string>

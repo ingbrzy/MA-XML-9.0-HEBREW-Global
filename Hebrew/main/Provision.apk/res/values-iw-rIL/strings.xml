@@ -20,6 +20,7 @@
   <string name="enable_accessibility_dialog_message">"הפעלת את TalkBack על ידי לחיצה על המסך באמצעות 2 אצבעות למשך יותר מ-10 שניות. TalkBack מספק מחוות קוליות עבור בעלי לקויות ראיה. במידה והפעלת אותו בשוגג, לחץ על 'ביטול', ואז הקש הקשה כפולה על המסך."</string>
   <string name="enable_accessibility_dialog_negative_btn">ביטול</string>
   <string name="enable_accessibility_dialog_positive_btn">אישור</string>
+  <string name="fail_to_generate_qr_code">Fail to generate QR code, please reenter this page.</string>
   <string name="ime_privacy_policy">"'מדיניות הפרטיות' עבור מקלדת הנבחרת"</string>
   <string name="ime_privacy_policy_no_network">"אין חיבור לרשת. הצג את 'מדיניות הפרטיות' עבור מקלדת זו ב- %s."</string>
   <string name="input_method_category">בחר את מקלדת ברירת המחדל אשר תשמש אותך לכתיבת הודעות, פתקים, וכל דבר אחר. שים לב כי תוכל להתקין מקלדות צד שלישי מאוחר יותר.</string>
@@ -38,8 +39,6 @@
   <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הרגע המתאים ביותר להתקנת העדכונים.</string>
   <string name="other_settings_location">מיקום</string>
   <string name="other_settings_location_summary">אפשר ליישומים לגשת למיקומך.</string>
-  <string name="other_settings_mifg_online_content">טפט קרוסלה</string>
-  <string name="other_settings_mifg_online_content_summary">"אפשר ל'טפט קרוסלה' להתחבר לאינטרנט על מנת להוריד תמונות חדשות."</string>
   <string name="other_settings_upload_debug_log_summary">המידע שאנו אוספים יעזור באיתור וניתוח הבעיות במערכת ועשוי להכיל מידע אישי. לא יעשה שימוש בנתונים על מנת לזהות אותך באופן אישי.</string>
   <string name="other_settings_upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
   <string name="other_settings_user_experience">תכנית חווית המשתמש</string>
@@ -61,10 +60,12 @@
   <string name="skip_underline">דלג על שלב זה</string>
   <string name="summary_not_set">לא הוגדר</string>
   <string name="terms_of_use">תנאי השימוש</string>
-  <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
+  <string name="terms_of_use_label">"הפרטיות שלך חשובה לנו מאוד. אנא קרא את 'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ואילו אפשרויות עומדות בפניך.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, and Mi Account components will connect to the internet and acquire your location."</string>
+עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. במהלך ההפעלה, שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', מודיולים של 'מסך הבית', שירות המשחקים, רכיבי המערכת MAB ו-MSA, 'שירות ישיר', 'כרטיס מהיר', סטטיסטיקות, MiSmartCards, ורכיבי חשבון Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
   <string name="title_fingerprint">הוסף את טביעת האצבע שלך</string>
+  <string name="two_dimensional_code_scan">QR code scan</string>
   <string name="user_agreement">תנאי השירות</string>
+  <string name="user_strayed_warning">The page is designed for factory test, Click back button to exit.</string>
   <string name="welcome">ברוכים הבאים</string>
 </resources>

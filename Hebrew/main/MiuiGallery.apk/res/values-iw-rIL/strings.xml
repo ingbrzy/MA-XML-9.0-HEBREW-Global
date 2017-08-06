@@ -37,7 +37,10 @@
   <string name="album_jump_failed">המתן עד לאחר שאלבומים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
   <string name="album_member">חברי האלבום %s</string>
   <string name="album_name">שם האלבום</string>
+  <string name="album_name_locations">מיקומים</string>
+  <string name="album_name_people">אנשים</string>
   <string name="album_name_recent_discovery">לאחרונה</string>
+  <string name="album_name_tags">תגיות</string>
   <string name="album_others_share_baby_info_format">אלבום תינוקות מ-%s</string>
   <string name="album_others_share_info_format">מ-%s</string>
   <string name="album_owner_share">שותף</string>
@@ -64,8 +67,8 @@
   <string name="album_type_system">אלבומי מערכת</string>
   <string name="album_videos_name">סרטונים</string>
   <string name="alert_secret_album_enter">הבנתי</string>
-  <string name="alert_secret_album_message">"בתוית ה'אלבומים', החלק מטה על מנת להציג את האלבומים מוסתרים."</string>
-  <string name="alert_secret_album_message_lower_case">"בתוית ה'אלבומים', החלק מטה על מנת להציג את האלבומים מוסתרים."</string>
+  <string name="alert_secret_album_message">"החלק מטה בתוית ה'אלבומים' על מנת להציג את האלבומים המוסתרים."</string>
+  <string name="alert_secret_album_message_lower_case">"החלק מטה בתוית ה'אלבומים' על מנת להציג את האלבומים המוסתרים."</string>
   <string name="alert_secret_album_title">כיצד להציג אלבום מוסתר</string>
   <string name="all_faces">תמונות עם אדם זה</string>
   <string name="all_items_synced">כל האלבומים גובו ב-Mi Cloud</string>
@@ -303,6 +306,7 @@
   <string name="empty_recommend_back">חזרה</string>
   <string name="empty_recommend_face_page_view">אין עוד המלצות</string>
   <string name="empty_relation">שם הקבוצה אינו יכול להיוותר ריק</string>
+  <string name="empty_title_no_photos">אין תמונות או סרטונים</string>
   <string name="enable_auto_upload_tip">להפעיל את הסנכרון עם Mi Cloud עבור אלבום זה?</string>
   <string name="enable_auto_upload_title">הפעל את הסנכרון עם Mi Cloud</string>
   <string name="enable_cloud_for_sharing">הפעל את אלבומי Mi Cloud על מנת לצפות בתמונות ששותפו.</string>
@@ -335,7 +339,7 @@
   <string name="face_album_empty">"אין מספיק תמונות לביצוע זיהוי אנשים.
 צלם יותר תמונות של חברים שלך!"</string>
   <string name="face_album_empty_syncing">מסנכרן נתונים, חזור בקרוב</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">התחבר לרשת אלחוטית על מנת לסנכרן מידע</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">התחבר לרשת על מנת לסנכרן מידע</string>
   <string name="face_album_long_tap_tip">על מנת לבחור במספר אנשים או לשנות הגדרות קבוצה, לחץ &amp; החזק תמונת פרופיל</string>
   <string name="face_album_new_name_hint">שם חדש</string>
   <string name="face_album_not_named">ללא שם</string>
@@ -394,7 +398,7 @@
   <string name="has_invalid_recipient">נמענים לא חוקיים: %1$s</string>
   <string name="have_known">הבנתי</string>
   <string name="hidden_album_display_name">אלבום מוסתר</string>
-  <string name="home_page_empty">ריק</string>
+  <string name="home_page_empty_action">צלם תמונה</string>
   <string name="home_page_label">תמונות</string>
   <string name="how_to_set_relation">לחץ &amp; החזק אלבום ליצירת קבוצה</string>
   <string name="hybrid_check_network">הגדרות רשת</string>
@@ -548,9 +552,13 @@
   <string name="other_album">אלבומים אחרים</string>
   <string name="other_settings">הגדרות נוספות</string>
   <string name="owner_album_subtitle">שותף עם %1$s אנשים</string>
+  <string name="people_album_empty_title">Photos can be sorted by people in them</string>
   <string name="people_jump_failed">המתן עד לאחר שתמונות עם אנשים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
+  <string name="people_mark_mode_title">בחר \"%s\"</string>
+  <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
   <string name="people_page_label">אנשים</string>
   <string name="people_page_unname">ללא שם</string>
+  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">תמונות חיות מחמד</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">תמונות</string>
@@ -574,6 +582,7 @@
   <string name="picker_title_format">באפשרותך לבחור %d תמונות</string>
   <string name="picker_title_selection_format">תמונות נבחרות: %d</string>
   <string name="picker_title_unlimit">בחר תמונות</string>
+  <string name="places_album_empty_title">ניתן למיין את התמונות על פי מיקום</string>
   <string name="preparing_data">רק רגע…</string>
   <string name="projection_checkbox_text">זכור תצוגה זו</string>
   <string name="projection_device_connection_failed">לא ניתן היה לחבר את המקרן</string>
@@ -589,6 +598,7 @@
   <string name="publish_succeeded">האלבום פורסם</string>
   <string name="publishing">מפרסם…</string>
   <string name="quotation">\"%s\"</string>
+  <string name="recent_album_empty_title">לא נוספו תמונות חדשות לאחרונה</string>
   <string name="recommanded_face_abandon_tip">הוסר מהצעות</string>
   <string name="recommanded_face_added_tip">נוסף אל \"%s\"</string>
   <string name="recovery_merge">מיזוג</string>
@@ -635,7 +645,6 @@
   <string name="scan_barcode_guide">לקבלת קוד QR של אלבום, לחץ על לחצן השיתוף.</string>
   <string name="scan_barcode_to_join">סרוק קוד QR להוספת אלבום</string>
   <string name="scan_qr_code_buttom_text">סרוק קוד QR לצפיה באלבום זה</string>
-  <string name="search_album_jump_failed">המתן עד לאחר שאלבומים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
   <string name="search_backup_full_screen">הפעל את הסנכרון עם Mi Cloud למציאת עוד אובייקטים ואנשים</string>
   <string name="search_backup_now">הפעלה</string>
   <string name="search_backup_sub_title">הפעל על מנת למצוא עוד תמונות</string>
@@ -651,16 +660,26 @@
   <string name="search_login_sub_title">היכנס על מנת למצוא עוד תמונות</string>
   <string name="search_login_title">חשבון Mi</string>
   <string name="search_login_title_full_screen">היכנס באמצעות חשבון Mi שלך על מנת למצוא עוד אובייקטים ואנשים</string>
-  <string name="search_people_jump_failed">המתן עד לאחר שתמונות עם אנשים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
+  <string name="search_net_error">אירעה שגיאת רשת. התחבר לרשת אחרת ונסה שוב.</string>
+  <string name="search_request_open">הצטרפות לצוות הבדיקה</string>
   <string name="search_result_empty">לא ניתן היה למצוא דבר</string>
   <string name="search_retry">נסה שוב</string>
+  <string name="search_select_network">בחירת רשת</string>
   <string name="search_set_network_connection">הגדרות רשת</string>
+  <string name="search_setting_sub_title">חיפוש תמונות משופר</string>
+  <string name="search_setting_sub_title_open">אושר. המתן רגע לפני שתתחיל.</string>
+  <string name="search_setting_title">"מצא תמונות ב'גלריה'"</string>
+  <string name="search_syncing">Syncing data, come back in a while</string>
+  <string name="search_title_album">אלבום</string>
   <string name="search_title_history">היסטורית חיפוש</string>
   <string name="search_title_location">מיקומים</string>
   <string name="search_title_others">כל התוצאות</string>
   <string name="search_title_people">אנשים</string>
   <string name="search_title_recommend">מומלץ</string>
+  <string name="search_title_suggestion">הצעות</string>
   <string name="search_title_tag">אובייקטים</string>
+  <string name="search_transition_element_icon">search_icon</string>
+  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
   <string name="secret_album_card_title">נסה אלבום מוסתר</string>
   <string name="secret_album_display_name">אלבום מוסתר</string>
@@ -693,6 +712,7 @@
   <string name="set_face_image">הגדר תמונת פרופיל חדשה</string>
   <string name="set_group">הגדר קבוצה</string>
   <string name="set_wallpaper_get_image_failed">לא ניתן היה להוריד את התמונה, נסה שוב מאוחר יותר</string>
+  <string name="setup_network_connection">הגדרות רשת</string>
   <string name="share">שיתוף</string>
   <string name="share_album">שיתוף אלבום</string>
   <string name="share_album_needs_auto_upload_tip">לא ניתן לכבות את הגיבוי עבור האלבומים המשותפים</string>
@@ -748,6 +768,7 @@
   <string name="text_append_hint">הזן טקסט</string>
   <string name="text_append_style">בועה</string>
   <string name="text_append_transparent">טשטוש</string>
+  <string name="things_album_empty_title">Photos can be sorted by objects in them</string>
   <string name="tip_capture_location">מיקום:</string>
   <string name="tip_capture_params">נתוני EXIF:</string>
   <string name="tip_capture_time">צולם ב:</string>
@@ -845,6 +866,7 @@
   <string name="view_by_gallery_tip">גלרית MIUI</string>
   <string name="view_face_album">צפה באלבום</string>
   <string name="view_queuing_status">בדוק סטטוס</string>
+  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
   <string name="welcome_to_slim">יעל את האחסון המקומי</string>
   <string name="where_is_barcode">איפה קוד ה-QR?</string>

@@ -76,7 +76,7 @@
   <string name="android_upgrading_complete">מסיים אתחול.</string>
   <string name="android_upgrading_fstrim">מתבצעת אופטימיזציה של האחסון.</string>
   <string name="android_upgrading_notification_body">ייתכן שאפליקציות מסוימות לא יפעלו כראוי עד סיום השדרוג</string>
-  <string name="android_upgrading_notification_title">‏Android מבצע שדרוג</string>
+  <string name="android_upgrading_notification_title">‏מסיים עדכון Android…</string>
   <string name="android_upgrading_starting_apps">מפעיל אפליקציות.</string>
   <string name="android_upgrading_title">‏Android מבצע שדרוג…</string>
   <string name="anr_activity_application">האפליקציה %2$s אינה מגיבה</string>
@@ -88,6 +88,7 @@
   <string name="app_not_found">לא נמצאה אפליקציה שתומכת בפעולה זו</string>
   <string name="app_running_notification_text">הקש לקבלת מידע נוסף או כדי לעצור את האפליקציה.</string>
   <string name="app_running_notification_title">%1$s פועל</string>
+  <string name="app_upgrading_toast">%1$s מבצעת שדרוג…</string>
   <string name="audit_safemode_notification">איפוס להגדרות היצרן כדי לאפשר שימוש במכשיר ללא מגבלות</string>
   <string name="audit_safemode_notification_details">גע לקבלת מידע נוסף.</string>
   <string name="autofill_address_name_separator">" "</string>
@@ -123,7 +124,6 @@
   <string name="bugreport_title">שלח דיווח על באג</string>
   <string name="byteShort">B</string>
   <string name="cancel">ביטול</string>
-  <string name="candidates_style">&lt;u&gt;&amp;#1502;&amp;#1493;&amp;#1506;&amp;#1502;&amp;#1491;&amp;#1497;&amp;#1501;&lt;/u&gt;</string>
   <string name="capability_desc_canControlMagnification">קבע את המרחק מהתצוגה ואת מיקום התצוגה.</string>
   <string name="capability_desc_canPerformGestures">יכול להקיש, להחליק, לעשות תנועת צביטה ולבצע תנועות אחרות.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">ייתכן שסקריפטים יותקנו על מנת להקל את הגישה אל תוכן של אפליקציות.</string>
@@ -158,6 +158,7 @@
   <string name="close_button_text">סגור</string>
   <string name="common_name">שם משותף:</string>
   <string name="condition_provider_service_binding_label">ספק תנאי</string>
+  <string name="conference_call">שיחת ועידה</string>
   <string name="contentServiceSync">סנכרון</string>
   <string name="contentServiceSyncNotificationTitle">סנכרון</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">יש מחיקות רבות מדי של %s.</string>
@@ -183,7 +184,7 @@
   <string name="data_usage_restricted_body">הקש כדי להסיר את ההגבלה.</string>
   <string name="data_usage_restricted_title">נתוני הרקע מוגבלים</string>
   <string name="data_usage_warning_body">הקש כדי להציג נתוני שימוש והגדרות.</string>
-  <string name="data_usage_warning_title">אזהרת שימוש בנתונים</string>
+  <string name="data_usage_warning_title">התראה לשימוש בנתונים</string>
   <string name="data_usage_wifi_limit_snoozed_title">‏אירעה חריגה ממגבלת הנתונים של Wi-Fi</string>
   <string name="data_usage_wifi_limit_title">‏הגעת למגבלת נתוני Wi-Fi</string>
   <string name="date_and_time" formatted="false">%H:%M:%S %-e.%-m.%Y</string>
@@ -213,6 +214,12 @@
   <string name="delete">מחק</string>
   <string name="deleteText">מחק</string>
   <string name="deleted_key">%1$s נמחק</string>
+  <string name="demo_restarting_message">מאפס את המכשיר…</string>
+  <string name="demo_starting_message">מתחיל בהדגמה…</string>
+  <string name="demo_user_inactivity_timeout_countdown">תאבד את כל השינויים וההדגמה תתחיל שוב בעוד %1$s שניות…</string>
+  <string name="demo_user_inactivity_timeout_left_button">בטל</string>
+  <string name="demo_user_inactivity_timeout_right_button">אפס עכשיו</string>
+  <string name="demo_user_inactivity_timeout_title">האם לאפס את המכשיר?</string>
   <string name="deny">דחה</string>
   <string name="description_target_unlock_tablet">החלק לביטול נעילה.</string>
   <string name="dial_number_using">"חייג למספר
@@ -342,6 +349,7 @@
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">סיוע</string>
   <string name="global_action_bug_report">דיווח על באג</string>
+  <string name="global_action_emergency">חירום</string>
   <string name="global_action_lock">נעילת מסך</string>
   <string name="global_action_lockdown">נעל עכשיו</string>
   <string name="global_action_power_off">כיבוי</string>
@@ -578,6 +586,7 @@
   <string name="lockscreen_sim_unlock_progress_dialog_message">‏מבטל נעילה של כרטיס SIM…</string>
   <string name="lockscreen_sound_off_label">ללא קול</string>
   <string name="lockscreen_sound_on_label">קול פועל</string>
+  <string name="lockscreen_storage_locked">בטל את הנעילה לכל התכונות והנתונים</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">נסה שוב בעוד %d שניות.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message">"שרטטת את קו ביטול הנעילה באופן שגוי %1$d פעמים. 
 
@@ -718,6 +727,10 @@
   <string name="needPuk2">‏הקלד PUK2 כדי לבטל את חסימת כרטיס ה-SIM.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">היכנס לרשת</string>
+  <string name="network_switch_metered">מעבר אל %1$s</string>
+  <string name="network_switch_metered_detail">המכשיר משתמש ברשת %1$s כשלרשת %2$s אין גישה לאינטרנט. עשויים לחול חיובים.</string>
+  <string name="network_switch_metered_toast">עבר מרשת %1$s לרשת %2$s</string>
+  <string name="network_switch_type_name_unknown">סוג רשת לא מזוהה</string>
   <string name="new_app_action">הפעל את %1$s</string>
   <string name="new_app_description">עצור את האפליקציה הישן ללא שמירה.</string>
   <string name="new_sms_notification_content">‏פתח את אפליקציית ה-SMS כדי להציג</string>
@@ -1063,6 +1076,7 @@
   <string name="reboot_to_update_title">‏עדכון מערכת Android</string>
   <string name="recent_tasks_title">נוצרו לאחרונה</string>
   <string name="redo">בצע מחדש</string>
+  <string name="region_picker_section_all">כל האזורים</string>
   <string name="relationTypeAssistant">עוזר</string>
   <string name="relationTypeBrother">אח</string>
   <string name="relationTypeChild">ילד</string>
@@ -1082,6 +1096,8 @@
   <string name="replace">החלף...</string>
   <string name="report">שלח דוח</string>
   <string name="reset">איפוס</string>
+  <string name="reset_retail_demo_mode_text">הקש כדי לאפס את המכשיר</string>
+  <string name="reset_retail_demo_mode_title">האם לאפס את המכשיר?</string>
   <string name="restr_pin_confirm_pin">‏אשר את מספר ה-PIN החדש</string>
   <string name="restr_pin_create_pin">‏צור מספר PIN לשינוי הגבלות</string>
   <string name="restr_pin_enter_admin_pin">‏הזן את מספר ה-PIN של מנהל המערכת</string>
@@ -1219,7 +1235,7 @@
   <string name="stk_cc_ussd_to_dial">‏בקשת USSD שונתה לבקשת DIAL.</string>
   <string name="stk_cc_ussd_to_ss">‏בקשת USSD שונתה לבקשת SS.</string>
   <string name="stk_cc_ussd_to_ussd">‏בקשת USSD שונתה לבקשת USSD חדשה.</string>
-  <string name="storage_internal">אחסון משותף פנימי</string>
+  <string name="storage_internal">אחסון שיתוף פנימי</string>
   <string name="storage_sd_card">‏כרטיס SD</string>
   <string name="storage_sd_card_label">‏כרטיס SD של %s</string>
   <string name="storage_usb">‏אחסון USB</string>
@@ -1300,6 +1316,7 @@
   <string name="vpn_lockdown_config">הקש כדי להגדיר</string>
   <string name="vpn_lockdown_connected">‏ה-VPN שפועל תמיד, מחובר</string>
   <string name="vpn_lockdown_connecting">‏ה-VPN שמופעל תמיד, מתחבר...</string>
+  <string name="vpn_lockdown_disconnected">‏חיבור תמידי ל-VPN מנותק</string>
   <string name="vpn_lockdown_error">‏שגיאת VPN שמופעל תמיד</string>
   <string name="vpn_text">הקש כדי לנהל את הרשת.</string>
   <string name="vpn_text_long">מחובר אל %s. הקש כדי לנהל את הרשת.</string>

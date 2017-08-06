@@ -188,14 +188,13 @@
   <string name="micloud_detail_lastest_with_off">סונכרן</string>
   <string name="micloud_detail_need_charge_or_sleep">חבר את המטען וכבה את המסך על מנת לסנכרן</string>
   <string name="micloud_detail_not_sync">%d ממתין לסנכרון</string>
+  <string name="micloud_detail_not_syncable">Not syncable</string>
   <string name="micloud_detail_not_synced">לא מסונכרן</string>
   <string name="micloud_detail_ok">אישור</string>
   <string name="micloud_detail_pause">הסנכרון הופסק</string>
   <string name="micloud_detail_pending">ממתין</string>
   <string name="micloud_detail_preference_sync_items">פריטים</string>
   <string name="micloud_detail_query_error">לא ניתן היה לקבל מידע אודות התקדמות הסנכרון</string>
-  <string name="micloud_detail_query_error_detail">לא ניתן לאשר בודאות כי הסנכרון הסתיים עבור שירותים מסויימים. ניתן ליצור קשר עם המפתחים באמצעות יישום המשוב.</string>
-  <string name="micloud_detail_query_error_title">לא ניתן היה לקבל מידע אודות התקדמות הסנכרון</string>
   <string name="micloud_detail_success">סונכרן</string>
   <string name="micloud_detail_sync_now">סנכרן כעת</string>
   <string name="micloud_detail_syncing">מסנכרן</string>
@@ -239,24 +238,33 @@
   <string name="micloud_full_influence_title">כאשר Mi Cloud שלך מלא…</string>
   <string name="micloud_main_battery_low">אין מספיק סוללה לצורך סנכרון</string>
   <string name="micloud_main_battery_message">חבר מטען על מנת לסנכרן</string>
+  <string name="micloud_main_button_activate">הפעלה</string>
+  <string name="micloud_main_button_authorize">הענק הרשאה</string>
+  <string name="micloud_main_button_set_internet">Setting</string>
   <string name="micloud_main_cancel_sync">ביטול הסנכרון</string>
   <string name="micloud_main_clear_now">נקה</string>
   <string name="micloud_main_detail">הצג פרטים</string>
+  <string name="micloud_main_error_activated_fail">אנא הפעל את כרטיס ה-SIM.</string>
+  <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+  <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
   <string name="micloud_main_last_sync_time">סנכרון אחרון %s</string>
+  <string name="micloud_main_master_sync_on">הפעלת הסנכרון</string>
   <string name="micloud_main_memory_low_message">על מנת לסנכרן, הסר כמה פריטים ששמרת בענן.</string>
   <string name="micloud_main_memory_low_title">האחסון הפנימי של הטלפון כמעט מלא</string>
+  <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
   <string name="micloud_main_message_not_synced">%s נתונים לא מסונכרנים</string>
-  <string name="micloud_main_multi_user_error_message">"השתמשת בחשבון זהה לזה שהשתמשת בו על מנת להתחבר ל-First space, דבר הגרם לשגיאה ב-Mi Cloud. אם ברצונך לגבות קבצים:
-
-1. השתמש בחשבון שונה.
-2. העבר פריטים ל'שטח ראשון'."</string>
+  <string name="micloud_main_multi_user_error_message">"ביצעת כניסה באמצעות אותו החשבון דרכו נכנסת ל'שטח ראשון', דבר אשר גרם לשגיאה ב-Mi Cloud.
+ השתמש בחשבון אחר."</string>
   <string name="micloud_main_multi_user_error_title">שגיאת Mi Cloud</string>
   <string name="micloud_main_network_abnormal">לא ניתן להתחבר לרשת</string>
   <string name="micloud_main_network_error">לא ניתן להתחבר לרשת</string>
+  <string name="micloud_main_query_again">Query</string>
   <string name="micloud_main_query_error_message">לא ניתן לאשר בודאות כי הסנכרון הסתיים עבור שירותים מסויימים</string>
   <string name="micloud_main_query_error_title">לא ניתן היה לקבל מידע אודות התקדמות הסנכרון</string>
+  <string name="micloud_main_resume_sync_soon">המשך סנכרון בקרוב</string>
   <string name="micloud_main_set_internet">רשת</string>
   <string name="micloud_main_space_full">שטח האחסון בענן מלא</string>
+  <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
   <string name="micloud_main_space_full_title">אין מספיק שטח אחסון. הסנכרון הופסק</string>
   <string name="micloud_main_space_low">כמעט ולא נותר שטח אחסון פנוי</string>
   <string name="micloud_main_stop_sync">הסנכרון הופסק</string>
@@ -265,7 +273,6 @@
   <string name="micloud_main_suggest_sync">לא ניתן היה לסנכרן הכל</string>
   <string name="micloud_main_sync_exception">שגיאת סנכרון</string>
   <string name="micloud_main_sync_init">מקבל מידע</string>
-  <string name="micloud_main_sync_need_charge">טען את מכשירך</string>
   <string name="micloud_main_sync_need_charge_or_sleep">חבר את המטען וכבה את המסך על מנת לסנכרן</string>
   <string name="micloud_main_sync_now">סנכרן כעת</string>
   <string name="micloud_main_sync_on">הפעל סנכרון</string>
@@ -282,6 +289,11 @@
   <string name="micloud_main_title_sync_off">הסנכרון כבוי</string>
   <string name="micloud_main_title_sync_on_wifi">השתמש ברשת אלחוטית</string>
   <string name="micloud_main_update_space">קבל שטח אחסון נוסף.</string>
+  <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+  <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
+  <string name="micloud_main_wait_wlan">ממתין לחיבור רשת אלחוטית</string>
+  <string name="micloud_main_wait_wlan_charge">Waiting for Wi-Fi, connecting charger</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Waiting for Wi-Fi, connecting charger and turn off screen</string>
   <string name="micloud_main_wlan_sync_data_count">יישומים הממתינים לסנכרון: %d</string>
   <string name="micloud_member">חברות בשירות Mi Cloud</string>
   <string name="micloud_member_advantage">קבל שטח אחסון נוסף.</string>

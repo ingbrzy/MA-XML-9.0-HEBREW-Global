@@ -24,7 +24,7 @@
   <string name="cannot_connect_camera_twice">עדיין לא ניתן להתחבר למצלמה. נסה להפעיל את מכשירך מחדש.</string>
   <string name="cannot_connect_camera_volte_call">שיחת וידאו בתהליך. נסה שוב מאוחר יותר.</string>
   <string name="cannot_move_warning_message">מצלם, השאר את המכשיר יציב</string>
-  <string name="confirm_install_scanner_message">"ה'סורק' מאפשר לך לסרוק קודי QR, ברקודים ועוד. אין צורך להתחבר לאינטנט על מנת להתקינו."</string>
+  <string name="confirm_install_scanner_message">"ה'סורק' מאפשר לך לסרוק קודי QR, ברקודים ועוד. אין צורך להתחבר לאינטרנט על מנת להתקינו."</string>
   <string name="confirm_install_scanner_title">"התקן את 'סורק'"</string>
   <string name="confirm_location_alert">זכור את המיקום בו צולמה התמונה</string>
   <string name="confirm_location_message">תייג את התמונות והסירטונים שלך על ידי המיקום בו נלקחו. יישומים אחרים יוכלו לגשת למידע זה יחד עם התמונות ששמרת.</string>
@@ -106,6 +106,7 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">ממוצע מסגרת</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">מדידה נקודתית</string>
   <string name="pref_camera_autoexposure_title">הגדרות חשיפה אוטומטית</string>
+  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">גבוה</string>
   <string name="pref_camera_beautify_entry_low">נמוך</string>
   <string name="pref_camera_beautify_entry_normal">בינוני</string>
@@ -230,6 +231,7 @@
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">מסך מלא 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">רגיל 4:3</string>
+  <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
   <string name="pref_camera_picturesize_title_simple_mode">מסגרת תמונה</string>
   <string name="pref_camera_portrait_mode_entry_off">"מצב 'דיוקן' כבוי"</string>
   <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
@@ -356,6 +358,8 @@
   <string name="pref_video_time_lapse_frame_interval_title">מרווח הזמן בצילום דולג זמן</string>
   <string name="preparing_sd">בודק אחסון פנימי…</string>
   <string name="record_back_pressed_hint">לחץ שוב לעצירת הקלטה</string>
+  <string name="screen_on_proximity_sensor_hint">"על מנת לכבות תכונה זו, הקש על לחצני 'הגברת עוצמת השמע' ו'חזרה' בו זמנית."</string>
+  <string name="screen_on_proximity_sensor_summary">הימנע מכיסוי אזור פליטת השמע</string>
   <string name="search_settings">הגדרות מצלמה;איכות;איכות תמונה;מיקום תמונה;מיקום תמונה;זיהוי פנים;צליל מצלמה</string>
   <string name="see_qrcode_detals">הצג פרטי קוד QR</string>
   <string name="simple_mode_button_asd_flash">כבה מבזק</string>

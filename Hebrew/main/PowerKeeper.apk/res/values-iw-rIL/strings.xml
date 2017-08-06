@@ -32,6 +32,7 @@
 מצב 'חסכון בסוללה' יתן יחס מועדף ליישומים חשובים."</string>
   <string name="config_suggest_suffix_title">"מצב 'חיסכון בסוללה' של MIUI (מומלץ)"</string>
   <string name="config_suggest_title">"מצב 'חסכון בסוללה' של MIUI"</string>
+  <string name="confirm">Confirm</string>
   <string name="disable_hide_mode">"השבת את מצב 'חסכון בסוללה' של MIUI"</string>
   <string name="disable_hide_mode_warning">"השבתת מצב 'חסכון בסוללה' של MIUI עשוי להוביל לצריכת אנרגיה גבוהה יותר"</string>
   <string name="disabled">כבוי</string>
@@ -50,6 +51,7 @@
   <string name="hide_system_app">הסתר יישומי מערכת</string>
   <string name="high">ביצועים</string>
   <string name="hints_loading_text">רק רגע…</string>
+  <string name="important_warning">Warning</string>
   <string name="invalid_size_value">לא ניתן היה לקבל את גודל החבילה.</string>
   <string name="location_disable_description">יישומים הפועלים ברקע יכולים לגשת לשירותי המיקום לתקופה קצרה בלבד, בעת שהגישה הרציפה מוגבלת</string>
   <string name="location_disable_title">הגבל</string>
@@ -174,14 +176,13 @@
   <string name="set_lcd_mode">מצב מסך</string>
   <string name="settings_safetylegal_activity_loading">רק רגע…</string>
   <string name="show_system_app">הצג יישומי מערכת</string>
-  <string name="sleep_config_enhance_description">ישפר את צריכת האנרגיה במצב המתנה בלילה</string>
+  <string name="sleep_config_enhance_description">predict user sleep time by machine learning, whithin the sleep time, we may clear some background apps, restrict to use NFC, KeyGauard Notification, Sync, Bluetooth, GPS, mobile and wifi data, etc.</string>
   <string name="sleep_config_enhance_title">מצבי חיסכון בשינה</string>
   <string name="still">תמונה</string>
   <string name="ui">רגיל</string>
   <string name="user_define_mode">שם</string>
   <string name="vip_feedback">משוב Vip</string>
-  <string name="vip_feedback_apply">הגש בקשת הצטרפות אל משוב Vip</string>
-  <string name="vip_feedback_apply_msg">אנא צור קשר עם vip-feedback-system@xiaomi.com על מנת להגיש בקשת הצטרפות אל משוב Vip</string>
   <string name="vip_feedback_enable">"אפשר את 'משוב Vip אוטומטי'"</string>
   <string name="warm_configure">Warm control configure</string>
+  <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
 </resources>

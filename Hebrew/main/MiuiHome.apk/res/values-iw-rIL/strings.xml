@@ -155,17 +155,22 @@
   <string name="lock_screen_success_message">נקבע כטפט מסך הנעילה</string>
   <string name="lock_screen_wallpaper">טפט מסך הנעילה</string>
   <string name="menu_add">הוספה</string>
+  <string name="menu_auto_fill">Auto Fill</string>
   <string name="menu_back_desktop">חזרה למסך הבית</string>
+  <string name="menu_cell_setting">Screen Setting</string>
   <string name="menu_customize">הגדרות</string>
   <string name="menu_edit">ערוך את מסך הבית</string>
   <string name="menu_exit_scene">צא מ-Mi Space</string>
   <string name="menu_item_add_item">הוסף אל מסך הבית</string>
   <string name="menu_launcher_setting">"הגדרות 'משגר היישומים'"</string>
+  <string name="menu_lock">Lock Screen</string>
+  <string name="menu_more">עוד</string>
   <string name="menu_picktheme">בחר ערכת נושא</string>
   <string name="menu_reset_scene">איפוס לסגנון ברירת מחדל</string>
   <string name="menu_search">חיפוש</string>
   <string name="menu_settings">הגדרות</string>
   <string name="menu_sort">מיין יישומים</string>
+  <string name="menu_trans_effect">Transition Effect</string>
   <string name="menu_wallpaper">טפט</string>
   <string name="menu_workspace_preview">"תצוגות מקדימות של 'מסך הבית'"</string>
   <string name="mi_wallpaper">חנות ערכות נושא MIUI</string>
@@ -266,4 +271,5 @@
   <string name="widget_favorite_contacts_style">שנה גודל</string>
   <string name="widget_gadget_player">מוסיקה</string>
   <string name="widget_global_search">חיפוש</string>
+  <string name="widget_quick_function">פונקציה מהירה</string>
 </resources>

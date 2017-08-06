@@ -12,7 +12,7 @@
   <string name="beam_outgoing">מעביר תוכן...</string>
   <string name="beam_progress">קרן נכנסת...</string>
   <string name="beam_requires_nfc_enabled">‏כדי להשתמש ב-Android Beam נדרשת הפעלה של NFC. האם ברצונך להפעיל אותו?</string>
-  <string name="beam_touch_to_view">גע כדי להציג</string>
+  <string name="beam_tap_to_view">הקש כדי להציג</string>
   <string name="beam_try_again">קרב שוב את המכשירים</string>
   <string name="cancel">ביטול</string>
   <string name="complete_with">השלם באמצעות</string>
@@ -26,11 +26,7 @@
   <string name="disconnected_peripheral">מנותק מ-%1$s</string>
   <string name="disconnecting_peripheral">מתנתק מ-%1$s</string>
   <string name="failed_to_enable_bt">‏לא ניתן להפעיל Bluetooth</string>
-  <string name="inbound_me_profile_text">גע כדי להוסיף משתמש זה כאיש קשר</string>
-  <string name="inbound_me_profile_title">‏איש הקשר התקבל באמצעות NFC</string>
   <string name="nfcUserLabel">Nfc</string>
-  <string name="outbound_me_profile_text">גע כדי לתת למשתמש זה את פרטי הקשר שלך</string>
-  <string name="outbound_me_profile_title">‏האינטראקציה עם NFC הושלמה</string>
   <string name="pair_no">לא</string>
   <string name="pair_yes">כן</string>
   <string name="pairing_peripheral">מבצע התאמה עם %1$s</string>
@@ -41,8 +37,8 @@
   <string name="status_wifi_connected">מחובר</string>
   <string name="tap_again_to_complete">הקש שוב כדי להשלים באמצעות %1$s</string>
   <string name="tap_again_to_pay">הקש שוב כדי לשלם באמצעות %1$s</string>
+  <string name="tap_to_beam">הקש כדי להקרין</string>
   <string name="title_connect_to_network">התחבר לרשת</string>
-  <string name="touch">גע כדי להקרין</string>
   <string name="transaction_failure">לא ניתן היה להשלים את העסקה הזו באמצעות %1$s.</string>
   <string name="wifi_connect">התחבר</string>
 </resources>

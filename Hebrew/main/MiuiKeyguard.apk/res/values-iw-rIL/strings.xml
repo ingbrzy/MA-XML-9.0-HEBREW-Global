@@ -35,7 +35,7 @@
   <string name="keyguard_charging_info_battery_temperature_text">טמפרטורת הסוללה</string>
   <string name="keyguard_charging_info_battery_used_time_text">משך פעילות הסוללה</string>
   <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">About %d min until full​</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">"כ-%d  דקות לטעינה מלאה"</string>
   <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">"כ-%d  שעות ו-%d  דקות לטעינה מלאה"</string>
   <string name="keyguard_charging_info_charging_text">טוען</string>
   <string name="keyguard_charging_info_charging_voltage_text">"וולטז'"</string>
@@ -63,10 +63,13 @@
   <string name="keyguard_charging_info_tip_text4">אל תעשה שימוש פעיל במכשירך במהלך טעינה על מנת להימנע מהתחממות יתר.</string>
   <string name="keyguard_charging_info_tip_text5">טעינת הסוללה עשויה להיארך זמן רב יותר כאשר היא חמה מהרגיל.</string>
   <string name="keyguard_charging_info_tip_text6">כבה את המסך שלך והשאר את מכשירך להתקרר.</string>
+  <string name="keyguard_left_bankcard">Mi Pay</string>
+  <string name="keyguard_left_buscard">כרטיס תחבורה</string>
+  <string name="keyguard_left_remotecentral">שלט Mi</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_quick_charging_info_click_to_detail">טעינה מהירה. לחץ להצגת פרטים.</string>
   <string name="keyguard_quickly_charging_info_charging_text">טעינה מהירה…</string>
   <string name="keyguard_torch_cover_text">להשארת הפנס דולק, החזק את מקש ההפעלה</string>
-  <string name="left_action_default_hint_text">שלט Mi</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lock_wallpaper_enter">היכנס</string>
@@ -82,8 +85,8 @@
  נסה שוב בעוד %d שניות."</string>
   <string name="lockscreen_failed_attempts_now_wiping">ניסית לבטל את נעילת הטלפון %d פעמים. הטלפון יאופס להגדרות ברירת המחדל של היצרן כעת.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">הנעילה בוטלה על ידי התקן Bluetooth</string>
-  <string name="open_camera_hint_text">החלק שמאלה לפתיחת %s</string>
-  <string name="open_remote_center_hint_text">החלק ימינה לפתיחת %s</string>
+  <string name="open_camera_hint_text">החלק שמאלה לפתיחת המצלמה</string>
+  <string name="open_remote_center_hint_text">Swipe right to open mi remote</string>
   <string name="phone_locked_foget_password">שכחת את הסיסמה?</string>
   <string name="phone_locked_foget_password_content">"באפשרותך להיכנס ל-i.mi.com באמצעות חשבון Mi המקושר למכשיר זה, ולנקות את כל הנתונים.          פעולה זו תמחק את כל הנתונים האישיים השמורים במכשיר זה. לאחר מכן, תוכל לאתחל את המכשיר ולשחזר אנשי קשר, הודעות, תמונות, ופריטים אחרים מ-Mi Cloud.          
 

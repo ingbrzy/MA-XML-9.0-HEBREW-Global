@@ -62,10 +62,6 @@
         <item>כל 15 ימים</item>
         <item>כל 30 ימים</item>
     </string-array>
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-    </string-array>
     <string-array name="wechat_menu_delete">
         <item>הסר</item>
     </string-array>
@@ -75,5 +71,9 @@
     <string-array name="wechat_menu_delete_whitelist_view">
         <item>הסר</item>
         <item>הצג</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
     </string-array>
 </resources>
