@@ -4,6 +4,7 @@
   <string name="account">חשבון</string>
   <string name="account_related">מכשירך מקושר לחשבון Mi אחר(%s). התחבר לרשת על מנת לאמת את ההתקן.</string>
   <string name="activate">הפעל</string>
+  <string name="activate_find_device_success">"'איתור המכשיר' הופעל."</string>
   <string name="activate_finddevice">התחבר לרשת על מנת להפעיל את ההתקן</string>
   <string name="activate_number_change_dialog_message">בחר מספר טלפון שיהיה גלוי להתקנים אחרים בעת חיבור באמצעות VoIP.</string>
   <string name="activating">מפעיל…</string>
@@ -46,6 +47,8 @@
   <string name="cloud_back_up_title">גבה את המכשיר</string>
   <string name="cloud_backup_dialog_title">גבה עם Mi Cloud</string>
   <string name="cloud_find_device">אתר מכשיר</string>
+  <string name="cloud_find_device_off">כבוי</string>
+  <string name="cloud_find_device_on">מופעל</string>
   <string name="cloud_restore_title">שחזר מתוך הגיבוי</string>
   <string name="cloud_space_upgrade_message">הקש להוספת %sGB לענן שלך.</string>
   <string name="cloud_space_upgrade_no_quota_info">לא ניתן היה לקבל פרטי אחסון</string>
@@ -97,6 +100,12 @@
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"לאתר, לנעול או לשחזר את הטלפון שלך.
 אם החלפת כרטיס SIM, מסרון נוסף ישלח אוטומטית להפעלה של תכונה זו."</string>
+  <string name="find_device_operation_failure_rpc">לא ניתן היה לבצע את הפעולה עקב שגיאת RPC.</string>
+  <string name="find_device_pref_alert_content">"'איתור המכשיר' מקושר לחשבון Mi שלך. עליך להגדיר סיסמה או להזין את הסיסמה שהגדרת. זכור תמיד את מזהה חשבון Mi והסיסמה שלך. מסרון SMS יוצא ידרש על מנת להפעיל שירות זה. ספק הרשת שלך יחייב אותך בגין הודעה זו. כאשר תחליף כרטיס SIM, תישלח הודעה באופן אוטומטי על מנת להפעיל מחדש תכונה זו."</string>
+  <string name="find_device_pref_alert_negtive">לא תודה</string>
+  <string name="find_device_pref_alert_positive">אישור</string>
+  <string name="find_device_pref_alert_title">זכור את מזהה חשבון Mi והסיסמה שלך</string>
+  <string name="find_device_pref_initializing">מאתחל…</string>
   <string name="find_device_reading_status">מצב הטעינה…</string>
   <string name="find_device_reading_status_failure">לא ניתן היה לטעון מצב.</string>
   <string name="find_device_send_sms_alert">אם תחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
@@ -206,10 +215,21 @@
   <string name="micloud_dialog_sync_now_title">התחבר לרשת אלחוטית על מנת לסנכרן</string>
   <string name="micloud_dspt">השתמש ב-Mi Cloud לסנכרון נתונים ואיתור מכשירך</string>
   <string name="micloud_dspt_provision">השתמש Mi Cloud לסנכרון נתונים, איתור מכשירך ושיתוף דברים עם החברים שלך.</string>
+  <string name="micloud_find_device_close_alert_content">"If you turn this feature off, you wan't be able to locate your device in case it's lost."</string>
+  <string name="micloud_find_device_close_alert_negtive">כבה בכל זאת</string>
+  <string name="micloud_find_device_close_alert_positive">השאר מופעל</string>
+  <string name="micloud_find_device_close_alert_title">"לכבות את 'איתור המכשיר'?"</string>
+  <string name="micloud_find_device_close_fail">"לא ניתן היה לכבות את 'איתור המכשיר'"</string>
+  <string name="micloud_find_device_close_progress">"מכבה את 'איתור המכשיר'…"</string>
   <string name="micloud_find_device_finish">בוצע</string>
+  <string name="micloud_find_device_guide_alert_content">"'איתור המכשיר' מקושר לחשבון Mi שלך. עליך להגדיר סיסמה או להזין את הסיסמה שהגדרת. זכור תמיד את מזהה חשבון Mi והסיסמה שלך."</string>
+  <string name="micloud_find_device_guide_alert_negtive">לא תודה</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">לא תודה</string>
+  <string name="micloud_find_device_guide_alert_positive">אישור</string>
+  <string name="micloud_find_device_guide_alert_title">זכור את מזהה חשבון Mi והסיסמה שלך</string>
   <string name="micloud_find_device_guide_button">הפעל איתור מכשיר</string>
   <string name="micloud_find_device_guide_content">יתכן שידרש מסרון SMS יוצא על מנת להפעיל מכשיר זה. ספק הרשת שלך יחייב אותך בגין מסרון זה. כשתחליף את כרטיס ה-SIM שלך, ישלח מסרון באופן אוטומטי על מנת להפעיל מחדש תכונה זו.</string>
-  <string name="micloud_find_device_guide_fail_reopen">הפעל איתור מכשיר ב Mi Cloud</string>
+  <string name="micloud_find_device_guide_fail_reopen">"באפשרותך להפעיל את 'איתור המכשיר' ב: 'חשבון Mi' - Mi Cloud"</string>
   <string name="micloud_find_device_guide_fail_sub_net">בדוק את החיבור הרשת שלך ונסה שוב.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">פג תוקף החיבור, נסה שוב מאוחר יותר.</string>
   <string name="micloud_find_device_guide_micloud">הפעל סנכרון עם Mi Cloud</string>
@@ -223,12 +243,16 @@
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">"WeChat ממליץ לך להפעיל את 'איתור המכשיר'"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">"Alipay ממליץ לך להפעיל את 'איתור המכשיר'"</string>
   <string name="micloud_find_device_guide_progress">מפעיל איתור מכשיר…</string>
-  <string name="micloud_find_device_guide_title">היכנס אל %s על מנת לאתר, לנעול או למחוק את מכשירך.</string>
+  <string name="micloud_find_device_guide_title">היכנס אל &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; על מנת לאתר, לנעול או למחוק את מכשירך. זה עשוי לסייע לך לאתר את מכשירך במקרה של אובדן.&lt;br /&gt;במידה ותאבד את מכשירך, תוכל ליצור קשר עם שירותי האבטחה של היישומים בהם אתה עושה שימוש תדיר (לדוגמה: Alipay, WeChat QQ) על מנת שיגנו על החשבונות שלך ב: &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.</string>
   <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
   <string name="micloud_find_device_opened">איתור מכשיר פועל</string>
   <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+  <string name="micloud_find_device_verify_button">"הפעל מחדש את 'איתור המכשיר'"</string>
+  <string name="micloud_find_device_verify_close">"כבה את 'איתור המכשיר'"</string>
+  <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
+  <string name="micloud_find_device_verify_progress">"מפעיל מחדש את 'איתור המכשיר'…"</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"כל התמונות שלך, וידאו, הערות, ויישומים יישארו מגובים בענן. 

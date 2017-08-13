@@ -167,6 +167,7 @@
   <string name="color_picker_dialog_title">בחר צבע</string>
   <string name="color_picker_hue">צבע</string>
   <string name="color_picker_saturation">רוויה</string>
+  <string name="color_picker_value">ערך</string>
   <string name="comment_app_menu">הערה</string>
   <string name="comment_description">הערה</string>
   <string name="comment_hint">הערה</string>
@@ -200,7 +201,7 @@
   <string name="current_version_pad">לוח</string>
   <string name="current_version_pc">שולחן עבודה</string>
   <string name="current_version_phone">טלפון</string>
-  <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
+  <string name="custom_head_card_text">האמן תמיד כי משהו נפלא עומד להתרחש</string>
   <string name="custom_head_card_text_incognito">"אתה גולש במצב נסתר!
 דפים בהם תצפה לא יופיעו בהיסטוריה."</string>
   <string name="data_traffic_prompt_change">שימוש בחיבור הנתונים הסלולרי שלך לצפיה בסרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
@@ -441,7 +442,7 @@
   <string name="miuichromium_error_page_problem_file_not_found">לא ניתן היה למצוא את הקובץ</string>
   <string name="miuichromium_error_page_problem_gateway_timed_out">לוקח ל-%s0 זמן רב מידי על מנת להגיב</string>
   <string name="miuichromium_error_page_problem_network_access_denied">הגישה לרשת מוגבלת</string>
-  <string name="miuichromium_error_page_problem_no_internet_connection">לא ניתן היה להתחבר לאיטרנט</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">לא ניתן היה להתחבר לאינטרנט</string>
   <string name="miuichromium_error_page_problem_page_moved">יתכן שעמוד זה ב-%s0 הועבר או שנמחק</string>
   <string name="miuichromium_error_page_problem_page_not_found">לא ניתן היה למצוא עמוד זה ב-%s0</string>
   <string name="miuichromium_error_page_problem_page_not_working">עמוד זה אינו עובד</string>

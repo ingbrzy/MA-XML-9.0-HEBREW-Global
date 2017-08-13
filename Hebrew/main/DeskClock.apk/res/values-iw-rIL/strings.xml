@@ -28,10 +28,10 @@
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">תזכורת יום הולדת</string>
   <string name="birthday_alarm_summary">נגן את השיר \"Happy Birthday\" במקום הצליל הקבוע ביום הולדתך</string>
-  <string name="cancel">ביטול</string>
+  <string name="cancel">חזרה</string>
   <string name="close_alarm">כיבוי</string>
   <string name="common_settings">הגדרות</string>
-  <string name="confirm_abort">בטל</string>
+  <string name="confirm_abort">ביטול</string>
   <string name="control_set_alarm">הגדרת שעון מעורר</string>
   <string name="control_set_alarm_with_existing">השעון המעורר מוגדר: %s</string>
   <string name="day">יום 1</string>
@@ -113,7 +113,7 @@
   <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
   <string name="silent_alarm_summary">מצב שקט</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-  <string name="skip_alarm_once_hint">בטל חד פעמית ב %s</string>
+  <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
   <string name="slider_text">החלק מעלה לכיבוי</string>
   <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
   <string name="snooze_duration_title">משך נודניק</string>

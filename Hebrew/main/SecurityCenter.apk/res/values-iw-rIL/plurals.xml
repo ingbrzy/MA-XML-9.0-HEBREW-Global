@@ -381,10 +381,10 @@
         <item quantity="many">היה בשימוש לפני %d ימים</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">היה בשימוש לפני %d חדשים</item>
+        <item quantity="other">היה בשימוש לפני %d חודשים</item>
         <item quantity="one">היה בשימוש לפני חודש %d</item>
-        <item quantity="two">היה בשימוש לפני %d חדשים</item>
-        <item quantity="many">היה בשימוש לפני %d חדשים</item>
+        <item quantity="two">היה בשימוש לפני %d חודשים</item>
+        <item quantity="many">היה בשימוש לפני %d חודשים</item>
     </plurals>
     <plurals name="app_usage_year">
         <item quantity="other">היה בשימוש לפני %d שנים</item>

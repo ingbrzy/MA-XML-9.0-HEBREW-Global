@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%d apps can't show notifications"</item>
-        <item quantity="one">"%d app can't show notifications"</item>
-        <item quantity="two">"%d apps can't show notifications"</item>
-        <item quantity="many">"%d apps can't show notifications"</item>
+        <item quantity="other">%d יישומים לא יכולים להציג התראות</item>
+        <item quantity="one">יישום %d לא יכול להציג התראות</item>
+        <item quantity="two">%d יישומים לא יכולים להציג התראות</item>
+        <item quantity="many">%d יישומים לא יכולים להציג התראות</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%d apps can show notifications</item>
-        <item quantity="one">%d app can show notifications</item>
-        <item quantity="two">%d apps can show notifications</item>
-        <item quantity="many">%d apps can show notifications</item>
+        <item quantity="other">%d יישומים יכולים להציג התראות</item>
+        <item quantity="one">יישום %d יכול להציג התראות</item>
+        <item quantity="two">%d יישומים יכולים להציג התראות</item>
+        <item quantity="many">%d יישומים יכולים להציג התראות</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d toggles placed above bar are active</item>
-        <item quantity="one">%1$d toggle placed above bar are active</item>
-        <item quantity="two">%1$d toggles placed above bar are active</item>
-        <item quantity="many">%1$d toggles placed above bar are active</item>
+        <item quantity="other">%1$d מהמתגים הממוקמים מעל השורה הם מתגים פעילים</item>
+        <item quantity="one">מתג %1$d הממוקם מעל השורה הינו מתג פעיל</item>
+        <item quantity="two">%1$d מהמתגים הממוקמים מעל השורה הם מתגים פעילים</item>
+        <item quantity="many">%1$d מהמתגים הממוקמים מעל השורה הם מתגים פעילים</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d סיכונים נמצאו</item>

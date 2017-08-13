@@ -822,9 +822,9 @@
   <string name="talkback_download">הורדה</string>
   <string name="talkback_favorite">"סמן שיר זה ב'אהבתי'"</string>
   <string name="talkback_mode">נגינה חוזרת של רשימת ההשמעה</string>
-  <string name="talkback_mode_repeat_all">List loop mode</string>
-  <string name="talkback_mode_repeat_current">Single loop mode</string>
-  <string name="talkback_mode_repeat_shuffle">Random play mode</string>
+  <string name="talkback_mode_repeat_all">לופ רשימה</string>
+  <string name="talkback_mode_repeat_current">לופ יחיד</string>
+  <string name="talkback_mode_repeat_shuffle">נגינה אקראית</string>
   <string name="talkback_more">עוד תפריטים</string>
   <string name="talkback_next">השיר הבא</string>
   <string name="talkback_nowplaying_bar">Play Bar</string>
@@ -895,7 +895,7 @@
   <string name="upgrade_waringing">תוכל להאזין למוסיקה המאוחסנת באופן לא מקוון בלבד.</string>
   <string name="valid_period">תוקף: %s</string>
   <string name="version_info">גירסה</string>
-  <string name="vip_after_tomorrow_auto_renew_message">"מנוי ה'מוסיקה' שלך יתחדש באופן אוטומטי מחרתיים בערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
+  <string name="vip_after_tomorrow_auto_renew_message">"מנוי ה'מוסיקה' שלך יחודש באופן אוטומטי מחרתיים בערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
   <string name="vip_after_tomorrow_renew_message">לא תוכל להזרים שמע באיכות גבוהה, אולם שירים מסויימים יהיו זמינים באיכות רגילה.</string>
   <string name="vip_auto_renew_message">"מנוי ה'מוסיקה' שלך יתחדש באופן אוטומטי הערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
   <string name="vip_auto_renew_title">חידוש המנוי</string>
@@ -903,7 +903,7 @@
   <string name="vip_renew_title">פג תוקף המנוי</string>
   <string name="vip_required">"רכוש את 'חבילת שירי פרימיום' על מנת לנגן שיר זה. דילגנו עליו לעת עתה."</string>
   <string name="vip_required_with_song">"רכוש את 'חבילת שירי פרימיום' על מנת לנגן את \"%s\". דילגנו עליו לעת עתה."</string>
-  <string name="vip_tomorrow_auto_renew_message">"מנוי ה'מוסיקה' שלך יתחדש באופן אוטומטי מחר בערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
+  <string name="vip_tomorrow_auto_renew_message">"מנוי ה'מוסיקה' שלך יחודש באופן אוטומטי מחר בערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
   <string name="vip_tomorrow_renew_message">לא תוכל להזרים שמע באיכות גבוהה, אולם שירים מסויימים יהיו זמינים באיכות רגילה.</string>
   <string name="warning_tip_cancel">הורדה</string>
   <string name="warning_tip_content">אינך מחובר עוד לרשת אלחוטית. שימוש בחיבור הנתונים הסלולריים שלך לצורך השלמת הורדה זו יגביר את השימוש שלך בנתונים. אם תחרוג ממסגרת חבילת הגלישה, ספק הרשת שלך עשוי לגבות חיובים נוספים.</string>

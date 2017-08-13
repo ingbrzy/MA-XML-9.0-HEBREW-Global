@@ -50,6 +50,11 @@
         <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
         <item>כאשר המכשיר נעול או דקה 1 לאחר יציאה מיישום</item>
     </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
     <string-array name="sort_type">
         <item>סטטוס</item>
         <item>שם היישום</item>
@@ -73,10 +78,10 @@
         <item>update_time</item>
     </string-array>
     <string-array name="title_app_info">
-        <item>Installation source</item>
-        <item>Installation time</item>
-        <item>Last update source</item>
-        <item>Last update time</item>
+        <item>מקור התקנה</item>
+        <item>זמן התקנה</item>
+        <item>מקור העדכון האחרון</item>
+        <item>זמן העדכון האחרון</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>שימוש בנתונים</item>
@@ -123,5 +128,10 @@
         <item>לעולם אל תפעיל רטט</item>
         <item>רטט וכשהושתק</item>
         <item>תמיד לרטוט</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

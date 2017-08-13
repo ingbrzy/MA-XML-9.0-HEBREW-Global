@@ -348,7 +348,6 @@
   <string name="battery_saver_off_summary">כבוי / %1$s</string>
   <string name="battery_saver_on_summary">פועל / %1$s</string>
   <string name="battery_saver_turn_on_automatically_never">אף פעם</string>
-  <string name="battery_saver_turn_on_automatically_pct">‏בעוצמת סוללה של %1$s</string>
   <string name="battery_saver_turn_on_automatically_title">הפעל אוטומטית</string>
   <string name="battery_since_reset">צריכת סוללה מאז האיפוס</string>
   <string name="battery_since_unplugged">צריכת סוללה מאז הניתוק</string>
@@ -444,7 +443,6 @@
   <string name="bluetooth_empty_list_bluetooth_off">‏כש-Bluetooth פועל, יש קשר למכשירי Bluetooth אחרים.</string>
   <string name="bluetooth_empty_list_user_restricted">‏אין לך הרשאה לשנות את הגדרות ה-Bluetooth.</string>
   <string name="bluetooth_enable_alphanumeric_pin">‏PIN מכיל אותיות או סמלים</string>
-  <string name="bluetooth_enter_passkey_msg">‏הקלד את קוד ההתאמה ולאחר מכן לחץ על Return או Enter</string>
   <string name="bluetooth_enter_passkey_other_device">ייתכן שתצטרך להקליד את המפתח הזה גם במכשיר השני.</string>
   <string name="bluetooth_enter_pin_other_device">‏ייתכן שתצטרך להקליד את קוד ה-PIN הזה גם במכשיר השני.</string>
   <string name="bluetooth_error_title"/>
@@ -1778,18 +1776,6 @@
   <string name="power_camera">מצלמה</string>
   <string name="power_cell">סלולרי במצב המתנה</string>
   <string name="power_charge_remaining">%1$s לסיום הטעינה</string>
-  <string name="power_charging">%1$s‏ - %2$s</string>
-  <string name="power_charging_duration">%1$s ‏- %2$s עד למילוי</string>
-  <string name="power_charging_duration_ac">%1$s ‏- %2$s עד למילוי בזרם חילופין</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_usb">‏%1$s ‏- %2$s עד למילוי ב-USB</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_wireless">%1$s ‏- %2$s עד למילוי בטעינה אלחוטית</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-  <string name="power_discharge_remaining">נותרו %1$s</string>
-  <string name="power_discharging_duration">%1$s - ‏%2$s בקירוב עד לסיום</string>
-  <string name="power_discharging_duration_short">%1$s - נותרו %2$s</string>
   <string name="power_flashlight">פנס</string>
   <string name="power_idle">טלפון לא פעיל</string>
   <string name="power_overcounted">חישוב יתר</string>
@@ -1861,8 +1847,6 @@
   <string name="process_stats_run_time">משך ההפעלה</string>
   <string name="process_stats_summary">סטטיסטיקה של מומחי מחשבים על התהליכים הפועלים</string>
   <string name="process_stats_summary_title">סטטיסטיקה של תהליך</string>
-  <string name="process_stats_total_duration">נעשה שימוש ב-%1$s מתוך %2$s בפרק הזמן שחלף של %3$s</string>
-  <string name="process_stats_total_duration_percentage">‏נעשה שימוש ב-%1$s מה-RAM בפרק הזמן שחלף של %2$s</string>
   <string name="process_stats_type_background">רקע</string>
   <string name="process_stats_type_cached">בקובץ שמור</string>
   <string name="process_stats_type_foreground">חזית</string>

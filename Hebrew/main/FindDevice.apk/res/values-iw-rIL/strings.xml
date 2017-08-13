@@ -18,6 +18,7 @@
   <string name="enable_find_device_success">"'איתור המכשיר' פועל"</string>
   <string name="find_device">איתור המכשיר</string>
   <string name="find_device_crash">"'איתור המכשיר' נסגר באופן לא צפוי."</string>
+  <string name="find_device_error_access_denied">הגישה נדחתה.</string>
   <string name="find_device_error_account_sys_timeout">"לא ניתן היה להתחבר לחשבון Mi. "</string>
   <string name="find_device_error_account_unknown_error">שגיאת חשבון Mi (%s).</string>
   <string name="find_device_error_network">שגיאת רשת.</string>
@@ -50,6 +51,10 @@
   <string name="phone_locked_account_phone">, מספר טלפון מקושר: %s</string>
   <string name="stop_on_empty_captcha">שדה זיהוי התוים לא יכול להיוותר ריק</string>
   <string name="stop_on_empty_password">שדה הסיסמה לא יכול להיוותר ריק</string>
+  <string name="sys_notification_async_open_failed_content">לחץ על מנת לנסות שוב או על מנת לבטל.</string>
+  <string name="sys_notification_async_open_failed_title">"לא ניתן היה להפעיל את 'איתור המכשיר'"</string>
+  <string name="sys_notification_async_verify_content">"'מדיניות האבטחה' המעודכנת שלנו דורשת ש'איתור המכשיר' יופעל מחדש."</string>
+  <string name="sys_notification_async_verify_title">"הפעל מחדש את 'איתור המכשיר'"</string>
   <string name="time_correction_failure">לא ניתן לתקן את השעה. %s</string>
   <string name="time_correction_success">השעה תוקנה</string>
   <string name="unlock">הפעלה</string>

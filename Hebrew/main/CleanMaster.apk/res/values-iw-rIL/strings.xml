@@ -346,10 +346,23 @@
   <string name="privacy_search_desc">הסטורית חיפוש</string>
   <string name="privacy_search_type">חיפוש Google</string>
   <string name="promotion">פרסומת</string>
+  <string name="qq_cache_files">מטמון QQ</string>
+  <string name="qq_clean">מנקה QQ</string>
+  <string name="qq_clean_exit_confirm_msg">לעצור את הסריקה ולצאת כעת?</string>
+  <string name="qq_data_type_cache">מטמון QQ</string>
+  <string name="qq_data_type_cache_desc">תוכל לשחזר קבצים אלה לאחר שתתחבר לאינטרנט.</string>
+  <string name="qq_data_type_chat">"היסטורית צ'אט"</string>
+  <string name="qq_data_type_chat_desc">"לא תוכל לשחזר את היסטורית הצ'אט."</string>
+  <string name="qq_data_type_normal">אשפה</string>
+  <string name="qq_data_type_normal_clean_tips">אלה הם קבצים טכניים. מחיקה שלהם לא תשפיע על השימוש שלך.</string>
+  <string name="qq_data_type_normal_desc">מחיקתם לא תשפיע על השימוש שלך.</string>
+  <string name="qq_data_type_other">אחר</string>
+  <string name="qq_data_type_other_desc">אזהרה! לא תוכל לשחזר קבצים אלה לאחר מחיקתם.</string>
   <string name="recommend_news">קבל המלצות</string>
   <string name="recommend_the_following">בצע את הפעולות הבאות על מנת להפיק את המירב ממכשירך</string>
   <string name="recommended">מומלץ</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; &amp;#1511;&amp;#1489;&amp;#1510;&amp;#1497;&amp;#1501; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1508;&amp;#1497;&amp;#1501; &amp;#1504;&amp;#1497;&amp;#1514;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1504;&amp;#1497;&amp;#1511;&amp;#1493;&amp;#1497;. &amp;#1508;&amp;#1504;&amp;#1492; &amp;#1502;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1507;.;&lt;/Data&gt;" "</string>
+  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;&amp;#1489;&amp;#1488;&amp;#1508;&amp;#1513;&amp;#1512;&amp;#1493;&amp;#1514;&amp;#1498; &amp;#1500;&amp;#1504;&amp;#1511;&amp;#1493;&amp;#1514; &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; &amp;#1513;&amp;#1500; &amp;#1502;&amp;#1496;&amp;#1502;&amp;#1493;&amp;#1503; &amp;#1488;&amp;#1513;&amp;#1512; &amp;#1504;&amp;#1493;&amp;#1510;&amp;#1512; &amp;#1506;&amp;#1500; &amp;#1497;&amp;#1491;&amp;#1497; QQ;&lt;/Data&gt;" "</string>
   <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; &amp;#1511;&amp;#1489;&amp;#1510;&amp;#1497; &amp;#1502;&amp;#1496;&amp;#1502;&amp;#1493;&amp;#1503; &amp;#1513;&amp;#1500; WeChat. &amp;#1508;&amp;#1504;&amp;#1492; &amp;#1502;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1507;.;&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">אפשר</string>
   <string name="sc_allow_network_dialog_message">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל עדכונים?</string>
@@ -436,10 +449,7 @@
   <string name="wechat_chat_data_type_normal_desc">מחיקתם לא תשפיע על השימוש שלך.</string>
   <string name="wechat_chat_data_type_other">אחר</string>
   <string name="wechat_chat_data_type_other_desc">אזהרה! לא תוכל לשחזר קבצים אלה לאחר מחיקתם.</string>
-  <string name="wechat_chat_files">"היסטורית צ'אט"</string>
   <string name="wechat_clean">מנקה WeChat</string>
-  <string name="wechat_clean_downloads">קבצים שהתקבלו</string>
-  <string name="wechat_clean_downloads_desc">קבצים שהתקבלו ב-WeChat</string>
   <string name="wechat_clean_exit_confirm">לצאת?</string>
   <string name="wechat_clean_exit_confirm_msg">לעצור את הסריקה ולצאת כעת?</string>
   <string name="wechat_clean_stop_confirm">לעצור את סריקה?</string>
@@ -454,7 +464,8 @@
   <string name="wechat_copying_video_dialog_title">ייצוא לגלריה</string>
   <string name="wechat_copying_video_empty">אין סרטונים לייצוא</string>
   <string name="wechat_copying_video_success">ייוצא בהצלחה</string>
-  <string name="wechat_normal_files">אשפה</string>
+  <string name="wechat_qq_chat_files">"היסטורית צ'אט"</string>
+  <string name="wechat_qq_normal_files">אשפה</string>
   <string name="white_list_ad_header">קבצים חסרי תועלת: %d</string>
   <string name="white_list_apk_header">חבילות התקנה: %d</string>
   <string name="white_list_cache_header">קבצים מוטמנים: %d</string>

@@ -59,8 +59,8 @@
         <item>לאחרונה</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>חוסם מצב שינה עמוקה</item>
-        <item>חוסם מצב שינה</item>
+        <item>חוסם את מצב שינה עמוקה</item>
+        <item>חוסם את מצב שינה</item>
         <item>מחפש אחר רשת אלחוטית</item>
         <item>משתמש ב-GPS</item>
         <item>משתמש ב-CPU</item>
@@ -84,7 +84,7 @@
         <item>מצב ביצועים ראשון</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Current default mode</item>
-        <item>Current performance mode</item>
+        <item>מצב ברירת מחדל נוכחי</item>
+        <item>מצב ביצועים נוכחי</item>
     </string-array>
 </resources>

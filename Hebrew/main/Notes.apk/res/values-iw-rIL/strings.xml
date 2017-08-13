@@ -119,7 +119,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">מחיקה מהירה</string>
   <string name="recover_notes_hint">אירעה שגיאה, עבור אל i.mi.com לשחזור הפתקים.</string>
   <string name="redo">בצע מחדש</string>
-  <string name="refuse_to_share_as_pic_because_of_content">פתק זה גדול מידי כדי לשתף אותו.</string>
+  <string name="refuse_to_share_as_pic_because_of_content">פתק זה גדול מידי מכדי שתוכל לשתפו.</string>
   <string name="refuse_to_share_as_pic_because_of_loading">המתן עד לטעינת הפתק ונסה שוב.</string>
   <string name="rename_folder_dialog_tile">שינוי שם התיקיה</string>
   <string name="root_folder_name">פתקים מהירים</string>
@@ -129,6 +129,7 @@
   <string name="search_label">מחפש…</string>
   <string name="search_path_notes">יישומי מערכתתקים</string>
   <string name="search_setting_description">חיפוש טקסט בפתקים שלך</string>
+  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">סנכרן פתקים</string>
   <string name="set_alarm_description">הגדרת שעון מעורר</string>
   <string name="sina_share_fail">לא ניתן היה לשלוח</string>

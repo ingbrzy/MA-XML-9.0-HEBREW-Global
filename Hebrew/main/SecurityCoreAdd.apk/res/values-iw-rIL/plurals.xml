@@ -18,4 +18,10 @@
         <item quantity="two">"%d התראות ב'שטח שני'"</item>
         <item quantity="many">"%d התראות ב'שטח שני'"</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">חפש %d יישומים</item>
+        <item quantity="one">חפש יישום %d</item>
+        <item quantity="two">חפש %d יישומים</item>
+        <item quantity="many">חפש %d יישומים</item>
+    </plurals>
 </resources>

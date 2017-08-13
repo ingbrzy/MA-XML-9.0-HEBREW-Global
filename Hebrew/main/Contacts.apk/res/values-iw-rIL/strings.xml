@@ -88,6 +88,7 @@
   <string name="call_radio">התקשר לרדיו</string>
   <string name="call_record_setting_miui">הגדרות הקלטה</string>
   <string name="call_settings">הגדרות</string>
+  <string name="call_settings_primary_user_only">הגדרות השיחה ניתנות לשינוי על ידי המשתמש הראשי בלבד.</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">חייג באמצעות SIM 1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -144,7 +145,7 @@
   <string name="callrecordview_menu_show_stranger">שיחות ממספר לא מזוהה</string>
   <string name="callrecordview_menu_show_title">תצוגת יומן שיחות</string>
   <string name="cancel_confirmation_dialog_message">לבטל את השינויים שלך?</string>
-  <string name="cancel_confirmation_dialog_title">ביטול</string>
+  <string name="cancel_confirmation_dialog_title">חזרה</string>
   <string name="cancel_export_confirmation_message">לבטל את הייצוא של %s?</string>
   <string name="cancel_import_confirmation_message">לבטל את הייבוא של %s?</string>
   <string name="cancel_import_dialog_message">להפסיק ייבוא אנשי קשר?</string>
@@ -623,7 +624,7 @@
   <string name="menu_deleteGroup">מחק</string>
   <string name="menu_dial_ip_number">חייג שיחת IP</string>
   <string name="menu_dialpad_text">לוח מקשים</string>
-  <string name="menu_discard">בטל</string>
+  <string name="menu_discard">ביטול</string>
   <string name="menu_display_all">הצג הכל</string>
   <string name="menu_display_selected">הצג את הנבחרים</string>
   <string name="menu_doNotSave">ביטול</string>
@@ -669,6 +670,7 @@
   <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
   <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
   <string name="miprofile_contact_verifying">מאמת</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">ערוך פרופיל</string>
   <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
   <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -867,6 +869,8 @@
   <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
   <string name="payphone">טלפון ציבורי</string>
   <string name="people">אנשי קשר</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">טלפון</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
@@ -935,7 +939,7 @@
   <string name="preference_phone_more_title">הגדרות שיחה</string>
   <string name="preference_remove_duplicate">מזג כפילויות</string>
   <string name="preference_show_yellowpage_tab_description">Close the YellowPage tab, the YellowPage function will not work properly</string>
-  <string name="preference_show_yellowpage_tab_title">"הצג את תוית 'דפי זהב'"</string>
+  <string name="preference_show_yellowpage_tab_title">"הצג את כניסת 'דפי זהב'"</string>
   <string name="preference_simple_mode_description">הצג תמונות ופרטי איש קשר נוספים ברשימה</string>
   <string name="preference_simple_mode_title">הצג תמונות ומידע</string>
   <string name="preference_smart_group_company_summary">קבץ לפי חברה</string>
@@ -1179,10 +1183,12 @@
   <string name="type_outgoing">שיחה יוצאת</string>
   <string name="type_voicemail">הודעה קולית</string>
   <string name="unable_get_device_id">לא ניתן לקבל IMEI</string>
+  <string name="unfold_all">פרוס הכל</string>
   <string name="unknow_phone_number_call_failed">לא ניתן לחייג למספר לא ידוע</string>
   <string name="unknow_phone_number_mms_failed">לא ניתן לשלוח הודעה למספר לא ידוע</string>
   <string name="unknown">לא מוכר</string>
   <string name="unknown_contact_name">איש קשר לא מוכר</string>
+  <string name="unknown_details_new_contact">איש קשר חדש</string>
   <string name="update_sim_contact_photo_toast">לא ניתן להגדיר תמונות פרופיל עבור אנשי קשר ב-SIM</string>
   <string name="upgrade_in_progress">רשימת אנשי הקשר מתעדכנת.</string>
   <string name="upgrade_out_of_memory">"אנשי הקשר נמצאים בתהליך של עדכון. 

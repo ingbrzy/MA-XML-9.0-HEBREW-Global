@@ -179,6 +179,9 @@
   <string name="scanner_fingerprint_tips_desc">"בחר טביעת אצבע קיימת על מנת להיכנס ל'שטח שני'. לא תוכל להשתמש בה עבור 'שטח ראשון'."</string>
   <string name="scanner_fingerprint_tips_title">"היכנס ל'שטח שני' באמצעות שימוש בטביעת אצבע קיימת"</string>
   <string name="scanner_second_space_fingerprint">"סרוק את טביעת האצבע של 'שטח שני'"</string>
+  <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_result_text">לא נמצאו יישומים</string>
   <string name="secondSpace">שטח שני</string>
   <string name="second_owner_finger_print">"טביעת אצבע של 'שטח שני'"</string>
   <string name="second_space_finger_printf_desc">"הוסף טביעת אצבע שתשמש לכניסה ל'שטח שני' בלבד"</string>

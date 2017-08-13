@@ -32,9 +32,9 @@
 מצב 'חסכון בסוללה' יתן יחס מועדף ליישומים חשובים."</string>
   <string name="config_suggest_suffix_title">"מצב 'חיסכון בסוללה' של MIUI (מומלץ)"</string>
   <string name="config_suggest_title">"מצב 'חסכון בסוללה' של MIUI"</string>
-  <string name="confirm">Confirm</string>
+  <string name="confirm">אישור</string>
   <string name="disable_hide_mode">"השבת את מצב 'חסכון בסוללה' של MIUI"</string>
-  <string name="disable_hide_mode_warning">"השבתת מצב 'חסכון בסוללה' של MIUI עשוי להוביל לצריכת אנרגיה גבוהה יותר"</string>
+  <string name="disable_hide_mode_warning">"השבתת מצב 'חסכון בסוללה' של MIUI עשויה להוביל לצריכת אנרגיה גבוהה יותר"</string>
   <string name="disabled">כבוי</string>
   <string name="empty_title_apps_container_list">אין יישומים</string>
   <string name="enable_hide_mode">"אפשר את מצב 'חסכון בסוללה' של MIUI"</string>
@@ -51,7 +51,7 @@
   <string name="hide_system_app">הסתר יישומי מערכת</string>
   <string name="high">ביצועים</string>
   <string name="hints_loading_text">רק רגע…</string>
-  <string name="important_warning">Warning</string>
+  <string name="important_warning">אזהרה</string>
   <string name="invalid_size_value">לא ניתן היה לקבל את גודל החבילה.</string>
   <string name="location_disable_description">יישומים הפועלים ברקע יכולים לגשת לשירותי המיקום לתקופה קצרה בלבד, בעת שהגישה הרציפה מוגבלת</string>
   <string name="location_disable_title">הגבל</string>
@@ -184,5 +184,5 @@
   <string name="vip_feedback">משוב Vip</string>
   <string name="vip_feedback_enable">"אפשר את 'משוב Vip אוטומטי'"</string>
   <string name="warm_configure">Warm control configure</string>
-  <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
+  <string name="warm_performance_tip">בתרחישים של עומס גבוה, טמפרטורת הטלפון גבוהה ממצב ברירת המחדל</string>
 </resources>

@@ -241,7 +241,7 @@
   <string name="pref_summary_enable_max_bytes_popup">הצג התראה קופצת במקרה של הורדת תוכן באמצעות חיבור נתונים סלולרי</string>
   <string name="pref_summary_max_bytes_limit_format">המתן לחיבור רשת אלחוטית במידה וגודל הקובץ חורג מ- %s</string>
   <string name="pref_summary_no_limit_popup">ללא הגבלה</string>
-  <string name="pref_title_enable_max_bytes_popup">הצג התרעת שימוש בנתונים</string>
+  <string name="pref_title_enable_max_bytes_popup">הצג התראת שימוש בנתונים</string>
   <string name="preferences_title">הגדרות</string>
   <string name="privacy_tip_cancel">ביטול</string>
   <string name="privacy_tip_content">להשתמש במאיץ של Xunlei להאצת ההורדות? הקישור למארח ההורדה יועלה לשרתים של Xunlei. פרטי חשבון Mi שלך גם יועלו על מנת לבדוק אם יש לך מנויים פעילים לשירות זה.</string>

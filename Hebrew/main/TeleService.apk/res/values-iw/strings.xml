@@ -596,17 +596,6 @@
   <string name="pointer_location">מיקום מצביע</string>
   <string name="pointer_location_summary">שכבת-על של המסך המציגה את נתוני המגע הנוכחיים</string>
   <string name="port_title">מספר יציאה</string>
-  <string name="power_charging">%1$s‏ - %2$s</string>
-  <string name="power_charging_duration">%1$s ‏- %2$s עד למילוי</string>
-  <string name="power_charging_duration_ac">%1$s ‏- %2$s עד למילוי בזרם חילופין</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_usb">‏%1$s ‏- %2$s עד למילוי ב-USB</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_wireless">%1$s ‏- %2$s עד למילוי בטעינה אלחוטית</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-  <string name="power_discharging_duration">%1$s - ‏%2$s בקירוב עד לסיום</string>
-  <string name="power_discharging_duration_short">%1$s - נותרו %2$s</string>
   <string name="power_remaining_duration_only">נשארו %1$s בערך</string>
   <string name="power_remaining_duration_only_short">נותרו %1$s</string>
   <string name="preference_category_ringtone">רינגטון ורטט</string>
