@@ -109,9 +109,6 @@
   <string name="cancel_running_download">ביטול</string>
   <string name="change_download_quality">שינוי איכות ההורדה</string>
   <string name="channel_list_fragment_title">רדיו</string>
-  <string name="chinese_female">אמניות (סין)</string>
-  <string name="chinese_group">להקות (סין)</string>
-  <string name="chinese_male">אמנים (סין)</string>
   <string name="choose_download_quality">בחירת איכות הורדה</string>
   <string name="choose_stream_quality">בחר איכות הזרמה</string>
   <string name="click_modify">לחץ לשינוי מילות השיר.</string>
@@ -124,8 +121,6 @@
   <string name="cloud_loading_message">מחפש שירים</string>
   <string name="cloud_music">שירים ב-Mi Cloud</string>
   <string name="cloud_settings">הגדרות סנכרון</string>
-  <string name="cloud_space_full">לא נשאר שטח אחסון פנוי</string>
-  <string name="cloud_space_full_message">אין מספיק מקום ב-Mi Cloud שלך להוספת עוד שירים. לקבלת מקום נוסף, שדרג את חשבון Mi שלך.</string>
   <string name="cloud_state_cloud_space_full">אין מספיק שטח אחסון ב-Mi Cloud, הגיבוי הופסק</string>
   <string name="cloud_state_low_power">חבר מטען על מנת להמשיך את הגיבוי</string>
   <string name="cloud_state_network_data">לא ניתן היה למצוא רשתות אלחוטיות, הגיבוי הופסק</string>
@@ -209,7 +204,6 @@
   <string name="disable_auto_payment_success_message">החידוש האוטומטי כובה. לאחר שתוקף המנוי הנוכחי שלך יפוג, יהיה עליך לבצע הרשמה מחודשת על מנת להוריד שירים.</string>
   <string name="disallow_add_to_fm">לא ניתן להוסיף שירים לרדיו FM</string>
   <string name="disallow_add_to_personal_radio">"לא ניתן להוסיף שירים ל'רדיו אישי'"</string>
-  <string name="do_not_remind_again">אל תציג שוב</string>
   <string name="doc_filter">מסמכים</string>
   <string name="done">בוצע</string>
   <string name="download">הורדה</string>
@@ -303,9 +297,6 @@
   <string name="enable_auto_payment_success">חדש אוטומטית</string>
   <string name="enable_auto_payment_success_message">החידוש האוטומטי מופעל. תאריך התשלום הבא: %s.</string>
   <string name="enabled">מאופשר</string>
-  <string name="english_female">אמניות (ארה\"ב/אירופה)</string>
-  <string name="english_group">להקות (ארה\"ב/אירופה)</string>
-  <string name="english_male">אמנים (ארה\"ב/אירופה)</string>
   <string name="enter_garbage_clean">פנה מקום בשטח האחסון הפנימי.</string>
   <string name="eq_auto">מותאם אישית</string>
   <string name="eq_blues">בלוז</string>
@@ -342,7 +333,6 @@
   <string name="favorites">מועדפים</string>
   <string name="favourite_music_left_half">להוספת שירים לרשימת השמעה זו, לחץ על</string>
   <string name="favourite_music_right_half">"אייקון 'הוספה למועדפים' מימין לכותרת השיר"</string>
-  <string name="female_artist">אמניות</string>
   <string name="file_not_found">הקובץ לא קיים</string>
   <string name="filter_by_duration">לפי אורך</string>
   <string name="filter_by_duration_format">%2$d דקות %5$2d</string>
@@ -398,7 +388,6 @@
   <string name="global_search_title_movie">פסקולי סרטים</string>
   <string name="global_search_title_prenatal">מוסיקה טרום לידתית</string>
   <string name="global_search_title_radar">זיהוי מוסיקה</string>
-  <string name="group_artist">להקות</string>
   <string name="handle_later">לא כעת</string>
   <string name="higher_quality_music">שמע באיכות גבוהה</string>
   <string name="higher_quality_music_summary">הזרם והורד קבצים בעלי קצב גבוה יותר</string>
@@ -425,9 +414,6 @@
   <string name="is_scanning">בודק שטח אחסון…</string>
   <string name="is_scanning_support_online">"בודק שטח אחסון…
 (בינתיים, באפשרותך להזרים מוסיקה מקוונת)"</string>
-  <string name="japan_korea_female">אמניות (יפן/קוריאה)</string>
-  <string name="japan_korea_group">להקות (יפן/קוריאה)</string>
-  <string name="japan_korea_male">אמנים (יפן/קוריאה)</string>
   <string name="keep_queued_download">השאר</string>
   <string name="ktv_playlist">רשימת השמעה לקריוקי</string>
   <string name="latest_song">היסטורית ההשמעה (%d)</string>
@@ -459,7 +445,6 @@
   <string name="lyric_is_empty">אין מילות שיר זמינות</string>
   <string name="lyric_open_other_connect">הורד מילות שירים באמצעות הרשת הסלולרית</string>
   <string name="lyric_setting">הגדרות מילות שירים</string>
-  <string name="male_artist">אמנים</string>
   <string name="manager_cloud_space">נהל את נפח אחסון ב-Mi Cloud</string>
   <string name="media_filter">מדיה</string>
   <string name="menu_all_task_pause">עצור הכל</string>
@@ -565,7 +550,6 @@
   <string name="no_song_downloaded">לא ניתן היה להתחבר לשרת</string>
   <string name="normal_quality">טובה</string>
   <string name="not_login">לא מחובר</string>
-  <string name="not_now">לא כעת</string>
   <string name="not_selected">בחר שיר</string>
   <string name="notif_text_engine_off">מאיץ Xunlei כבוי.</string>
   <string name="notif_text_engine_on">מאיץ…</string>
@@ -884,7 +868,6 @@
   <string name="upgrade">שדרג:</string>
   <string name="upgrade_force">"אנו מפסיקים את שירות ההזרמה הנוכחי שלנו עקב בעיות הנוגעות לזכויות יוצרים. בצע עדכון לגירסה החדשה ביותר של יישום ה'מוסיקה' על מנת להאזין למוסיקה באיכות גבוהה."</string>
   <string name="upgrade_immediate">עדכן כעת</string>
-  <string name="upgrade_membership">קבל עוד שטח אחסון</string>
   <string name="upgrade_music">"עדכן את 'מוסיקה'"</string>
   <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
   <string name="upgrade_nobeta">אנו מפסיקים את שירות ההזרמה הנוכחי שלנו בעוד אנו פותרים בעיות הנוגעות לזכויות יוצרים. סליחה על אי הנוחות :(</string>

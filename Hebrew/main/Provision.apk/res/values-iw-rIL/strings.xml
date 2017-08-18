@@ -3,6 +3,7 @@
   <string name="agree">מסכים</string>
   <string name="agree_terms">קראתי ואני מסכים לתנאי השירות ומדיניות הפרטיות.</string>
   <string name="app_name">אספקה</string>
+  <string name="application_permissions">Application Permissions</string>
   <string name="back">הקודם</string>
   <string name="cm_terms_content">על מנת לשפר את השירותים המוצעים לך, יתכן וספק הרשת הסלולרית שבחרת יעלה את נתוניך האישיים ופרטי מכשיר זה לשרתים שלו באמצעות הרשת האלחוטית או חיבור רשת הנתונים הסלולרית. מידע זה ישמש למטרת איסוף נתונים סטטיסטיים ולצורך שיפור איכות השירותים ומתן יותר תוכן מותאם אישית בלבד. לא יעשה שימוש במידע זה לזיהויך באופן אישי והוא אינו יועבר לגופי צד שלישי.</string>
   <string name="cm_terms_title">הסכם מפעיל הרשת הסלולרית</string>

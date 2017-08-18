@@ -37,7 +37,7 @@
   <string name="error_filename_too_long">שם הקובץ ארוך מידי.</string>
   <string name="error_sdcard_access">לא ניתן לגשת לאחסון</string>
   <string name="error_sdcard_unmounted">הכנס כרטיס זכרון כעת</string>
-  <string name="export_to_note">"ייצא ל'פתקים'"</string>
+  <string name="export_to_note">Export</string>
   <string name="head_set_tip_dialog_msg">נתק את האוזניות שלך על מנת שתוכל להקליט שמע בעל ערכים ספציפיים (לדוגמה: מוסיקה, קול).</string>
   <string name="head_set_tip_dialog_ok">הבנתי</string>
   <string name="head_set_tip_dialog_title">השתמש במיקרופון הפנימי</string>

@@ -89,13 +89,14 @@
   <string name="open_camera_hint_text">החלק שמאלה לפתיחת המצלמה</string>
   <string name="open_remote_center_hint_text">Swipe right to open mi remote</string>
   <string name="phone_locked_foget_password">שכחת את הסיסמה?</string>
-  <string name="phone_locked_foget_password_content">"באפשרותך להיכנס ל-i.mi.com באמצעות חשבון Mi המקושר למכשיר זה, ולנקות את כל הנתונים.          פעולה זו תמחק את כל הנתונים האישיים השמורים במכשיר זה. לאחר מכן, תוכל לאתחל את המכשיר ולשחזר אנשי קשר, הודעות, תמונות, ופריטים אחרים מ-Mi Cloud.          
-
-לא תוכל לבצע פעולה זו אלא אם הינך מחובר לחשבון Mi במכשיר זה. אחרת, יהיה עליך לצרוב מחדש את המכשיר."</string>
-  <string name="phone_locked_foget_password_footer">"צעדים:
-היכנס ל-i.mi.com, עבור אל \"איתור המכשיר\", בחר במכשיר ולחץ \"מחק מכשיר\"."</string>
-  <string name="phone_locked_foget_password_header">מה עלי לעשות במידה ושכחתי את הסיסמה?</string>
+  <string name="phone_locked_foget_password_mehod_back">Back</string>
+  <string name="phone_locked_foget_password_method">Forgot password?</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">Next</string>
   <string name="phone_locked_foget_password_ok">הבנתי</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button &amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button &amp;lt;/font&amp;gt;simultaneously until you see ml.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; and wait until the device reboots.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
   <string name="phone_locked_string">הטלפון ננעל</string>
   <string name="phone_locked_timeout_minutes_string">נסה שוב בעוד %d דקות</string>
   <string name="phone_locked_timeout_seconds_string">נסה שוב בעוד %d שניות</string>

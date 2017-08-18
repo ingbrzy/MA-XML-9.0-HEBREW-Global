@@ -167,6 +167,7 @@
   <string name="color_picker_dialog_title">בחר צבע</string>
   <string name="color_picker_hue">צבע</string>
   <string name="color_picker_saturation">רוויה</string>
+  <string name="color_picker_value">ערך</string>
   <string name="comment_app_menu">הערה</string>
   <string name="comment_description">הערה</string>
   <string name="comment_hint">הערה</string>
@@ -479,6 +480,8 @@
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(רשת אלחוטית) בדוק את %s1 הגדרות ה-Proxy שלך%s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">נקה מטמון (%s1הגדרות%s2 - ניקוי נתונים).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">נקה מטמון ועוגיות (%s1הגדרות%s2 - ניקוי נתונים, יתכן ופרטי החשבון שלך יאבדו).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Clear cache and cookies (your account info may be lost).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Clear cache.</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">טען מחדש לאחר חיבור לאינטרנט</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">צור קשר עם מנהל המערכת שלך.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">בדוק את הכתובת שהזנת ונסה שוב באמצעות כתובת ה-URL הנכונה.</string>
@@ -658,6 +661,7 @@
   <string name="pull_to_refresh_pull_label">משוך לרענון</string>
   <string name="pull_to_refresh_release_label">שחרר להמלצה ורענון</string>
   <string name="qr_code_title">קוד QR</string>
+  <string name="qr_description">Scan QR code</string>
   <string name="quicklink_bookmark_save">שמור ב-</string>
   <string name="quicklink_cannot_save_url">לא ניתן להוסיף כתובת URL זו.</string>
   <string name="quicklink_folder_text">יישומים מומלצים</string>
@@ -756,8 +760,8 @@
   <string name="send_comment_title">הערה</string>
   <string name="senddesktop">מסך הבית</string>
   <string name="sendstartpage">עמוד הבית</string>
-  <string name="share_image_text">תראו מה מצאתי!</string>
-  <string name="share_page_text">תראו מה מצאתי: %1$s | %2$s</string>
+  <string name="share_image_text">Look what I shared! @MIUI</string>
+  <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לקבל המלצות רלוונטיות נוספות, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
   <string name="show_security_tip_dialog_title">תנאי השירות</string>
@@ -767,12 +771,13 @@
   <string name="skip_current_version">דלג על גירסה זו</string>
   <string name="snapshot">מקומי</string>
   <string name="snapshot_failed">לא ניתן היה לשמור את העמוד</string>
-  <string name="snapshot_successed">העמוד נשמר בהצלחה</string>
+  <string name="snapshot_successed">Open Bookmarks/History-&gt;LOCAL to view page</string>
   <string name="ssl_bad_clock_date_settings">הגדרת תאריך</string>
   <string name="ssl_bad_clock_warning" formatted="false">חיבור פרטי אל %s1 אינו יכול להתבצע כיוון שהתאריך והשעה של המכשיר שלך (%s2) שגויים.</string>
   <string name="ssl_certificate">אישור אבטחה</string>
   <string name="ssl_certificate_is_valid">אישור זה חוקי.</string>
   <string name="ssl_continue">המשך</string>
+  <string name="ssl_date_error_warnings_header">"The certificate of this site has expired or isn't valid yet. You are advised to leave this page.\""</string>
   <string name="ssl_date_invalid">לאישור זה תאריך לא חוקי.</string>
   <string name="ssl_expired">פג תוקפה של תעודה זו.</string>
   <string name="ssl_go_back">חזור</string>
@@ -905,6 +910,7 @@
   <string name="view_document_downloaded_files">"הצג קבצים שירדו ב'הורדות'"</string>
   <string name="voice_check_network">בדוק את הגדרות הרשת שלך ונסה שוב.</string>
   <string name="voice_connect_network">לא ניתן היה להתחבר לרשת.</string>
+  <string name="voice_description">Voice search</string>
   <string name="voice_network_connection">"'חיפוש קולי' זקוק לחיבור לאינטרנט על מנת לפעול כראוי."</string>
   <string name="voice_search_permission">"'חיפוש קולי' זקוק לגישה למיקרופון שלך על מנת לפעול כראוי."</string>
   <string name="voice_semantic_analysis">"ה'דפדפן' יוכל לבצע ניתוח סמנטיקה לאחר שתאפשר לו להתחבר."</string>

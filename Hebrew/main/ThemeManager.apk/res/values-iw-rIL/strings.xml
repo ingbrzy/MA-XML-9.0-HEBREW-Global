@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_info">החשבון שלי</string>
+  <string name="account_info">Me</string>
   <string name="account_name_not_login">היכנס</string>
   <string name="account_unactivated">החשבון לא הופעל</string>
   <string name="ad_app_download_start">מתחיל הורדה…</string>
@@ -24,6 +24,11 @@
   <string name="both_all_apply_failured">לא ניתן להחיל את הטפט</string>
   <string name="both_all_apply_success">הטפט הוחל</string>
   <string name="browser_local_resource">משאבים מקומיים</string>
+  <string name="can_not_apply">Can not apply</string>
+  <string name="card_data_request_error">Data request exception, please try again later~</string>
+  <string name="card_loading">Loading...</string>
+  <string name="card_no_network">No network now, please connect and try again~</string>
+  <string name="card_retry">Retry</string>
   <string name="change_host_hint">שנה מארח</string>
   <string name="change_wallpaper">טפט</string>
   <string name="close">סגירה</string>
@@ -52,6 +57,7 @@
   <string name="fail_to_add_account">לא ניתן להוסיף את החשבון</string>
   <string name="favorite_list">מועדפים</string>
   <string name="favorite_list_format">מועדף %1$s</string>
+  <string name="find_more_wallpapers">Find more</string>
   <string name="gift_anonymous">בעילום שם</string>
   <string name="gift_operation_fail_dlg_abandon">ביטול</string>
   <string name="gift_operation_fail_dlg_retry">נסה שוב</string>
@@ -86,14 +92,21 @@
   <string name="gift_used">נשלח</string>
   <string name="home_apply_failured">"לא ניתן להחיל את טפט 'מסך הבית'"</string>
   <string name="home_apply_success">"טפט 'מסך הבית' הוחל"</string>
-  <string name="incompatible_dialog_message">ערכת נושא זו אינה מתאימה ל-MIUI 8. אלמנטים מסויימים עשויים להיות מוצגים בצורה לא נכונה.</string>
+  <string name="in_the_end">No more</string>
+  <string name="incompatible_dialog_message">This theme isnt fully compatible with MIUI 9. Some elements may be displayed incorrectly.</string>
   <string name="incompatible_dialog_ok">הבנתי</string>
   <string name="incompatible_dialog_title">בעיות התאמה</string>
   <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
+  <string name="item_resource_audio_divider">│</string>
+  <string name="item_resource_audio_optional_alarm_ring">alarm ring</string>
+  <string name="item_resource_audio_optional_color_ring">color ring</string>
+  <string name="item_resource_audio_optional_notification_ring">notification ring</string>
+  <string name="item_resource_audio_optional_phone_ring">phone ring</string>
   <string name="live_wallpaper">טפט חי</string>
   <string name="loading">רק רגע…</string>
   <string name="loading_resource_detail_fail">לא ניתן לטעון את המשאב</string>
   <string name="loading_resource_detail_info">רק רגע…</string>
+  <string name="local_photos">Local photos</string>
   <string name="local_resouce_creator_name">מפתח: %1$s</string>
   <string name="lockscreen_apply_failured">"לא ניתן להחיל את טפט 'מסך הנעילה'"</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">"טפט 'מסך הבית' הוחל. לא ניתן להחיל את טפט 'מסך הנעילה'."</string>
@@ -128,6 +141,7 @@
   <string name="purchased_list">נרכשו</string>
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_legacy">מורשת ערכות נושא</string>
+  <string name="recently_used">Recently used</string>
   <string name="reload">נסה שוב</string>
   <string name="resource_account_abnormal_state">שגיאת חשבון. המתן דקה או שתיים ונסה שוב.</string>
   <string name="resource_account_fail_to_add">לא ניתן להוסיף את החשבון</string>
@@ -265,6 +279,10 @@
   <string name="resource_ranking">פופולרי</string>
   <string name="resource_ranking_free">חינם</string>
   <string name="resource_ranking_purchase">שולם</string>
+  <string name="resource_ring_ranking_list_divider">-</string>
+  <string name="resource_ring_ranking_list_rank_1">1</string>
+  <string name="resource_ring_ranking_list_rank_2">2</string>
+  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">צלצולים</string>
   <string name="resource_ringtone_playing_error">שגיאה</string>
   <string name="resource_ringtone_volume_mute">הצלצול מושתק</string>
@@ -320,12 +338,14 @@
   <string name="resource_user_know">אישור</string>
   <string name="resource_waiting_download">ממתין</string>
   <string name="resource_waiting_pause">עצור</string>
+  <string name="ringtone_set_success">Set successfully</string>
   <string name="sdcard_not_mounted_dialog_message">"הכנס כרטיס זכרון כעת.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">לא זוהה כרטיס זכרון</string>
   <string name="search_hint_header_text">חיפושים נפוצים</string>
   <string name="selected_resource_file_invalid">לא ניתן להשתמש בקובץ המשאב הנבחר</string>
   <string name="settings">הגדרות</string>
+  <string name="system_precust">System precust</string>
   <string name="the_picture_is_not_support">התמונה אינה נתמכת</string>
   <string name="the_picture_is_too_small">התמונה קטנה מידי</string>
   <string name="theme_apply_audio_dialog_item_alarm">שעון מעורר</string>
@@ -398,7 +418,7 @@
   <string name="theme_user_agreement_content3">" ול- "</string>
   <string name="theme_user_agreement_content4">מדיניות הפרטיות</string>
   <string name="theme_user_agreement_content5">". יישום זה זקוק לחיבור לאינטרנט על מנת לפעול באופן תקין. "</string>
-  <string name="theme_user_agreement_exit">יציאה</string>
+  <string name="theme_user_agreement_exit">Disagree</string>
   <string name="theme_user_agreement_remind_again">הצג את תנאי השימוש</string>
   <string name="theme_user_agreement_remind_never">אל תציג שוב</string>
   <string name="theme_user_agreement_remind_summary">"הצג חלון קופץ אודות 'תנאי השימוש' בכל פעם שתפתח את יישום 'ערכות נושא'. תכונה זו תחל לפעול לאחר שתאתחל את מכשירך."</string>
@@ -415,7 +435,7 @@
   <string name="uid_change_dialog_message">מחקת עדכונים. אתחל את המכשיר על מנת שתוכל להשתמש בערכות הנושא.</string>
   <string name="uid_change_dialog_ok">הבנתי</string>
   <string name="uid_change_dialog_title">אתחל את המכשיר</string>
-  <string name="wallpaper_auto_change_title">מסך הנעילה</string>
+  <string name="wallpaper_apply">Apply</string>
   <string name="wallpaper_crop">חתוך</string>
   <string name="wallpaper_decoded_error">לא ניתן לטעון את הטפט</string>
   <string name="wallpaper_scroll_type_tips">גלילת הטפט</string>
@@ -423,8 +443,8 @@
   <string name="wallpaper_set_as_destop">"הגדר כ'מסך הבית'"</string>
   <string name="wallpaper_set_as_lockscreen">"הגדר כ'מסך הנעילה'"</string>
   <string name="wallpaper_settings">הגדרות טפט</string>
-  <string name="wallpaper_settings_change_wallpaper">שינוי</string>
-  <string name="wallpaper_settings_desktop_text">מסך הבית</string>
-  <string name="wallpaper_settings_lockscreen_text">מסך הנעילה</string>
+  <string name="wallpaper_settings_loading_text">Loading</string>
+  <string name="wallpaper_settings_no_history">No history</string>
+  <string name="wallpaper_settings_pad_more_page_title">More wallpapers</string>
   <string name="wallpaper_settings_page_title">טפט</string>
 </resources>

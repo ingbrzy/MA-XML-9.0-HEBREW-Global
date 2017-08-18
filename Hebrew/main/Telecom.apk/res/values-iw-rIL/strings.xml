@@ -28,12 +28,12 @@
   <string name="duplicate_video_call_not_allowed">לא ניתן להוסיף שיחה כעת.</string>
   <string name="enable_account_preference_title">חשבונות חיוג</string>
   <string name="handle_restricted">RESTRICTED</string>
-  <string name="headset_plugin_view_text">מחוברות אוזניות.</string>
+  <string name="headset_plugin_view_text">אוזניות מחוברות.</string>
   <string name="headset_plugin_view_title">אוזניות</string>
   <string name="incall_error_call_failed">לא ניתן היה לבצע את השיחה.</string>
   <string name="no_vm_number">מספר תא קולי חסר</string>
   <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
-  <string name="non_primary_user">בעלי המכשיר בלבד יכול לנהל את המספרים החסומים.</string>
+  <string name="non_primary_user">רק בעל המכשיר יכול לנהל את המספרים החסומים.</string>
   <string name="notification_AllMissedCallTitle">כל השיחות שלא נענו</string>
   <string name="notification_missedCallTicker">שיחה שלא נענתה מ- %s</string>
   <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
@@ -44,7 +44,7 @@
   <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
   <string name="notification_missedWorkCallTitle">שיחת עבודה שלא נענתה</string>
   <string name="outgoing_call_error_no_phone_number_supplied">לביצוע שיחה, הזן מספר חוקי.</string>
-  <string name="outgoing_call_not_allowed_no_permission">"יישום זה אינו יכול לבצע שיחות יוצאות ללא אישור ה'טלפון'."</string>
+  <string name="outgoing_call_not_allowed_no_permission">"יישום זה אינו יכול לבצע שיחות יוצאות ללא 'הרשאת הטלפון'."</string>
   <string name="outgoing_call_not_allowed_user_restriction">שיחות חירום בלבד מאופשרות.</string>
   <string name="respond_via_sms_canned_response_1">לא יכול/ה לדבר כעת. מה קורה?</string>
   <string name="respond_via_sms_canned_response_2">תכף אחזור אליך.</string>

@@ -825,8 +825,8 @@
   <string name="internal_format">מחיקת האחסון הפנימי</string>
   <string name="internal_format_summary">מחק את כל הנתונים באחסון הפנימי של מכשירך</string>
   <string name="internal_media_format_button_text">מחיקת האחסון הפנימי</string>
-  <string name="internal_media_format_desc">למחוק את האחסון הפנימי? &lt;b&gt;&amp;#1499;&amp;#1500;&lt;/b&gt; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500;&amp;#1498; &amp;#1497;&amp;#1502;&amp;#1495;&amp;#1511;&amp;#1493;. &amp;#1492;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1497;&amp;#1493;&amp;#1508;&amp;#1506;&amp;#1500; &amp;#1502;&amp;#1495;&amp;#1491;&amp;#1513; &amp;#1500;&amp;#1488;&amp;#1495;&amp;#1512; &amp;#1502;&amp;#1495;&amp;#1497;&amp;#1511;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1502;&amp;#1497;.</string>
-  <string name="internal_media_format_final_desc">למחוק את האחסון הפנימי? לא תוכל לבטל פעולה זו! הטלפון יופעל מחדש לאחר מחיקת האחסון הפנימי.</string>
+  <string name="internal_media_format_desc">למחוק את האחסון הפנימי? &lt;b&gt;&amp;#1499;&amp;#1500;&lt;/b&gt; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500;&amp;#1498; &amp;#1497;&amp;#1502;&amp;#1495;&amp;#1511;&amp;#1493;. &amp;#1492;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1497;&amp;#1489;&amp;#1510;&amp;#1506; &amp;#1488;&amp;#1514;&amp;#1495;&amp;#1493;&amp;#1500; &amp;#1500;&amp;#1488;&amp;#1495;&amp;#1512; &amp;#1502;&amp;#1495;&amp;#1497;&amp;#1511;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1502;&amp;#1497;.</string>
+  <string name="internal_media_format_final_desc">למחוק את האחסון הפנימי? לא תוכל לבטל פעולה זו! הטלפון יבצע אתחול לאחר מחיקת האחסון הפנימי.</string>
   <string name="internal_media_format_title">מחיקת האחסון הפנימי</string>
   <string name="keep_legacy_fingerprint">השאר</string>
   <string name="keep_screen_on">הישאר עירני</string>
@@ -926,6 +926,8 @@
   <string name="location_neighborhood_level_wifi">המיקום נקבע באמצעות הרשת האלחוטית</string>
   <string name="location_network_based">רשת אלחוטית &amp; רשת סלולרית</string>
   <string name="lock_screen_cells_title">"נעל את פריסת 'מסך הבית'"</string>
+  <string name="lock_screen_notifications_summary_hide">הצג את כל ההתראות אך הסתר את תוכנן</string>
+  <string name="lock_screen_notifications_summary_show">הצג את כל ההתראות והתוכן שלהן</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">דרושה סיסמה באופן מיידי.</string>
   <string name="lock_screen_secure_after_timeout_summary">דרוש סיסמה: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">דרוש סיסמה</string>
@@ -1007,6 +1009,7 @@
   <string name="lockscreen_glogin_checking_password">בודק…</string>
   <string name="lockscreen_glogin_password_hint">סיסמה</string>
   <string name="lockscreen_glogin_submit_button">היכנס</string>
+  <string name="lockscreen_magazine">Wallpaper Carousel</string>
   <string name="lockscreen_magazine_title">טפט קרוסלה</string>
   <string name="login_account_dialog_message">היכנס באמצעות חשבון Mi שלך והפעל את הסנכרון עם Mi Cloud.</string>
   <string name="login_account_dialog_title">היכנס באמצעות חשבון Mi</string>
@@ -1015,6 +1018,7 @@
   <string name="main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
   <string name="make_sure_cancel_update">לבטל את העדכון?</string>
   <string name="man_add_application">הוסף יישומי הפעלה אוטומטית</string>
+  <string name="manage_fakecell_settings">Protection from fake base stations</string>
   <string name="manage_fingerprint_text">נהל טביעות אצבע</string>
   <string name="manage_xiaomi_router">הגדרות נתב Mi</string>
   <string name="managed_profile_location_category">פרופיל עבודה</string>
@@ -1193,6 +1197,8 @@
   <string name="no_updates_warning">המערכת שלך עדכנית</string>
   <string name="no_updates_warning2">הירגע, נודיע לך כשיהיה עדכון זמין :)</string>
   <string name="noise_suppression">השתקת רעשי הסביבה</string>
+  <string name="normal">Normal</string>
+  <string name="normal_info">All the volume is normal</string>
   <string name="normal_smartcover_title">מכסה קדמי אטום</string>
   <string name="notes_privacy_password_role_instruction">הפתקים האישיים שלך יאוחסנו כאן.</string>
   <string name="notification_breathing_light_color_title">צבע נורית ההתראות</string>
@@ -1384,6 +1390,7 @@
   <string name="privacy_factory_reset_dlg_title">גבה את הנתונים שלך</string>
   <string name="privacy_file">קבצים</string>
   <string name="privacy_gallery">תמונות</string>
+  <string name="privacy_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
   <string name="privacy_mms">הודעות</string>
   <string name="privacy_mode_dialog_message">להסתיר הודעות, פתקים, תמונות, הגדרות, ושיחות נכנסות?</string>
   <string name="privacy_mode_dialog_title">מצב אורח</string>
@@ -1468,7 +1475,6 @@
   <string name="remove_from_frequently_fragment">"להסיר את %s מ'הגדרות מהירות'?"</string>
   <string name="repeat">חזור</string>
   <string name="repeat_call">Repeated caller reminder</string>
-  <string name="repeat_call_info">In the Silent mode, if the same person in 15 minutes two calls, allowing Ling Ling reminders</string>
   <string name="reset_aaid">"אפס את 'מזהה הפרסומות'"</string>
   <string name="reset_legacy_password_settings_preface_text">עליך לאפס את סיסמת נעילת המסך שלך.</string>
   <string name="reset_second_space_passwd">"אפס את סיסמת 'שטח שני'"</string>
@@ -1818,10 +1824,11 @@
   <string name="shut_down_find_device_network_failure_content">"לא ניתן היה לכבות את 'איתור המכשיר'. ודא כי המכשיר שלך מחובר לאינטרנט."</string>
   <string name="shut_down_find_device_network_failure_title">לא ניתן להתחבר לרשת</string>
   <string name="shuting_down_find_device">"מכבה את 'איתור המכשיר'…"</string>
+  <string name="silent_duration">Duration</string>
   <string name="silent_mode">Silent Mode</string>
   <string name="silent_mode_title">מצב שקט</string>
   <string name="silent_off">כיבוי</string>
-  <string name="silent_settings">Silent Mode</string>
+  <string name="silent_settings">Silence/DND</string>
   <string name="silent_standard">שקט</string>
   <string name="silent_time">Slience Duration</string>
   <string name="silent_total">נא לא להפריע</string>
@@ -1912,6 +1919,8 @@
   <string name="status_bar_settings_style">התראות &amp; פריסת מתגים</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">הסתר לאחר נגיעה</string>
   <string name="status_bar_settings_toggle_position">מיקום מתגים</string>
+  <string name="status_bar_settings_user_fold">Notifications folder</string>
+  <string name="status_bar_settings_user_fold_summary">All unimportant notifications will appear in a separate folder</string>
   <string name="status_bar_style_list">משולב</string>
   <string name="status_bar_style_page">הפרד</string>
   <string name="status_sim">מצב כרטיס SIM</string>
@@ -2033,6 +2042,13 @@
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"לאחר שתכבה את סיסמת 'מסך הנעילה' שלך, טביעת האצבע השמורה תימחק. לא תוכל עוד לבטל את נעילת מכשירך באמצעות טביעת האצבע שלך."</string>
   <string name="turn_off_security_lock">כבה נעילה</string>
   <string name="turn_on_keyguard_password">"הפעל את סיסמת 'מסך הנעילה'"</string>
+  <string name="turn_on_keyguard_password_alert">"Remember your password. If you forget it, you won't be able to restore it."</string>
+  <string name="turn_on_keyguard_password_alert_choose">"Remember your password. If you forget it, you'll have to erase all data on your device to set a new one."</string>
+  <string name="turn_on_keyguard_password_alert_foget_cacel">Not now</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok">Got it</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Got it(%dsecond)</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
   <string name="turn_on_security_lock">בחר את שיטת נעילת המסך</string>
   <string name="turn_update_keyguard_password_wait_dialog">משנה סיסמה</string>
   <string name="twohours">1 hours</string>
@@ -2055,7 +2071,7 @@
   <string name="uninstall_dlg_title">להסיר התקנה כעת?</string>
   <string name="uninstall_protected_dlg_msg">הסרת התקנה של יישומי מערכת עשויה למנוע מרכיבים מסויימים של MIUI לעבוד באופן תקין. להסיר בכל זאת?</string>
   <string name="uninstall_protected_dlg_title">הסרת התקנה של יישומי מערכת</string>
-  <string name="uninstall_wifi_master_key">"הסר התקנת 'מפתח מאסטר לרשתות אלחוטיות'"</string>
+  <string name="uninstall_wifi_master_key">"הסר את התקנת 'מפתח מאסטר לרשתות אלחוטיות'"</string>
   <string name="uninstall_with_xspace_app_dlg_msg">יישומים משוכפלים תואמים יוסרו יחד עם נתוני היישום שלהם.</string>
   <string name="uninstall_xspace_app_dlg_msg">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
   <string name="uninstall_xspace_app_dlg_title">להסיר את התקנת היישום המשוכפל?</string>
@@ -2317,9 +2333,11 @@
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">ללא</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

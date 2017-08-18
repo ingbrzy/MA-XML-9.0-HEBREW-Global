@@ -49,9 +49,9 @@
         <item quantity="many">%1$s אנשים |</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">שניה %1$s לאחר המשוב</item>
+        <item quantity="other">%1$s שניות לאחר המשוב</item>
         <item quantity="one">שניה %1$s לאחר המשוב</item>
-        <item quantity="two">שניה %1$s לאחר המשוב</item>
-        <item quantity="many">שניה %1$s לאחר המשוב</item>
+        <item quantity="two">%1$s שניות לאחר המשוב</item>
+        <item quantity="many">%1$s שניות לאחר המשוב</item>
     </plurals>
 </resources>
