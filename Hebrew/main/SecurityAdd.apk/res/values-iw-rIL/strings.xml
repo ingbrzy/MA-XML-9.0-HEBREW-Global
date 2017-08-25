@@ -47,6 +47,8 @@
   <string name="game_setting">הגדרות משחקים</string>
   <string name="gamebooster_network_dialog_message">"לאפשר ל'אבטחה' להתחבר לרשת על מנת שתוכל להשתמש בכל התכונות של 'מאיץ מהירות המשחקים'?"</string>
   <string name="gamebooster_network_dialog_title">תכונות מסויימות אינן זמינות</string>
+  <string name="gb_alipays_can_not_complete">"Can't complete payment. Install to continue."</string>
+  <string name="gb_weixinpay_can_not_complete">"Can't complete payment. Install to continue."</string>
   <string name="get_sys_info">מקבל פרטים…</string>
   <string name="gs_anto_clean_memory_whitelist">חריגים</string>
   <string name="gs_app_back_self_start">חסכון בסוללה</string>

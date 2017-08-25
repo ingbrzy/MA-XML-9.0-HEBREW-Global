@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_vm_number_str">הוסף מספר</string>
   <string name="alert_dialog_dismiss">התעלם</string>
   <string name="alert_dialog_no">לא</string>
   <string name="alert_dialog_yes">כן</string>
@@ -174,8 +173,6 @@
   <string name="no_balance_title">יתרה נמוכה מידי</string>
   <string name="no_call_back_message">זמן חיבור ארוך מידי. עובר לחיוג רגיל, יתכנו חיובים על ידי ספק הרשת.</string>
   <string name="no_call_back_title">שים לב</string>
-  <string name="no_vm_number">מספר תיבה קולית חסר</string>
-  <string name="no_vm_number_msg">מספרי תיבה קולית לא קיימים בכרטיס ה- SIM.</string>
   <string name="non_ivr_menu_collapse_menu">סגור תפריט</string>
   <string name="non_ivr_menu_view_menu">הצג תפריט</string>
   <string name="not_activate_sim_card_content">אמת את מספר הטלפון שלך על מנת להתחיל להשתמש בחבילת Top-up. עדיין תוכל לבצע שיחות רגילות בחיוב על ידי ספק השירות שלך.</string>

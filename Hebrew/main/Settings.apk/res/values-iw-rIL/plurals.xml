@@ -31,10 +31,10 @@
         <item quantity="many">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
-        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
-        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
-        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="other">PIN must be %d digits</item>
+        <item quantity="one">PIN must be %d digit</item>
+        <item quantity="two">PIN must be %d digits</item>
+        <item quantity="many">PIN must be %d digits</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d רשתות שותפו</item>
@@ -83,5 +83,35 @@
         <item quantity="one">לעולם אל תשבית עבור יישום 1</item>
         <item quantity="two">לעולם אל תשבית עבור %d יישומים</item>
         <item quantity="many">לעולם אל תשבית עבור %d יישומים</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN must be %d digits long</item>
+        <item quantity="one">PIN must be %d digit long</item>
+        <item quantity="two">PIN must be %d digits long</item>
+        <item quantity="many">PIN must be %d digits long</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN can contain up to %d digits</item>
+        <item quantity="one">PIN can contain up to %d digit</item>
+        <item quantity="two">PIN can contain up to %d digits</item>
+        <item quantity="many">PIN can contain up to %d digits</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connect at least %d dots. Try again.</item>
+        <item quantity="one">Connect at least %d dot. Try again.</item>
+        <item quantity="two">Connect at least %d dots. Try again.</item>
+        <item quantity="many">Connect at least %d dots. Try again.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
+        <item quantity="one">Too many incorrect attempt. Try again in %d second.</item>
+        <item quantity="two">Too many incorrect attempts. Try again in %d seconds.</item>
+        <item quantity="many">Too many incorrect attempts. Try again in %d seconds.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Wait for %d seconds and try again.</item>
+        <item quantity="one">Wait for %d second and try again.</item>
+        <item quantity="two">Wait for %d seconds and try again.</item>
+        <item quantity="many">Wait for %d seconds and try again.</item>
     </plurals>
 </resources>

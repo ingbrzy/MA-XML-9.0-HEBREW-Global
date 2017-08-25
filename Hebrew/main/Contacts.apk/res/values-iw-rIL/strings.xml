@@ -473,7 +473,6 @@
   <string name="force_touch_miprofile">כרטיס איש קשר</string>
   <string name="force_touch_new_contact">איש קשר חדש</string>
   <string name="foundTooManyContacts">יותר מ %d נמצאו.</string>
-  <string name="fraud_more_indemnity">עוד</string>
   <string name="frequentList">שכיח</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">שם</string>
@@ -670,6 +669,7 @@
   <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
   <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
   <string name="miprofile_contact_verifying">מאמת</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">ערוך פרופיל</string>
   <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
   <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -868,6 +868,8 @@
   <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
   <string name="payphone">טלפון ציבורי</string>
   <string name="people">אנשי קשר</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">טלפון</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
@@ -1048,7 +1050,8 @@
   <string name="search_wipe_data">ארגן;אנשי קשר</string>
   <string name="searching_vcard_message">מחפש נתוני vCard באחסון…</string>
   <string name="select_all">בחר הכל</string>
-  <string name="select_done">אין עוד אפשרויות לבחירה</string>
+  <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
+  <string name="select_exceed">Select no more than %1$d</string>
   <string name="select_groups">בחר קבוצות</string>
   <string name="select_none">לא נבחר דבר</string>
   <string name="select_show_contacts">רשימת איש קשר</string>
@@ -1081,8 +1084,6 @@
   <string name="sim_capacity_content" formatted="false">%d סהכ | %d בשימוש</string>
   <string name="sim_card_no_free_space_message">אין מספיק מקום</string>
   <string name="sim_card_no_free_space_title">כרטיס SIM מלא</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">הסר בחירה מהכל</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">בחר הכל</string>
   <string name="sim_contact_existing">איש קשר כבר קיים</string>
   <string name="sim_contact_invalid">איש קשר SIM לא חוקי</string>
   <string name="sim_contact_search_error">התרחשה שגיאה</string>
@@ -1149,18 +1150,16 @@
   <string name="strequentList">מועדפים</string>
   <string name="success_message_import_from_account">איש הקשר יובא</string>
   <string name="summary_kind_title">תקציר</string>
-  <string name="t9_search_empty_create_contact">New contact</string>
+  <string name="t9_search_empty_create_contact">איש קשר חדש</string>
   <string name="t9_search_empty_edit_contact">Add to contact</string>
-  <string name="t9_search_empty_send_sms">Send message</string>
-  <string name="t9_search_empty_video_call">Video call</string>
+  <string name="t9_search_empty_send_sms">שליחת הודעה</string>
+  <string name="t9_search_empty_video_call">שיחת וידאו</string>
   <string name="t9_search_guide_pinyin_title1">הזן מספרים למציאת אנשי קשר</string>
   <string name="t9_search_guide_pinyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"&lt;font fgcolor=""&gt;&amp;#1488;&lt;/font&gt;&amp;#1489;&amp;#1497; &lt;font fgcolor=""&gt;&amp;#1499;&lt;/font&gt;&amp;#1492;&amp;#1503;\"</string>
   <string name="t9_search_guide_zhuyin_title1">הזן מספרים למציאת אנשי קשר</string>
   <string name="t9_search_guide_zhuyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"&lt;font fgcolor=""&gt;&amp;#1488;&lt;/font&gt;&amp;#1489;&amp;#1497; &lt;font fgcolor=""&gt;&amp;#1499;&lt;/font&gt;&amp;#1492;&amp;#1503;\"</string>
   <string name="take_new_photo">צלם תמונה חדשה</string>
   <string name="take_photo">צלם תמונה</string>
-  <string name="telecom_fraud_insurance">ביטוח הונאות של Telecom</string>
-  <string name="telecom_fraud_insurance_description">ביטוח 10,000 CNY | הצעה בלעדית של Xiaomi | 9.9 CNY בשנה</string>
   <string name="titleJoinContactDataWith">מזג אנשי קשר</string>
   <string name="title_other_devices">התקנים זמינים אחרים</string>
   <string name="title_paired_devices">התקנים מוצמדים</string>

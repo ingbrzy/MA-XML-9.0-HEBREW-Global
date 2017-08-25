@@ -16,12 +16,14 @@
   <string name="blocked_numbers_number_already_blocked_message">%1$s נחסם כבר.</string>
   <string name="blocked_numbers_number_blocked_message">%1$s נחסם</string>
   <string name="blocked_numbers_number_unblocked_message">בוטלה חסימת %1$s</string>
+  <string name="callFailed_simError">SIM card error</string>
   <string name="can_not_dial_vt_while_voice_prompt">לא ניתן לבצע שיחת וידאו במהלך ביצוע שיחה קולית</string>
   <string name="can_not_dial_while_vt_prompt">לא ניתן לחייג כאשר שיחת וידאו נמצאת בעיצומה</string>
   <string name="change_default_dialer_dialog_affirmative">הגדר כברירת מחדל</string>
   <string name="change_default_dialer_dialog_negative">ביטול</string>
   <string name="change_default_dialer_dialog_title">להפוך את %s ליישום ברירת המחדל שלך עבור שיחות?</string>
   <string name="change_default_dialer_warning_message">%s יוכל לבצע ושלוט בכל ההיבטים של שיחות. יש להגדיר כברירת מחדל עבור שיחות יישומים בהם הינך בוטח בלבד.</string>
+  <string name="close">Close</string>
   <string name="delete_icon_description">ביטול חסימה</string>
   <string name="dial_conference_fail_prompt">לא ניתן לבצע שיחת ועידה באופן ישיר מפני שהרשת הנוכחית אינה תומכת ב-VoLTE.</string>
   <string name="dial_vt_fail_prompt">הרשת הנוכחית אינה תומכת ב-VoLTE. להחליף לשיחה קולית רגילה?</string>
@@ -31,6 +33,8 @@
   <string name="headset_plugin_view_text">אוזניות מחוברות.</string>
   <string name="headset_plugin_view_title">אוזניות</string>
   <string name="incall_error_call_failed">לא ניתן היה לבצע את השיחה.</string>
+  <string name="incall_error_power_off">Turn off airplane mode to make a call.</string>
+  <string name="incall_error_supp_service_unknown">"This service isn't supported."</string>
   <string name="no_vm_number">מספר תא קולי חסר</string>
   <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
   <string name="non_primary_user">רק בעל המכשיר יכול לנהל את המספרים החסומים.</string>

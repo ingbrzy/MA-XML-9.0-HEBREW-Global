@@ -55,6 +55,7 @@
   <string name="feedback_choose_module">בחר פריט</string>
   <string name="feedback_choose_module_hint">נדרש</string>
   <string name="feedback_collect_log_failed">לא ניתן היה לקבל את היומנים</string>
+  <string name="feedback_contact_info_hint">Phone number/Email</string>
   <string name="feedback_continue">המשך עם המשוב</string>
   <string name="feedback_description">תאור</string>
   <string name="feedback_description_bugreport_hint">במקרים מסויימים (…) הטלפון שלי אינו מתנהג כראוי (…).</string>
@@ -196,6 +197,7 @@
   <string name="module_data">אחסון &amp; יישומים משוכפלים</string>
   <string name="module_desktop">מסך הבית &amp; הגדרות</string>
   <string name="module_finance">כלכלה &amp; ארנק Mi</string>
+  <string name="module_google_apps">Google apps</string>
   <string name="module_item_less">הסתרה</string>
   <string name="module_item_more">עוד</string>
   <string name="module_medias">מדיה</string>
