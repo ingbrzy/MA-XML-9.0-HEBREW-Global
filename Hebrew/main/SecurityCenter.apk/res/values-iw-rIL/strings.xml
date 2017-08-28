@@ -1612,7 +1612,6 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>

@@ -6,7 +6,6 @@
     <string name="sina_token_expired_warning">חשבון Weibo פג תוקף, הוסף את החשבון שוב.</string>
     <string name="sina_token_invalid_warning">חשבון Weibo לא חוקי, הוסף את החשבון שוב.</string>
     <string name="sina_share_fail_content_repeat">שיתפת זאת כבר.</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
     <string name="search_path_notes">יישומי מערכתתקים</string>
     <string name="dlg_move_message">מעביר…</string>
