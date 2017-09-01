@@ -121,8 +121,8 @@
     <string name="downloading_empty">ריק</string>
     <string name="downloaded_empty">ריק</string>
     <string name="download_speed_null" />
-    <string name="download_list_get_free_vip">גירסת נסיון של Xunlei</string>
-    <string name="download_list_get_hightspeed_flow_sucess_head">גירסת הנסיון של Xunlei נוצרה בהצלחה</string>
+    <string name="download_list_get_free_vip">גרסת נסיון של Xunlei</string>
+    <string name="download_list_get_hightspeed_flow_sucess_head">גרסת הנסיון של Xunlei נוצרה בהצלחה</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">קבל מהירות הורדה גבוהה יותר על ידי Xunlei</string>
     <string name="download_list_get_hightspeed_flow_pay_ok">התשלום בוצע בהצלחה</string>
     <string name="download_list_get_hightspeed_flow_auto_open">מאיץ ההורדות של Xunlei פועל</string>
@@ -209,6 +209,8 @@
     <string name="lyric_open_other_connect">הורד מילות שירים באמצעות הרשת הסלולרית</string>
     <string name="playback_failed_no_title_by_bad_file">הפורמט של שיר זה אינו נתמך או שהקובץ אינו קיים.</string>
     <string name="streamloadingtext">מתחבר ל- %s</string>
+    <string name="toast_new_playlist_name_too_long">Playlist name is too long</string>
+    <string name="toast_new_playlist_name_no_enter">"key 'Enter' has been deleted'"</string>
     <string name="error_title">לא ניתן לסנכרן עם חשבון Mi</string>
     <string name="error_unauthorized">הסנכרון כובה עקב ניסיונות כניסה רבים מידי.</string>
     <string name="error_forbidden">הסינכרון כובה עקב בעיות עם חשבונך.</string>
@@ -535,8 +537,8 @@
     <string name="sort_by_time">תאריך</string>
     <string name="upgrade_remind">קיים עדכון זמין</string>
     <string name="service_stop">השירות הופסק</string>
-    <string name="upgrade_suggest">"אנו מפסיקים את שירות ההזרמה הנוכחי שלנו עקב בעיות הנוגעות לזכויות יוצרים. בצע עדכון לגירסה החדשה ביותר של יישום ה'מוסיקה' על מנת להאזין למוסיקה באיכות גבוהה."</string>
-    <string name="upgrade_force">"אנו מפסיקים את שירות ההזרמה הנוכחי שלנו עקב בעיות הנוגעות לזכויות יוצרים. בצע עדכון לגירסה החדשה ביותר של יישום ה'מוסיקה' על מנת להאזין למוסיקה באיכות גבוהה."</string>
+    <string name="upgrade_suggest">"אנו מפסיקים את שירות ההזרמה הנוכחי שלנו עקב בעיות הנוגעות לזכויות יוצרים. בצע עדכון לגרסה החדשה ביותר של יישום ה'מוסיקה' על מנת להאזין למוסיקה באיכות גבוהה."</string>
+    <string name="upgrade_force">"אנו מפסיקים את שירות ההזרמה הנוכחי שלנו עקב בעיות הנוגעות לזכויות יוצרים. בצע עדכון לגרסה החדשה ביותר של יישום ה'מוסיקה' על מנת להאזין למוסיקה באיכות גבוהה."</string>
     <string name="upgrade_nobeta">אנו מפסיקים את שירות ההזרמה הנוכחי שלנו בעוד אנו פותרים בעיות הנוגעות לזכויות יוצרים. סליחה על אי הנוחות :(</string>
     <string name="upgrade_waringing">תוכל להאזין למוסיקה המאוחסנת באופן לא מקוון בלבד.</string>
     <string name="upgrade_immediate">עדכן כעת</string>
@@ -697,8 +699,8 @@
     <string name="download_cloud_error_retryable">שגיאת שרת של Mi Cloud, נסה שוב מאוחר יותר.</string>
     <string name="download_cloud_error_unknow">לא ניתן היה להתחבר ל-Mi Cloud</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
-    <string name="version_info">גירסה</string>
-    <string name="current_version">גירסה נוכחית</string>
+    <string name="version_info">גרסה</string>
+    <string name="current_version">גרסה נוכחית</string>
     <string name="music_traffic">תכנית הנתונים של Mi מוסיקה</string>
     <string name="music_traffic_summary">האזן לשירים והורד שירים מבלי להשתמש בנתונים</string>
     <string name="traffic_free_to_play">השתמש בחבילת נתונים עבור מוסיקה</string>
@@ -721,12 +723,12 @@
     <string name="ticket_summary">קנה כרטיסים למופעים, קונצרטים, הצגות, ואירועים אחרים</string>
     <string name="android_sdk_too_low">"עדכן את אנדרואיד על מנת שתוכל לעדכן את 'מוסיקה'."</string>
     <string name="start_download_music">מוריד עדכונים עבור מוסיקה.</string>
-    <string name="start_update">"עדכן לגירסה העדכנית ביותר של יישום ה'מוסיקה'."</string>
+    <string name="start_update">"עדכן לגרסה העדכנית ביותר של יישום ה'מוסיקה'."</string>
     <string name="miui_music">Mi מוסיקה</string>
     <string name="time_to_upgrade">עדכן את Mi מוסיקה</string>
     <string name="update_now">עדכן כעת</string>
     <string name="start_to_use">"פתח את 'מוסיקה'"</string>
-    <string name="welcome_to_new_music">ברוכים הבאים לגירסה החדשה של Mi מוסיקה</string>
+    <string name="welcome_to_new_music">ברוכים הבאים לגרסה החדשה של Mi מוסיקה</string>
     <string name="more_settings">הגדרות מתקדמות</string>
     <string name="more_settings_summary">"הורד הגדרות, טיימר שינה, ניהול נתונים סלולריים, סננים לקבצים, וכו'"</string>
     <string name="service_and_settings">שירות והגדרות</string>

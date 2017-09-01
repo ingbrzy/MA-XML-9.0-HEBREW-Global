@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Incorrect PUK code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PUK code, %d attempt remaining</item>
-        <item quantity="two">Incorrect PUK code, %d attempts remaining</item>
-        <item quantity="many">Incorrect PUK code, %d attempts remaining</item>
+        <item quantity="other">קוד PUK שגוי, %d נסיונות נותרו</item>
+        <item quantity="one">קוד PUK שגוי, נסיון %d נותר</item>
+        <item quantity="two">קוד PUK שגוי, %d נסיונות נותרו</item>
+        <item quantity="many">קוד PUK שגוי, %d נסיונות נותרו</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Incorrect PIN code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PIN code, %d attempt remaining</item>
-        <item quantity="two">Incorrect PIN code, %d attempts remaining</item>
-        <item quantity="many">Incorrect PIN code, %d attempts remaining</item>
+        <item quantity="other">קוד PIN שגוי, %d נסיונות נותרו</item>
+        <item quantity="one">קוד PIN שגוי, נסיון %d נותר</item>
+        <item quantity="two">קוד PIN שגוי, %d נסיונות נותרו</item>
+        <item quantity="many">קוד PIN שגוי, %d נסיונות נותרו</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">Try again in %d seconds</item>
-        <item quantity="one">Try again in %d second</item>
-        <item quantity="two">Try again in %d seconds</item>
-        <item quantity="many">Try again in %d seconds</item>
+        <item quantity="other">נסה שוב בעוד %d שניות</item>
+        <item quantity="one">נסה שוב בעוד שניה %d</item>
+        <item quantity="two">נסה שוב בעוד %d שניות</item>
+        <item quantity="many">נסה שוב בעוד %d שניות</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">Try again in %d minutes</item>
-        <item quantity="one">Try again in %d minute</item>
-        <item quantity="two">Try again in %d minutes</item>
-        <item quantity="many">Try again in %d minutes</item>
+        <item quantity="other">נסה שוב בעוד %d דקות</item>
+        <item quantity="one">נסה שוב בעוד דקה %d</item>
+        <item quantity="two">נסה שוב בעוד %d דקות</item>
+        <item quantity="many">נסה שוב בעוד %d דקות</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d התראות חדשות</item>

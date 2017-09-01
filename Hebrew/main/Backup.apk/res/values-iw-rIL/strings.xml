@@ -226,6 +226,7 @@
     <string name="file_uploading">מעלה…</string>
     <string name="new_backup">גיבוי</string>
     <string name="restore_backup">שחזור</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -351,4 +352,9 @@
     <string name="user_notice_message">תכונות מסוימות זקוקות לחיבור לאינטרנט על מנת לעבוד כראוי.</string>
     <string name="user_notice_declaration_ignore">אל תציג שוב</string>
     <string name="total_size">, %s</string>
+    <string name="btn_got_it">הבנתי</string>
+    <string name="backup_security_tips_title">הגיבוי עלול לא להצליח</string>
+    <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
+    <string name="trans_security_tips_title">תאימות Mi Mover</string>
+    <string name="trans_security_tips_message">יישומים מסויימים אינם תומכים ב-Mi Mover.</string>
 </resources>

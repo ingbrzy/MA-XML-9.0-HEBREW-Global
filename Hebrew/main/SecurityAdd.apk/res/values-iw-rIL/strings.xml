@@ -130,6 +130,6 @@
     <string name="fastboot_locked_answer_3">"עליך להשתמש בכלי לביטול הנעילה מאתר האינטרנט של MIUI. על מנת לבטל את נעילת המכשיר, עלינו לודא כי המכשיר שייך לך. לכן עליך להיכנס לחשבון Mi שלך ולהפעיל את 'איתור המכשיר'."</string>
     <string name="fastboot_unlock_web_title">עבור אל אתר האינטרנט הרשמי של MIUI על מנת להוריד את הכלי לביטול הנעילה.</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="gb_weixinpay_can_not_complete">"Can't complete payment. Install to continue."</string>
-    <string name="gb_alipays_can_not_complete">"Can't complete payment. Install to continue."</string>
+    <string name="gb_weixinpay_can_not_complete">לא ניתן להשלים את התשלום. התקן על מנת להמשיך.</string>
+    <string name="gb_alipays_can_not_complete">לא ניתן להשלים את התשלום. התקן על מנת להמשיך.</string>
 </resources>

@@ -126,9 +126,9 @@
     <string name="passport_querying_phone_info">מבקש פרטי חשבון…</string>
     <string name="passport_area_code_title">קידומת מדינה</string>
     <string name="passport_area_code_hot">בשימוש שכיח</string>
-    <string name="passport_user_agreement_p1">מסכים ל-</string>
+    <string name="passport_user_agreement_p1">מסכים ל</string>
     <string name="passport_user_agreement_p2">הסכם המשתמש</string>
-    <string name="passport_user_agreement_p3">ול-</string>
+    <string name="passport_user_agreement_p3"> ול</string>
     <string name="passport_user_agreement_p4">מדיניות הפרטיות</string>
     <string name="passport_privacy_policy">מדיניות הפרטיות</string>
     <string name="passport_user_agreement">הסכם המשתמש</string>

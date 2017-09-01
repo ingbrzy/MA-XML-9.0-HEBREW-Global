@@ -94,9 +94,9 @@
     <string name="hints_large_file_header_left">קבצים גדולים: %d</string>
     <string name="hints_installed_apps_header_left">יישומים מותקנים: %d</string>
     <string name="toast_resolve_apk_error">פתור שגיאת apk</string>
-    <string name="hints_apk_version">גירסה %s</string>
+    <string name="hints_apk_version">גרסה %s</string>
     <string name="apk_status_uninstalled">לא מותקן</string>
-    <string name="apk_status_installed_old">גירסה ישנה</string>
+    <string name="apk_status_installed_old">גרסה ישנה</string>
     <string name="apk_status_install">מותקן</string>
     <string name="apk_status_duplicate">משוכפל</string>
     <string name="apk_status_damage">פגום</string>

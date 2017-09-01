@@ -176,7 +176,7 @@
     <string name="recognition_error_download_data_msg">הורד מנוע זיהוי על מנת לסרוק כרטיסים. גודל המנוע הוא כ-15MB. להשתמש בחיבור נתונים סלולרי על מנת להוריד?</string>
     <string name="recognition_error_download_success">ירד בהצלחה</string>
     <string name="recognition_error_download_fail">לא ניתן היה להוריד את מנוע הזיהוי</string>
-    <string name="low_version_tip">"גירסת MIUI ישנה מידי. עדכן את MIUI על מנת שתוכל להשתמש ב'סורק'."</string>
+    <string name="low_version_tip">"גרסת MIUI ישנה מידי. עדכן את MIUI על מנת שתוכל להשתמש ב'סורק'."</string>
     <string name="app_description_title">"אודות 'סורק'"</string>
-    <string name="app_description_content">"ה'סורק' מסוגל לסרוק קודי QR, כרטיסי ביקור ומסמכים. ודא כי הינך מסוגל להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
+    <string name="app_description_content">"ה'סורק' מאפשר סריקת קוד QR, סריקה לתרגום, סריקה לפתרון שאלות וזיהוי כרטיסי ביקור. אנא ודא כי הינך מכיר כבר את מלוא הפונקציות והשירותים המוצעים על ידי יישום זה."</string>
 </resources>

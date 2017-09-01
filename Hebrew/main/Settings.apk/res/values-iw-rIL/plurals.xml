@@ -25,16 +25,16 @@
         <item quantity="many">%d סיכונים נמצאו</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
-        <item quantity="one">הרשאת הפעלה אוטומטית ניתנה ליישום %d</item>
-        <item quantity="two">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
-        <item quantity="many">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
+        <item quantity="other">%d apps are allowed to autostart</item>
+        <item quantity="one">%d app are allowed to autostart</item>
+        <item quantity="two">%d apps are allowed to autostart</item>
+        <item quantity="many">%d apps are allowed to autostart</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN must be %d digits</item>
-        <item quantity="one">PIN must be %d digit</item>
-        <item quantity="two">PIN must be %d digits</item>
-        <item quantity="many">PIN must be %d digits</item>
+        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
+        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d רשתות שותפו</item>
@@ -85,33 +85,33 @@
         <item quantity="many">לעולם אל תשבית עבור %d יישומים</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN must be %d digits long</item>
-        <item quantity="one">PIN must be %d digit long</item>
-        <item quantity="two">PIN must be %d digits long</item>
-        <item quantity="many">PIN must be %d digits long</item>
+        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
+        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN can contain up to %d digits</item>
-        <item quantity="one">PIN can contain up to %d digit</item>
-        <item quantity="two">PIN can contain up to %d digits</item>
-        <item quantity="many">PIN can contain up to %d digits</item>
+        <item quantity="other">קוד ה-PIN יכול להכיל עד %d ספרות</item>
+        <item quantity="one">קוד ה-PIN יכול להכיל עד ספרה %d</item>
+        <item quantity="two">קוד ה-PIN יכול להכיל עד %d ספרות</item>
+        <item quantity="many">קוד ה-PIN יכול להכיל עד %d ספרות</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Connect at least %d dots. Try again.</item>
-        <item quantity="one">Connect at least %d dot. Try again.</item>
-        <item quantity="two">Connect at least %d dots. Try again.</item>
-        <item quantity="many">Connect at least %d dots. Try again.</item>
+        <item quantity="other">קשר בין לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="one">קשר בין נקודה %d לפחות. נסה שוב.</item>
+        <item quantity="two">קשר בין לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="many">קשר בין לפחות %d נקודות. נסה שוב.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
-        <item quantity="one">Too many incorrect attempt. Try again in %d second.</item>
-        <item quantity="two">Too many incorrect attempts. Try again in %d seconds.</item>
-        <item quantity="many">Too many incorrect attempts. Try again in %d seconds.</item>
+        <item quantity="other">נסיונות כושלים רבים מידי. נסה שוב בעוד %d שניות.</item>
+        <item quantity="one">נסיונות כושלים רבים מידי. נסה שוב בעוד שניה %d.</item>
+        <item quantity="two">נסיונות כושלים רבים מידי. נסה שוב בעוד %d שניות.</item>
+        <item quantity="many">נסיונות כושלים רבים מידי. נסה שוב בעוד %d שניות.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Wait for %d seconds and try again.</item>
-        <item quantity="one">Wait for %d second and try again.</item>
-        <item quantity="two">Wait for %d seconds and try again.</item>
-        <item quantity="many">Wait for %d seconds and try again.</item>
+        <item quantity="other">המתן %d שניות ונסה שוב.</item>
+        <item quantity="one">המתן למשך שניה %d ונסה שוב.</item>
+        <item quantity="two">המתן %d שניות ונסה שוב.</item>
+        <item quantity="many">המתן %d שניות ונסה שוב.</item>
     </plurals>
 </resources>

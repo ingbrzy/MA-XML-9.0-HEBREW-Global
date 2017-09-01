@@ -213,10 +213,10 @@
         <item quantity="many">מגן על %d יישומים</item>
     </plurals>
     <plurals name="title_virus_clean">
-        <item quantity="other">Cleared %d viruses</item>
-        <item quantity="one">Cleared %d virus</item>
-        <item quantity="two">Cleared %d viruses</item>
-        <item quantity="many">Cleared %d viruses</item>
+        <item quantity="other">%d וירוסים הוסרו</item>
+        <item quantity="one">וירוס %d הוסר</item>
+        <item quantity="two">%d וירוסים הוסרו</item>
+        <item quantity="many">%d וירוסים הוסרו</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d יישומים יכולים לבצע התחלה אוטומטית</item>

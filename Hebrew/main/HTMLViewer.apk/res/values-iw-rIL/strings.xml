@@ -3,7 +3,7 @@
     <string name="app_label">תצוגת HTML</string>
     <string name="loading">רק רגע…</string>
     <string name="app_name_which_call">יישום: %s</string>
-    <string name="app_version_which_call">גירסת היישום: %s</string>
+    <string name="app_version_which_call">גרסת היישום: %s</string>
     <string name="pre_installed_apps">יישומים מותקנים מראש</string>
     <string name="policy_name">פרוטוקול: %s</string>
     <string name="mibi_license">הסכם המשתמש של נקודות Mi</string>
@@ -23,4 +23,5 @@
     <string name="ad_service">שירות פרסום</string>
     <string name="settings_ad_loading">רק רגע…</string>
     <string name="settings_ad_loading_unavailable">לא ניתן היה לטעון את המידע.</string>
+    <string name="autoconnect">חיבור אוטומטי</string>
 </resources>

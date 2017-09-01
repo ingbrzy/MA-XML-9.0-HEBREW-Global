@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">חשבון Weibo פג תוקף, הוסף את החשבון שוב.</string>
     <string name="sina_token_invalid_warning">חשבון Weibo לא חוקי, הוסף את החשבון שוב.</string>
     <string name="sina_share_fail_content_repeat">שיתפת זאת כבר.</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
     <string name="search_path_notes">יישומי מערכתתקים</string>
     <string name="dlg_move_message">מעביר…</string>
@@ -71,7 +72,7 @@
     <string name="dialog_share_as_pic">שתף פתק כתמונה</string>
     <string name="note_description_title">"אודות 'פתקים'"</string>
     <string name="note_description_content">"יישום ה'פתקים' הינו כלי מצוין לרשימת הרעיונות שלך. יש לו אפשרות מובנית ליצירת תזכורות והוא מסנכרן את הפריטים שלך עם Mi Cloud כך שתוכל לגשת אליהם מכל מקום בכל עת. ודא כי הינך מסוגל להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
-    <string name="db_downgrade_clear_date_reminder">"מעבר לגירסה אחרת של MIUI דורשת ניקוי של נתוני היישום עבור 'פתקים'. לפני שתעשה זאת, ודא כי גיבית את הפתקים שלך ב-Mi Cloud."</string>
+    <string name="db_downgrade_clear_date_reminder">"מעבר לגרסה אחרת של MIUI דורשת ניקוי של נתוני היישום עבור 'פתקים'. לפני שתעשה זאת, ודא כי גיבית את הפתקים שלך ב-Mi Cloud."</string>
     <string name="db_downgrade_clear_button">נקה את נתוני היישום</string>
     <string name="app_name">פתקים</string>
     <string name="app_widget">פתקים</string>
@@ -100,7 +101,7 @@
     <string name="menu_send_weibo">שלח אל Weibo</string>
     <string name="info_note_enter_desktop">"נוסף אל 'מסך הבית'"</string>
     <string name="all_terms">%1$s ו- %2$s</string>
-    <string name="alert_title_delete">למחוק את הפתק?</string>
+    <string name="alert_title_delete">מחיקת פתק</string>
     <string name="alert_message_delete">למחוק %1$s?</string>
     <string name="alert_message_delete_note">למחוק פתק זה?</string>
     <string name="format_move_notes_to_folder">%1$s הועבר אל %2$s</string>
@@ -196,4 +197,5 @@
     <string name="edit_header_done_description">בוצע</string>
     <string name="refuse_to_share_as_pic_because_of_content">פתק זה גדול מידי מכדי שתוכל לשתפו.</string>
     <string name="refuse_to_share_as_pic_because_of_loading">המתן עד לטעינת הפתק ונסה שוב.</string>
+    <string name="toast_reach_text_limit_checkbox">לא ניתן להוסיף תיבת סימון משום שהפתק ארוך מידי</string>
 </resources>

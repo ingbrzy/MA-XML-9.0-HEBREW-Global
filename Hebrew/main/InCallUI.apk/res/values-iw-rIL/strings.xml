@@ -127,6 +127,7 @@
     <string name="unlock_phone">ביטול נעילת המכשיר</string>
     <string name="remind_unlock_message">מכשירך נעול כעת. \"%s\" יהיה זמין לאחר שתבטל את נעילת המכשיר. לבטל נעילה כעת?</string>
     <string name="user_locked_prompt">בטל את נעילת המכשיר על מנת לגשת לאנשי הקשר.</string>
+    <string name="package_not_available">\"%s\" אינו זמין</string>
     <string name="select_voice_call_sim">בחר כרטיס SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">לא ניתן להשתמש בSIM %2$d,כאשר SIM %1$d נמצא בשימוש.</string>
@@ -230,6 +231,9 @@
     <string name="dialpad_seven">7</string>
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
+    <string name="no_vm_number">מספר תא קולי חסר</string>
+    <string name="no_vm_number_msg">לא קיימים מספרי תא קולי בכרטיס ה-SIM.</string>
+    <string name="add_vm_number_str">הוספת מספר</string>
     <string name="alert_dialog_yes">כן</string>
     <string name="alert_dialog_no">לא</string>
     <string name="alert_dialog_dismiss">התעלם</string>
@@ -237,7 +241,7 @@
     <string name="call_record_button_label">מקליט %s</string>
     <string name="livetalk_left_minute">%s דקות נותרו</string>
     <string name="call_self">לא ניתן לחייג לעצמך</string>
+    <string name="cancel_call">נתק</string>
     <string name="dial_with_gsm_phone">שיחה רגילה</string>
     <string name="purchase_now">Top up</string>
-    <string name="cancel_call">נתק</string>
 </resources>

@@ -91,7 +91,7 @@
     <string name="sort_by_abc">מיין לפי שם</string>
     <string name="encryption">הצפנה</string>
     <string name="failed_to_drop">לא ניתן להעביר</string>
-    <string name="no_space_toast">No space</string>
+    <string name="no_space_toast">אין מקום</string>
     <string name="failed_to_drop_widget_invalid">"ווידג'ט לא חוקי"</string>
     <string name="failed_to_delete_temporary">לא ניתן להסיר</string>
     <string name="confirm_btn_label">אישור</string>
@@ -268,8 +268,10 @@
     <string name="screen_locked_toast">"פריסת 'עמוד הבית' נעולה"</string>
     <string name="widget_quick_function">פונקציה מהירה</string>
     <string name="menu_trans_effect">Transition Effect</string>
+    <string name="menu_default_screen_preview">Default screen Setting</string>
     <string name="menu_cell_setting">Screen Setting</string>
     <string name="menu_auto_fill">Auto Fill</string>
     <string name="menu_lock">Lock Screen</string>
     <string name="menu_more">עוד</string>
+    <string name="default_screen_preview_title">הגדרת ברירת המחדל של המסך</string>
 </resources>

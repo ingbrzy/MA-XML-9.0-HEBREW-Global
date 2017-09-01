@@ -19,9 +19,9 @@
     <string name="description_size">גודל</string>
     <string name="description_uploadtime">עדכון</string>
     <string name="description_download">ירד</string>
-    <string name="description_version">גירסה</string>
+    <string name="description_version">גרסה</string>
     <string name="description_summary">תקציר</string>
-    <string name="description_version_szie">גירסה: %1$s גודל: %2$s</string>
+    <string name="description_version_szie">גרסה: %1$s גודל: %2$s</string>
     <string name="resource_selected">מומלץ</string>
     <string name="resource_ranking">פופולרי</string>
     <string name="resource_ranking_free">חינם</string>
@@ -109,7 +109,7 @@
     <string name="resource_trial_days">(נסיון: %1$d ימים)</string>
     <string name="resource_trial_end_time">(לתקופת נסיון עד %1$s)</string>
     <string name="resource_trial_end_time_format">hh:mma d MMM</string>
-    <string name="resource_trial_fail_title">לא ניתן היה להתקין את גירסת הנסיון</string>
+    <string name="resource_trial_fail_title">לא ניתן היה להתקין את גרסת הנסיון</string>
     <string name="resource_trial_fail_message">ודא ששעון המערכת שלך מוגדר כראוי לשעה הנכונה.</string>
     <string name="resource_trial_fail_cancel">אישור</string>
     <string name="resource_trial_fail_go_settings">הגדרות</string>
@@ -169,7 +169,7 @@
     <string name="resource_comment_1_star">כוכב אחד</string>
     <string name="resource_comment_footer">תגובות ריקות אינן מוצגות.</string>
     <string name="resource_comment_no_comment">אין תגובות</string>
-    <string name="resource_comment_current_version">גירסה נוכחית</string>
+    <string name="resource_comment_current_version">גרסה נוכחית</string>
     <string name="resource_comment_upload_hint">התגובה שלך תוצג לאחר בדיקה קצרה.</string>
     <string name="resource_comment_sending">שולח תגובה…</string>
     <string name="resource_comment_upload_failed">לא ניתן לשלוח תגובה</string>

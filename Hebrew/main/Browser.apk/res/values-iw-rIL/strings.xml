@@ -22,7 +22,7 @@
     <string name="action_menu_account_not_login">לא מחובר</string>
     <string name="action_menu_account_not_login_hint">היכנס על מנת לסנכרן עם Mi Cloud</string>
     <string name="action_menu_bookshelf">מדף ספרים</string>
-    <string name="action_menu_current_version">גירסה נוכחית</string>
+    <string name="action_menu_current_version">גרסה נוכחית</string>
     <string name="action_menu_text_add_bookmark">הוסף סימניה</string>
     <string name="action_menu_text_bandwidth">חסכון בנתונים</string>
     <string name="action_menu_text_bandwidth_off">חסכון בנתונים</string>
@@ -76,7 +76,7 @@
     <string name="agree">מסכים</string>
     <string name="alert_tips">אתר זה עשוי להוות סיכון אבטחה</string>
     <string name="allow">אפשר</string>
-    <string name="app_new_version">הגירסה האחרונה של יישום זה כבר מותקנת</string>
+    <string name="app_new_version">הגרסה האחרונה של יישום זה כבר מותקנת</string>
     <string name="app_update_install">מוכן להתקנת עדכון.</string>
     <string name="application_name">דפדפן</string>
     <string name="aqi_quality_index_break">מסוכן באופן חמור</string>
@@ -167,6 +167,7 @@
     <string name="color_picker_dialog_title">בחר צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -234,11 +235,11 @@
     <string name="document_download_background_btn">הורד ברקע</string>
     <string name="document_download_cancel_btn">ביטול</string>
     <string name="document_download_failed">לא ניתן היה להוריד</string>
-    <string name="document_download_official">הורד גירסה רשמית</string>
+    <string name="document_download_official">הורד גרסה רשמית</string>
     <string name="document_download_open_direct">פתח ישירות</string>
     <string name="document_download_title">מוריד</string>
     <string name="document_open_file">פתח את %s</string>
-    <string name="document_open_message">על מנת לשפר את חווית הקריאה שלך ולהבטיח אבטחה, השתמש בגירסה מותאמת אישית של WPS</string>
+    <string name="document_open_message">על מנת לשפר את חווית הקריאה שלך ולהבטיח אבטחה, השתמש בגרסה מותאמת אישית של WPS</string>
     <string name="document_open_other">יישומים אחרים</string>
     <string name="document_open_title">פתח באמצעות</string>
     <string name="dont_remind_again">זכור בחירה זו</string>
@@ -590,7 +591,7 @@
     <string name="pref_extras_reset_default_title">אחר</string>
     <string name="pref_extras_send_feedback">שלח משוב</string>
     <string name="pref_extras_title">מתקדם</string>
-    <string name="pref_extras_title_version">פרטי גירסה</string>
+    <string name="pref_extras_title_version">פרטי גרסה</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">שמור קבצים למיקום ברירת המחדל של הדפדפן</string>
     <string name="pref_file_downlaod_save_reset_default_settings">שחזר מיקום ברירת מחדל</string>
     <string name="pref_file_download_default_path_prefix">מיקום ברירת מחדל: %s</string>
@@ -649,9 +650,9 @@
     <string name="pref_set_homepage_to">מוגדר כ</string>
     <string name="pref_setting_title">הגדרות עמוד</string>
     <string name="pref_ua_string">סוכן משתמש</string>
-    <string name="pref_version_info">פרטי גירסה</string>
+    <string name="pref_version_info">פרטי גרסה</string>
     <string name="pref_volume_key_action">גלול על ידי שימוש במקשי עוצמת השמע</string>
-    <string name="private_browsing_warning">אפשרות זו אינה נתמכת בגירסה זו של אנדרואיד.</string>
+    <string name="private_browsing_warning">אפשרות זו אינה נתמכת בגרסה זו של אנדרואיד.</string>
     <string name="profiler_error_toast">הפעלת יוצר הפרופילים נכשלה</string>
     <string name="profiler_no_storage_toast">לא ניתן להתחיל ביצירת הפרופיל מאחר והתקן האחסון החיצוני אינו מוכן</string>
     <string name="profiler_started_toast">יצירת פרופיל החלה</string>
@@ -767,7 +768,7 @@
     <string name="show_weather_location_getter_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות ומידע אודות מזג האויר, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
     <string name="sign_in_to" formatted="false">הכנס ל %s1 %s2\"</string>
     <string name="skip_button_label">דלג</string>
-    <string name="skip_current_version">דלג על גירסה זו</string>
+    <string name="skip_current_version">דלג על גרסה זו</string>
     <string name="snapshot">מקומי</string>
     <string name="snapshot_failed">לא ניתן היה לשמור את העמוד</string>
     <string name="snapshot_successed">"פתח את 'סימניות'/'היסטוריה'->'מקומי' על מנת להציג את העמוד"</string>
@@ -922,6 +923,6 @@
     <string name="weather_location_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="webpage_title">סימניות והיסטוריה</string>
     <string name="webview_find_on_page">חיפוש בדף</string>
-    <string name="webviewchromium_private_browsing_warning">אפשרות זו אינה נתמכת בגירסה זו של אנדרואיד.</string>
+    <string name="webviewchromium_private_browsing_warning">אפשרות זו אינה נתמכת בגרסה זו של אנדרואיד.</string>
     <string name="week_picker_dialog_title">הגדר שבוע</string>
 </resources>

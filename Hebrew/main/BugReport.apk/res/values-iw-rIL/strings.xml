@@ -210,7 +210,9 @@
     <string name="feedback_title">כותרת</string>
     <string name="feedback_description">תאור</string>
     <string name="feedback_select_images">הוסף תמונות</string>
+    <string name="feedback_delete_images">Delete images</string>
     <string name="feedback_select_upload_log">הוסף יומנים</string>
+    <string name="feedback_select_modem_log">הוספת יומני מודם</string>
     <string name="feedback_select_suggestion">הצעות</string>
     <string name="feedback_select_problem">בעיות</string>
     <string name="feedback_choose_module">בחר פריט</string>
@@ -229,7 +231,7 @@
     <string name="toast_problem_class_required">בחר קטגוריה</string>
     <string name="feedback_third_packagename_hint">איזה יישום צד שלישי גורם לבעיות?</string>
     <string name="toast_third_packagename_required">הזן שם יישום</string>
-    <string name="feedback_contact_info_hint">Phone number/Email</string>
+    <string name="feedback_contact_info_hint">מספר טלפון/דוא\"ל</string>
     <string name="feedback_status_commit_succ_title">נשלח</string>
     <string name="feedback_status_commit_uploading_title">שולח…</string>
     <string name="feedback_status_commit_failed_title">לא ניתן היה לשלוח את הדו\"ח</string>
@@ -254,7 +256,7 @@
     <string name="floor">%1$s#</string>
     <string name="error_no_connection">לא ניתן היה להתחבר לרשת</string>
     <string name="feedback_phone_model_label">דגם הטלפון</string>
-    <string name="feedback_version_label">גירסה</string>
+    <string name="feedback_version_label">גרסה</string>
     <string name="feedback_probability_label">ייתכנות</string>
     <string name="feedback_description_label">תאור</string>
     <string name="feedback_retest_label">צעדים לשעתוק</string>
@@ -291,11 +293,13 @@
     <string name="module_finance">כלכלה &amp; ארנק Mi</string>
     <string name="module_more">עוד</string>
     <string name="module_search">חיפוש</string>
-    <string name="module_google_apps">Google apps</string>
+    <string name="module_google_apps">יישומי Google</string>
     <string name="feedback_submit_hint">דווח על שגיאות בכל פעם שהינך נתקל בהן על מנת לעזור לנו לפתור אותן מהר יותר.</string>
+    <string name="feedback_submit_hint_gone">Closed message</string>
     <string name="toast_post_deleted">נושא זה אינו קיים, נמחק, או נערך.</string>
     <string name="toast_log_not_exists">היומן הדרוש נמחק או שאינו קיים</string>
     <string name="toast_pic_not_exists">תמונת המטמון נמחקה</string>
+    <string name="toast_screenshot_too_large">"Can't upload files bigger than 10MB."</string>
     <string name="title_bbs_feedback_main">למידע נוסף אודות Mi phones</string>
     <string name="title_customer_service">שירות לקוחות</string>
 </resources>

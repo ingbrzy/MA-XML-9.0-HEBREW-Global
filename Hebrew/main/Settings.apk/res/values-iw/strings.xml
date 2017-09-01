@@ -625,7 +625,6 @@
     <string name="security_settings_fingerprint_enroll_repeat_message">הזז מעט את האצבע כדי להוסיף את כל החלקים של טביעת האצבע</string>
     <string name="security_settings_fingerprint_enroll_finish_title">טביעת האצבע נוספה!</string>
     <string name="security_settings_fingerprint_enroll_finish_message">כשתראה את הסמל הזה, תוכל להשתמש בטביעת האצבע שלך לצורך זיהוי או אישור רכישה.</string>
-    <string name="setup_fingerprint_enroll_finish_message">כשתראה את הסמל הזה, תוכל להשתמש בטביעת האצבע שלך.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">כשתראה את הסמל הזה, תוכל להשתמש בטביעת האצבע שלך.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">האם לדלג על הגדרת טביעת אצבע?</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">בחרת להשתמש בטביעת האצבע שלך כאחת מהדרכים שבהן תוכל לבטל את הנעילה בטלפון. אם תדלג על שלב זה עכשיו, תצטרך לבצע את ההגדרה בהמשך. ההגדרה לוקחת רק דקה או שתיים.</string>
@@ -643,6 +642,7 @@
 
 בכל מקרה, תוכל להשתמש בטביעת האצבע שלך כדי לאשר רכישות וגישה לאפליקציות. "<annotation id="url">למידע נוסף</annotation></string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">הרם את האצבע ואז גע שוב בחיישן</string>
+    <string name="setup_fingerprint_enroll_finish_message">כשתראה את הסמל הזה, תוכל להשתמש בטביעת האצבע שלך.</string>
     <string name="setup_fingerprint_enroll_finish_secondary_message">"‏כדי לשנות את ההגדרות, עבור אל 'הגדרות' > 'אבטחה' > 'טביעת אצבע'."</string>
     <string name="fingerprint_add_max">תוכל להוסיף עד %d טביעות אצבע</string>
     <string name="fingerprint_last_delete_title">האם להסיר את כל טביעות האצבע?</string>
@@ -1943,7 +1943,6 @@
     <string name="accessibility_service_default_description">לא סופק תיאור.</string>
     <string name="settings_button">הגדרות</string>
     <string name="print_settings">הדפסה</string>
-    <string name="print_settings_title">שירותי הדפסה</string>
     <string name="print_no_services_installed">אין שירותים מותקנים</string>
     <string name="print_no_printers_found">לא נמצאו מדפסות</string>
     <string name="print_menu_item_settings">הגדרות</string>
@@ -2880,7 +2879,6 @@
     <string name="display_auto_rotate_stay_in_portrait">הישאר בתצוגה לאורך</string>
     <string name="display_auto_rotate_stay_in_landscape">הישאר בתצוגה לרוחב</string>
     <string name="display_auto_rotate_stay_in_current">הישאר בכיוון המסך הנוכחי</string>
-    <string name="imei_information_title">‏פרטי IMEI</string>
     <string name="encryption_interstitial_header">הפעלה מאובטחת</string>
     <string name="encryption_continue_button">המשך</string>
     <string name="encryption_interstitial_message_pin">"‏באפשרותך לחזק את ההגנה על מכשיר זה על-ידי דרישת מספר ה-PIN שלך לפני הפעלתו. עד שהמכשיר יופעל, הוא לא לא יוכל לקבל שיחות, הודעות או התראות. 
@@ -2913,15 +2911,16 @@
     <string name="encrypt_talkback_dialog_message_pin">‏כשתזין את מספר ה-PIN להפעלת המכשיר הזה, שירותי נגישות כמו %1$s עדיין לא יהיו זמינים.</string>
     <string name="encrypt_talkback_dialog_message_pattern">כשתזין את קו ביטול הנעילה להפעלת המכשיר הזה, שירותי נגישות כמו %1$s עדיין לא יהיו זמינים.</string>
     <string name="encrypt_talkback_dialog_message_password">כשתזין את הסיסמה להפעלת המכשיר הזה, שירותי נגישות כמו %1$s עדיין לא יהיו זמינים.</string>
+    <string name="imei_information_title">‏פרטי IMEI</string>
     <string name="imei_information_summary">‏מידע הקשור ל-IMEI</string>
     <string name="slot_number">(חריץ %1$d)</string>
     <string name="launch_by_default">פתח כברירת מחדל</string>
-    <string name="storage_summary_format">נעשה שימוש ב-%1$s ב%2$s</string>
     <string name="app_launch_domain_links_title">פתיחת קישורים</string>
     <string name="app_launch_open_domain_urls_title">פתח קישורים נתמכים</string>
     <string name="app_launch_open_domain_urls_summary">פתח בלי לשאול</string>
     <string name="app_launch_supported_domain_urls_title">קישורים נתמכים</string>
     <string name="app_launch_other_defaults_title">ברירות מחדל אחרות</string>
+    <string name="storage_summary_format">נעשה שימוש ב-%1$s ב%2$s</string>
     <string name="storage_type_internal">אחסון פנימי</string>
     <string name="storage_type_external">אחסון חיצוני</string>
     <string name="app_data_usage">שימוש בנתונים באפליקציות</string>
@@ -3260,4 +3259,5 @@
     <string name="bluetooth_talkback_headphone">אוזנייה</string>
     <string name="bluetooth_talkback_input_peripheral">ציוד קלט היקפי</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+    <string name="print_settings_title">שירותי הדפסה</string>
 </resources>

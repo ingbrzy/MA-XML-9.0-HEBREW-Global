@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sharedUserLabel">יישומי Android Core</string>
+    <string name="sharedUserLabel">יישומי ליבה של אנדרואיד</string>
     <string name="app_label">אחסון אנשי קשר</string>
     <string name="provider_label">אנשי קשר</string>
     <string name="upgrade_msg">מעדכן את מסד הנתונים של אנשי הקשר.</string>
