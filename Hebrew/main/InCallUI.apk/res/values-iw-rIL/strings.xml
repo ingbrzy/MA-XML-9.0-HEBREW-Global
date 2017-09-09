@@ -67,7 +67,7 @@
     <string name="card_title_threeway_call">שיחת משולשת</string>
     <string name="card_title_incoming_call">שיחה נכנסת</string>
     <string name="card_title_answering">מענה לשיחה</string>
-    <string name="card_title_answering_fail">לא ניתן היה לענות לשיחה, נסה שוב.</string>
+    <string name="card_title_answering_time_out">"Couldn't answer call, try again."</string>
     <string name="card_title_call_ended">"השיחה הסתימה "</string>
     <string name="card_title_on_hold">"בהמתנה "</string>
     <string name="card_title_hanging_up">"מנתק "</string>
@@ -180,10 +180,6 @@
     <string name="do_not_ask">אל תציג שוב</string>
     <string name="time_left_livetalk">(%dש)</string>
     <string name="can_not_call_oneself">לא ניתן לחייג למספר זה</string>
-    <string name="jeejen_answer_call_text">ענה לשיחה</string>
-    <string name="jeejen_reject_call_text">דחה שיחה</string>
-    <string name="jeejen_end_call_text">סיים שיחה</string>
-    <string name="jeejen_toggle_dialpad_text">לוח מקשים</string>
     <string name="miprofile_stranger_card">כרטיס של אדם זר</string>
     <string name="card_title_video_call_paused">וידאו מושהה</string>
     <string name="card_title_incoming_conference_call">שיחת ועידה נכנסת</string>
@@ -239,9 +235,9 @@
     <string name="alert_dialog_dismiss">התעלם</string>
     <string name="contactPhoto">תמונת איש קשר</string>
     <string name="call_record_button_label">מקליט %s</string>
-    <string name="livetalk_left_minute">%s דקות נותרו</string>
     <string name="call_self">לא ניתן לחייג לעצמך</string>
     <string name="cancel_call">נתק</string>
     <string name="dial_with_gsm_phone">שיחה רגילה</string>
+    <string name="livetalk_left_minute">%s דקות נותרו</string>
     <string name="purchase_now">Top up</string>
 </resources>

@@ -210,7 +210,7 @@
     <string name="feedback_title">כותרת</string>
     <string name="feedback_description">תאור</string>
     <string name="feedback_select_images">הוסף תמונות</string>
-    <string name="feedback_delete_images">Delete images</string>
+    <string name="feedback_delete_images">מחיקת תמונות</string>
     <string name="feedback_select_upload_log">הוסף יומנים</string>
     <string name="feedback_select_modem_log">הוספת יומני מודם</string>
     <string name="feedback_select_suggestion">הצעות</string>
@@ -299,7 +299,7 @@
     <string name="toast_post_deleted">נושא זה אינו קיים, נמחק, או נערך.</string>
     <string name="toast_log_not_exists">היומן הדרוש נמחק או שאינו קיים</string>
     <string name="toast_pic_not_exists">תמונת המטמון נמחקה</string>
-    <string name="toast_screenshot_too_large">"Can't upload files bigger than 10MB."</string>
+    <string name="toast_screenshot_too_large">לא ניתן להעלות קבצים הגדולים מ-10MB.</string>
     <string name="title_bbs_feedback_main">למידע נוסף אודות Mi phones</string>
     <string name="title_customer_service">שירות לקוחות</string>
 </resources>

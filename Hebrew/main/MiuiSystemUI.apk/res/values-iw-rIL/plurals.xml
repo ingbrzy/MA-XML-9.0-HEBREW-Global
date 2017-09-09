@@ -19,10 +19,10 @@
         <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d מתגים מעל שורה זו הם מתגים פעילים</item>
-        <item quantity="one">מתג %1$d מעל שורה זו הינו מתג פעיל</item>
-        <item quantity="two">%1$d מתגים מעל שורה זו הם מתגים פעילים</item>
-        <item quantity="many">%1$d מתגים מעל שורה זו הם מתגים פעילים</item>
+        <item quantity="other">%1$d מתגים יוצגו בלוח ההתראות</item>
+        <item quantity="one">"מתג %1$d יוצג ב'לוח ההתראות'"</item>
+        <item quantity="two">%1$d מתגים יוצגו בלוח ההתראות</item>
+        <item quantity="many">%1$d מתגים יוצגו בלוח ההתראות</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">להסתיר התראות של %d יישומים?</item>
@@ -43,9 +43,9 @@
         <item quantity="many">בהיר</item>
     </plurals>
     <plurals name="fold_tips_title">
-        <item quantity="other">%d notifications are fold</item>
-        <item quantity="one">%d notification is fold</item>
-        <item quantity="two">%d notifications are fold</item>
-        <item quantity="many">%d notifications are fold</item>
+        <item quantity="other">%d התראות לא חשובות</item>
+        <item quantity="one">התראה לא חשובה %d</item>
+        <item quantity="two">%d התראות לא חשובות</item>
+        <item quantity="many">%d התראות לא חשובות</item>
     </plurals>
 </resources>

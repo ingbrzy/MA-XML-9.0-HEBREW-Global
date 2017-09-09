@@ -21,7 +21,7 @@
     <string name="phone_locked_foget_password_mehod_back">הקודם</string>
     <string name="phone_locked_foget_password_method_next">הבא</string>
     <string name="phone_locked_forget_password_suggesstions_title">כיצד למחוק נתונים?</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Power off your device, press and hold the &lt;font color=#a5220e>Power button &lt;/font> and the &lt;font color=#a5220e>Volume up button &lt;/font>simultaneously until you see ml.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e> &lt;font color=#a5220e>לחצן ההפעלה &lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע &lt;/font>בו זמנית עד להופעת הלוגו של Mi.;</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>בחר &lt;font color=#a5220e>\"הסרה &amp;amp; איפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.;</Data></string>
     <string name="phone_locked_foget_password_ok">הבנתי</string>
     <string name="lockscreen_access_pattern_start">תבנית החלה</string>
@@ -41,7 +41,7 @@
     <string name="invalid_confirm_pin_hint">קודי PIN אינם תואמים</string>
     <string name="unlock_string">שחרר נעילה</string>
     <string name="open_camera_hint_text">החלק שמאלה לפתיחת המצלמה</string>
-    <string name="open_remote_center_hint_text">Swipe right to open mi remote</string>
+    <string name="open_remote_center_hint_text">החלק ימינה לפתיחת שלט Mi</string>
     <string name="click_to_enter_text">לחץ לצפיה</string>
     <string name="fingerprint_try_again_text">נסה שוב</string>
     <string name="fingerprint_try_again_msg">לא ניתן היה לאמת את טביעת האצבע, נסה שוב.</string>
@@ -57,7 +57,7 @@
     <string name="input_password_after_boot_msg">לביטול נעילת המכשיר, הזן סיסמתך</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
-    <string name="input_password_handle_sdcard_fs">进入分身前需要在开发者选项中关闭“模拟SD卡优化”</string>
+    <string name="input_password_handle_sdcard_fs">"כבה את \"ייעול כרטיס זכרון וירטואלי\" לפני כניסה ל'שטח שני'."</string>
     <string name="accessibility_enter_lock_wallpaper">"לחץ לפתיחת 'טפט מתחלף'"</string>
     <string name="lock_wallpaper_learn_more">עוד</string>
     <string name="lock_wallpaper_enter">היכנס</string>

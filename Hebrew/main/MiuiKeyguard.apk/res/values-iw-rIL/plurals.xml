@@ -31,57 +31,57 @@
         <item quantity="many">%d התראות חדשות</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">About %d mins until full​</item>
-        <item quantity="one">About %d min until full​</item>
-        <item quantity="two">About %d mins until full​</item>
-        <item quantity="many">About %d mins until full​</item>
+        <item quantity="other">"כ-%d  דקות לטעינה מלאה"</item>
+        <item quantity="one">"כדקה %d  לטעינה מלאה"</item>
+        <item quantity="two">"כ-%d  דקות לטעינה מלאה"</item>
+        <item quantity="many">"כ-%d  דקות לטעינה מלאה"</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">About %d hrs until full</item>
-        <item quantity="one">About %d hr until full</item>
-        <item quantity="two">About %d hrs until full</item>
-        <item quantity="many">About %d hrs until full</item>
+        <item quantity="other">"כ-%d  שעות לטעינה מלאה"</item>
+        <item quantity="one">"כשעה %d  לטעינה מלאה"</item>
+        <item quantity="two">"כ-%d  שעות לטעינה מלאה"</item>
+        <item quantity="many">"כ-%d  שעות לטעינה מלאה"</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">About %1$d hrs %2$d mins until full</item>
-        <item quantity="one">About %1$d hr %2$d min until full</item>
-        <item quantity="two">About %1$d hrs %2$d mins until full</item>
-        <item quantity="many">About %1$d hrs %2$d mins until full</item>
+        <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות לטעינה מלאה"</item>
+        <item quantity="one">"כשעה %1$d  ו-%2$d  דקות לטעינה מלאה"</item>
+        <item quantity="two">"כ-%1$d  שעות ו-%2$d  דקות לטעינה מלאה"</item>
+        <item quantity="many">"כ-%1$d  שעות ו-%2$d  דקות לטעינה מלאה"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">About %d mins left</item>
-        <item quantity="one">About %d min left</item>
-        <item quantity="two">About %d mins left</item>
-        <item quantity="many">About %d mins left</item>
+        <item quantity="other">"כ-%d  דקות נותרו"</item>
+        <item quantity="one">"נותרה כדקה %d "</item>
+        <item quantity="two">"כ-%d  דקות נותרו"</item>
+        <item quantity="many">"כ-%d  דקות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">About %d hrs left</item>
-        <item quantity="one">About %d hr left</item>
-        <item quantity="two">About %d hrs left</item>
-        <item quantity="many">About %d hrs left</item>
+        <item quantity="other">"כ-%d  שעות נותרו"</item>
+        <item quantity="one">"נותרה כשעה %d "</item>
+        <item quantity="two">"כ-%d  שעות נותרו"</item>
+        <item quantity="many">"כ-%d  שעות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">About %1$d hrs %2$d mins left</item>
-        <item quantity="one">About %1$d hr %2$d min left</item>
-        <item quantity="two">About %1$d hrs %2$d mins left</item>
-        <item quantity="many">About %1$d hrs %2$d mins left</item>
+        <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="one">"כשעה %1$d  ו-%2$d  דקות נותרו"</item>
+        <item quantity="two">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="many">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
-        <item quantity="two">%d hrs</item>
-        <item quantity="many">%d hrs</item>
+        <item quantity="other">"%d  שעות"</item>
+        <item quantity="one">"שעה %d "</item>
+        <item quantity="two">"%d  שעות"</item>
+        <item quantity="many">"%d  שעות"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
-        <item quantity="two">%d mins</item>
-        <item quantity="many">%d mins</item>
+        <item quantity="other">"%d  דקות"</item>
+        <item quantity="one">"דקה %d "</item>
+        <item quantity="two">"%d  דקות"</item>
+        <item quantity="many">"%d  דקות"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d hrs %2$d mins</item>
-        <item quantity="one">%1$d hr %2$d min</item>
-        <item quantity="two">%1$d hrs %2$d mins</item>
-        <item quantity="many">%1$d hrs %2$d mins</item>
+        <item quantity="other">"%1$d  שעות ו-%2$d  דקות"</item>
+        <item quantity="one">"שעה %1$d  ו-%2$d  דקות"</item>
+        <item quantity="two">"%1$d  שעות ו-%2$d  דקות"</item>
+        <item quantity="many">"%1$d  שעות ו-%2$d  דקות"</item>
     </plurals>
 </resources>

@@ -13,7 +13,7 @@
         <item>גודל</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>בכל יום</item>
+        <item>כל יום</item>
         <item>כל 3 ימים</item>
         <item>כל 7 ימים</item>
         <item>כל 15 ימים</item>
@@ -25,8 +25,8 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>הצג התראה</item>
-        <item>Clean in background</item>
-        <item>Show notification after clean</item>
+        <item>התרע</item>
+        <item>הסר</item>
+        <item>הסר והתרע</item>
     </string-array>
 </resources>

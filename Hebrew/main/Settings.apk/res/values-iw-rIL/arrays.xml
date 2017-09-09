@@ -149,6 +149,17 @@
         <item>מהיר מאוד</item>
         <item>המהיר ביותר</item>
     </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
     <string-array name="color_mode_names">
         <item>ויברנט (ברירת מחדל)</item>
         <item>טבעי</item>
@@ -169,9 +180,14 @@
         <item>הפרד</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Only show in lock screen and notification panel</item>
-        <item>Always show carrier name</item>
-        <item>Never show carrier name</item>
+        <item>"הצג ב'מסך הנעילה' וב'לוח ההתראות' בלבד"</item>
+        <item>הצג תמיד את שם ספק הרשת</item>
+        <item>לעולם אל תציג את שם ספק הרשת</item>
+    </string-array>
+    <string-array name="status_bar_show_carrier_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 שניות</item>
@@ -230,22 +246,18 @@
         <item>לבן</item>
         <item>סגול</item>
     </string-array>
-    <string-array name="screen_key_position_action">
-        <item>"לחצן 'תפריט' משמאל, לחצן 'חזרה' מימין"</item>
-        <item>"לחצן 'חזרה' משמאל, לחצן 'תפריט' מימין"</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>הצג את מגש היישומים האחרונים</item>
         <item>הצג תפריט</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>ללא</item>
-        <item>הצג יישומים אחרונים</item>
-        <item>אשף ההפעלה</item>
-        <item>הפעל את Google Now</item>
-        <item>סגור את היישום הנוכחי</item>
-        <item>הפעל את החיפוש המהיר</item>
-        <item>הצג תפריט</item>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 שניות</item>
@@ -300,6 +312,14 @@
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>התקן מחדש את MiPhoneManager.</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -361,10 +381,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>comtible mode</item>
         <item>high mode</item>
     </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="traffic_balance_entries">
         <item>סגירה</item>
         <item>מצב רגיל</item>
         <item>מצב קיצוני</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>משגר היישומים</item>
@@ -399,6 +428,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>בינוני</item>
         <item>גבוה</item>
     </string-array>
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="agps_network_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>רשת ביתית</item>
         <item>כל הרשתות</item>
@@ -407,9 +446,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="agps_apn_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>חם</item>
@@ -420,6 +468,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>"4.5 אינץ'"</item>
         <item>"4.0 אינץ'"</item>
         <item>"3.5 אינץ'"</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>מידית</item>
@@ -517,6 +570,11 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>סגנון יד שמאל</item>
         <item>סגנון יד ימין</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
         <item>Click adjust - Double click trigger</item>
@@ -815,12 +873,170 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>פרמריבו</item>
         <item>קיטו</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>1</item>
+        <item>3</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>תמיד</item>
         <item>30 דקות</item>
         <item>שעה 1</item>
         <item>שעתיים</item>
         <item>8 שעות</item>
+    </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="click_bottom">
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom02</item>
+        <item>\@drawable/clickbottom03</item>
+        <item>\@drawable/clickbottom04</item>
+        <item>\@drawable/clickbottom05</item>
+        <item>\@drawable/clickbottom06</item>
+        <item>\@drawable/clickbottom07</item>
+        <item>\@drawable/clickbottom08</item>
+        <item>\@drawable/clickbottom03</item>
+        <item>\@drawable/clickbottom02</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+    </string-array>
+    <string-array name="long_press">
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom02</item>
+        <item>\@drawable/longpressbottom03</item>
+        <item>\@drawable/longpressbottom04</item>
+        <item>\@drawable/longpressbottom05</item>
+        <item>\@drawable/longpressbottom06</item>
+        <item>\@drawable/longpressbottom07</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom09</item>
+        <item>\@drawable/longpressbottom10</item>
+        <item>\@drawable/longpressbottom11</item>
+        <item>\@drawable/longpressbottom04</item>
+        <item>\@drawable/longpressbottom03</item>
+        <item>\@drawable/longpressbottom02</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+    </string-array>
+    <string-array name="power_click">
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+    </string-array>
+    <string-array name="power_double_click">
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+    </string-array>
+    <string-array name="three_drop">
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop02</item>
+        <item>\@drawable/threedrop03</item>
+        <item>\@drawable/threedrop04</item>
+        <item>\@drawable/threedrop05</item>
+        <item>\@drawable/threedrop06</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>כל יום</item>

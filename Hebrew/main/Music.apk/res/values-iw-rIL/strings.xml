@@ -209,8 +209,8 @@
     <string name="lyric_open_other_connect">הורד מילות שירים באמצעות הרשת הסלולרית</string>
     <string name="playback_failed_no_title_by_bad_file">הפורמט של שיר זה אינו נתמך או שהקובץ אינו קיים.</string>
     <string name="streamloadingtext">מתחבר ל- %s</string>
-    <string name="toast_new_playlist_name_too_long">Playlist name is too long</string>
-    <string name="toast_new_playlist_name_no_enter">"key 'Enter' has been deleted'"</string>
+    <string name="toast_new_playlist_name_too_long">שם רשימת ההשמעה ארוך מידי</string>
+    <string name="toast_new_playlist_name_no_enter">לא ניתן להתחיל פסקה חדשה</string>
     <string name="error_title">לא ניתן לסנכרן עם חשבון Mi</string>
     <string name="error_unauthorized">הסנכרון כובה עקב ניסיונות כניסה רבים מידי.</string>
     <string name="error_forbidden">הסינכרון כובה עקב בעיות עם חשבונך.</string>
@@ -846,8 +846,8 @@
     <string name="talkback_favorite">"סמן שיר זה ב'אהבתי'"</string>
     <string name="talkback_progress">בר התקדמות</string>
     <string name="talkback_back">חזור</string>
-    <string name="talkback_nowplaying_circle">Play Circle</string>
-    <string name="talkback_nowplaying_bar">Play Bar</string>
+    <string name="talkback_nowplaying_circle">Play circle</string>
+    <string name="talkback_nowplaying_bar">Play bar</string>
     <string name="cloud_music">שירים ב-Mi Cloud</string>
     <string name="backup_immediate">גיבוי</string>
     <string name="backup_song_title">בחר שירים לגיבוי</string>

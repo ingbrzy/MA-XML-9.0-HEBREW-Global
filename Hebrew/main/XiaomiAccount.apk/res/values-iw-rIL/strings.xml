@@ -7,6 +7,7 @@
     <string name="passport_login_title">היכנס לחשבון Mi שלך</string>
     <string name="passport_login">היכנס</string>
     <string name="passport_relogin">היכנס שוב</string>
+    <string name="passport_instant_login">היכנס</string>
     <string name="passport_skip_login">דלג</string>
     <string name="passport_skip_setup_account_title">דלג על ההתקנה</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
@@ -180,6 +181,11 @@
     <string name="passport_account_set_password_title">הגדרת סיסמה</string>
     <string name="passport_account_set_password_prompt">הגדר סיסמה אשר באמצעותה תיכנס לחשבונך בפעם הבאה.</string>
     <string name="passport_set">הגדר</string>
+    <string name="passport_user_reg_region">מדינה/אזור</string>
+    <string name="passport_user_id_notice">您的小米ID是: %s</string>
+    <string name="passport_user_reg_region_warning">"You Won't be able to change your country/region once the account is created"</string>
+    <string name="passport_sync_account_data">正在同步您的帐号数据</string>
+    <string name="passport_sync_account_data_failed_warning">您的帐号数据有延迟,将只能使用小米ID登录。若使用邮箱/手机登录,请稍等几分钟</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -306,8 +312,9 @@
     <string name="account_xiaomi_service">שירותים</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="vip_account_settings">הגדרות VIP</string>
-    <string name="vip_more_info">מידע VIP נוסף</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="mi_vip_info">查看我的特权</string>
+    <string name="vip_settings_info">我的数据中心</string>
     <string name="loading_micloud_sync_data">רק רגע…</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="scan_barcode_title">על מנת להיכנס לחשבון Mi שלך, סרוק את קוד ה-QR</string>
@@ -421,4 +428,5 @@
     <string name="account_token_expired_title">האימות נכשל</string>
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>
+    <string name="bind_safe_phone_msg">Add safe phone for next sign in</string>
 </resources>

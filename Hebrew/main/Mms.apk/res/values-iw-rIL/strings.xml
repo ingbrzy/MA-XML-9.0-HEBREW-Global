@@ -332,9 +332,9 @@
     <string name="mx_stranger_recommend_msg">לחץ לחסימת הודעות Mi ממספרים לא מוכרים</string>
     <string name="mx_type_guide">"'הודעות Mi' מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים בחינם"</string>
     <string name="need_download">מסנכרן…</string>
-    <string name="networking_allow_continue">אישור</string>
-    <string name="networking_allow_desc">"הודעות חכמות מאפשרות לך לשלוח מלל וקול, לזהות מספרים לא מוכרים, לסנן דואר זבל וכו'. על שימוש בשירות זה, אתה מסכים ל- %1$s ול- %2$s של Xiaomi. עליך להפעיל את דפי זהב ולהתחבר לאינטרנט על מנת להשתמש בשירות זה."</string>
-    <string name="networking_allow_desc_without_mx">"הודעות חכמות מאפשרות לך לזהות מספרים לא מוכרים, לסנן דואר זבל וכו'. על ידי שימוש בשירות זה, אתה מסכים ל- %1$s ול- %2$s של Xiaomi. עליך להפעיל את 'דפי זהב' ולהתחבר לאינטרנט על מנת להשתמש בשירות זה."</string>
+    <string name="networking_allow_continue">אפשר</string>
+    <string name="networking_allow_desc">"על הודעות Mi להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת שיוכל לספק שירותי טקסט וקול חינמיים, לזהות מספרים לא מוכרים, לסנן ספאם ולאפשר תכונות אחרות, על הודעות Mi להשתמש ב'דפי זהב'. לאפשר ל'דפי זהב' להתחבר לאינטרנט, לקבל את פרטי המיקום שלך ולקרוא את אנשי הקשר שלך?"</string>
+    <string name="networking_allow_desc_without_mx">"על הודעות Mi להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת שיוכל לזהות מספרים לא מוכרים, לסנן ספאם ולאפשר תכונות אחרות, על הודעות Mi להשתמש ב'דפי זהב'. לאפשר ל'דפי זהב' להתחבר לאינטרנט, לקבל את פרטי המיקום שלך ולקרוא את אנשי הקשר שלך?"</string>
     <string name="networking_allow_title">שים לב</string>
     <string name="new_message">כתיבת הודעה</string>
     <string name="new_message_arrived">התקבלה הודעה חדשה</string>

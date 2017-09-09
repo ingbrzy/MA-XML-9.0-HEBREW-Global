@@ -167,6 +167,7 @@
     <string name="color_picker_dialog_title">בחר צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -180,6 +181,7 @@
     <string name="contextmenu_dial_dot">חייג…</string>
     <string name="contextmenu_download_image">שמור תמונה</string>
     <string name="contextmenu_download_image_as">שמור תמונה</string>
+    <string name="contextmenu_manually_block_ad">סימון כפרסומת</string>
     <string name="contextmenu_map">מפה</string>
     <string name="contextmenu_openlink">פתח</string>
     <string name="contextmenu_openlink_newwindow">פתח בכרטיסיה חדשה</string>
@@ -558,8 +560,10 @@
     <string name="pref_accessibility_url_shortcut_enter_title">הזנה מהירה של כתובת אתר</string>
     <string name="pref_adblock_counts">%d נחסמו</string>
     <string name="pref_adblock_title">חוסם מודעות</string>
+    <string name="pref_advert_null">Unmarked advertising,You can press the label on the page</string>
     <string name="pref_auto_update_under_wifi">עדכן בעת חיבור לרשת אלחוטית</string>
     <string name="pref_automatic_matching_searchengines_title">החלף למנוע החיפוש השכיח</string>
+    <string name="pref_cancel_screen">Cancel screen</string>
     <string name="pref_category_hint">קטגוריה</string>
     <string name="pref_check_security_url_summary">שלח כתובת של אתר זה אל שרתי Mi לצורך בדיקת אבטחה</string>
     <string name="pref_check_security_url_summary_international">"אפשר ל'דפדפן' לגשת אל כתובות ה-URL של האתרים בהם הינך גולש על מנת לקבל המלצות רלוונטיות נוספות."</string>
@@ -603,6 +607,7 @@
     <string name="pref_force_userscalable_summary">עקוף בקשה של אתר לשלוט בהתנהגות זום</string>
     <string name="pref_general_title">כללי</string>
     <string name="pref_key_gesture_title">מקשים &amp; מחוות</string>
+    <string name="pref_label_advert_manager">Manager labelled ads</string>
     <string name="pref_nav_mode_summary_pad">לוח</string>
     <string name="pref_nav_mode_summary_phone">טלפון</string>
     <string name="pref_nav_mode_title">מצב דפדפן</string>
@@ -908,11 +913,14 @@
     <string name="view_certificate">צפה בתעודה</string>
     <string name="view_document_downloaded_files">"הצג קבצים שירדו ב'הורדות'"</string>
     <string name="voice_check_network">בדוק את הגדרות הרשת שלך ונסה שוב.</string>
+    <string name="voice_close_description">סגירה</string>
     <string name="voice_connect_network">לא ניתן היה להתחבר לרשת.</string>
     <string name="voice_description">חיפוש קולי</string>
     <string name="voice_network_connection">"'חיפוש קולי' זקוק לחיבור לאינטרנט על מנת לפעול כראוי."</string>
     <string name="voice_search_permission">"'חיפוש קולי' זקוק לגישה למיקרופון שלך על מנת לפעול כראוי."</string>
     <string name="voice_semantic_analysis">"ה'דפדפן' יוכל לבצע ניתוח סמנטיקה לאחר שתאפשר לו להתחבר."</string>
+    <string name="voice_start_description">התחלה</string>
+    <string name="voice_stop_description">עצירה</string>
     <string name="voice_sub_title">לא יודע מה לומר? נסה \"Open mi.com!\"</string>
     <string name="voice_title">אמור בקול את פקודתך...</string>
     <string name="voice_title_distinguish">מעבד…</string>
