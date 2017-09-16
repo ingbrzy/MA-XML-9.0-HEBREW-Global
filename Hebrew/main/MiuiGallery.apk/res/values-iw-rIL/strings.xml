@@ -600,7 +600,6 @@
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
     <string name="slim_introduce">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">החלף קבצים ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="next">הבא</string>
     <string name="login_and_enable_service">היכנס באמצעות חשבון Mi</string>
@@ -677,7 +676,6 @@
     <string name="cloud_storage_ok_append_desc">זמין %s</string>
     <string name="cloud_storage_warn_title">אין מספיק שטח אחסון ב-Mi Cloud</string>
     <string name="cloud_storage_warn_desc">רכוש חבילת Cloud VIP לקבלת שטח אחסון נוסף</string>
-    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">הרחבת שטח הענן</string>
     <string name="user_agreement2">תנאי השירות</string>
     <string name="user_agreement4">מדיניות הפרטיות</string>
@@ -786,8 +784,6 @@
     <string name="search_setting_sub_title_open">הוחל. המתן רגע לפני שתתחיל.</string>
     <string name="search_request_open">הצטרפות לצוות הבדיקה</string>
     <string name="search_title_more">עוד</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_icon">search_icon</string>
     <string name="grant_permission_title">אפשר גישה</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
