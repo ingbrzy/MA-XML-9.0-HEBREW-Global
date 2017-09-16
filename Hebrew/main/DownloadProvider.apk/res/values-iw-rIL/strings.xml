@@ -45,16 +45,4 @@
     <string name="notify_install_guide_title">%s הותקן בהצלחה</string>
     <string name="notify_install_guide_msg">הותקן בהצלחה</string>
     <string name="notify_install_guide_forward_text">פתח</string>
-    <string name="dialog_data_limit_title">אזהרת שימוש בנתונים</string>
-    <string name="dialog_data_limit_msg1">%s של נתונים סלולריים ישמשו להורדת קובץ זה. להוריד כעת?</string>
-    <string name="dialog_data_limit_msg3">שינוי המגבלה</string>
-    <string name="dialog_data_limit_button1">המתן לחיבור רשת אלחוטית</string>
-    <string name="dialog_data_limit_button2">הורד כעת</string>
-    <string name="dialog_button_ok">אישור</string>
-    <string name="dialog_button_cancel">ביטול</string>
-    <string name="dialog_tip_limit">אזהר בעת הורדת קובץ הגדול מ-%s</string>
-    <string name="dialog_tip_no_limit">אל תזהיר</string>
-    <string name="dialog_tip_limit0">אזהר בכל פעם</string>
-    <string name="dialog_content_limit_max">ללא הגבלה</string>
-    <string name="dialog_content_limit0">הגבלת הורדות</string>
 </resources>

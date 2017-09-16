@@ -166,7 +166,7 @@
     <string name="document_color_picture_tip">"ממיר ל'צבעוני'…"</string>
     <string name="document_save_succeed_tip">המסמך נשמר ב- %1$s</string>
     <string name="document_recognize_fail_tip">לא ניתן היה לקרוא את המסמך</string>
-    <string name="document_recognize_null_tip">Document result is empty</string>
+    <string name="document_recognize_null_tip">תוצאת סריקת המסמך ריקה</string>
     <string name="recognition_error_download_title">דרוש מנוע זיהוי</string>
     <string name="recognition_error_download_msg">הורד מנוע זיהוי על מנת לסרוק כרטיסים. גודל המנוע הוא כ-15MB.</string>
     <string name="recognition_error_download_ok">הורדה</string>

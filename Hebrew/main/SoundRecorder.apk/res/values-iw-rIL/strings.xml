@@ -145,7 +145,7 @@
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="choose_call_records_count">%d פריטים</string>
     <string name="network_tip_dialog_title">דרוש חיבור לאינטרנט</string>
-    <string name="network_tip_dialog_content">This app needs to connect to the internet, as well as read your contacts to label the recordings you record during calls.</string>
+    <string name="network_tip_dialog_content">על יישום זה להתחבר לאינטרנט, וכמו כן לקרוא את אנשי הקשר שלך על מנת שיוכל לתייג את ההקלטות שהינך מבצע במהלך שיחות.</string>
     <string name="network_tip_dialog_ok">אפשר</string>
     <string name="network_tip_dialog_cancel">ביטול</string>
     <string name="head_set_tip_dialog_title">השתמש במיקרופון הפנימי</string>

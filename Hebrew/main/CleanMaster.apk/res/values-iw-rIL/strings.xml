@@ -121,7 +121,7 @@
     <string name="toast_network_eror">לא ניתן להתחבר לרשת</string>
     <string name="sc_allow_network_dialog_message">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל עדכונים?</string>
     <string name="sc_allow_network_dialog_button">אפשר</string>
-    <string name="auto_clean_switch_on">פועל</string>
+    <string name="auto_clean_switch_on">מופעל</string>
     <string name="auto_clean_switch_off">כבוי</string>
     <string name="msg_cleanup_db_update_checking">בודק זמינות עדכונים…</string>
     <string name="msg_update_error_code_success">בוצע</string>

@@ -167,6 +167,7 @@
     <string name="color_picker_dialog_title">בחר צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -180,7 +181,7 @@
     <string name="contextmenu_dial_dot">חייג…</string>
     <string name="contextmenu_download_image">שמור תמונה</string>
     <string name="contextmenu_download_image_as">שמור תמונה</string>
-    <string name="contextmenu_manually_block_ad">סימון כפרסומת</string>
+    <string name="contextmenu_manually_block_ad">Label as ad</string>
     <string name="contextmenu_map">מפה</string>
     <string name="contextmenu_openlink">פתח</string>
     <string name="contextmenu_openlink_newwindow">פתח בכרטיסיה חדשה</string>
@@ -435,7 +436,7 @@
     <string name="miuichromium_error_page_network_off">הפעל נתונים סלולריים או רשתות אלחוטיות</string>
     <string name="miuichromium_error_page_no_network">לא ניתן להתחבר לרשת</string>
     <string name="miuichromium_error_page_problem_access_denied">הגישה אל %s0 נדחתה</string>
-    <string name="miuichromium_error_page_problem_cache_miss">עמוד זה אינו יכול להיטען מהמטמון</string>
+    <string name="miuichromium_error_page_problem_cache_miss">"The cached version of this page can't be loaded"</string>
     <string name="miuichromium_error_page_problem_cannot_open_page">לא ניתן לפתוח את העמוד</string>
     <string name="miuichromium_error_page_problem_cannot_reach_site">לא ניתן לגשת לאתר זה</string>
     <string name="miuichromium_error_page_problem_connection_interrupted">החיבור נקטע</string>
@@ -459,7 +460,7 @@
     <string name="miuichromium_error_page_reason_invalid_address">. כתובת ה-IP או מספר ה-Port אינם חוקיים</string>
     <string name="miuichromium_error_page_reason_invalid_response">" כיוון ש- %s0 שלח תגובה בלתי חוקית"</string>
     <string name="miuichromium_error_page_reason_invalid_url">" כיוון שכתובת ה-URL אינה חוקית"</string>
-    <string name="miuichromium_error_page_reason_moved_or_deleted">. It might be moved or deleted</string>
+    <string name="miuichromium_error_page_reason_moved_or_deleted">. It might have been moved or deleted</string>
     <string name="miuichromium_error_page_reason_name_collision">. לאתר זה באינטראנט יש את אותה כתובת URL כמו לאתר האינטרנט החיצוני</string>
     <string name="miuichromium_error_page_reason_name_not_resolved">. לא ניתן היה למצוא כתובת DNS עבור %s0</string>
     <string name="miuichromium_error_page_reason_network_changed">" עקב שינוי רשת"</string>
@@ -470,18 +471,18 @@
     <string name="miuichromium_error_page_reason_unsafe_port">. %s0 משתמש במספר Port לא בטוח</string>
     <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 מפנה אותך באופן לא בטוח</string>
     <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 משתמש בפרוטוקול בלתי נתמך</string>
-    <string name="miuichromium_error_page_reload">טעינה מחדש</string>
+    <string name="miuichromium_error_page_reload">Refresh</string>
     <string name="miuichromium_error_page_safe_network">מצב בטוח</string>
     <string name="miuichromium_error_page_server_error">מספר התקנים רב מידי מנסה ליצור חיבור</string>
     <string name="miuichromium_error_page_suggestion_check_app_proxy">בדוק את הגדרות יישומי ה-Proxy המותקנים במכשירך.</string>
     <string name="miuichromium_error_page_suggestion_check_connetion">בדוק את חיבור האינטרנט שלך.</string>
     <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(נתונים סלולריים) אפס את %s1 הגדרות ה-APN שלך%s2.</string>
     <string name="miuichromium_error_page_suggestion_check_url">בדוק את כתובת ה-URL שהזנת.</string>
-    <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(רשת אלחוטית) בדוק את %s1 הגדרות ה-Proxy שלך%s2.</string>
+    <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Check your %s1proxy settings%s2.</string>
     <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">נקה מטמון (%s1הגדרות%s2 - ניקוי נתונים).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">נקה מטמון ועוגיות (%s1הגדרות%s2 - ניקוי נתונים, יתכן ופרטי החשבון שלך יאבדו).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">נקה מטמון ועוגיות (פרטי החשבון שלך עשויים ללכת לאיבוד).</string>
-    <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Clear cache.</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">ניקוי מטמון.</string>
     <string name="miuichromium_error_page_suggestion_connect_and_retry">טען מחדש לאחר חיבור לאינטרנט</string>
     <string name="miuichromium_error_page_suggestion_contact_admin">צור קשר עם מנהל המערכת שלך.</string>
     <string name="miuichromium_error_page_suggestion_correct_url">בדוק את הכתובת שהזנת ונסה שוב באמצעות כתובת ה-URL הנכונה.</string>
@@ -559,10 +560,10 @@
     <string name="pref_accessibility_url_shortcut_enter_title">הזנה מהירה של כתובת אתר</string>
     <string name="pref_adblock_counts">%d נחסמו</string>
     <string name="pref_adblock_title">חוסם מודעות</string>
-    <string name="pref_advert_null">Unmarked advertising,You can press the label on the page</string>
+    <string name="pref_advert_null">No items labelled as ads. Press and hold an item on the webpage to mark.</string>
     <string name="pref_auto_update_under_wifi">עדכן בעת חיבור לרשת אלחוטית</string>
     <string name="pref_automatic_matching_searchengines_title">החלף למנוע החיפוש השכיח</string>
-    <string name="pref_cancel_screen">Cancel screen</string>
+    <string name="pref_cancel_screen">Unblock</string>
     <string name="pref_category_hint">קטגוריה</string>
     <string name="pref_check_security_url_summary">שלח כתובת של אתר זה אל שרתי Mi לצורך בדיקת אבטחה</string>
     <string name="pref_check_security_url_summary_international">"אפשר ל'דפדפן' לגשת אל כתובות ה-URL של האתרים בהם הינך גולש על מנת לקבל המלצות רלוונטיות נוספות."</string>
@@ -606,7 +607,7 @@
     <string name="pref_force_userscalable_summary">עקוף בקשה של אתר לשלוט בהתנהגות זום</string>
     <string name="pref_general_title">כללי</string>
     <string name="pref_key_gesture_title">מקשים &amp; מחוות</string>
-    <string name="pref_label_advert_manager">Manager labelled ads</string>
+    <string name="pref_label_advert_manager">Manage labelled ads</string>
     <string name="pref_nav_mode_summary_pad">לוח</string>
     <string name="pref_nav_mode_summary_phone">טלפון</string>
     <string name="pref_nav_mode_title">מצב דפדפן</string>
@@ -780,7 +781,7 @@
     <string name="ssl_certificate">אישור אבטחה</string>
     <string name="ssl_certificate_is_valid">אישור זה חוקי.</string>
     <string name="ssl_continue">המשך</string>
-    <string name="ssl_date_error_warnings_header">"The certificate of this site has expired or isn't valid yet. You are advised to leave this page.\""</string>
+    <string name="ssl_date_error_warnings_header">"The certificate of this site has expired or isn't valid yet. You are advised to leave this page."</string>
     <string name="ssl_date_invalid">לאישור זה תאריך לא חוקי.</string>
     <string name="ssl_expired">פג תוקפה של תעודה זו.</string>
     <string name="ssl_go_back">חזור</string>

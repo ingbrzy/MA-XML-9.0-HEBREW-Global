@@ -4,8 +4,6 @@
     <string name="permdesc_bluetoothShareManager">‏מאפשר לאפליקציה לגשת למנהל BluetoothShare ולהשתמש בו להעברת קבצים.</string>
     <string name="permlab_bluetoothWhitelist">‏הכנס מכשיר Bluetooth לרשימה הלבנה.</string>
     <string name="permdesc_bluetoothWhitelist">‏מאפשר לאפליקציה להכניס מכשיר Bluetooth באופן זמני לרשימה הלבנה, ובכך לאפשר למכשיר לשלוח קבצים למכשיר זה ללא אישור משתמש.</string>
-    <string name="permlab_handoverStatus">‏קבל שידורי העברת מסירה של Bluetooth.</string>
-    <string name="permdesc_handoverStatus">‏מאפשר קבלת מידע סטטוס של העברת מסירה מ-Bluetooth.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">מכשיר לא ידוע</string>
     <string name="unknownNumber">לא ידוע</string>
@@ -139,17 +137,6 @@
     <string name="start_server">‏הפעל שרת TCP</string>
     <string name="notify_server">‏שלח התראה לשרת TCP</string>
     <string name="noti_caption">%1$s הושלמו בהצלחה, %2$s לא הושלמו בהצלחה.</string>
-    <string name="map_session_key_dialog_title">הקלד קוד הפעלה עבור %1$s</string>
-    <string name="map_session_key_dialog_header">דרוש קוד הפעלה של Bluetooth</string>
-    <string name="map_acceptance_timeout_message">תם הזמן הקצוב לתפוגה של הסכמה לחיבור עם %1$s</string>
-    <string name="map_authentication_timeout_message">תם הזמן הקצוב להזנת קוד הפעלה עם %1$s</string>
-    <string name="map_auth_notif_ticker">בקשת אימות של Obex</string>
-    <string name="map_auth_notif_title">קוד הפעלה</string>
-    <string name="map_auth_notif_message">הקלד קוד הפעלה עבור %1$s</string>
-    <string name="map_defaultname">דיבורית לרכב</string>
-    <string name="map_unknownName">שם לא ידוע</string>
-    <string name="map_localPhoneName">השם שלי</string>
-    <string name="map_defaultnumber">000000</string>
     <string name="bluetooth_map_email_settings_save">שמור</string>
     <string name="bluetooth_map_email_settings_cancel">בטל</string>
     <string name="bluetooth_map_email_settings_intro">‏בחר את חשבונות האימייל שברצונך לשתף באמצעות Bluetooth. עדיין יהיה עליך לאשר גישה אל החשבונות בעת החיבור.</string>

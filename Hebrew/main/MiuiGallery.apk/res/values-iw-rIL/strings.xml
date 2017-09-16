@@ -33,8 +33,7 @@
     <string name="video_editor_audio_sad">בלדה</string>
     <string name="video_editor_audio_custom">בחר</string>
     <string name="video_editor_unsupport_audio_file">קובץ שמע לא נתמך</string>
-    <string name="video_editor_text_none">ללא</string>
-    <string name="video_editor_text_preview_text">טקסט</string>
+    <string name="video_editor_text_preview_text">MI</string>
     <string name="video_editor_text_default">ברירת מחדל</string>
     <string name="video_editor_text_input_empty_tips">נראה כי עדיין לא הזנת טקסט</string>
     <string name="video_editor_encode_video">מקודד וידאו…</string>
@@ -81,9 +80,9 @@
     <string name="empty_title_no_photos">אין תמונות או סרטונים</string>
     <string name="home_page_empty_action">צלם תמונה</string>
     <string name="recent_album_empty_title">לא נוספו תמונות חדשות לאחרונה</string>
-    <string name="people_album_empty_title">Photos can be sorted by people in them</string>
+    <string name="people_album_empty_title">ניתן למיין תמונות על ידי האנשים המופיעים בהם</string>
     <string name="places_album_empty_title">ניתן למיין את התמונות על פי מיקום</string>
-    <string name="things_album_empty_title">Photos can be sorted by objects in them</string>
+    <string name="things_album_empty_title">ניתן למיין תמונות על ידי העצמים המופיעים בהם</string>
     <string name="people_page_label">אנשים</string>
     <string name="ignore_faces_title">התעלמתי</string>
     <string name="see_ignore_faces">צפה באנשים שהתעלמת מהם</string>
@@ -287,9 +286,9 @@
     <string name="video_err">לא ניתן להפעיל וידאו</string>
     <string name="exit_video_play">יציאה</string>
     <string name="picker_title_selection_format">תמונות נבחרות: %d</string>
-    <string name="picker_title_format">Select %1$d to %2$d photos</string>
-    <string name="picker_title_specify_format">Select %d photos</string>
-    <string name="picker_title_specify_format_one">Select %d photo</string>
+    <string name="picker_title_format">בחר %1$d עד %2$d תמונות</string>
+    <string name="picker_title_specify_format">בחר %d תמונות</string>
+    <string name="picker_title_specify_format_one">בחר תמונה %d</string>
     <string name="picker_title_unlimit">בחר תמונות</string>
     <string name="picker_full_format">תוכל לבחור עד %d תמונות</string>
     <string name="picker_image_need_download">%d מהתמונות שנבחרו אינן על המכשיר. להוריד באמצעות שימוש בנתונים סלולריים?</string>
@@ -390,7 +389,7 @@
     <string name="view_by_gallery_tip">גלרית MIUI</string>
     <string name="photo">תמונות</string>
     <string name="orientation_lock_tip">סיבוב אוטומטי כבוי</string>
-    <string name="orientation_unlock_tip">סיבוב אוטומטי פועל</string>
+    <string name="orientation_unlock_tip">סיבוב אוטומטי מופעל</string>
     <string name="video_edit_file_not_exits_tip">הורד את הוידאו תחילה</string>
     <string name="photo_edit_file_not_exits_tip">הורד תמונה לפני עריכה</string>
     <string name="select_origin_tip">קובץ מקורי (%s)</string>
@@ -426,7 +425,7 @@
     <string name="detail_title">פרטים</string>
     <string name="tip_screenshot_package_info">שם היישום:</string>
     <string name="tip_not_download">לא שמור במכשיר. ירד מ-Mi Cloud בעת ההפעלה.</string>
-    <string name="flash_on">הפלאש פועל</string>
+    <string name="flash_on">הפלאש מופעל</string>
     <string name="flash_off">הפלאש כבוי</string>
     <string name="add_to_share_album_not_delete">"לא ניתן למחוק תמונה מ'אלבום משותף'"</string>
     <string name="add_to_album">הוספה לאלבום</string>
@@ -601,6 +600,7 @@
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
     <string name="slim_introduce">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">החלף קבצים ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="next">הבא</string>
     <string name="login_and_enable_service">היכנס באמצעות חשבון Mi</string>
@@ -677,7 +677,8 @@
     <string name="cloud_storage_ok_append_desc">זמין %s</string>
     <string name="cloud_storage_warn_title">אין מספיק שטח אחסון ב-Mi Cloud</string>
     <string name="cloud_storage_warn_desc">רכוש חבילת Cloud VIP לקבלת שטח אחסון נוסף</string>
-    <string name="cloud_storage_extend">Extend cloud space</string>
+    <string name="percent_sign">%</string>
+    <string name="cloud_storage_extend">הרחבת שטח הענן</string>
     <string name="user_agreement2">תנאי השירות</string>
     <string name="user_agreement4">מדיניות הפרטיות</string>
     <string name="user_agree">מסכים</string>
@@ -700,7 +701,7 @@
     <string name="secret_reason_unknow_reasons">שגיאה לא מוכרת</string>
     <string name="alert_secret_album_title">כיצד להציג אלבום מוסתר</string>
     <string name="alert_secret_album_message">"החלק מטה בתוית ה'אלבומים' על מנת להציג את האלבומים המוסתרים."</string>
-    <string name="alert_secret_album_message_lower_case">  swipe down in Albums to view</string>
+    <string name="alert_secret_album_message_lower_case">"  החלק מטה ב'אלבומים' על מנת להציג"</string>
     <string name="alert_secret_album_enter">הבנתי</string>
     <string name="all_items_synced">כל האלבומים גובו ב-Mi Cloud</string>
     <string name="need_to_turn_on_sync">הפעל סנכרון עם Mi Cloud</string>
@@ -785,6 +786,8 @@
     <string name="search_setting_sub_title_open">הוחל. המתן רגע לפני שתתחיל.</string>
     <string name="search_request_open">הצטרפות לצוות הבדיקה</string>
     <string name="search_title_more">עוד</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="grant_permission_title">אפשר גישה</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
@@ -850,7 +853,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="home_menu_cleaner">פנה שטח</string>
     <string name="home_menu_collage">"קולז'"</string>
-    <string name="home_menu_photo_movie">Look back</string>
+    <string name="home_menu_photo_movie">מבט לאחור</string>
     <string name="storage_no_space">אין מספיק מקום</string>
     <string name="share_album">שיתוף אלבום</string>
     <string name="all_video_album_display_name">כל הסרטונים</string>
@@ -879,10 +882,10 @@
     <string name="sub_discard_positive_btn">שמור</string>
     <string name="sub_discard_negative_btn">ביטול</string>
     <string name="photo_editor_navigator_cancel">ביטול</string>
-    <string name="photo_editor_navigator_export">Finish</string>
+    <string name="photo_editor_navigator_export">סיום</string>
     <string name="photo_editor_beautify">ייפוי</string>
     <string name="photo_editor_filter">סנן</string>
-    <string name="photo_editor_crop_and_rotate">חיתוך וסיבוב</string>
+    <string name="photo_editor_crop_and_rotate">חיתוך</string>
     <string name="photo_editor_adjust">התאמה</string>
     <string name="photo_editor_sticker">מדבקה</string>
     <string name="photo_editor_doodle">קשקוש</string>

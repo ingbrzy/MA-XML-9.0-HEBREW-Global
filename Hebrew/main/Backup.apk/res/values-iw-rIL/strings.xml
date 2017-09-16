@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="xiaomi_update_dialog_title">עדכון זמין</string>
-    <string name="xiaomi_update_dialog_message">"גאים להציג את גרסת %1$s
-גודל:%2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"גאים להציג את גרסת %1$s
-גודל עדכון דלתא:%2$s"</string>
+    <string name="xiaomi_update_dialog_message">"אנו גאים להציג את גרסת %1$s
+גודל: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
+גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
@@ -32,6 +32,7 @@
     <string name="delete_backup_title">מחק גיבוי</string>
     <string name="delete">מחיקה</string>
     <string name="cancel">ביטול</string>
+    <string name="reconnect">התחברות מחדש</string>
     <string name="delete_backup_process">מוחק…</string>
     <string name="backup_error">לא ניתן היה לגבות</string>
     <string name="delete_failed_backup_confirm">גיבוי זה מכיל שגיאות.</string>
@@ -226,6 +227,7 @@
     <string name="file_uploading">מעלה…</string>
     <string name="new_backup">גיבוי</string>
     <string name="restore_backup">שחזור</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -259,6 +261,7 @@
     <string name="notif_trans_receiving_completed">הנתונים התקבלו בהצלחה</string>
     <string name="notif_trans_sending_failed">לא ניתן היה לשלוח נתונים</string>
     <string name="notif_trans_receiving_failed">לא ניתן היה לקבל נתונים</string>
+    <string name="notif_trans_wait_for_reconnecting">ההתקן המרוחק מנותק. אנא חבר שוב.</string>
     <string name="custom_progress">%d פריטים</string>
     <string name="remote_receive">קבל</string>
     <string name="click_to_view">לחץ להצגה</string>
@@ -309,6 +312,7 @@
     <string name="trans_cancel_confirm">ההעברה בתהליך, לעצור עכשיו?</string>
     <string name="trans_cancelling">מבטל…</string>
     <string name="trans_device_disconnected">המכשיר נותק</string>
+    <string name="trans_device_wait_for_reconnecting">ההתקן נותק. אנא חבר מחדש.</string>
     <string name="trans_connecting_toast">מתחבר…</string>
     <string name="trans_connect_failed_toast">לא ניתן היה להתחבר</string>
     <string name="trans_generate_qr_code_failed">לא ניתן היה ליצור קוד QR</string>
@@ -324,6 +328,10 @@
 2. פתח את היישום ולחץ 'התחל'
 3. סרוק את קוד ה-QR במכשירך הישן"</string>
     <string name="trans_operate_old_phone_tips2">עבור אל הגדרות > הגדרות נוספות > Mi Mover, לחץ [אני השולח]</string>
+    <string name="trans_operate_reconnect_new_tips">"המתן עד להופעת הודעת \"ההתקן מנותק\" בטלפון החדש.
+ולאחר מכן לחץ על [Reconnect] על מנת ליצור קוד QR."</string>
+    <string name="trans_operate_reconnect_old_tips">"המתן עד להופעת הודעת \"ההתקן מנותק\" בטלפון הישן.
+ולאחר מכן לחץ על [Reconnect] על מנת לסרוק את קוד ה-QR."</string>
     <string name="trans_wait_trans_data">"מחובר אל המכשיר הישן.
 ממתין להעברת הנתונים…"</string>
     <string name="trans_select_data">בחר פריטים לשליחה</string>
@@ -346,6 +354,7 @@
     <string name="trans_retry">נסה שוב</string>
     <string name="trans_start_failed_title">לא ניתן היה להתחיל בהעברה</string>
     <string name="trans_start_failed_message">לא ניתן היה להתחיל בהעברה, נסה שוב או אתחל את המכשיר.</string>
+    <string name="trans_connect_failed_device_incompatible">ההתקן אינו מתאים. אנא בטל את תהליך ההעברה ונסה שוב.</string>
     <string name="trans_connection_failed">המכשיר נותק</string>
     <string name="user_notice_title">שים לב</string>
     <string name="user_notice_message">תכונות מסוימות זקוקות לחיבור לאינטרנט על מנת לעבוד כראוי.</string>

@@ -199,7 +199,7 @@
     <string name="port_range">ה-port חייב להיות בתחום של 1024-65535</string>
     <string name="file_name_invalid">שם קובץ לא יכול להכיל את התווים: /\\:*?&lt;></string>
     <string name="rename_alert">אם תשנה את סיומת הקובץ, ייתכן כי לא תוכל לפתוח אותו.</string>
-    <string name="rename_alert2">如果修改后缀名，文件将可能无法打开。</string>
+    <string name="rename_alert2">הקובץ יוסתר לאחר שתשנה את הסיומת שלו.</string>
     <string name="search_file_type_picture">תמונה</string>
     <string name="search_file_type_video">וידאו</string>
     <string name="search_file_type_music">מוסיקה</string>
@@ -247,7 +247,7 @@
     <string name="app_name_midrop">Mi Drop</string>
     <string name="data_consumption_title">חיבור אינטרנט</string>
     <string name="data_consumption_message">יישום זה דורש חיבור אינטרנט על ידי רשת אלחוטית לצורך פעולה תקינה.</string>
-    <string name="data_consumption_message1">Videos and Stickers needs to connect to the internet using Wi-Fi to work normally.</string>
+    <string name="data_consumption_message1">"ה'סייר' זקוק לחיבור לאינטרנט על מנת להפוך את הסרטונים הפופולריים והמדבקות לזמינים."</string>
     <string name="data_consumption_checkbox_hint">אל תציג שוב</string>
     <string name="data_consumption_confirm">אישור</string>
     <string name="data_consumption_cancel">יציאה</string>
@@ -409,7 +409,7 @@
     <string name="enable_documentsui">הפעל %s בהגדרות > יישומים שהותקנו תחילה</string>
     <string name="not_installed_documentsui">DocumentsUI לא מותקן</string>
     <string name="title_enable_documentsui">הפעל את DocumentsUI</string>
-    <string name="server_error">Sever error, try again later. (Error %s)</string>
+    <string name="server_error">שגיאת שרת, נסה שוב מאוחר יותר. (שגיאה %s).</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="request_timeout">פג תוקף בקשת החיבור לרשת</string>
     <string name="login_expired">פג תוקף הכניסה למערכת, נסה להיכנס שוב.</string>

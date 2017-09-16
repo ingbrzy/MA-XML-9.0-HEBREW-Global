@@ -13,7 +13,7 @@
     <string name="cloud_app_restore_app_and_data">הגדר את מכשירך</string>
     <string name="cloud_app_restore_data">נתונים אישיים ויישומים שהותקנו בעבר יופיעו במכשירך באופן אוטומטי</string>
     <string name="cloud_app_dont_restore">הגדר כמכשיר חדש</string>
-    <string name="cloud_app_restore_wifi_prompt">על מנת לשחזר מתוך גיבוי Mi Cloud, עליך להתחבר לרשת אלחוטית.</string>
+    <string name="cloud_app_restore_wifi_prompt">שחזור מגיבוי ב-Mi Cloud.</string>
     <string name="cloud_backup_detail_state">גיבוי Mi Cloud</string>
     <string name="cloud_backup_detail_state_summary">"יישומים, 'מסך הבית' והגדרות מערכת"</string>
     <string name="cloud_backup_detail_frequence">גיבוי מתוזמן</string>
@@ -121,4 +121,5 @@
     <string name="btn_skip">דלג על שלב זה</string>
     <string name="can_not_restore_in_lite_mode">"לא ניתן לבצע שחזור ב'מצב קל'"</string>
     <string name="can_not_backup_in_lite_mode">"לא ניתן לבצע גיבוי ב'מצב קל'"</string>
+    <string name="restore_data_title">שחזור נתונים</string>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">שרת מדיה</string>
     <string name="noti_projection_status_title">תצוגה אלחוטית של Mi Play</string>
-    <string name="noti_projection_status_desc_on">"'שיקוף מסך' פועל"</string>
+    <string name="noti_projection_status_desc_on">"'שיקוף מסך' מופעל"</string>
     <string name="prjection_title">תצוגה אלחוטית</string>
     <string name="search_for_devices">רענן</string>
     <string name="media_feature_projection">שיקוף מסך</string>

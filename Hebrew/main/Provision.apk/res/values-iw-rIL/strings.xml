@@ -41,7 +41,7 @@
 עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. במהלך ההפעלה, שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', מודיולים של 'מסך הבית', שירות המשחקים, רכיבי המערכת MAB ו-MSA, 'שירות ישיר', 'כרטיס מהיר', סטטיסטיקות, MiSmartCards, ורכיבי חשבון Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
     <string name="user_agreement">תנאי השירות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
-    <string name="application_permissions">Application Permissions</string>
+    <string name="application_permissions">הרשאות של יישומים</string>
     <string name="agree">מסכים</string>
     <string name="disagree">ביטול</string>
     <string name="setting_locale">מגדיר אזור…</string>
@@ -50,23 +50,25 @@
     <string name="miui_privacy_policy_no_network">"אין ברשותך חיבור לאינטרנט. הצג את 'מדיניות הפרטיות' ב-%s."</string>
     <string name="locale_picker_title">בחר את האזור שלך</string>
     <string name="install_preinstall_app">טוען יישומים…</string>
-    <string name="title_fingerprint">הוסף את טביעת האצבע שלך</string>
+    <string name="title_fingerprint">הגדרת סיסמה</string>
+    <string name="item_fingerprint">טביעת אצבע</string>
+    <string name="item_lock_screen_password">נעילת מסך בלבד</string>
     <string name="desc_fingerprint">השתמש בטביעת האצבע שלך על מנת לבטל את נעילת המכשיר, על מנת לאמת עסקאות Mi Pay, או על מנת להיכנס ליישומים ושירותים.</string>
     <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">הבא</string>
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">השתמש בטביעת האצבע שלך לביטול נעילת המכשיר, או על מנת להיכנס ליישומים ושירותים.</string>
     <string name="content_description_start">התחלה</string>
-    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_complete">הסתיים</string>
-    <string name="content_description_language_picker">בחר שפה</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>
+    <string name="language_settings">בחירת שפה</string>
     <string name="enable_accessibility_dialog_message">"הפעלת את TalkBack על ידי לחיצה על המסך באמצעות 2 אצבעות למשך יותר מ-10 שניות. TalkBack מספק מחוות קוליות עבור בעלי לקויות ראיה. במידה והפעלת אותו בשוגג, לחץ על 'ביטול', ואז הקש הקשה כפולה על המסך."</string>
     <string name="enable_accessibility_dialog_positive_btn">אישור</string>
     <string name="enable_accessibility_dialog_negative_btn">ביטול</string>
     <string name="cm_terms_title">הסכם מפעיל הרשת הסלולרית</string>
     <string name="cm_terms_content">על מנת לשפר את השירותים המוצעים לך, יתכן וספק הרשת הסלולרית שבחרת יעלה את נתוניך האישיים ופרטי מכשיר זה לשרתים שלו באמצעות הרשת האלחוטית או חיבור רשת הנתונים הסלולרית. מידע זה ישמש למטרת איסוף נתונים סטטיסטיים ולצורך שיפור איכות השירותים ומתן יותר תוכן מותאם אישית בלבד. לא יעשה שימוש במידע זה לזיהויך באופן אישי והוא אינו יועבר לגופי צד שלישי.</string>
-    <string name="two_dimensional_code_scan">QR code scan</string>
-    <string name="user_strayed_warning">The page is designed for factory test, Click back button to exit.</string>
-    <string name="fail_to_generate_qr_code">Fail to generate QR code, please reenter this page.</string>
+    <string name="two_dimensional_code_scan">סריקת קוד QR</string>
+    <string name="user_strayed_warning">"העמוד נבנה עבור בדיקת היצרן, לחץ על 'הקודם' על מנת לצאת."</string>
+    <string name="fail_to_generate_qr_code">כשלון ביצירת קוד QR, אנא היכנס מחדש לעמוד זה.</string>
 </resources>

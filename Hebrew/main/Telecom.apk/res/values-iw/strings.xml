@@ -8,8 +8,7 @@
     <string name="wifi_disabled_wifi_failure">‏כשל בחיבור Wi-Fi</string>
     <string name="wifi_disabled_password_failure">בעיית אימות</string>
     <string name="wifi_not_in_range">מחוץ לטווח</string>
-    <string name="wifi_no_internet_no_reconnect">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
-    <string name="wifi_no_internet">אין גישה לאינטרנט.</string>
+    <string name="wifi_no_internet">אין גישה לאינטרנט. לא יתבצע חיבור מחדש באופן אוטומטי.</string>
     <string name="saved_network">נשמר על ידי %1$s</string>
     <string name="connected_via_wfa">‏מחובר באמצעות אסיסטנט ה-Wi-Fi</string>
     <string name="connected_via_passpoint">‏מחובר דרך %1$s</string>
@@ -145,15 +144,12 @@
     <string name="wifi_allow_scan_with_traffic_summary">‏התר/מנע סריקות נדידה של Wi-Fi בהתבסס על נפח תנועת הנתונים הקיימת בממשק</string>
     <string name="select_logd_size_title">גדלי מאגר של יוצר יומן</string>
     <string name="select_logd_size_dialog_title">בחר גדלים של יוצר יומן לכל מאגר יומן</string>
-    <string name="dev_logpersist_clear_warning_title">האם למחוק את אחסון המתעד המתמיד?</string>
-    <string name="dev_logpersist_clear_warning_message">כשאנחנו כבר לא מבצעים מעקב באמצעות המתעד המתמיד, אנחנו נדרשים למחוק את נתוני המתעד המקומי במכשיר.</string>
-    <string name="select_logpersist_title">אחסון נתוני מתעד מתמיד במכשיר</string>
-    <string name="select_logpersist_dialog_title">בחר מאגר נתונים זמני ליומן לשם אחסון מתמיד במכשיר</string>
     <string name="select_usb_configuration_title">‏בחר תצורת USB</string>
     <string name="select_usb_configuration_dialog_title">‏בחר תצורת USB</string>
     <string name="allow_mock_location">אפשר מיקומים מדומים</string>
     <string name="allow_mock_location_summary">אפשר מיקומים מדומים</string>
     <string name="debug_view_attributes">אפשר בדיקת תכונת תצוגה</string>
+    <string name="legacy_dhcp_client_summary">‏השתמש בלקוח DHCP של Lollipop במקום לקוח DHCP החדש של Android.</string>
     <string name="mobile_data_always_on_summary">‏השאר את הנתונים לנייד פעילים תמיד, גם כש-Wi‑Fi פעיל (למעבר מהיר בין רשתות).</string>
     <string name="adb_warning_title">‏לאפשר ניפוי באגים של USB?</string>
     <string name="adb_warning_message">‏ניפוי באגים באמצעות USB מיועד למטרות פיתוח בלבד. השתמש בו להעתקת נתונים בין המחשב והמכשיר שלך, להתקנת אפליקציות במכשיר ללא התראה ולקריאת נתוני יומן.</string>
@@ -203,6 +199,8 @@
     <string name="debug_layout_summary">"הצג גבולות קליפ, שוליים וכו'"</string>
     <string name="force_rtl_layout_all_locales">אלץ כיוון פריסה מימין לשמאל</string>
     <string name="force_rtl_layout_all_locales_summary">אלץ כיוון פריסת מסך מימין לשמאל עבור כל השפות בכל המקומות</string>
+    <string name="show_cpu_usage">‏הצג את השימוש ב-CPU</string>
+    <string name="show_cpu_usage_summary">‏שכבת-על של מסך שמציגה את השימוש הנוכחי ב-CPU</string>
     <string name="force_hw_ui">‏אלץ עיבוד ב-GPU</string>
     <string name="force_hw_ui_summary">‏אכוף שימוש ב-GPU לשרטוט דו-מימדי</string>
     <string name="force_msaa">‏אלץ הפעלת 4x MSAA</string>
@@ -286,7 +284,6 @@
     <string name="screen_zoom_summary_extremely_large">הכי גדול</string>
     <string name="screen_zoom_summary_custom">מותאם אישית (%d)</string>
     <string name="help_feedback_label">עזרה ומשוב</string>
-    <string name="content_description_menu_button">תפריט</string>
     <string name="telecommAppLabel">ניהול השיחות</string>
     <string name="userCallActivityLabel">טלפון</string>
     <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
@@ -315,10 +312,9 @@
     <string name="no_vm_number">חסר מספר של דואר קולי</string>
     <string name="no_vm_number_msg">‏בכרטיס ה-SIM לא מאוחסן מספר של דואר קולי.</string>
     <string name="add_vm_number_str">הוסף מספר</string>
-    <string name="change_default_dialer_dialog_title">"האם להפוך את %s לברירת המחדל לאפליקציית 'טלפון'?"</string>
-    <string name="change_default_dialer_dialog_affirmative">הגדר כברירת מחדל</string>
-    <string name="change_default_dialer_dialog_negative">ביטול</string>
-    <string name="change_default_dialer_warning_message">"%s תוכל להתקשר ולשלוט בכל ההיבטים של השיחות. מומלץ לבחור רק אפליקציות שאתה סומך עליהן כברירת המחדל לאפליקציית 'טלפון'."</string>
+    <string name="change_default_dialer_dialog_title">האם לשנות את אפליקציית החייגן שבברירת מחדל?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">האם להשתמש ב-%1$s במקום ב-%2$s כאפליקציית החייגן שבברירת מחדל?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">האם להשתמש ב-%s כאפליקציית החייגן שבברירת מחדל?</string>
     <string name="blocked_numbers">מספרים חסומים</string>
     <string name="blocked_numbers_msg">לא תקבל שיחות או הודעות טקסט מהמספרים החסומים.</string>
     <string name="block_number">הוסף מספר</string>

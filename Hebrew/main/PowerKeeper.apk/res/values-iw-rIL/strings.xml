@@ -122,9 +122,9 @@
     <string name="config_scenario_policies_title">תרחישים</string>
     <string name="scenario_policies_summary">חסכון באנרגיה בהתאם לתרחיש</string>
     <string name="sleep_config_enhance_title">מצבי חיסכון בשינה</string>
-    <string name="sleep_config_enhance_description">predict user sleep time by machine learning, whithin the sleep time, we may clear some background apps, restrict to use NFC, KeyGauard Notification, Sync, Bluetooth, GPS, mobile and wifi data, etc.</string>
-    <string name="scenario_policies_warmcontrol">Warm control</string>
-    <string name="warm_configure">Warm control configure</string>
+    <string name="sleep_config_enhance_description">"חיזוי זמן השינה של המשתמש על ידי למידה חישובית. במהלך השינה, יישומים מסויימים לא יוכלו לפעול ברקע. השימוש ב-NFC, התראות KeyGauard, סנכרון, Bluetooth, GPS, נתונים סלולריים ונתוני רשת אלחוטית וכו' יוגבל."</string>
+    <string name="scenario_policies_warmcontrol">בקרת חום</string>
+    <string name="warm_configure">קביעת תצורת בקרת חום</string>
     <string name="important_warning">אזהרה</string>
     <string name="confirm">אישור</string>
     <string name="warm_performance_tip">בתרחישים של עומס גבוה, טמפרטורת הטלפון גבוהה ממצב ברירת המחדל</string>
@@ -133,7 +133,7 @@
     <string name="power_config_mode_title">מצבי חיסכון באנרגיה</string>
     <string name="power_config_disable_title">כיבוי</string>
     <string name="power_config_disable_description">MIUI לא יגביל פעילויות רקע</string>
-    <string name="power_config_enhance_title">פועל</string>
+    <string name="power_config_enhance_title">מופעל</string>
     <string name="power_config_enhance_description">MIUI יגביל את כל פעילויות הרקע במידת האפשר</string>
     <string name="power_config_ultimate_title">אולטימטיבי</string>
     <string name="power_config_ultimate_description">MIUI יקפיא יישומים ברקע</string>
@@ -142,7 +142,7 @@
     <string name="power_config_ultimate_unlock_already">נעילת כל הפריטים בוטלה</string>
     <string name="extreme_power_config_mode_category">חסכון קיצוני בסוללה</string>
     <string name="extreme_power_config_mode_title">מצב חסכון קיצוני בסוללה</string>
-    <string name="extreme_power_config_mode_desc">Enable this function will disable sync, bluetooth, GPS, NFC, double tapping, button lights, wake lock screen for notifications, pluse notification light etc, and battery saver mode is set to be ultimate</string>
+    <string name="extreme_power_config_mode_desc">"הפעלת פונקציה זו תביא להשבתת הסנכרון, Bluetooth, GPS, NFC, הקשה כפולה, תאורת המקשים, הערת המסך עבור התראות, נורית חווי התראות מהבהבת וכו', ותתיר למצב 'חסכון בסוללה' לפעול באופן אולטימטיבי"</string>
     <string name="empty_title_apps_container_list">אין יישומים</string>
     <string name="hints_loading_text">רק רגע…</string>
     <string name="config_mode_title">הגדרות רקע</string>
@@ -164,7 +164,7 @@
     <string name="config_restrict_function_description">תכונות מסוימות (למשל, התראות Push) עשויות להיות מושפעות, אבל לא יסגרו יישומים</string>
     <string name="config_restrict_running_description">יישומים יסגרו על מנת לחסוך באנרגיה</string>
     <string name="power_checker_title">בודק האנרגיה</string>
-    <string name="power_checker_running_group_title">פועל</string>
+    <string name="power_checker_running_group_title">מופעל</string>
     <string name="power_checker_recent_group_title">לאחרונה</string>
     <string name="power_checker_running_btn_title">סיים תהליך</string>
     <string name="power_checker_recent_btn_title">"הגדרת 'אנרגיה'"</string>
@@ -194,10 +194,10 @@
     <string name="current_cloud_addr_is">כתובת שרת השליטה בענן היא:</string>
     <string name="update_profile_sucess">Update form server sucess</string>
     <string name="update_profile_failture_not_connect_wifi">העדכון נכשל, אין חיבור לרשת האלחוטית</string>
-    <string name="sucess">sucess</string>
-    <string name="failure">failure</string>
-    <string name="cloud_addr_info">HideMode cloud info</string>
-    <string name="lasttime_feature_cloud">Function last update：</string>
-    <string name="lasttime_applist_cloud">Applist last update：</string>
+    <string name="sucess">הצלחה</string>
+    <string name="failure">כישלון</string>
+    <string name="cloud_addr_info">פרטי ענן HideMode</string>
+    <string name="lasttime_feature_cloud">עדכון אחרון של הפונקציה:</string>
+    <string name="lasttime_applist_cloud">עדכון אחרון של רשימת היישומים:</string>
     <string name="base_info">פרטי בסיס</string>
 </resources>

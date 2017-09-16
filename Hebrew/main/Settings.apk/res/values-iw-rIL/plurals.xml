@@ -25,10 +25,10 @@
         <item quantity="many">%d סיכונים נמצאו</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d apps are allowed to autostart</item>
-        <item quantity="one">%d app are allowed to autostart</item>
-        <item quantity="two">%d apps are allowed to autostart</item>
-        <item quantity="many">%d apps are allowed to autostart</item>
+        <item quantity="other">הרשאת הפעלה אוטומטית ניתנה ל-%d יישומים</item>
+        <item quantity="one">הרשאת הפעלה אוטומטית ניתנה ליישום %d</item>
+        <item quantity="two">הרשאת הפעלה אוטומטית ניתנה ל-%d יישומים</item>
+        <item quantity="many">הרשאת הפעלה אוטומטית ניתנה ל-%d יישומים</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>

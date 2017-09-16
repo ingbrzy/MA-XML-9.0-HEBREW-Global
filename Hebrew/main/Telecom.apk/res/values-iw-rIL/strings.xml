@@ -11,7 +11,7 @@
     <string name="notification_missedCall_call_back">התקשר בחזרה</string>
     <string name="notification_missedCall_message">הודעה</string>
     <string name="accessibility_call_muted">השיחה הושתקה.</string>
-    <string name="accessibility_speakerphone_enabled">הרמקול פועל.</string>
+    <string name="accessibility_speakerphone_enabled">הרמקול מופעל.</string>
     <string name="respond_via_sms_canned_response_1">לא יכול/ה לדבר כעת. מה קורה?</string>
     <string name="respond_via_sms_canned_response_2">תכף אחזור אליך.</string>
     <string name="respond_via_sms_canned_response_3">אתקשר מאוחר יותר.</string>
@@ -30,9 +30,6 @@
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="add_vm_number_str">הוסף מספר</string>
     <string name="change_default_dialer_dialog_title">להפוך את %s ליישום ברירת המחדל שלך עבור שיחות?</string>
-    <string name="change_default_dialer_dialog_affirmative">הגדר כברירת מחדל</string>
-    <string name="change_default_dialer_dialog_negative">ביטול</string>
-    <string name="change_default_dialer_warning_message">%s יוכל לבצע ושלוט בכל ההיבטים של שיחות. יש להגדיר כברירת מחדל עבור שיחות יישומים בהם הינך בוטח בלבד.</string>
     <string name="blocked_numbers">מספרים שנחסמו</string>
     <string name="blocked_numbers_msg">"You won't receive calls or texts from blocked numbers."</string>
     <string name="block_number">הוספת מספר</string>
@@ -77,4 +74,7 @@
     <string name="callFailed_simError">שגיאת כרטיס SIM</string>
     <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
     <string name="incall_error_power_off">"כבה את 'מצב טיסה' על מנת לבצע שיחה."</string>
+    <string name="change_default_dialer_dialog_affirmative">הגדר כברירת מחדל</string>
+    <string name="change_default_dialer_dialog_negative">ביטול</string>
+    <string name="change_default_dialer_warning_message">%s יוכל לבצע ושלוט בכל ההיבטים של שיחות. יש להגדיר כברירת מחדל עבור שיחות יישומים בהם הינך בוטח בלבד.</string>
 </resources>

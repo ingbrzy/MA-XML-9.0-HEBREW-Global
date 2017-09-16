@@ -56,20 +56,20 @@
     <string name="private_space_setting">ניהול</string>
     <string name="exit_private_space">החלף</string>
     <string name="wating">רק רגע…</string>
-    <string name="Active">פועל</string>
+    <string name="Active">מופעל</string>
     <string name="ok_button">אישור</string>
     <string name="cancel_button">ביטול</string>
     <string name="list_empty_text">ריק</string>
     <string name="xspace_label">יישומים משוכפלים</string>
-    <string name="xspace_setting_label">双开设置</string>
-    <string name="xspace_account">双开帐号</string>
+    <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
+    <string name="xspace_account">חשבונות יישומים משוכפלים</string>
     <string name="declare_dialog_title">אודות יישומים משוכפלים</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
     <string name="xspace_header">יישומים משוכפלים</string>
     <string name="xspace_introduce">מומלץ</string>
-    <string name="xspace_description">"双开应用将在桌面生成一个全新的应用副本，两者可同时运行互不影响。
+    <string name="xspace_description">"'יישומים משוכפלים' הינם שכפולים של יישומים אשר בהם ניתן להשתמש בנפרד באמצעות חשבון אחר.
 
-部分应用需要谷歌服务框架支持，双开这部分应用时会同步双开谷歌服务以保障体验。"</string>
+יישומים משוכפלים מסויימים דורשים תמיכה במסגרת שירותי Google. במקרים כאלה, מסגרת שירותי Google נוצרת."</string>
     <string name="xspace_chocie">"תמיכה ב'יישומים משוכפלים'"</string>
     <string name="xspace_creating">יוצר יישום משוכפל…</string>
     <string name="xspace_installing">מתקין…</string>
@@ -102,7 +102,7 @@
     <string name="closePasswordGuide">"לא תוכל להיכנס ל'שטח שני' מ'מסך הנעילה' לאחר כיבוי הסיסמה"</string>
     <string name="cancelClosePassword">אל תכבה</string>
     <string name="confirmClose">כבה</string>
-    <string name="opened">פועל</string>
+    <string name="opened">מופעל</string>
     <string name="closed">כבוי</string>
     <string name="changePassword">שנה סיסמה</string>
     <string name="passWordGuardSummary">"היכנס ל'שטח שני' מ'מסך הנעילה' על ידי שימוש בסיסמה"</string>
@@ -157,7 +157,7 @@
 ההודעות יופיעו ב'שטח שני' בלבד."</string>
     <string name="PrivacyContactDes2">"אם השתמשת בהודעות פרטיות ב'שטח ראשון',
 תכונה זו תוסף ל'שטח שני' אוטומטית."</string>
-    <string name="openSuccess">פועל</string>
+    <string name="openSuccess">מופעל</string>
     <string name="closeSuccess">כבוי</string>
     <string name="settings_notification_and_switch">החלפה &amp; התראות</string>
     <string name="settings_cross_notification_title">התראות</string>
@@ -286,11 +286,11 @@
     <string name="can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="can_not_delete_when_calling">לא ניתן למחוק שטחים במהלך שיחה</string>
     <string name="support_desc">שירותי האבטחה מסופקים על ידי Graphite</string>
-    <string name="sdcardfs_dialog_message">Turn off \"Mock SD card optimization\" in Developer options before entering Second space.</string>
+    <string name="sdcardfs_dialog_message">"כבה את \"ייעול כרטיס זכרון וירטואלי\" באפשרויות המפתח לפני כניסה ל'שטח שני'."</string>
     <string name="do_not_ask">אל תשאל שוב</string>
-    <string name="gpg_message">Creating dual apps for games requires working with Google Play Games. Create a dual app for Google Play Games?</string>
+    <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Google'?"</string>
     <string name="gpg_title">יישום משוכפל עבור Google Play Games</string>
-    <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
+    <string name="gms_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'שירותי Google'. ליצור יישום משוכפל עבור 'שירותי Google'?"</string>
     <string name="gms_title">הפעלת שירותי Google</string>
     <string name="gms_open_button">הפעלה</string>
     <string name="create_second_space">נוצר בהצלחה</string>
@@ -304,13 +304,13 @@
     <string name="space_finger_sub_text">"הגדר טביעת אצבע עבור 'שטח שני' על מנת לבצע חילוף מהיר יותר"</string>
     <string name="set_space_finger_sub_text_suc">טביעת האצבע הוגדרה בהצלחה</string>
     <string name="show_noti_from_owner">התראות מהשטח האחר</string>
-    <string name="show_noti_from_owner_detail">Receive notifications in the current space when they come to the other one</string>
+    <string name="show_noti_from_owner_detail">קבל התראות בשטח הנוכחי כאשר הן מגיעות לשטח האחר</string>
     <string name="show_noti_quick_switch_icon">"קיצור דרך ל'לוח ההתראות'"</string>
     <string name="show_noti_quick_switch_icon_detail">"הצג קיצור דרך להחלפה בין שטחים ב'לוח ההתראות'"</string>
     <string name="show_decktop_quick_switch_icon">"קיצור דרך ב'מסך הבית'"</string>
     <string name="show_decktop_quick_switch_icon_detail">"הצג קיצור דרך להחלפה בין שטחים ב'מסך הבית' של 'שטח ראשון'"</string>
-    <string name="has_created_second_space">"You can open Second space now.
-One device. Two spaces."</string>
+    <string name="has_created_second_space">"באפשרותך לפתוח את 'שטח שני' כעת.
+שני שטחים, מכשיר אחד."</string>
     <string name="privacy_password_fingerprint_dialog_title">סרוק את טביעת האצבע שלך</string>
     <string name="privacy_password_fingerprint_dialog_message">הנח את האצבע שלך על החיישן</string>
 </resources>

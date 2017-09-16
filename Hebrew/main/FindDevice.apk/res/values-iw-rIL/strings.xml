@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">איתור המכשיר</string>
     <string name="find_device">איתור המכשיר</string>
-    <string name="enable_find_device_success">"'איתור המכשיר' פועל"</string>
+    <string name="enable_find_device_success">"'איתור המכשיר' מופעל"</string>
     <string name="disable_find_device_success">"'איתור המכשיר' כבוי"</string>
     <string name="enable_find_device_error">"לא ניתן להפעיל את 'איתור המכשיר'. %1$s"</string>
     <string name="disable_find_device_error">"לא ניתן להפעיל את 'איתור המכשיר'. %1$s"</string>

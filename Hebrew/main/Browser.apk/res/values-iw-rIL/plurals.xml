@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">ב-%d הימים האחרונים</item>
-        <item quantity="one">Last %d day</item>
+        <item quantity="one">ביום ה-%d האחרון</item>
         <item quantity="two">ב-%d הימים האחרונים</item>
         <item quantity="many">ב-%d הימים האחרונים</item>
     </plurals>

@@ -188,7 +188,6 @@
     <string name="global_actions">אפשרויות טלפון</string>
     <string name="global_action_lock">נעילת מסך</string>
     <string name="global_action_power_off">כיבוי</string>
-    <string name="global_action_emergency">חירום</string>
     <string name="global_action_bug_report">דיווח על באג</string>
     <string name="bugreport_title">שלח דיווח על באג</string>
     <string name="bugreport_message">פעולה זו תאסוף מידע על מצב המכשיר הנוכחי שלך על מנת לשלוח אותו כהודעת אימייל. היא תימשך זמן קצר מרגע פתיחת דיווח הבאג ועד לשליחת ההודעה בפועל. אנא המתן בסבלנות.</string>
@@ -550,7 +549,6 @@
     <string name="lockscreen_pattern_correct">נכון!</string>
     <string name="lockscreen_pattern_wrong">נסה שוב</string>
     <string name="lockscreen_password_wrong">נסה שוב</string>
-    <string name="lockscreen_storage_locked">בטל את הנעילה לכל התכונות והנתונים</string>
     <string name="faceunlock_multiple_failures">חרגת ממספר הניסיונות המרבי של זיהוי פנים</string>
     <string name="lockscreen_missing_sim_message_short">‏אין כרטיס SIM</string>
     <string name="lockscreen_missing_sim_message">‏אין כרטיס SIM בטלפון.</string>
@@ -802,9 +800,8 @@
     <string name="android_upgrading_title">‏Android מבצע שדרוג…</string>
     <string name="android_start_title">‏הפעלת Android מתחילה…</string>
     <string name="android_upgrading_fstrim">מתבצעת אופטימיזציה של האחסון.</string>
-    <string name="android_upgrading_notification_title">‏מסיים עדכון Android…</string>
+    <string name="android_upgrading_notification_title">‏Android מבצע שדרוג</string>
     <string name="android_upgrading_notification_body">ייתכן שאפליקציות מסוימות לא יפעלו כראוי עד סיום השדרוג</string>
-    <string name="app_upgrading_toast">%1$s מבצעת שדרוג…</string>
     <string name="android_upgrading_apk">מבצע אופטימיזציה של אפליקציה %1$d מתוך %2$d.</string>
     <string name="android_preparing_apk">מכין את %1$s.</string>
     <string name="android_upgrading_starting_apps">מפעיל אפליקציות.</string>
@@ -845,10 +842,6 @@
     <string name="network_available_sign_in">היכנס לרשת</string>
     <string name="wifi_no_internet">‏אין ל-Wi-Fi גישה לאינטרנט</string>
     <string name="wifi_no_internet_detailed">הקש לקבלת אפשרויות</string>
-    <string name="network_switch_metered">מעבר אל %1$s</string>
-    <string name="network_switch_metered_detail">המכשיר משתמש ברשת %1$s כשלרשת %2$s אין גישה לאינטרנט. עשויים לחול חיובים.</string>
-    <string name="network_switch_metered_toast">עבר מרשת %1$s לרשת %2$s</string>
-    <string name="network_switch_type_name_unknown">סוג רשת לא מזוהה</string>
     <string name="wifi_watchdog_network_disabled">‏אין אפשרות להתחבר ל-Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" אינו מחובר היטב לאינטרנט."</string>
     <string name="wifi_connect_alert_title">האם להתיר את החיבור?</string>
@@ -924,6 +917,7 @@
     <string name="select_keyboard_layout_notification_message">הקש כדי לבחור שפה ופריסה</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="candidates_style"><u>מועמדים</u></string>
     <string name="ext_media_checking_notification_title">הכנת %s</string>
     <string name="ext_media_checking_notification_message">בודק אם יש שגיאות</string>
     <string name="ext_media_new_notification_message">זוהה %s חדש</string>
@@ -1005,7 +999,6 @@
     <string name="vpn_text_long">מחובר אל %s. הקש כדי לנהל את הרשת.</string>
     <string name="vpn_lockdown_connecting">‏ה-VPN שמופעל תמיד, מתחבר...</string>
     <string name="vpn_lockdown_connected">‏ה-VPN שפועל תמיד, מחובר</string>
-    <string name="vpn_lockdown_disconnected">‏חיבור תמידי ל-VPN מנותק</string>
     <string name="vpn_lockdown_error">‏שגיאת VPN שמופעל תמיד</string>
     <string name="vpn_lockdown_config">הקש כדי להגדיר</string>
     <string name="upload_file">בחר קובץ</string>
@@ -1079,14 +1072,14 @@
     <string name="action_menu_overflow_description">אפשרויות נוספות</string>
     <string name="action_bar_home_description_format">‏%1$s‏, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">‏%1$s‏, %2$s‏, %3$s</string>
-    <string name="storage_internal">אחסון שיתוף פנימי</string>
+    <string name="storage_internal">אחסון משותף פנימי</string>
     <string name="storage_sd_card">‏כרטיס SD</string>
     <string name="storage_sd_card_label">‏כרטיס SD של %s</string>
     <string name="storage_usb_drive">‏כונן USB</string>
     <string name="storage_usb_drive_label">‏כונן USB של %s</string>
     <string name="storage_usb">‏אחסון USB</string>
     <string name="extract_edit_menu_button">ערוך</string>
-    <string name="data_usage_warning_title">התראה לשימוש בנתונים</string>
+    <string name="data_usage_warning_title">אזהרת שימוש בנתונים</string>
     <string name="data_usage_warning_body">הקש כדי להציג נתוני שימוש והגדרות.</string>
     <string name="data_usage_3g_limit_title">‏הגעת למגבלת הנתונים של 2G-3G</string>
     <string name="data_usage_4g_limit_title">‏הגעת למגבלת הנתונים של 4G</string>
@@ -1370,7 +1363,6 @@
     <string name="search_language_hint">הקלד שם שפה</string>
     <string name="language_picker_section_suggested">הצעות</string>
     <string name="language_picker_section_all">כל השפות</string>
-    <string name="region_picker_section_all">כל האזורים</string>
     <string name="locale_search_menu">חיפוש</string>
     <string name="work_mode_off_title">מצב העבודה כבוי</string>
     <string name="work_mode_off_message">אפשר לפרופיל העבודה לפעול, כולל אפליקציות, סנכרון ברקע ותכונות קשורות.</string>
@@ -1388,16 +1380,7 @@
     <string name="unpin_target">בטל הצמדה</string>
     <string name="app_info">פרטי אפליקציה</string>
     <string name="negative_duration">−%1$s</string>
-    <string name="reset_retail_demo_mode_title">האם לאפס את המכשיר?</string>
-    <string name="reset_retail_demo_mode_text">הקש כדי לאפס את המכשיר</string>
-    <string name="demo_starting_message">מתחיל בהדגמה…</string>
-    <string name="demo_restarting_message">מאפס את המכשיר…</string>
-    <string name="demo_user_inactivity_timeout_title">האם לאפס את המכשיר?</string>
-    <string name="demo_user_inactivity_timeout_countdown">תאבד את כל השינויים וההדגמה תתחיל שוב בעוד %1$s שניות…</string>
-    <string name="demo_user_inactivity_timeout_left_button">בטל</string>
-    <string name="demo_user_inactivity_timeout_right_button">אפס עכשיו</string>
     <string name="audit_safemode_notification">איפוס להגדרות היצרן כדי לאפשר שימוש במכשיר ללא מגבלות</string>
     <string name="audit_safemode_notification_details">גע לקבלת מידע נוסף.</string>
     <string name="suspended_widget_accessibility">%1$s הושבת</string>
-    <string name="conference_call">שיחת ועידה</string>
 </resources>

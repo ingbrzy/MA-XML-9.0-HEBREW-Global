@@ -67,7 +67,7 @@
     <string name="card_title_threeway_call">שיחת משולשת</string>
     <string name="card_title_incoming_call">שיחה נכנסת</string>
     <string name="card_title_answering">מענה לשיחה</string>
-    <string name="card_title_answering_time_out">"Couldn't answer call, try again."</string>
+    <string name="card_title_answering_time_out">לא ניתן היה לענות לשיחה, נסה שוב.</string>
     <string name="card_title_call_ended">"השיחה הסתימה "</string>
     <string name="card_title_on_hold">"בהמתנה "</string>
     <string name="card_title_hanging_up">"מנתק "</string>

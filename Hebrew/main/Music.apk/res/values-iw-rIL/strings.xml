@@ -8,7 +8,7 @@
     <string name="privacy_tip_content">להשתמש במאיץ Xunlei על מנת להאיץ את מהירות ההורדות? קישור להורדה יועלה לשרתי Xunlei. פרטי חשבון Mi שלך יועלו על מנת לבדוק האם אתה כבר מנוי לשירות זה.</string>
     <string name="privacy_tip_cancel">ביטול</string>
     <string name="privacy_tip_ok">אישור</string>
-    <string name="privacy_notif_title">מאיץ ההורדות של Xunlei פועל</string>
+    <string name="privacy_notif_title">מאיץ ההורדות של Xunlei מופעל</string>
     <string name="privacy_notif_content">לחץ לצפיה בפרטים.</string>
     <string name="notif_text_engine_on">מאיץ…</string>
     <string name="notif_text_engine_off">מאיץ Xunlei כבוי.</string>
@@ -104,9 +104,9 @@
     <string name="paused_queued_for_wifi">ממתין לחיבור</string>
     <string name="paused_waiting_to_retry">ממתין לנסיון מחודש</string>
     <string name="paused_unknown">עצר</string>
-    <string name="paused_in_power_save_mode">"עוצר כשמצב 'חסכון בסוללה' פועל"</string>
+    <string name="paused_in_power_save_mode">"עוצר כשמצב 'חסכון בסוללה' מופעל"</string>
     <string name="delete_the_downloaded_file">הקבצים שהורדו ימחקו.</string>
-    <string name="downloads_operating">פועל…</string>
+    <string name="downloads_operating">מופעל…</string>
     <string name="select_operation_items">בחר פריטים</string>
     <string name="preferences_title">הגדרות</string>
     <string name="pref_download_settings_title">מגבלת גודל הורדה</string>
@@ -125,7 +125,7 @@
     <string name="download_list_get_hightspeed_flow_sucess_head">גרסת הנסיון של Xunlei נוצרה בהצלחה</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">קבל מהירות הורדה גבוהה יותר על ידי Xunlei</string>
     <string name="download_list_get_hightspeed_flow_pay_ok">התשלום בוצע בהצלחה</string>
-    <string name="download_list_get_hightspeed_flow_auto_open">מאיץ ההורדות של Xunlei פועל</string>
+    <string name="download_list_get_hightspeed_flow_auto_open">מאיץ ההורדות של Xunlei מופעל</string>
     <string name="turn_off_xunlei_tips">מאיץ ההורדות של Xunlei כבוי</string>
     <string name="auth_activity_title">חשבון Xunlei</string>
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את החיבור ונסה שוב.</string>
@@ -141,7 +141,7 @@
     <string name="doc_filter">מסמכים</string>
     <string name="package_filter">חבילות</string>
     <string name="other_filter">אחר</string>
-    <string name="power_save_mode_dialog_msg">"'חסכון בסוללה' פועל. להתחיל להוריד כעת?"</string>
+    <string name="power_save_mode_dialog_msg">"'חסכון בסוללה' מופעל. להתחיל להוריד כעת?"</string>
     <string name="settings_search_path_main">יישומי מערכתוסיקה</string>
     <string name="settings_search_path_normal">יישומי מערכת/מוסיקה/שירותים והגדרות</string>
     <string name="settings_search_path_advance">יישומי מערכת/מוסיקה/שירותים והגדרות/הגדרות מתקדמות</string>
@@ -494,6 +494,7 @@
     <string name="please_search_or_select">חפש או בחר שדה</string>
     <string name="in_searching_please_wait">מחפש…</string>
     <string name="no_file_picker_find">"'סייר הקבצים' אינו מותקן על מכשיר זה"</string>
+    <string name="no_system_cropper_find">לא קיים כלי לחיתוך התמונה במערכת</string>
     <string name="set_lyric_successful">מילות השיר נשמרו</string>
     <string name="set_album_successful">האלבום נשמר</string>
     <string name="set_id3_successful">פרטי השיר נשמרו</string>
@@ -708,7 +709,7 @@
     <string name="sub_explanation_message">חבילת הנתונים של Mi מוסיקה נתמכת כיום על ידי China Unicom. ספק הרשת שלך אינו תומך בתכונה זו. באפשרותך לרכוש נתונים סלולריים רגילים.</string>
     <string name="buy_other_flow">נתונים רגילים</string>
     <string name="buy_traffic">China Unicom</string>
-    <string name="subed">פועל</string>
+    <string name="subed">מופעל</string>
     <string name="notification_des_next_song">השיר הבא: %s</string>
     <string name="settings_notification_title">"ווידג'ט לוח ההתראות"</string>
     <string name="settings_notification_text">"הצג את ווידג'ט הנגן בלוח ההתראות"</string>
@@ -846,8 +847,8 @@
     <string name="talkback_favorite">"סמן שיר זה ב'אהבתי'"</string>
     <string name="talkback_progress">בר התקדמות</string>
     <string name="talkback_back">חזור</string>
-    <string name="talkback_nowplaying_circle">Play circle</string>
-    <string name="talkback_nowplaying_bar">Play bar</string>
+    <string name="talkback_nowplaying_circle">עיגול נגינה</string>
+    <string name="talkback_nowplaying_bar">שורת נגינה</string>
     <string name="cloud_music">שירים ב-Mi Cloud</string>
     <string name="backup_immediate">גיבוי</string>
     <string name="backup_song_title">בחר שירים לגיבוי</string>

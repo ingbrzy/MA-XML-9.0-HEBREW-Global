@@ -7,7 +7,6 @@
     <string name="passport_login_title">היכנס לחשבון Mi שלך</string>
     <string name="passport_login">היכנס</string>
     <string name="passport_relogin">היכנס שוב</string>
-    <string name="passport_instant_login">היכנס</string>
     <string name="passport_skip_login">דלג</string>
     <string name="passport_skip_setup_account_title">דלג על ההתקנה</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
@@ -112,6 +111,9 @@
     <string name="passport_completed">סיום</string>
     <string name="passport_verify">אימות</string>
     <string name="passport_restart">התחל מחדש</string>
+    <string name="passport_yes">כן</string>
+    <string name="passport_no">No</string>
+    <string name="passport_continue">Continue</string>
     <string name="passport_loading">טוען…</string>
     <string name="passport_reging">יוצר חשבון…</string>
     <string name="passport_checking_account">בודק סיסמה…</string>
@@ -174,18 +176,25 @@
     <string name="passport_registered_phone_num">טלפון: %s</string>
     <string name="passport_quick_login">היכנס</string>
     <string name="passport_error_verify_activator_phone_title">לא ניתן היה לאמת את מספר הטלפון</string>
-    <string name="passport_error_verify_activator_phone_message">ודא כי שירות כרטיס ה-SIM שלך פועל ושהמכשיר מחובר לרשת.</string>
+    <string name="passport_error_verify_activator_phone_message">ודא כי שירות כרטיס ה-SIM שלך מופעל ושהמכשיר מחובר לרשת.</string>
     <string name="passport_error_no_password_user">עדיין לא הגדרת סיסמה. היכנס באמצעות מסרון.</string>
     <string name="passport_phone_ticket_login">היכנס באמצעות מסרון</string>
+    <string name="passport_quick_register">הירשם</string>
     <string name="passport_account_set_password">הגדרת סיסמה</string>
     <string name="passport_account_set_password_title">הגדרת סיסמה</string>
     <string name="passport_account_set_password_prompt">הגדר סיסמה אשר באמצעותה תיכנס לחשבונך בפעם הבאה.</string>
     <string name="passport_set">הגדר</string>
+    <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
     <string name="passport_user_reg_region">מדינה/אזור</string>
-    <string name="passport_user_id_notice">您的小米ID是: %s</string>
-    <string name="passport_user_reg_region_warning">"You Won't be able to change your country/region once the account is created"</string>
-    <string name="passport_sync_account_data">正在同步您的帐号数据</string>
-    <string name="passport_sync_account_data_failed_warning">您的帐号数据有延迟,将只能使用小米ID登录。若使用邮箱/手机登录,请稍等几分钟</string>
+    <string name="passport_user_id_notice">Your Mi Account ID is %s.</string>
+    <string name="passport_user_reg_region_warning">"You won't be able to change your country/region once the account is created."</string>
+    <string name="passport_sync_account_data">Syncing account info…</string>
+    <string name="passport_sync_account_data_failed_warning">Your account info is being synced now, you can sign in using your Mi Account ID. If you want to sign in using your phone or email, wait until the info is fully synced.</string>
+    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+    <string name="passport_login_recycle_account_yes">Yes</string>
+    <string name="passport_login_recycle_account_no">Nope</string>
+    <string name="passport_reg_recycle_account_yes">Yes</string>
+    <string name="passport_reg_recycle_account_no">Nope</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -308,13 +317,14 @@
     <string name="update_email_address_dialog_message">עליך לאמת את זהותך לפני שתוכל לעדכן דוא\"ל.</string>
     <string name="account_user_details">מידע אישי</string>
     <string name="account_security">אבטחת החשבון</string>
+    <string name="account_mibi_center">נקודות Mi</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">שירותים</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="vip_account_settings">הגדרות VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="mi_vip_info">查看我的特权</string>
-    <string name="vip_settings_info">我的数据中心</string>
+    <string name="mi_vip_info">הצג פריבילגיות</string>
+    <string name="vip_settings_info">הגדרות VIP</string>
     <string name="loading_micloud_sync_data">רק רגע…</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="scan_barcode_title">על מנת להיכנס לחשבון Mi שלך, סרוק את קוד ה-QR</string>
@@ -384,9 +394,9 @@
     <string name="verify_phone_prompt">בחר מספר טלפון לאימות</string>
     <string name="sms_send_success">נשלח</string>
     <string name="auth_fail_warning">פג תוקף נסיון הכניסה, היכנס שוב מאוחר יותר</string>
-    <string name="find_device_message">המכשיר הנוכחי נעול, הודעה: %1$s, טלפון איש קשר: %2$s.</string>
-    <string name="find_device_owner_phone">המכשיר הנוכחי נעול, טלפון איש קשר: %1$s.</string>
-    <string name="find_device_prompt_message">המכשיר הנוכחי נעול, הודעה: %1$s.</string>
+    <string name="find_device_message">המכשיר נעול. הודעה: %1$s. חייג אל %2$s.</string>
+    <string name="find_device_owner_phone">המכשיר נעול. חייג אל %1$s.</string>
+    <string name="find_device_prompt_message">המכשיר נעול. הודעה: %1$s.</string>
     <string name="find_device_activate_account">הפעל חשבון</string>
     <string name="login_check_find_device">משיג את פרטי אבטחת המכשיר…</string>
     <string name="unlock_help_notice">"עזרה:
@@ -414,7 +424,7 @@
     <string name="account_bind_settings">חשבונות</string>
     <string name="account_bind_devices">מכשירים</string>
     <string name="account_protection">הגנה על החשבון</string>
-    <string name="account_protection_on">פועל</string>
+    <string name="account_protection_on">מופעל</string>
     <string name="account_protection_off">כבוי</string>
     <string name="logout_account">צא</string>
     <string name="mipay">תשלום</string>
@@ -428,5 +438,5 @@
     <string name="account_token_expired_title">האימות נכשל</string>
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>
-    <string name="bind_safe_phone_msg">Add safe phone for next sign in</string>
+    <string name="bind_safe_phone_msg">הוסף את מספר הטלפון שלך על מנת שתוכל להיכנס לחשבון Mi שלך בכל עת.</string>
 </resources>

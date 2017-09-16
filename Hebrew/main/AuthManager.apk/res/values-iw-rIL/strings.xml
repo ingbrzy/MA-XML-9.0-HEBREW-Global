@@ -94,6 +94,7 @@
     <string name="location_settings">הגדרות מיקום</string>
     <string name="location_warning">%1$s הינו ספק של שירותי מיקום עבור מכשיר זה. הרשאות גישה למיקום ניתנות לשינוי בהגדרות המיקום.</string>
     <string name="permission_warning_template">לאפשר ל-%1$s %2$s?</string>
+    <string name="permission_warning_template_ask">להעניק ל-%1$s את ההרשאות להלן?</string>
     <string name="screen_overlay_title">התגלתה שכבת-על על המסך</string>
     <string name="screen_overlay_message">על מנת לשנות הגדרות של הרשאה זו, עליך לכבות תחילה את אפשרות שכבת-על על המסך בהגדרות > יישומים</string>
     <string name="screen_overlay_button">פתח את הגדרות המכשיר</string>

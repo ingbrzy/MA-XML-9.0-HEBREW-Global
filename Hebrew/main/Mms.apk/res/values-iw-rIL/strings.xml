@@ -7,6 +7,7 @@
     <string name="addBlackList">חסום</string>
     <string name="add_attachment">צרף קבצים</string>
     <string name="add_contact">vCard</string>
+    <string name="add_miui_contact">Mi Card</string>
     <string name="add_music">הוסף מוסיקה</string>
     <string name="add_number_to_sender">הוסף מספר ל- %s</string>
     <string name="add_picture">הוסף תמונה</string>
@@ -385,8 +386,10 @@
     <string name="pref_show_sms_template_in_summary">זיהוי אוטומטי של סיסמאות חד-פעמיות במסרונים</string>
     <string name="pref_show_sms_template_summary">"הפעל על מנת להשתמש בתכונות חכמות של הודעות Mi, כגון העתקת קודים, בדיקת יתרה וכו'."</string>
     <string name="pref_smart_messages_settings">הודעות חכמות</string>
+    <string name="pref_sms_storage_title">אחסון</string>
     <string name="pref_sms_theme_title">תצוגה</string>
     <string name="pref_summary_allow_si_sl_push">אפשר להודעות לטעון תוכן מאתרים</string>
+    <string name="pref_summary_auto_delete">מחק הודעות ישנות בעת הגעה לתקרת המגבלה</string>
     <string name="pref_summary_delete_limit">%1$s הודעות לכל שיחה</string>
     <string name="pref_summary_delivery_reports">הצג דו\"ח מסירה להודעות שנשלחו</string>
     <string name="pref_summary_delivery_ringtone">קבל התראה קולית עבור הודעה שנמסרה.</string>
@@ -404,6 +407,7 @@
     <string name="pref_system_title">מערכת</string>
     <string name="pref_title_about_smart_sms">"אודות 'שותף ההודעות החכם'"</string>
     <string name="pref_title_allow_si_sl_push">אפשר הודעות (WAP push (SI/SL</string>
+    <string name="pref_title_auto_delete">מחיקת הודעות ישנות</string>
     <string name="pref_title_card_format">פורמט שיתוף כרטיס</string>
     <string name="pref_title_delivery_reports">סטטוס מסירה</string>
     <string name="pref_title_fwd_sender_info">העבר מידע אודות השולח</string>
@@ -412,6 +416,8 @@
     <string name="pref_title_mms_auto_retrieval">הורד אוטומטית תוכן הודעות מולטימדיה</string>
     <string name="pref_title_mms_delete">מגבלת הודעות מולטימדיה</string>
     <string name="pref_title_mms_read_reports">דוח\"ות קריאה עבור הודעות מולטימדיה</string>
+    <string name="pref_title_mms_retrieval_during_international_roaming">הורד תוכן הודעות מולטימדיה בנדידה בינלאומית</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">הורד תוכן הודעות מולטימדיה בנדידה מקומית</string>
     <string name="pref_title_mms_retrieval_during_roaming">הורד תוכן הודעות מולטימדיה בנדידה</string>
     <string name="pref_title_mms_validity_period">תפוגת הודעת מולטימדיה</string>
     <string name="pref_title_notification_body_enabled">הצג הודעות במסך הנעילה</string>
