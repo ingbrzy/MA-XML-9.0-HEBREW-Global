@@ -186,11 +186,11 @@
     <string name="set_kilometre">קמ\"ש</string>
     <string name="alert_warning">"התרעות 'מזג אויר'"</string>
     <string name="other_warning_settings">התרעות אחרות</string>
-    <string name="rainfall_settings_title">Rainfall</string>
-    <string name="rainfall_settings_summary">Rainfall alerts</string>
+    <string name="rainfall_settings_title">גשם</string>
+    <string name="rainfall_settings_summary">התרעות גשם</string>
     <string name="night_not_disturb_settings_title">אל תפריע בלילה</string>
     <string name="night_not_disturb_settings_summary">התרעות שקטות מתקבלות בין 23:00 ל-7:00</string>
-    <string name="reminder_from_xiaomi_weather_app">Mi Weather alert</string>
+    <string name="reminder_from_xiaomi_weather_app">"התרעת 'מזג אויר Mi'"</string>
     <string name="it_is_going_to_rain">עומד לרדת גשם</string>
     <string name="your_location">המיקום שלך</string>
     <string name="update_setting_title_text">עדכן את המידע אודות מזג האויר</string>

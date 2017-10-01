@@ -23,8 +23,8 @@
     <string name="find_device_success_title">איתור המכשיר</string>
     <string name="find_device_notice_p1">עבור אל</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">"לאתר, לנעול או לשחזר את הטלפון שלך.
-אם החלפת כרטיס SIM, מסרון נוסף ישלח אוטומטית להפעלה של תכונה זו."</string>
+    <string name="find_device_notice_p3">"על מנת לאתר, לנעול או לשחזר את הטלפון שלך.
+במידה והחלפת כרטיס SIM, מסרון נוסף ישלח אוטומטית להפעלה של תכונה זו."</string>
     <string name="i_know">אישור</string>
     <string name="unlock_error_network">לא ניתן להתחבר לרשת</string>
     <string name="unlock_error_device_id">לא ניתן להשיג את מזהה המכשיר</string>

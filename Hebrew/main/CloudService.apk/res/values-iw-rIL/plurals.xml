@@ -84,6 +84,12 @@
         <item quantity="two">%d כניסות לרשימת החסומים</item>
         <item quantity="many">%d כניסות לרשימת החסומים</item>
     </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
+        <item quantity="one">תמונה מוסתרת %d לא סונכרנה. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
+        <item quantity="two">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
+        <item quantity="many">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
+    </plurals>
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">המשך סנכרון לאחר %d שעות</item>
         <item quantity="one">המשך סנכרון לאחר שעה %d</item>

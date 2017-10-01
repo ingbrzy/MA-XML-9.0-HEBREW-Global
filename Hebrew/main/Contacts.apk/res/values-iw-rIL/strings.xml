@@ -246,7 +246,7 @@
     <string name="callBack">התקשר חזרה</string>
     <string name="callAgain">התקשר שוב</string>
     <string name="returnCall">התקשר חזרה</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s דקות %s שניות</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s דקות ו-%s שניות</string>
     <string name="favoritesFrequentContacted">אנשי קשר בשימוש שכיח</string>
     <string name="favoritesFrequentCalled">שיחות בשימוש שכיח</string>
     <string name="add_contact_dlg_message_fmt">הוסף את \"%s\" לאנשי קשר?</string>
@@ -309,6 +309,7 @@
     <string name="vcard_export_will_start_message">%s ייובא בקרוב.</string>
     <string name="vcard_export_request_rejected_message">בקשת ייצוא vCard נדחתה. נסה שוב מאוחר יותר.</string>
     <string name="vcard_unknown_filename">איש קשר</string>
+    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">לייצא אנשי קשר?</string>
     <string name="confirm_export_message">רשימת אנשי הקשר שלך תיוצא לקובץ:%s.</string>
     <string name="exporting_contact_failed_title">לא ניתן היה לייצא</string>
@@ -693,6 +694,7 @@
     <string name="miprofile_alertdialog_message">הצג שם זה לאנשי קשר כאשר תבקש לבצע החלפת כרטיסים.</string>
     <string name="miprofile_alertdialog_edit">הכנס שם</string>
     <string name="miprofile_switch_off_alertdialog_message">לא תוכל להחליף כרטיסי איש קשר עם אנשים אחרים.</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">הוסף מספר טלפון</string>
     <string name="miprofile_bind_account_alertdialog_message">עליך להוסיף את מספר הטלפון של מכשיר זה לחשבון Mi שלך על מנת להשתמש בתכונה זו.</string>
     <string name="miprofile_bind_account_alertdialog_positive">הוסף מספר</string>
@@ -917,8 +919,8 @@
     <string name="share_over_limit">לא ניתן לשתף יותר מ-1000 אנשי קשר</string>
     <string name="preference_key_trash_bin_title">שחזר אנשי קשר</string>
     <string name="preference_other">אחר</string>
-    <string name="preference_show_yellowpage_tab_title">"הצג את כניסת 'דפי זהב'"</string>
-    <string name="preference_show_yellowpage_tab_description">"סגור את תוית 'דפי זהב', פונקצית 'דפי זהב' לא תעבוד כראוי"</string>
+    <string name="preference_show_yellowpage_tab_title">"הצג את 'דפי זהב'"</string>
+    <string name="preference_show_yellowpage_tab_description">"יתכן ש'דפי זהב' לא יעבוד באופן תקין כאשר תכונה זו כבויה."</string>
     <string name="account_default">טלפון</string>
     <string name="lunarBirthdayLabelsGroup">יום הולדת ירחי</string>
     <string name="option_view_contact">הצגה</string>
@@ -933,7 +935,7 @@
     <string name="option_rename_group">שנה שם</string>
     <string name="option_delete_group">מחק</string>
     <string name="deleteConfirmation_title">למחוק איש קשר זה?</string>
-    <string name="deleteConfirmationDetail">למחוק \"%s\"?</string>
+    <string name="deleteConfirmationDetail">למחוק את \"%s\"?</string>
     <string name="nickname_picker_name_column">שם איש קשר</string>
     <string name="nickname_picker_nickname_column">כותרת</string>
     <string name="not_applied">לא ניתן היה לבצע</string>
@@ -957,8 +959,9 @@
     <string name="antispam_provider_format">זוהה על ידי %s</string>
     <string name="type_mx_msg">Mi Message</string>
     <string name="qr_card_card">קוד QR</string>
-    <string name="unknown_details_new_contact">איש קשר חדש</string>
-    <string name="unfold_all">פרוס הכל</string>
+    <string name="unknown_details_new_contact">חדש</string>
+    <string name="unknown_details_add_to_contact">קיים</string>
+    <string name="unfold_all">הצג הכל</string>
     <string name="menu_new_favorite_action_bar">הוסף למועדפים</string>
     <string name="click_close">לחץ לסגירה</string>
     <string name="phone_primary">עיקרי</string>
@@ -978,9 +981,10 @@
     <string name="group_create_fail_toast">לא ניתן היה ליצור קבוצה</string>
     <string name="group_rename_fail_toast">לא ניתן היה לשנות את שם הקבוצה</string>
     <string name="contact_unfavorite_toast">הוסר מהמועדפים</string>
-    <string name="group_member_remove_toast">הוסר מהקבוצה</string>
-    <string name="contact_delete_toast">איש הקשר נמחק בהצלחה</string>
     <string name="profile_delete_toast">הפרופיל נמחק בהצלחה</string>
+    <string name="group_member_remove_success_toast">הוסר מהקבוצה</string>
+    <string name="group_member_remove_fail_toast">לא הוסר מהקבוצה</string>
+    <string name="contact_delete_toast">איש הקשר נמחק</string>
     <string name="duplicate_group_name">קבוצה עם אותו שם כבר קיימת</string>
     <string name="all_list_empty">אין אנשי קשר</string>
     <string name="favorites_list_empty">אין מועדפים</string>
@@ -1066,6 +1070,7 @@
     <string name="device_import_local_account">חשבון מקומי</string>
     <string name="import_name">שם</string>
     <string name="import_percent">0%</string>
+    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">בדוק את טלפון היעד</string>
@@ -1102,13 +1107,13 @@
     <string name="batch_delete">מחיקה מרובה</string>
     <string name="starred_contacts">מועדפים</string>
     <string name="other_contacts">אנשי קשר אחרים</string>
-    <string name="set_photo_failed_msg">לא ניתן היה להגדיר תמונה.</string>
+    <string name="set_photo_failed_msg">לא ניתן היה להקצות תמונה</string>
     <string name="contact_is_readOnly">לא ניתן לערוך אנשי קשר המוגדרים לצפיה בלבד</string>
     <string name="profile_name">הפרופיל שלי</string>
     <string name="profile_name_photo">תמונה</string>
     <string name="toast_copying">מעתיק…</string>
     <string name="toast_copy_done">בוצע</string>
-    <string name="toast_start_intent_failed">לא נמצא יישום מתאים לביצוע</string>
+    <string name="toast_start_intent_failed">לא ניתן היה למצוא יישומים מתאימים לביצוע פעולה זו</string>
     <string name="group_name">הקבוצות שלי</string>
     <string name="import_all_sim_entries_miui">ייבא את כל אנשי הקשר</string>
     <string name="import_sim_entry_miui">ייבוא</string>
@@ -1190,11 +1195,6 @@
     <string name="data_unit_mb">MB</string>
     <string name="data_unit_gb">GB</string>
     <string name="set_data_package">הגדר תכנית נתונים תחילה</string>
-    <string name="livetalk_charge">Top up</string>
-    <string name="livetalk_switch_on">הפעלה</string>
-    <string name="livetalk_left">נותר</string>
-    <string name="livetalk_title">חבילת Top-up</string>
-    <string name="live_talk_switch_on_toast">חבילת Top-up הופעלה בהצלחה</string>
     <string name="button_join_service_number">הוסף מספר שירות</string>
     <string name="button_my_center">פרופיל</string>
     <string name="gallery">גלריה</string>
@@ -1218,7 +1218,7 @@
     <string name="cloud_state_disabled">הסנכרון עם Mi Cloud כבוי</string>
     <string name="unknow_phone_number_call_failed">לא ניתן לחייג למספר לא ידוע</string>
     <string name="unknow_phone_number_mms_failed">לא ניתן לשלוח הודעה למספר לא ידוע</string>
-    <string name="more_call_logs">"האזן לכל השיחות המוקלטות שלך ב: "</string>
+    <string name="more_call_logs">האזן לכל השיחות המוקלטות שלך ב:</string>
     <string name="transfer_accounts">העבר חשבונות</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="dialer_menu_description">הצג תפריטים</string>
@@ -1257,6 +1257,6 @@
     <string name="t9_search_empty_create_contact">איש קשר חדש</string>
     <string name="t9_search_empty_video_call">שיחת וידאו</string>
     <string name="t9_search_empty_send_sms">שליחת הודעה</string>
-    <string name="t9_search_empty_edit_contact">הוסף לאיש קשר</string>
+    <string name="t9_search_empty_edit_contact">הוספה לאנשי הקשר</string>
     <string name="add_field_toast">אין עוד שדות להוספה.</string>
 </resources>

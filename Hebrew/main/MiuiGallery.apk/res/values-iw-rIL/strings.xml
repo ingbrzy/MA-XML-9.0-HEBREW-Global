@@ -33,7 +33,7 @@
     <string name="video_editor_audio_sad">בלדה</string>
     <string name="video_editor_audio_custom">בחר</string>
     <string name="video_editor_unsupport_audio_file">קובץ שמע לא נתמך</string>
-    <string name="video_editor_text_preview_text">MI</string>
+    <string name="video_editor_text_preview_text">Aa</string>
     <string name="video_editor_text_default">ברירת מחדל</string>
     <string name="video_editor_text_input_empty_tips">נראה כי עדיין לא הזנת טקסט</string>
     <string name="video_editor_encode_video">מקודד וידאו…</string>
@@ -276,7 +276,7 @@
     <string name="album_others_share_baby_info_format">אלבום תינוקות מ-%s</string>
     <string name="album_already_forced_top">כבר למעלה</string>
     <string name="album_show_local_only">הצג אלבומים מקומיים בלבד</string>
-    <string name="album_show_local_only_summary">הפעל על מנת להציג למחוק תמונות על גבי מכשירך בלבד</string>
+    <string name="album_show_local_only_summary">הפעל על מנת להציג ולמחוק תמונות על גבי מכשירך בלבד</string>
     <string name="menu_item_sort_size">גודל</string>
     <string name="menu_item_sort_date">תאריך</string>
     <string name="menu_item_sort_name">שם</string>
@@ -296,7 +296,7 @@
     <string name="picker_image_will_download">%d מהתמונות שנבחרו אינן על המכשיר. תתבצע הורדה.</string>
     <string name="picker_continue_with_exists">המשך עם תמונות מקומיות</string>
     <string name="picker_download">הורד</string>
-    <string name="picker_cancel_download">בטל את ההורדה</string>
+    <string name="picker_cancel_download">ביטול הורדה</string>
     <string name="picker_continue_download">המשך הורדה</string>
     <string name="picker_no_network_message">התחבר לרשת על מנת להוריד</string>
     <string name="picker_download_progress_message">מוריד %1$d/%2$d</string>
@@ -320,8 +320,8 @@
     <string name="operation_share">שיתוף</string>
     <string name="operation_force_top">נעץ</string>
     <string name="operation_unforce_top">בטל נעיצה</string>
-    <string name="operation_hide">הסתרה</string>
-    <string name="operation_unhide">בטל הסתרה</string>
+    <string name="operation_hide">הפוך לבלתי גלוי</string>
+    <string name="operation_unhide">הפוך לגלוי</string>
     <string name="operation_enable_auto_upload">הפעל את הסנכרון עם Mi Cloud</string>
     <string name="operation_disable_auto_upload">כבה את הסנכרון עם Mi Cloud</string>
     <string name="operation_remove_from_other_albums">"הסר מ'אלבומים אחרים'"</string>
@@ -409,6 +409,8 @@
     <string name="must_pick_file">בחר תמונה</string>
     <string name="send_multiple_files_hint_format">שליחה (%s)</string>
     <string name="send_too_many_files_error">ניתן לשלוח עד %d פריטים בפעם אחת</string>
+    <string name="app_is_launching">%s נפתח…</string>
+    <string name="app_is_launching_common">פותח יישום…</string>
     <string name="title_warn">אזהרה</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
@@ -582,7 +584,7 @@
     <string name="enable_face_album_title">מיון לפי אנשים</string>
     <string name="enable_face_album_summary">מיין תמונות אוטומטית על פי האנשים המופיעים בהן</string>
     <string name="slim_after_backuped_title">יעל את האחסון המקומי לאחר ביצוע גיבויים</string>
-    <string name="slim_after_backuped_summary">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך נפח אחסון פנימי רב.</string>
+    <string name="slim_after_backuped_summary">החלף תמונות ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ב-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud. כך תוכל לחסוך נפח אחסון פנימי רב.</string>
     <string name="browse_category_title">סייר</string>
     <string name="show_hidden_album_title">הצג אלבומים מוסתרים</string>
     <string name="slideshow_interval_title">הצג כל שקופית למשך</string>
@@ -598,8 +600,9 @@
     <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
     <string name="micloud_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
-    <string name="slim_introduce">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud.</string>
-    <string name="slim_introduce_with_specific_size">החלף קבצים ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
+    <string name="slim_introduce">החלף תמונות ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ב-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud.</string>
+    <string name="slim_introduce_with_specific_size">החלף קבצים ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ב-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="next">הבא</string>
     <string name="login_and_enable_service">היכנס באמצעות חשבון Mi</string>
@@ -676,6 +679,7 @@
     <string name="cloud_storage_ok_append_desc">זמין %s</string>
     <string name="cloud_storage_warn_title">אין מספיק שטח אחסון ב-Mi Cloud</string>
     <string name="cloud_storage_warn_desc">רכוש חבילת Cloud VIP לקבלת שטח אחסון נוסף</string>
+    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">הרחבת שטח הענן</string>
     <string name="user_agreement2">תנאי השירות</string>
     <string name="user_agreement4">מדיניות הפרטיות</string>
@@ -784,6 +788,24 @@
     <string name="search_setting_sub_title_open">הוחל. המתן רגע לפני שתתחיל.</string>
     <string name="search_request_open">הצטרפות לצוות הבדיקה</string>
     <string name="search_title_more">עוד</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_mark_feedback_false_positive_title">תיקון</string>
+    <string name="search_mark_feedback_all_false_negative_title">הכל \"%s\"</string>
+    <string name="search_mark_feedback_false_negative_title">אישור</string>
+    <string name="search_feedback_false_negative_title">הפריטים שנבחרו \"%s\"</string>
+    <string name="search_failed_mark_feedback_false_positive">לא ניתן היה להסיר</string>
+    <string name="search_failed_mark_feedback_false_negative">לא ניתן היה להוסיף</string>
+    <string name="search_feedback_false_positive_text">להסיר תמונות מ-\"%s\"?</string>
+    <string name="search_feedback_false_negative_text">להוסיף תמונות אל \"%s\"?</string>
+    <string name="search_feedback_contribute">הוסף תמונות אל מסד נתוני האלגוריתם AI</string>
+    <string name="search_feedback_task_finish_title">לחץ לקבלת פרס!</string>
+    <string name="search_feedback_task_progress">%1$d/%2$d</string>
+    <string name="search_feedback_likely_title">נראה כי לתמונות אלה יש \"%s\"</string>
+    <string name="search_feedback_likely_check_title">בדיקה</string>
+    <string name="search_feedback_false_positive_title">נראה כי אלו הם \"%s\"</string>
+    <string name="search_feedback_task_requesting_award">מקבל פרס…</string>
+    <string name="search_feedback_task_request_award_failed">לא ניתן היה לקבל את הפרס. נסה שוב מאוחר יותר.</string>
     <string name="grant_permission_title">אפשר גישה</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
@@ -878,7 +900,15 @@
     <string name="sub_discard_positive_btn">שמור</string>
     <string name="sub_discard_negative_btn">ביטול</string>
     <string name="photo_editor_navigator_cancel">ביטול</string>
-    <string name="photo_editor_navigator_export">סיום</string>
+    <string name="photo_editor_navigator_export">שמירה</string>
+    <string name="photo_editor_navigator_need_download">התחבר לרשת על מנת להוריד את %s.</string>
+    <string name="photo_editor_navigator_module_downloading">מוריד את %s…</string>
+    <string name="photo_editor_navigator_download_network_metered_title">אזהרת שימוש בנתונים</string>
+    <string name="photo_editor_navigator_download_network_metered_msg">הורדת %s דורשת נתונים סלולריים בנפח של כ-4MB. להוריד כעת?</string>
+    <string name="photo_editor_navigator_module_download_wait_wlan">המתן לחיבור רשת אלחוטית</string>
+    <string name="photo_editor_navigator_module_download_now">הורדה</string>
+    <string name="photo_editor_navigator_module_download_success">ירד בהצלחה</string>
+    <string name="photo_editor_navigator_module_download_failed">לא ניתן היה להוריד את %s</string>
     <string name="photo_editor_beautify">ייפוי</string>
     <string name="photo_editor_filter">סנן</string>
     <string name="photo_editor_crop_and_rotate">חיתוך</string>
@@ -888,8 +918,9 @@
     <string name="photo_editor_text">מלל</string>
     <string name="photo_editor_long_crop">חיתוך</string>
     <string name="photo_editor_mosaic">פסיפס</string>
+    <string name="photo_editor_remover">מחיקה</string>
     <string name="photo_editor_beauty_compare">מקור</string>
-    <string name="onekey_none">ללא</string>
+    <string name="onekey_none">מקור</string>
     <string name="onekey_auto">אוטומטי</string>
     <string name="onekey_food">אוכל</string>
     <string name="onekey_scene">נוף</string>
@@ -958,4 +989,8 @@
     <string name="text_append_font_example">Aa</string>
     <string name="text_edit_dialog_font">גופן</string>
     <string name="text_edit_dialog_font_default">ברירת מחדל</string>
+    <string name="remover_edit_type_free">עצמים</string>
+    <string name="remover_edit_type_line">שורות</string>
+    <string name="remover_menu_processing">מעבד</string>
+    <string name="remover_erase_aera_too_big">אזור המחיקה גדול מידי</string>
 </resources>

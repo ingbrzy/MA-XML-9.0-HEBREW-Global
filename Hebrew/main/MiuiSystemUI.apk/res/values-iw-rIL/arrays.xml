@@ -40,25 +40,25 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>כיבוי</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>כיבוי</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>כיבוי</item>
-        <item>64K לכל לוג בפר</item>
-        <item>256K לכל לוג בפר</item>
-        <item>1M לכל לוג בפר</item>
-        <item>4M לכל לוג בפר</item>
-        <item>16M לכל לוג בפר</item>
+        <item>64KB לכל לוג בפר</item>
+        <item>256KB לכל לוג בפר</item>
+        <item>1MB לכל לוג בפר</item>
+        <item>4MB לכל לוג בפר</item>
+        <item>16MB לכל לוג בפר</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>כיבוי הנפשה</item>
@@ -120,7 +120,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>כיבוי</item>
         <item>הצג אזורי משיכת יתר</item>
-        <item>"הצגת אזורים עבור 'עיוורון צבעים'"</item>
+        <item>הצגת אזורים עבור עיוורון צבעים</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>מגבלה רגילה</item>
@@ -148,6 +148,17 @@
         <item>מהיר</item>
         <item>מהיר מאוד</item>
         <item>המהיר ביותר</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>ויברנט (ברירת מחדל)</item>

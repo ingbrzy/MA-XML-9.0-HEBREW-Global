@@ -112,8 +112,8 @@
     <string name="passport_verify">אימות</string>
     <string name="passport_restart">התחל מחדש</string>
     <string name="passport_yes">כן</string>
-    <string name="passport_no">No</string>
-    <string name="passport_continue">Continue</string>
+    <string name="passport_no">לא</string>
+    <string name="passport_continue">המשך</string>
     <string name="passport_loading">טוען…</string>
     <string name="passport_reging">יוצר חשבון…</string>
     <string name="passport_checking_account">בודק סיסמה…</string>
@@ -184,17 +184,17 @@
     <string name="passport_account_set_password_title">הגדרת סיסמה</string>
     <string name="passport_account_set_password_prompt">הגדר סיסמה אשר באמצעותה תיכנס לחשבונך בפעם הבאה.</string>
     <string name="passport_set">הגדר</string>
-    <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
+    <string name="passport_set_password_no_phone_msg">הוסף את מספר הטלפון שלך על מנת להגן על חשבונך.</string>
     <string name="passport_user_reg_region">מדינה/אזור</string>
-    <string name="passport_user_id_notice">Your Mi Account ID is %s.</string>
-    <string name="passport_user_reg_region_warning">"You won't be able to change your country/region once the account is created."</string>
-    <string name="passport_sync_account_data">Syncing account info…</string>
-    <string name="passport_sync_account_data_failed_warning">Your account info is being synced now, you can sign in using your Mi Account ID. If you want to sign in using your phone or email, wait until the info is fully synced.</string>
+    <string name="passport_user_id_notice">מזהה חשבון Mi שלך הוא %s.</string>
+    <string name="passport_user_reg_region_warning">לא תוכל לשנות את האזור/מדינה שלך לאחר יצירת החשבון.</string>
+    <string name="passport_sync_account_data">מסנכרן פרטי חשבון…</string>
+    <string name="passport_sync_account_data_failed_warning">מתבצע סנכרון של פרטי החשבון שלך כעת, באפשרותך להיכנס באמצעות מזהה חשבון Mi שלך. במידה וברצונך להיכנס באמצעות הטלפון או הדוא\"ל שלך, המתן עד לאחר שהפרטים סונכרנו במלואם.</string>
     <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
-    <string name="passport_login_recycle_account_yes">Yes</string>
-    <string name="passport_login_recycle_account_no">Nope</string>
-    <string name="passport_reg_recycle_account_yes">Yes</string>
-    <string name="passport_reg_recycle_account_no">Nope</string>
+    <string name="passport_login_recycle_account_yes">כן</string>
+    <string name="passport_login_recycle_account_no">לא</string>
+    <string name="passport_reg_recycle_account_yes">כן</string>
+    <string name="passport_reg_recycle_account_no">לא</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -433,8 +433,8 @@
     <string name="mipay_balance">יתרה</string>
     <string name="mipay_others">אחר</string>
     <string name="mipay_identity">אימות זהות</string>
-    <string name="mipay_indentity_done">בוצע</string>
-    <string name="mipay_identitiy_no">לא</string>
+    <string name="mipay_indentity_done">אומת</string>
+    <string name="mipay_identitiy_no">לא אומת</string>
     <string name="account_token_expired_title">האימות נכשל</string>
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>

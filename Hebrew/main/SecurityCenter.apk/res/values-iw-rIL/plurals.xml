@@ -117,10 +117,10 @@
         <item quantity="many">"%d דקות "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">בעוד %1$d דקות</item>
-        <item quantity="one">בעוד דקה %1$d</item>
-        <item quantity="two">בעוד %1$d דקות</item>
-        <item quantity="many">בעוד %1$d דקות</item>
+        <item quantity="other">לאחר %1$d דקות</item>
+        <item quantity="one">לאחר דקה %1$d</item>
+        <item quantity="two">לאחר %1$d דקות</item>
+        <item quantity="many">לאחר %1$d דקות</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">%d בעיות סוללה נפתרו</item>

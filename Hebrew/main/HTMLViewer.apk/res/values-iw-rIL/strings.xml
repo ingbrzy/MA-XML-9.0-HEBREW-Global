@@ -23,5 +23,5 @@
     <string name="ad_service">שירות פרסום</string>
     <string name="settings_ad_loading">רק רגע…</string>
     <string name="settings_ad_loading_unavailable">לא ניתן היה לטעון את המידע.</string>
-    <string name="autoconnect">חיבור אוטומטי</string>
+    <string name="autoconnect">התחבר באופן אוטומטי</string>
 </resources>

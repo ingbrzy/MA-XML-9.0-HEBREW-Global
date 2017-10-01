@@ -209,7 +209,7 @@
     <string name="free_style_edit_tab_shortcut">קיצורי דרך</string>
     <string name="free_style_edit_tab_free_component">פריטים</string>
     <string name="free_style_edit_tab_widget">"ווידג'טים"</string>
-    <string name="free_style_edit_move_tip">לחץ &amp; החזק על מנת להעביר פריט</string>
+    <string name="free_style_edit_move_tip">לחץ והחזק על מנת להעביר פריט</string>
     <string name="free_style_edit_app">יישום</string>
     <string name="free_style_edit_drawer">מגירה</string>
     <string name="free_style_drawer_title">כל היישומים</string>

@@ -167,7 +167,7 @@
     <string name="pref_camera_autoexposure_entry_spotmetering">מדידה נקודתית</string>
     <string name="pref_camera_audio_capture_title">שמע</string>
     <string name="simple_mode_button_text_audio_capture">כבה טריגר קולי</string>
-    <string name="pref_camera_video_duration_entry_mms">30 שניות(MMS)</string>
+    <string name="pref_camera_video_duration_entry_mms">30 שניות (MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 דקות</string>
     <string name="pref_camera_video_duration_entry_30">30 דקות</string>
     <string name="pref_camera_video_duration_entry_120">ללא הגבלה</string>
@@ -226,8 +226,8 @@
     <string name="face_beauty_intelligent_level_3">גבוה</string>
     <string name="pref_camera_show_gender_age_title">גיל &amp; מין</string>
     <string name="pref_camera_show_gender_age_entry_off">כבוי</string>
-    <string name="pref_camera_show_gender_age_entry_on">הצג את הגיל והמין כאשר מצב לייפות פעיל</string>
-    <string name="pref_camera_show_gender_age_entry_alias">הצג גיל כאשר מצב לייפות פעיל</string>
+    <string name="pref_camera_show_gender_age_entry_on">"הצג את הגיל והמין כאשר מצב 'ייפוי' מופעל"</string>
+    <string name="pref_camera_show_gender_age_entry_alias">"הצג גיל כאשר מצב 'ייפוי' מופעל"</string>
     <string name="pref_camera_show_gender_age_label_on">גיל &amp; מין</string>
     <string name="pref_camera_show_gender_age_label_alias">גיל</string>
     <string name="face_beauty_age_alias_male_0_7">זכר 0-7</string>
@@ -296,7 +296,7 @@
     <string name="pref_camera_delay_capture_entry_10s">"10 ש' השהיה"</string>
     <string name="pref_camera_asd_night_title">שפר אוטומטית תמונה עם תאורה חלשה</string>
     <string name="pref_camera_asd_popup_title">התרע כאשר יש צורך במבזק</string>
-    <string name="simple_mode_button_text_scene">כבה מצב סצינה</string>
+    <string name="simple_mode_button_text_scene">"כיבוי מצב 'סצינה'"</string>
     <string name="pref_camera_peak_title">מיקוד מירבי</string>
     <string name="pref_camera_peak_entry_off">כבוי</string>
     <string name="pref_camera_peak_entry_on">מופעל</string>
@@ -340,6 +340,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">אפשרויות</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -356,6 +357,7 @@
     <string name="toast_saving">שומר תמונות…</string>
     <string name="cannot_connect_camera_volte_call">שיחת וידאו בתהליך. נסה שוב מאוחר יותר.</string>
     <string name="hibernate_hint">"הקש על המסך על מנת לעורר את ה'מצלמה'"</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">מצב זום</string>
     <string name="accessibility_portrait_button">מצב דיוקן</string>
     <string name="toast_burst_snap_finished_summary">הצילום המתפרץ בוצע, %1$s תמונות צולמו</string>
@@ -451,7 +453,7 @@
     <string name="user_notice_identify_summary_format">על ידי שימוש בשירות זה, אתה מסכים ל%1$s ול%2$s של Xiaomi.</string>
     <string name="user_notice_title">תנאי השימוש</string>
     <string name="pref_camera_focus_shoot_title">מיקוד וצילום</string>
-    <string name="pref_camera_focus_shoot_summary">触摸对焦成功之后,点击对焦环中间的相机按钮进行拍照</string>
+    <string name="pref_camera_focus_shoot_summary">לחץ על המסך למיקוד, ואז לחץ שוב לצילום.</string>
     <string name="pref_retain_camera_mode_title">שמירת המצב הקודם</string>
     <string name="pref_retain_camera_mode_summary">העברת המצלמה למצב השימוש הקודם בעת פתיחת היישום.</string>
     <string name="pref_fingerprint_capture_title">צילום באמצעות טביעת אצבע</string>

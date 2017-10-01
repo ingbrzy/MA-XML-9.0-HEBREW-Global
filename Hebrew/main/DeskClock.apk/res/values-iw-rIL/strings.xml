@@ -23,6 +23,7 @@
     <string name="delete_timer_item_title">מחק משימת טיימר</string>
     <string name="delete_selected_timer_item">למחוק את משימת הטיימר שנבחרה?</string>
     <string name="delete_timezone_title">מחק אזור זמן</string>
+    <string name="add_timezone_title">הוספת אזור זמן</string>
     <string name="timezone_exist_error_message">אזור זמן זה כבר מוצג</string>
     <string name="alarm_disabled">כבוי</string>
     <string name="alarm_ascending_mode_title">עוצמה גבוהה</string>
@@ -55,7 +56,7 @@
     <string name="timer_item_picker_hour">שע</string>
     <string name="timer_item_picker_minute">דק</string>
     <string name="timer_item_picker_second">שנ</string>
-    <string name="timer_item_duration_display">%1$d דקות %2$d שניות</string>
+    <string name="timer_item_duration_display">%1$d דקות ו-%2$d שניות</string>
     <string name="timer_new_item">הוסף טיימר</string>
     <string name="timer_item_label_hint">קבע שם לטיימר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
@@ -103,6 +104,7 @@
     <string name="life_post_wake_up_item_acumu_day_title">ספירת ימים</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s ימים</string>
     <string name="life_post_setting">דיווח בוקר</string>
+    <string name="life_post_setting_close_title">סגור את דיווחי הבוקר</string>
     <string name="life_post_setting_open_title">קבל דיווחי בוקר</string>
     <string name="life_post_setting_open_subtitle">קבל מידע אודות מזג האויר בעת כיבוי שעונים מעוררים בין 4:00 ל- 9:30</string>
     <string name="life_post_setting_wake_up_list_title">היסטורית השכמות</string>
@@ -110,6 +112,8 @@
     <string name="life_post_setting_FBE_remind">עקב מגבלות מערכת, פרטי מזג האויר בדיווח הבוקר עשויים שלא להיות מוצגים כראוי לאחר האתחול</string>
     <string name="install_weather_app_loading">רק רגע…</string>
     <string name="install_weather_app_error">לא ניתן היה לטעון את היישום</string>
+    <string name="more_setting">הגדרות נוספות</string>
+    <string name="go_back">חזרה</string>
     <string name="app_label">שעון</string>
     <string name="alarm_list_title">שעון מעורר</string>
     <string name="add_alarm">הוספת שעון מעורר</string>

@@ -29,7 +29,7 @@
     <string name="call">שיחה</string>
     <string name="callNoAnswerTimeFormat">צילצל %s פעמים</string>
     <string name="callrecordview_item_newcontact">איש קשר חדש</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$d דקות %2$d שניות</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d דקות ו-%2$d שניות</string>
     <string name="callrecordview_item_op_time_missed">לא מחובר</string>
     <string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
     <string name="callrecordview_item_op_time_only_seconds">%d שניות</string>
@@ -140,7 +140,7 @@
     <string name="express_install_cainiao_ok">הורדה</string>
     <string name="express_install_cainiao_title">התקנת Cainiao</string>
     <string name="express_install_delivery_service">שירותי משלוח</string>
-    <string name="express_install_open_locker">Open locker</string>
+    <string name="express_install_open_locker">פתיחת ארונית</string>
     <string name="express_install_order_detail">בודק את פרטי ההזמנה</string>
     <string name="express_install_schedule_delivery">קביעת מועד משלוח</string>
     <string name="express_location_failed">לא ניתן היה לאתר אותך. הזן את כתובתך.</string>
@@ -350,6 +350,7 @@
     <string name="quick_yellow_page_tab_phones">טלפון</string>
     <string name="recharge_actual_price">מחיר:</string>
     <string name="recharge_charge_range">מחיר: RMB %1$s-%2$s</string>
+    <string name="recharge_charge_value">מחיר: RMB %s</string>
     <string name="recharge_follow_name">Top up</string>
     <string name="recharge_history">היסטורית Top-up</string>
     <string name="recharge_history_empty">ריק</string>
@@ -387,6 +388,7 @@
     <string name="rmb">RMB</string>
     <string name="scan">סריקה</string>
     <string name="select_package_before_buy">בחר חבילה</string>
+    <string name="send_shortcut_already_exists">Home screen already exists</string>
     <string name="send_shortcut_failed">לא ניתן היה לשלוח</string>
     <string name="send_shortcut_success">"נוסף ל'מסך הבית'"</string>
     <string name="sending_shortcut">שולח…</string>

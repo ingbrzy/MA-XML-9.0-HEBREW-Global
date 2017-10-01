@@ -26,7 +26,7 @@
     <string name="add_anniversary">הוסף יום ציון שנתי</string>
     <string name="add_countdown">"הוסף 'ספירה לאחור'"</string>
     <string name="add_event">הוסף אירוע</string>
-    <string name="agenda_month_empty_hint">No events today</string>
+    <string name="agenda_month_empty_hint">אין אירועים היום</string>
     <string name="alarm_label">התעלם</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">פג תוקף</string>
@@ -39,8 +39,6 @@
     <string name="birthday_event_description_a_week_later">נותר שבוע ל-</string>
     <string name="birthday_event_description_day_after_tomorrow">מחרתיים הוא</string>
     <string name="birthday_event_description_day_before_yesterday">שלשום היה</string>
-    <string name="birthday_event_description_days_ago">לפני %1$d ימים</string>
-    <string name="birthday_event_description_days_later">בעוד %1$d ימים</string>
     <string name="birthday_event_description_default">%2$s%3$s%4$s של %1$s</string>
     <string name="birthday_event_description_special">%1$s %3$s%4$s%5$s של %2$s</string>
     <string name="birthday_event_description_today">היום הוא</string>
@@ -98,7 +96,6 @@
     <string name="download">הורדה</string>
     <string name="edit_date_calculate_days_backward_error_hint">לא ניתן לחשב קדימה</string>
     <string name="edit_date_calculate_days_empty_hint">הזן את מספר הימים</string>
-    <string name="edit_date_calculate_days_error_hint">You can enter up to %1$d days</string>
     <string name="edit_date_calculate_days_forward_error_hint">לא ניתן לחשב לאחור</string>
     <string name="edit_event_anniversary_name_empty_hint">הזן שם אירוע</string>
     <string name="edit_event_anniversary_name_hint">אירוע</string>
@@ -122,6 +119,7 @@
     <string name="edit_event_tab_birthday">יום הולדת</string>
     <string name="edit_event_tab_countdown">ספירה לאחור</string>
     <string name="edit_event_tab_event">אירוע</string>
+    <string name="english_premium_league">ליגת העל האנגלית</string>
     <string name="event_account">חשבון</string>
     <string name="event_action_delete">מחק</string>
     <string name="event_action_edit">ערוך</string>
@@ -143,6 +141,8 @@
     <string name="from_google_group_calendar">יומן Google</string>
     <string name="global_action_text_card_manager">קטגוריות נוספות</string>
     <string name="global_cricket_no_match">אין משחקי קריקט המתוכננים להיום. בדוק ימים אחרים.</string>
+    <string name="global_football_final">גמר</string>
+    <string name="global_football_no_match">אין משחקי כדורגל היום.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="guide_card_hint_text">ייבא ימי הולדת מאנשי קשר</string>
     <string name="holiday_card_title">חג</string>
@@ -159,7 +159,7 @@
     <string name="insert_event_toast_add_success">האירוע נוצר</string>
     <string name="item_num_selected">%1$d נבחרו</string>
     <string name="jump_date_full">דלג לתאריך</string>
-    <string name="load_more_hint">Refresh events of %1$d</string>
+    <string name="load_more_hint">רענן אירועים מ-%1$d</string>
     <string name="local_calendar_display_name">לוח שנה מקומי</string>
     <string name="local_owner_account_name">נשמר על גבי המכשיר</string>
     <string name="lunar_date">תאריך ירחי</string>
@@ -181,7 +181,7 @@
     <string name="month_medium_september">ספט</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="no_contact_birthday_hint">אין ימי הולדת לייבוא</string>
-    <string name="no_events_hint">No events</string>
+    <string name="no_events_hint">אין אירועים</string>
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
 בדוק את הגדרות הרשת ונסה שוב."</string>
     <string name="no_network_btn">נסה שוב</string>
@@ -193,7 +193,7 @@
     <string name="panchang_ayana">איאנה</string>
     <string name="panchang_gulikai_kalam">גוליקאי קאלאם</string>
     <string name="panchang_hindu_lunar_month">חודש ירחי הינדי</string>
-    <string name="panchang_inauspicious_timings">Inauspicious Timings</string>
+    <string name="panchang_inauspicious_timings">תזמונים מבשרי רעות</string>
     <string name="panchang_karan">קארן</string>
     <string name="panchang_moon_sign">מזל ירחי</string>
     <string name="panchang_nakshatra">נקשטרה</string>
@@ -204,8 +204,8 @@
     <string name="panchang_shaka_samvat">שאקה סמבט</string>
     <string name="panchang_sun_sign">מזל שמשי</string>
     <string name="panchang_tithi">טיטי</string>
-    <string name="panchang_to"> to </string>
-    <string name="panchang_upto"> upto </string>
+    <string name="panchang_to"> עד </string>
+    <string name="panchang_upto"> עד </string>
     <string name="panchang_vikram_samvat">ויקראם סמבט</string>
     <string name="panchang_yamaghanta">יאמאגנטה</string>
     <string name="panchang_yog">יוג</string>
@@ -218,9 +218,9 @@
     <string name="preferences_alerts_vibrate_title">רטט וצלצול</string>
     <string name="preferences_default_allday_reminder_title">ברירת מחדל עבור זמני תזכורת בכל היום</string>
     <string name="preferences_notification_ringtone_title">צליל</string>
-    <string name="pull_to_refresh_hint">Pull to refresh events of %1$d</string>
+    <string name="pull_to_refresh_hint">משוך לרענון אירועים מ-%1$d</string>
     <string name="refresh">רענון</string>
-    <string name="refreshing_hint">Refreshing</string>
+    <string name="refreshing_hint">מרענן</string>
     <string name="repeat_activity_label">חזרה</string>
     <string name="repeat_custom_activity_label">מותאם אישית</string>
     <string name="repeat_custom_prompt">בכל%1$sב%2$s</string>
@@ -247,15 +247,15 @@
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="rest_day_indication">: )</string>
-    <string name="search_calendar">תאריך;מועדי חמה;ירחי;אלמנך;מזל;לו\"ז;פגישה;תזכורת;חופשה;חג;יום הולדת;2016;2017;ראש השנה הסיני;יום השנה החדשה;יום הפועלים הבינלאומי;פסטיבל אמצע הסתיו</string>
+    <string name="search_calendar">תאריך;מועדי חמה;ירחי;אלמנך;מזל;לו\"ז;פגישה;תזכורת;חופשה;חג;יום הולדת;2016;2017;ראש השנה הסיני;יום השנה החדשה;יום המופעלים הבינלאומי;פסטיבל אמצע הסתיו</string>
     <string name="search_calendar_edit_event">פגישה;תזכורת;לו\"ז</string>
     <string name="search_calendar_settings">לוח שנה;לו\"ז;תזכורת</string>
     <string name="select_date">עבור לתאריך</string>
     <string name="set_as_wallpaper">קבע כטפט</string>
-    <string name="setting_about_calendar_version">גירסת לוח שנה:</string>
+    <string name="setting_about_calendar_version">גרסת לוח שנה:</string>
     <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">גירסת MIUI:</string>
-    <string name="setting_about_summary">גירסה:</string>
+    <string name="setting_about_miui_version">גרסת MIUI:</string>
+    <string name="setting_about_summary">גרסה:</string>
     <string name="setting_accounts">חשבונות לוח שנה</string>
     <string name="setting_features_title">הגדרות תכונה</string>
     <string name="setting_holiday_display_desc">כרטיסי הברכה ממוקמים מתחת לסדר היום שלך בעמוד הבית</string>
@@ -286,7 +286,7 @@
     <string name="today_train_event">רכבת</string>
     <string name="too_long_content">התוכן ארוך מידי</string>
     <string name="too_long_description">תאור האירוע ארוך מידי</string>
-    <string name="too_long_location">Event location is too long</string>
+    <string name="too_long_location">מיקום האירוע ארוך מידי</string>
     <string name="too_long_name">השם ארוך מידי</string>
     <string name="travel_airport">שדה תעופה</string>
     <string name="travel_carriage_number_text">רכב</string>

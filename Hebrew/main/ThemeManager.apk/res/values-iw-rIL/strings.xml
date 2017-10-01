@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="resource_app_name">סייר המשאבים</string>
+    <string name="resource_app_name">הצג מקורות</string>
     <string name="resource_delete">מחיקה</string>
     <string name="resource_price_free">חינם</string>
     <string name="resource_price_unit"> נקודות Mi</string>
@@ -80,9 +80,9 @@
     <string name="resource_no_result">לא נמצא דבר</string>
     <string name="resource_failed_to_load_list">לא ניתן לטעון את ערכות הנושא.</string>
     <string name="resource_search_list_empty">לא נמצא דבר.</string>
-    <string name="resource_data_empty">התוכן ריק.</string>
+    <string name="resource_data_empty">אין פריטים להצגה.</string>
     <string name="resource_no_network_text">לא ניתן להתחבר לרשת.</string>
-    <string name="resource_network_diagnostics"><u>אבחון רשת</u></string>
+    <string name="resource_network_diagnostics"><u>בדיקת רשת</u></string>
     <string name="resource_list_title">נבחרו לאחרונה</string>
     <string name="resource_get_auth_checking">מאמת…</string>
     <string name="resource_get_auth_retrieving">מקבל פרטים…</string>
@@ -143,7 +143,7 @@
     <string name="resource_exchange_hint">הזן את קוד המתנה שלך</string>
     <string name="resource_exchange_window_title">המרה</string>
     <string name="resource_exchange_universal_goon">קוד זה יכול לשמש להורדת כל ערכות הנושא בחנות.</string>
-    <string name="resource_exchange_universal_finish">"השתמש בקוד זה להורדת ערכת נושא מ'חנות ערכות הנושא'."</string>
+    <string name="resource_exchange_universal_finish">"השתמש בקוד זה להורדת פריטים מ'ערכות נושא'."</string>
     <string name="resource_exchange_empty_format">הזן קוד מתנה</string>
     <string name="resource_exchange_wrong_format_by_local">פורמט הקוד שהזנת שגוי.</string>
     <string name="resource_exchange_wrong_format_by_server">הקוד לא אומת. ודא כי הזנת אותו כהלכה.</string>
@@ -154,7 +154,7 @@
     <string name="resource_exchange_success">תהנו! :)</string>
     <string name="resource_exchange_share_code_dlg_title">שולח</string>
     <string name="resource_exchange_share_code_dlg_content">קוד מתנה עבור \"%1$s\":%2$s. במידה ותשלח אותו למשתמשי MIUI אחרים, הם יוכלו להשתמש בו להורדת ערכת נושא זו.</string>
-    <string name="resource_exchange_share_code_content">"קיבלת קוד מתנה (%2$s) עבור ערכת הנושא \"%1$s\" ב'חנות ערכות הנושא' של MIUI. לחץ על %3$s על מנת להשתמש בו כעת."</string>
+    <string name="resource_exchange_share_code_content">"קיבלת קוד מתנה (%2$s) עבור ערכת הנושא \"%1$s\" ב'ערכות נושא' של MIUI. לחץ על %3$s על מנת להשתמש בו כעת."</string>
     <string name="resource_exchange_purchase_unkown_error">איכס! אירעה שגיאה לא מוכרת. היכנס לחשבונך בכתובת http://market.xiaomi.com על מנת לצפות בסטטוס התשלום שלך.</string>
     <string name="resource_comment_all_comments">הכל</string>
     <string name="resource_comment_good_comments">חיובי</string>
@@ -226,7 +226,7 @@
     <string name="backup_theme_dialog_message">לגבות את ערכת הנושא הנוכחית שלך?</string>
     <string name="backup_theme_progress_message">מגבה…</string>
     <string name="backup_theme_success_message">הגדרות ערכת הנושא הנוכחיות שלך גובו.</string>
-    <string name="backup_theme_fail_trial_rights_message">לא ניתן לגבות משאבים נסיוניים</string>
+    <string name="backup_theme_fail_trial_rights_message">לא ניתן לגבות פריטים נסיוניים</string>
     <string name="backup_theme_name">גיבוי ערכת נושא</string>
     <string name="theme_description_title_default">ברירת מחדל</string>
     <string name="theme_description_title_customized">מותאם אישית</string>
@@ -284,7 +284,7 @@
     <string name="favorite_list">מועדפים</string>
     <string name="favorite_list_format">מועדף %1$s</string>
     <string name="purchased_list">נרכשו</string>
-    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_current">ערכות נושא מיועלות</string>
     <string name="purchased_list_legacy">מורשת ערכות נושא</string>
     <string name="my_gifts">מתנות</string>
     <string name="my_gifts_purchased">נרכשו</string>
@@ -320,10 +320,10 @@
     <string name="theme_favorite_add_fail">לא ניתן היה להוסיף למועדפים</string>
     <string name="theme_favorite_delete_success">הוסר מהמועדפים</string>
     <string name="theme_favorite_delete_fail">לא ניתן להסיר את ערכת הנושא מהמועדפים</string>
-    <string name="theme_favorite_list_empty">לא הוספת כל ערכת נושא למועדפים.</string>
-    <string name="theme_favorite_delete">בטל ההעדפה</string>
+    <string name="theme_favorite_list_empty">לא הוספת ערכות נושא לרשימת המועדפים.</string>
+    <string name="theme_favorite_delete">הסרה מהמועדפים</string>
     <string name="theme_favorite_waiting">רק רגע…</string>
-    <string name="theme_empty_redirect">"חזרה ל'חנות ערכות הנושא'"</string>
+    <string name="theme_empty_redirect">"חזרה ל'ערכות נושא'"</string>
     <string name="theme_purchased_non_local">מקוון</string>
     <string name="theme_purchased_list_empty">לא רכשת כל ערכת נושא.</string>
     <string name="gift_present">תן</string>
@@ -358,7 +358,7 @@
     <string name="gift_purchased_list_empty">לא העברת כל מתנה.</string>
     <string name="gift_received_list_empty">לא קיבלת כל מתנה.</string>
     <string name="gift_received_notification_title">%s העביר לך ערכת נושא.</string>
-    <string name="present_online_themes">קבל ערכות נושא נוספות בחינם</string>
+    <string name="present_online_themes">קבל ערכות נושא מקוונות נוספות</string>
     <string name="present_local_themes">המשאבים שלי</string>
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="lockscreen_magazine_summary">קטגוריות</string>
@@ -427,24 +427,34 @@
     <string name="find_more_wallpapers">מצא עוד</string>
     <string name="local_photos">תמונות מקומיות</string>
     <string name="recently_used">היה בשימוש לאחרונה</string>
-    <string name="system_precust">System precust</string>
-    <string name="wallpaper_settings_loading_text">טוען</string>
+    <string name="system_precust">מותקן מראש</string>
+    <string name="wallpaper_settings_loading_text">רק רגע…</string>
     <string name="wallpaper_settings_no_history">אין היסטוריה</string>
-    <string name="card_loading">טוען...</string>
-    <string name="card_no_network">No network now, please connect and try again~</string>
-    <string name="card_data_request_error">Data request exception, please try again later~</string>
+    <string name="card_loading">רק רגע…</string>
+    <string name="card_no_network">לא ניתן היה להתחבר לרשת. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
+    <string name="card_data_request_error">אירעה שגיאה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="card_retry">נסה שוב</string>
-    <string name="in_the_end">No more</string>
+    <string name="in_the_end">אין עוד פריטים להצגה</string>
     <string name="item_resource_audio_divider">│</string>
-    <string name="item_resource_audio_optional_color_ring">color ring</string>
-    <string name="item_resource_audio_optional_phone_ring">phone ring</string>
-    <string name="item_resource_audio_optional_alarm_ring">alarm ring</string>
-    <string name="item_resource_audio_optional_notification_ring">notification ring</string>
+    <string name="item_resource_audio_optional_color_ring">צלצול Ringback</string>
+    <string name="item_resource_audio_optional_phone_ring">צלצול</string>
+    <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
+    <string name="item_resource_audio_optional_notification_ring">התראות</string>
     <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ring_ranking_list_rank_1">1</string>
     <string name="resource_ring_ranking_list_rank_2">2</string>
     <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="ringtone_set_success">הוגדר בהצלחה</string>
-    <string name="online_precust_peach_blossom">Peach blossom</string>
-    <string name="online_precust_asphalt">Asphalt</string>
+    <string name="online_precust_peach_blossom">פריחת האפרסק</string>
+    <string name="online_precust_asphalt">אספלט</string>
+    <string name="online_precust_entertainment">בידור</string>
+    <string name="online_precust_scenery">נוף</string>
+    <string name="online_precust_starry_sky">שמי כוכבים</string>
+    <string name="online_precust_plant">צמחים</string>
+    <string name="online_precust_animal">בעלי חיים</string>
+    <string name="online_precust_creative">יצירתיות</string>
+    <string name="online_precust_building">מבנים</string>
+    <string name="online_precust_lifestyle">לייפסטייל</string>
+    <string name="online_precust_cartoon">סרטים מצוירים</string>
+    <string name="region_not_support">"מצטערים, 'ערכות נושא' אינו זמין באזורך."</string>
 </resources>

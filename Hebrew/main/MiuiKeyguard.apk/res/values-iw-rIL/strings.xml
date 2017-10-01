@@ -21,7 +21,7 @@
     <string name="phone_locked_foget_password_mehod_back">הקודם</string>
     <string name="phone_locked_foget_password_method_next">הבא</string>
     <string name="phone_locked_forget_password_suggesstions_title">כיצד למחוק נתונים?</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e> &lt;font color=#a5220e>לחצן ההפעלה &lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע &lt;/font>בו זמנית עד להופעת הלוגו של Mi.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e>לחצן ההפעלה&lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע&lt;/font> בו זמנית עד להופעת הלוגו של Mi.;</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>בחר &lt;font color=#a5220e>\"הסרה &amp;amp; איפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.;</Data></string>
     <string name="phone_locked_foget_password_ok">הבנתי</string>
     <string name="lockscreen_access_pattern_start">תבנית החלה</string>
@@ -113,7 +113,7 @@
     <string name="face_unlock_by_notification_screen_on_title">"אפשר את 'ביטול נעילה באמצעות פנים' כאשר תאורת המסך דולקת"</string>
     <string name="face_unlock_by_notification_screen_on_msg">באפשרותך לבטל את נעילת המכשיר באמצעות נתוני פנים בכל פעם שתאורת המסך נדלקת עבור התראות נכנסות. הדבר עשוי לרוקן את הסוללה מהר יותר.</string>
     <string name="face_unlock_not_found">לא ניתן היה לזהות אותך</string>
-    <string name="face_unlock_adjust_distance">ודא כי המרחק בין הפנים שלך למכשיר הינו אופטימלי.</string>
+    <string name="face_unlock_adjust_distance">ודא כי המרחק בין הפנים שלך למסך הינו אופטימלי.</string>
     <string name="face_unlock_close_screen">התקרב למסך</string>
     <string name="face_unlock_stay_away_screen">שמור על מרחק של 25 עד 40 ס\"מ מהמסך</string>
     <string name="face_unlock_be_on_the_screen">החזק את המכשיר מול פניך</string>

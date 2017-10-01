@@ -276,4 +276,28 @@
         <item quantity="two">נמצאו %1$d תמונות חדשות</item>
         <item quantity="many">נמצאו %1$d תמונות חדשות</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">%1$d תמונות הוסרו מ-\"%2$s\".</item>
+        <item quantity="one">תמונה %1$d הוסרה מ-\"%2$s\".</item>
+        <item quantity="two">%1$d תמונות הוסרו מ-\"%2$s\".</item>
+        <item quantity="many">%1$d תמונות הוסרו מ-\"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">%1$d תמונות הוסרו מ-\"%2$s\" ונוספו אל מסד הנתונים.</item>
+        <item quantity="one">תמונה %1$d הוסרה מ-\"%2$s\" ונוספה אל מסד הנתונים.</item>
+        <item quantity="two">%1$d תמונות הוסרו מ-\"%2$s\" ונוספו אל מסד הנתונים.</item>
+        <item quantity="many">%1$d תמונות הוסרו מ-\"%2$s\" ונוספו אל מסד הנתונים.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">%1$d תמונות נוספו אל \"%2$s\".</item>
+        <item quantity="one">תמונה %1$d נוספה אל \"%2$s\".</item>
+        <item quantity="two">%1$d תמונות נוספו אל \"%2$s\".</item>
+        <item quantity="many">%1$d תמונות נוספו אל \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">%1$d תמונות נוספו אל \"%2$s\" ולמסד הנתונים.</item>
+        <item quantity="one">תמונה %1$d נוספה אל \"%2$s\" ולמסד הנתונים.</item>
+        <item quantity="two">%1$d תמונות נוספו אל \"%2$s\" ולמסד הנתונים.</item>
+        <item quantity="many">%1$d תמונות נוספו אל \"%2$s\" ולמסד הנתונים.</item>
+    </plurals>
 </resources>

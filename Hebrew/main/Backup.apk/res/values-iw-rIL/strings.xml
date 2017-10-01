@@ -32,7 +32,7 @@
     <string name="delete_backup_title">מחק גיבוי</string>
     <string name="delete">מחיקה</string>
     <string name="cancel">ביטול</string>
-    <string name="reconnect">התחברות מחדש</string>
+    <string name="reconnect">התחבר שוב</string>
     <string name="delete_backup_process">מוחק…</string>
     <string name="backup_error">לא ניתן היה לגבות</string>
     <string name="delete_failed_backup_confirm">גיבוי זה מכיל שגיאות.</string>
@@ -227,6 +227,7 @@
     <string name="file_uploading">מעלה…</string>
     <string name="new_backup">גיבוי</string>
     <string name="restore_backup">שחזור</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -260,7 +261,7 @@
     <string name="notif_trans_receiving_completed">הנתונים התקבלו בהצלחה</string>
     <string name="notif_trans_sending_failed">לא ניתן היה לשלוח נתונים</string>
     <string name="notif_trans_receiving_failed">לא ניתן היה לקבל נתונים</string>
-    <string name="notif_trans_wait_for_reconnecting">ההתקן המרוחק מנותק. אנא חבר שוב.</string>
+    <string name="notif_trans_wait_for_reconnecting">החיבור נקטע. התחבר שוב.</string>
     <string name="custom_progress">%d פריטים</string>
     <string name="remote_receive">קבל</string>
     <string name="click_to_view">לחץ להצגה</string>
@@ -310,8 +311,8 @@
     <string name="trans_progress_subdescript_transing_receiver_finish">%s התקבל, ממתין לשחזור…</string>
     <string name="trans_cancel_confirm">ההעברה בתהליך, לעצור עכשיו?</string>
     <string name="trans_cancelling">מבטל…</string>
-    <string name="trans_device_disconnected">המכשיר נותק</string>
-    <string name="trans_device_wait_for_reconnecting">ההתקן נותק. אנא חבר מחדש.</string>
+    <string name="trans_device_disconnected">החיבור נקטע</string>
+    <string name="trans_device_wait_for_reconnecting">החיבור נקטע. התחבר שוב על מנת להמשיך.</string>
     <string name="trans_connecting_toast">מתחבר…</string>
     <string name="trans_connect_failed_toast">לא ניתן היה להתחבר</string>
     <string name="trans_generate_qr_code_failed">לא ניתן היה ליצור קוד QR</string>
@@ -327,10 +328,10 @@
 2. פתח את היישום ולחץ 'התחל'
 3. סרוק את קוד ה-QR במכשירך הישן"</string>
     <string name="trans_operate_old_phone_tips2">עבור אל הגדרות > הגדרות נוספות > Mi Mover, לחץ [אני השולח]</string>
-    <string name="trans_operate_reconnect_new_tips">"המתן עד להופעת הודעת \"ההתקן מנותק\" בטלפון החדש.
-ולאחר מכן לחץ על [Reconnect] על מנת ליצור קוד QR."</string>
-    <string name="trans_operate_reconnect_old_tips">"המתן עד להופעת הודעת \"ההתקן מנותק\" בטלפון הישן.
-ולאחר מכן לחץ על [Reconnect] על מנת לסרוק את קוד ה-QR."</string>
+    <string name="trans_operate_reconnect_new_tips">"המתן עד לאחר שהטלפון החדש מציג את ההודעה \"החיבור נקטע\".
+לאחר מכן לחץ על \"התחבר שוב\" על מנת ליצור קוד QR."</string>
+    <string name="trans_operate_reconnect_old_tips">"המתן עד לאחר שהטלפון הישן מציג את ההודעה \"החיבור נקטע\".
+לאחר מכן לחץ על \"התחבר שוב\" על מנת לסרוק את קוד ה-QR."</string>
     <string name="trans_wait_trans_data">"מחובר אל המכשיר הישן.
 ממתין להעברת הנתונים…"</string>
     <string name="trans_select_data">בחר פריטים לשליחה</string>
@@ -353,8 +354,8 @@
     <string name="trans_retry">נסה שוב</string>
     <string name="trans_start_failed_title">לא ניתן היה להתחיל בהעברה</string>
     <string name="trans_start_failed_message">לא ניתן היה להתחיל בהעברה, נסה שוב או אתחל את המכשיר.</string>
-    <string name="trans_connect_failed_device_incompatible">ההתקן אינו מתאים. אנא בטל את תהליך ההעברה ונסה שוב.</string>
-    <string name="trans_connection_failed">המכשיר נותק</string>
+    <string name="trans_connect_failed_device_incompatible">המכשיר אינו תואם. בטל את ההעברה ונסה שוב.</string>
+    <string name="trans_connection_failed">החיבור נקטע</string>
     <string name="user_notice_title">שים לב</string>
     <string name="user_notice_message">תכונות מסוימות זקוקות לחיבור לאינטרנט על מנת לעבוד כראוי.</string>
     <string name="user_notice_declaration_ignore">אל תציג שוב</string>
@@ -364,4 +365,31 @@
     <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
     <string name="trans_security_tips_title">תאימות Mi Mover</string>
     <string name="trans_security_tips_message">יישומים מסויימים אינם תומכים ב-Mi Mover.</string>
+    <string name="trans_intro_title">שאלות נפוצות</string>
+    <string name="trans_intro_question_1">1. כיצד עלי להשתמש ב-Mi Mover?</string>
+    <string name="trans_intro_title_new">בטלפון חדש:</string>
+    <string name="trans_intro_desc_new">לחץ על \"אני נמען\". קוד QR יווצר.</string>
+    <string name="trans_intro_title_old">בטלפון ישן:</string>
+    <string name="trans_intro_desc_old">לחץ על \"אני השולח\". סרוק את קוד ה-QR המופיע בטלפון החדש, המתן עד לאחר ש-Mi Mover יזהה אילו קבצים עליו לשלוח, ואז לחץ על \"שליחה\".</string>
+    <string name="trans_intro_question_2">2. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
+    <string name="trans_intro_desc_2">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
+    <string name="trans_intro_question_3">3. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
+    <string name="trans_intro_desc_3">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה מדוע אינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
+    <string name="trans_intro_question_4">4. מדוע Mi Mover טוען שאין מספיק שטח אחסון פנוי על גבי הטלפון הישן שלי?</string>
+    <string name="trans_intro_desc_4">שטח אחסון על גבי מכשירים ישנים משמש ליצירת חבילות העברה. ודא כי יש ברשותך לפחות 500MB-1GB של שטח אחסון זמין על גבי הטלפון הישן שלך לפני שתתחיל לבצע העברה.</string>
+    <string name="trans_intro_question_5">5. מדוע יישומים מסויימים אינם מועברים בהצלחה?</string>
+    <string name="trans_intro_desc_5">"ישנן לכך סיבות אפשריות שונות: בעיות תאימות בין המערכת לגירסת היישום, בעיות רשת, בעיות תאימות ייחודיות למכשירים מסויימים וכו'."</string>
+    <string name="trans_intro_question_6">6. מדוע יישומים מסויימים אינם מתחילים לפעול במכשיר חדש?</string>
+    <string name="trans_intro_desc_6">"פרופילים של יישומים מסויימים (בנקאות דיגיטלית, כלכלה וכו') משוייכים למכשיר מסויים עקב נסיבות אבטחה. נסה לנקות את נתוני היישום או להתקין מחדש את היישום על גבי מכשיר חדש."</string>
+    <string name="trans_intro_question_7">7. מדוע היסטורית WeChat אינה מועברת במלואה?</string>
+    <string name="trans_intro_desc_7">"יתכן כי נתוני היישום והיסטורית הצ'אט של WeChat לא יועברו במלואם באמצעות Mi Mover. עבור על הגדרות WeChat וצא מחשבונך לסיכויי העברה מוצלחת גבוהים יותר."</string>
+    <string name="trans_intro_question_8">8. אילו פריטים אינם יכולים להיות מועברים?</string>
+    <string name="trans_intro_title_account">חשבונות וסיסמאות:</string>
+    <string name="trans_intro_desc_account">"עליך להיכנס שוב לחשבונותיך (לדוגמה: Google, Exchange, חשבון Mi, וכו') במכשיר חדש עקב נסיבות אבטחה."</string>
+    <string name="trans_intro_title_private">אלבום מוסתר:</string>
+    <string name="trans_intro_desc_private">Mi Mover לא יכול לגשת לתמונות ואלבומים מוסתרים כיוון שהם מוצפנים. באפשרותך לשחזר תמונות אלה מ-Mi Cloud במכשיר חדש.</string>
+    <string name="trans_intro_title_multiuser">"נתוני 'שטח שני':"</string>
+    <string name="trans_intro_desc_multiuser">"Mi Mover אינו יכול לגשת לפריטים ב'שטח שני'. העבר פריטים ל'שטח ראשון' תחילה והתחל שם את הפעלת Mi Mover."</string>
+    <string name="trans_intro_title_multiapp">"נתוני 'יישומים משוכפלים':"</string>
+    <string name="trans_intro_desc_multiapp">"Mi Mover אינו מעביר נתוני 'יישומים משוכפלים' על מנת להימנע מסתירות בין קבצים."</string>
 </resources>

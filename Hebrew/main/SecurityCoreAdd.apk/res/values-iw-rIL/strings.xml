@@ -67,7 +67,7 @@
     <string name="xspace_loading_msg">טוען יישומים…</string>
     <string name="xspace_header">יישומים משוכפלים</string>
     <string name="xspace_introduce">מומלץ</string>
-    <string name="xspace_description">"'יישומים משוכפלים' הינם שכפולים של יישומים אשר בהם ניתן להשתמש בנפרד באמצעות חשבון אחר.
+    <string name="xspace_description">"'יישומים משוכפלים' הינו כלי אשר באמצעותו ניתן לשכפל יישומים בהם ניתן להשתמש בנפרד באמצעות חשבון אחר.
 
 יישומים משוכפלים מסויימים דורשים תמיכה במסגרת שירותי Google. במקרים כאלה, מסגרת שירותי Google נוצרת."</string>
     <string name="xspace_chocie">"תמיכה ב'יישומים משוכפלים'"</string>
@@ -106,7 +106,7 @@
     <string name="closed">כבוי</string>
     <string name="changePassword">שנה סיסמה</string>
     <string name="passWordGuardSummary">"היכנס ל'שטח שני' מ'מסך הנעילה' על ידי שימוש בסיסמה"</string>
-    <string name="notificationTitle">קיצור דרך ללוח ההתראות</string>
+    <string name="notificationTitle">"קיצור דרך ב'לוח ההתראות'"</string>
     <string name="notificationSummary">החלף בין השטחים דרך לוח ההתראות</string>
     <string name="otherSettings">הגדרות נוספות</string>
     <string name="privacyContactsTitle">הודעות ואנשי קשר פרטיים</string>
@@ -162,7 +162,7 @@
     <string name="settings_notification_and_switch">החלפה &amp; התראות</string>
     <string name="settings_cross_notification_title">התראות</string>
     <string name="settings_cross_notification_summary">קבל התראות מהשטח האחר</string>
-    <string name="settings_switch_shortcut_title">לחץ על קיצור דרך על מנת להחליף</string>
+    <string name="settings_switch_shortcut_title">לחץ על קיצור הדרך על מנת להחליף</string>
     <string name="settings_switch_shortcut_summary">"הצג את קיצור הדרך של 'מסך הבית' ב'שטח שני'"</string>
     <string name="settings_space_data">נתונים</string>
     <string name="settings_status_icon_title">"אייקון של 'שטח שני'"</string>
@@ -305,7 +305,7 @@
     <string name="set_space_finger_sub_text_suc">טביעת האצבע הוגדרה בהצלחה</string>
     <string name="show_noti_from_owner">התראות מהשטח האחר</string>
     <string name="show_noti_from_owner_detail">קבל התראות בשטח הנוכחי כאשר הן מגיעות לשטח האחר</string>
-    <string name="show_noti_quick_switch_icon">"קיצור דרך ל'לוח ההתראות'"</string>
+    <string name="show_noti_quick_switch_icon">"קיצור דרך ב'לוח ההתראות'"</string>
     <string name="show_noti_quick_switch_icon_detail">"הצג קיצור דרך להחלפה בין שטחים ב'לוח ההתראות'"</string>
     <string name="show_decktop_quick_switch_icon">"קיצור דרך ב'מסך הבית'"</string>
     <string name="show_decktop_quick_switch_icon_detail">"הצג קיצור דרך להחלפה בין שטחים ב'מסך הבית' של 'שטח ראשון'"</string>

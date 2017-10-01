@@ -733,6 +733,8 @@
     <string name="more_settings">הגדרות מתקדמות</string>
     <string name="more_settings_summary">"הורד הגדרות, טיימר שינה, ניהול נתונים סלולריים, סננים לקבצים, וכו'"</string>
     <string name="service_and_settings">שירות והגדרות</string>
+    <string name="filter_by_size_max">%dMB</string>
+    <string name="filter_by_size_min">%dKB</string>
     <string name="radar">ACRCloud</string>
     <string name="radar_support_by">מופעל על ידי ACRCloud</string>
     <string name="radar_listening_state">מזהה…</string>

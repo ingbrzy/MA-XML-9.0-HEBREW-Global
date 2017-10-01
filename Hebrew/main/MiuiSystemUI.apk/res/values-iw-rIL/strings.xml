@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -223,7 +225,7 @@
     <string name="force_hw_ui_summary">אלץ שימוש ב-GPU עבור ציור דו-מימדי</string>
     <string name="force_msaa">אלץ 4x MSAA</string>
     <string name="force_msaa_summary">אפשר 4x MSAA ביישומי OpenGL ES 2.0</string>
-    <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
+    <string name="show_non_rect_clip">ניפוי שגיאות בפעולות באזור שאינו מלבני</string>
     <string name="track_frame_time">צלימת GPU של פרופיל</string>
     <string name="window_animation_scale_title">קנה מידה להנפשה של חלון</string>
     <string name="transition_animation_scale_title">קנה מידה להנפשת מעבר</string>
@@ -410,12 +412,12 @@
     <string name="accessibility_desc_recent_apps">סקירה כללית</string>
     <string name="recents_empty_message">אין פריטים שנוספו לאחרונה</string>
     <string name="recents_empty_message_dismissed_all">הסרת את כל הפריטים</string>
-    <string name="recents_empty_message_multi_window">"עבור אל 'מסך הבית' על מנת לפתוח יישומים"</string>
+    <string name="recents_empty_message_multi_window">"פתח יישומים מתוך 'מסך הבית'"</string>
     <string name="recents_app_info_button_label">פרטי היישום</string>
-    <string name="recents_lock_to_app_button_label">מסך קבוע</string>
+    <string name="recents_lock_to_app_button_label">נעיצת מסך</string>
     <string name="recents_search_bar_label">חיפוש</string>
     <string name="recents_launch_error_message">לא ניתן היה להפעיל את %s</string>
-    <string name="recents_launch_disabled_message">"%s עצר ב'מצב בטוח'"</string>
+    <string name="recents_launch_disabled_message">"לא ניתן לפתוח את %s ב'מצב בטוח'"</string>
     <string name="recents_stack_action_button_label">הסר הכל</string>
     <string name="recents_incompatible_app_message">"יישום זה אינו תומך ב'מסך מפוצל'"</string>
     <string name="recents_drag_hint_message">גרור פריטים לכאן</string>
@@ -555,6 +557,7 @@ d MMMM"</string>
     <string name="notification_hidden_text">ההתראה הוסתרה</string>
     <string name="block_notification_text">הסתר</string>
     <string name="block_notification_content_text">"ההתראות של %1$s לא יוצגו שוב. תוכל לשנות זאת ב'הגדרות'."</string>
+    <string name="block_notification_desc">"התראות היישום לא יוצגו שוב. תוכל לשנות זאת ב'הגדרות'."</string>
     <string name="notification_otg_mouse_in">עכבר מחובר</string>
     <string name="notification_otg_keyboard_in">מקלדת מחוברת</string>
     <string name="notification_otg_gamestick_in">שלט משחקים מחובר</string>

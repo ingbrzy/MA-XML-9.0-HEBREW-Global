@@ -24,6 +24,12 @@
         <item quantity="two">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
         <item quantity="many">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
     </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">למחוק %1$d טיוטות?</item>
+        <item quantity="one">למחוק טיוטה %1$d?</item>
+        <item quantity="two">למחוק %1$d טיוטות?</item>
+        <item quantity="many">למחוק %1$d טיוטות?</item>
+    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d פריטים נבחרו</item>
         <item quantity="one">פריט %d נבחר</item>
@@ -47,6 +53,12 @@
         <item quantity="one">התיקייה שונתה.</item>
         <item quantity="two">התיקיות שונו</item>
         <item quantity="many">התיקיות שונו</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d אנשים</item>
+        <item quantity="one">+אדם %1$d</item>
+        <item quantity="two">+%1$d אנשים</item>
+        <item quantity="many">+%1$d אנשים</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">התעלם מ- %1$d שיחות.</item>

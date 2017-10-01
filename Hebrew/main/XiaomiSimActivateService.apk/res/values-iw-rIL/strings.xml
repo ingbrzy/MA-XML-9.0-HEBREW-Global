@@ -109,10 +109,10 @@
     <string name="activate_history_multisim_canceled_overview">הפעלת כרטיס ה-SIM %2$d בוטלה. ההפעלה מבוצעת על ידי %1$s\".</string>
     <string name="activate_history_sms">מסרון SMS נשלח במהלך ההפעלה.</string>
     <string name="phone_verify_title">אפשר ל-%1$s לאמת את מספר הטלפון שלך</string>
-    <string name="phone_verify_text">%1$s will not get your phone number，just verify your phone number is match。</string>
+    <string name="phone_verify_text">%1$s לא יקבל את מספר הטלפון שלך, אלא יודא כי המספר תקין בלבד. מסכים?</string>
     <string name="phone_verify_processing">מאמת…</string>
     <string name="phone_get_title">אפשר ל-%1$s לקבל את מספר הטלפון שלך</string>
-    <string name="phone_get_text">Do you agree %1$s to get your phone number：%2$s</string>
-    <string name="phone_get_processing">getting…</string>
-    <string name="agree">אישור</string>
+    <string name="phone_get_text">לאפשר ל-%1$s לקבל את מספר הטלפון שלך (%2$s)?</string>
+    <string name="phone_get_processing">מקבל…</string>
+    <string name="agree">אפשר</string>
 </resources>

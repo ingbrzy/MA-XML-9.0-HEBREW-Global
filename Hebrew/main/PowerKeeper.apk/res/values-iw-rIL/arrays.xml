@@ -32,8 +32,8 @@
     <string-array name="action_param_translate">
         <item>ללא</item>
         <item>ברירת מחדל</item>
-        <item>תמונה</item>
-        <item>סרט קולנוע</item>
+        <item>תמונות</item>
+        <item>סרטים</item>
         <item>חסכון בסוללה</item>
         <item>איזון</item>
         <item>ביצועים</item>
@@ -67,12 +67,12 @@
         <item>מעיר את המכשיר בתדירות גבוהה</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>מניעת שינה של הליבה</item>
-        <item>מניעת שינה</item>
-        <item>סריקת רשת אלחוטית</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>הער</item>
+        <item>חוסם את מצב שינה עמוקה</item>
+        <item>חוסם את מצב שינה</item>
+        <item>מחפש אחר רשת אלחוטית</item>
+        <item>משתמש ב-GPS</item>
+        <item>משתמש ב-CPU</item>
+        <item>מעיר את המכשיר בתדירות גבוהה</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
@@ -80,11 +80,11 @@
         <item></item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>ברירת מחדל עבור מצב בקרת חום</item>
-        <item>מצב ביצועים ראשון</item>
+        <item>ברירת מחדל עבור מצב בקרת טמפרטורה</item>
+        <item>מצב ביצועים</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>מצב ברירת מחדל נוכחי</item>
+        <item>מצב בקרת טמפרטורה נוכחי</item>
         <item>מצב ביצועים נוכחי</item>
     </string-array>
 </resources>

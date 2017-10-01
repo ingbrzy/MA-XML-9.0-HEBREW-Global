@@ -180,12 +180,6 @@
         <item quantity="two">לבטל חסימה של %1$d מספרי טלפון?</item>
         <item quantity="many">לבטל חסימה של %1$d מספרי טלפון?</item>
     </plurals>
-    <plurals name="livetalk_unit">
-        <item quantity="other">דקות</item>
-        <item quantity="one">דקה</item>
-        <item quantity="two">דקות</item>
-        <item quantity="many">דקות</item>
-    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">צלצל %1$d פעמים</item>
         <item quantity="one">צלצל פעם %1$d</item>
