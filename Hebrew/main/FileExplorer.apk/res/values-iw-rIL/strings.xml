@@ -161,7 +161,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">מקומי</string>
     <string name="sys_size_enable">" זמין"</string>
     <string name="tools">כלים</string>
@@ -421,7 +420,6 @@
     <string name="video_upload_btn_hint">אורך סרטוני MP4 צריך להיות בין 3ש ל-10דק</string>
     <string name="video_upload_btn">הבא</string>
     <string name="video_upload_title">בחר וידאו</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#הוסף נושא#</string>
     <string name="video_comment_hint">בחר נושא</string>
     <string name="video_comment_publish">פרסם</string>
@@ -495,7 +493,6 @@
     <string name="video_topic_hint">חפש אנשים או נושאים</string>
     <string name="comment_reply">השב ל-%1$s:</string>
     <string name="comment_hint">הוסף הערה</string>
-    <string name="origin_name">%1$s: </string>
     <string name="hot_comments">הערות פופולריות</string>
     <string name="new_comments">הערה חדשה</string>
     <string name="copy_text">העתק טקסט</string>
@@ -755,7 +752,6 @@
     <string name="finish_str">בוצע</string>
     <string name="tab_msg">הודעות</string>
     <string name="msg_page_video_default_title">העלתי סרטון, בואו לצפות!</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">המעקב בוצע בהצלחה</string>
     <string name="comment_fail">לא ניתן היה לפרסם את התגובה, נסה שוב</string>
     <string name="comment_fail_banned_temporary">הינך מורחק באופן זמני עקב תגובות לא ראויות</string>
