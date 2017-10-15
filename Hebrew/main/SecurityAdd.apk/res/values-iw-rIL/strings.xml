@@ -39,7 +39,7 @@
     <string name="pc_activity_title">ייעול הסוללה</string>
     <string name="game_booster">מאיץ המשחקים</string>
     <string name="game_booster_title">המרץ</string>
-<string name="top_game"/>
+    <string name="top_game">משחקים מובילים</string>
     <string name="game_setting">הגדרות משחקים</string>
     <string name="gs_auto_clean_memory">נקה מטמון</string>
     <string name="gs_auto_clean_memory_detail">נקה מטמון באופן אוטומטי לייעול המשחקים</string>

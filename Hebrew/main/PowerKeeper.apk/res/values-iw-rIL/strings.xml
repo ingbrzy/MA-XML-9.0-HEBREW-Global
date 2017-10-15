@@ -123,8 +123,8 @@
     <string name="scenario_policies_summary">החלת אסטרטגיות שונות לחכסון באנרגיה עבור תרחישים שונים.</string>
     <string name="sleep_config_enhance_title">מצב שינה</string>
     <string name="sleep_config_enhance_description">כאשר מערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth, GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר המסך בעת קבלת התראות.</string>
-    <string name="nonui_mode_config_title">Noninteractive mode</string>
-    <string name="nonui_mode_config_description">"Don't light up screen for notifications, turn off notification light, fingerprint, and touch controls when your device is in a pocket."</string>
+    <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
+    <string name="nonui_mode_config_description">המסך לא יואר בקבלת התראות. נורית ההתראות, טביעת האצבע ולחצני המגע יכובו כאשר מכשירך יהיה בכיס.</string>
     <string name="scenario_policies_warmcontrol">בקרת טמפרטורה</string>
     <string name="warm_configure">"הגדרות 'בקרת טמפרטורה'"</string>
     <string name="important_warning">שים לב</string>

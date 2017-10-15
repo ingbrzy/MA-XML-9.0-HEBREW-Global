@@ -38,6 +38,28 @@
         <item>‏השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
         <item>‏תמיד השתמש בבדיקת HDCP</item>
     </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>‎256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>‎256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>כבוי</item>
+        <item>‏64K לכל מאגר יומן</item>
+        <item>‏256K לכל מאגר יומן</item>
+        <item>‏1M לכל מאגר יומן</item>
+        <item>‏4M לכל מאגר יומן</item>
+        <item>‏16M לכל מאגר יומן</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>אנימציה כבויה</item>
         <item>‏קנה מידה לאנימציה 5x.</item>
@@ -559,8 +581,22 @@
         <item>ורוד</item>
         <item>אדום</item>
     </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>‏Wi-Fi מועדף</item>
+        <item>סלולרי מועדף</item>
+        <item>‏Wi-Fi בלבד</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>‏Wi-Fi מועדף</item>
         <item>סלולרי מועדף</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>2</item>
+        <item>1</item>
     </string-array>
 </resources>

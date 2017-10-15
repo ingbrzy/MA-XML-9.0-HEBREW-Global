@@ -328,6 +328,7 @@
     <string name="loading_micloud_sync_data">רק רגע…</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="scan_barcode_title">על מנת להיכנס לחשבון Mi שלך, סרוק את קוד ה-QR</string>
+    <string name="talkback_scan_barcode">scan the QR code</string>
     <string name="authorize_title">הרשאה</string>
     <string name="my_device_title">מכשיר נוכחי</string>
     <string name="device_list_title">המכשירים שלי</string>

@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -299,4 +300,7 @@
     <string name="toast_screenshot_too_large">לא ניתן להעלות קבצים הגדולים מ-10MB.</string>
     <string name="title_bbs_feedback_main">למידע נוסף אודות Mi phones</string>
     <string name="title_customer_service">שירות לקוחות</string>
+    <string name="customer_service_apply">בקשת עזרה משירות הלקוחות</string>
+    <string name="customer_service_complain">דיוחח לשירות הלקוחות</string>
+    <string name="customer_service_station">מיקומי שירות</string>
 </resources>
