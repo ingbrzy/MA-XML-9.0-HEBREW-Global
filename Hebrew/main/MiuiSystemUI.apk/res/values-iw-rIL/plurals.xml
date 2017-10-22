@@ -19,10 +19,10 @@
         <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d מתגים יוצגו בלוח ההתראות</item>
+        <item quantity="other">"%1$d מתגים יוצגו ב'לוח ההתראות'"</item>
         <item quantity="one">"מתג %1$d יוצג ב'לוח ההתראות'"</item>
-        <item quantity="two">%1$d מתגים יוצגו בלוח ההתראות</item>
-        <item quantity="many">%1$d מתגים יוצגו בלוח ההתראות</item>
+        <item quantity="two">"%1$d מתגים יוצגו ב'לוח ההתראות'"</item>
+        <item quantity="many">"%1$d מתגים יוצגו ב'לוח ההתראות'"</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">להסתיר התראות של %d יישומים?</item>

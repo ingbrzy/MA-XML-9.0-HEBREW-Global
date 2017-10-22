@@ -112,8 +112,8 @@
     <string name="power_config_apps">חסכון בסוללה</string>
     <string name="app_list_title">בחר יישומים</string>
     <string name="power_hide_mode_app_list_summary">חוסך בצריכת סוללה בפעולות ברקע</string>
-    <string name="enable_hide_mode">"הפעל את מצב 'חיסכון בסוללה'"</string>
-    <string name="disable_hide_mode">"כבה את מצב 'חיסכון בסוללה'"</string>
+    <string name="enable_hide_mode">"הפעל את מצב 'חסכון בסוללה'"</string>
+    <string name="disable_hide_mode">"כבה את מצב 'חסכון בסוללה'"</string>
     <string name="about_hide_mode">"אודות מצב 'חסכון בסוללה'"</string>
     <string name="disable_hide_mode_warning">"כיבוי מצב 'חסכון בסוללה' עשוי להגביר את צריכת האנרגיה של מכשירך."</string>
     <string name="show_system_app">הצג יישומי מערכת</string>
@@ -122,7 +122,7 @@
     <string name="config_scenario_policies_title">תרחישים</string>
     <string name="scenario_policies_summary">החלת אסטרטגיות שונות לחכסון באנרגיה עבור תרחישים שונים.</string>
     <string name="sleep_config_enhance_title">מצב שינה</string>
-    <string name="sleep_config_enhance_description">כאשר מערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth, GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר המסך בעת קבלת התראות.</string>
+    <string name="sleep_config_enhance_description">כאשר מערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth, GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
     <string name="nonui_mode_config_description">המסך לא יואר בקבלת התראות. נורית ההתראות, טביעת האצבע ולחצני המגע יכובו כאשר מכשירך יהיה בכיס.</string>
     <string name="scenario_policies_warmcontrol">בקרת טמפרטורה</string>
@@ -144,12 +144,12 @@
     <string name="power_config_ultimate_unlock_already">נעילת כל הפריטים בוטלה</string>
     <string name="extreme_power_config_mode_category">מצב קיצוני</string>
     <string name="extreme_power_config_mode_title">מצב קיצוני</string>
-    <string name="extreme_power_config_mode_desc">"החלף ל'מצב קיצוני' על מנת לכבות את הסנכרון, Bluetooth, GPS, NFC, הקשה כפולה, תאורת הלחצנים, הערת המסך עבור התראות וכמו כן תאורת ההתראות. מערכת MIUI תתמקד בחסכון בסוללה."</string>
+    <string name="extreme_power_config_mode_desc">"החלף ל'מצב קיצוני' על מנת לכבות את הסנכרון, Bluetooth, GPS, NFC, הקשה כפולה, תאורת הלחצנים, הערת המסך עבור התראות וכמו כן את תאורת ההתראות. מערכת MIUI תתמקד בחסכון בסוללה."</string>
     <string name="empty_title_apps_container_list">אין יישומים</string>
     <string name="hints_loading_text">רק רגע…</string>
     <string name="config_mode_title">הגדרות רקע</string>
     <string name="config_suggest_title">חסכון בסוללה</string>
-    <string name="config_suggest_suffix_title">חיסכון בסוללה (מומלץ)</string>
+    <string name="config_suggest_suffix_title">חסכון בסוללה (מומלץ)</string>
     <string name="config_no_restrict_title">אין הגבלות</string>
     <string name="config_restrict_function_title">הגבל יישומים הפועלים ברקע</string>
     <string name="config_restrict_running_title">הגבל פעילות רקע</string>

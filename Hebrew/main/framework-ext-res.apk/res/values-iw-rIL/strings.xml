@@ -68,6 +68,8 @@
     <string name="reboot_progress">מאתחל…</string>
     <string name="screen_on_proximity_sensor_title">מצב כיס</string>
     <string name="screen_on_proximity_sensor_summary">הימנע מכיסוי אזור פליטת השמע</string>
+    <string name="screen_on_proximity_sensor_hint">"על מנת לכבות תכונה זו, הקש על לחצני 'הגברת עוצמת השמע' ו'חזרה' בו זמנית."</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">"על מנת לכבות תכונה זו, הקש על לחצן 'הגברת עוצמת השמע'."</string>
     <string name="screen_button_notification_title">לחצני הניווט כבויים</string>
     <string name="screen_button_notification_text">"על מנת להפעילם, לחץ במקביל על לחצן ה'בית' ולחצן ה'הפעלה'."</string>
     <string name="screen_paper_mode_enter_toast">"'מצב קריאה' מופעל. על מנת לכבות תכונה זו, עבור אל 'הגדרות' > 'תצוגה' > 'מצב קריאה'."</string>
@@ -149,8 +151,8 @@
     <string name="standard_title">שקט</string>
     <string name="total_title">נא לא להפריע</string>
     <string name="description_title">מצב שקט</string>
-    <string name="standard_description">משתיק צלצולים עבור שיחות והתראות נכנסות</string>
-    <string name="total_description">משתיק צלילים ומכבה את הרטט עבור כל הפריטים מלבד השעון המעורר</string>
+    <string name="standard_description">השתקת צלצולים עבור שיחות והתראות נכנסות</string>
+    <string name="total_description">השתקת צלילים וכיבוי הרטט עבור כל הפריטים מלבד השעון המעורר</string>
     <string name="close">כיבוי</string>
     <string name="always">תמיד</string>
     <string name="onehour">30 דקות</string>

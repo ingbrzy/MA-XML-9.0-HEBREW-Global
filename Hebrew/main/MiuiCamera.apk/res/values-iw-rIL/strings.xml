@@ -119,7 +119,7 @@
     <string name="pref_camera_contrast_title">ניגודיות</string>
     <string name="pref_camera_saturation_title">רוויה</string>
     <string name="pref_camera_sharpness_title">חדות</string>
-    <string name="pref_camera_scenemode_title">סצנה</string>
+    <string name="pref_camera_scenemode_title">סצינה</string>
     <string name="pref_camera_scenemode_entry_off">כבוי</string>
     <string name="pref_camera_scenemode_entry_auto">אוטומטי</string>
     <string name="pref_camera_scenemode_entry_portrait">דיוקן</string>
@@ -340,6 +340,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">אפשרויות</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -356,10 +357,12 @@
     <string name="toast_saving">שומר תמונות…</string>
     <string name="cannot_connect_camera_volte_call">שיחת וידאו בתהליך. נסה שוב מאוחר יותר.</string>
     <string name="hibernate_hint">"הקש על המסך על מנת לעורר את ה'מצלמה'"</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">מצב זום</string>
     <string name="accessibility_portrait_button">מצב דיוקן</string>
     <string name="toast_burst_snap_finished_summary">הצילום המתפרץ בוצע, %1$s תמונות צולמו</string>
     <string name="pref_dualcamera_watermark_title">סימן מים של מצלמה כפולה</string>
+    <string name="pref_camera_device_watermark_title">Device watermark</string>
     <string name="pref_camera_zoom_mode_title">עדשה</string>
     <string name="pref_camera_zoom_mode_entry_wide">רחב</string>
     <string name="pref_camera_zoom_mode_entry_tele">טלה</string>
@@ -418,6 +421,7 @@
     <string name="hint_fast_motion">הסרטון שתצלם יתנגן מהר יותר.</string>
     <string name="hint_slow_motion">הסרטון שתצלם יתנגן לאט יותר.</string>
     <string name="hunt_dual_water_mark">סימני מים של המצלמה הכפולה יתווספו באופן אוטומטי.</string>
+    <string name="hint_device_water_mark">Device watermark will be added automatically.</string>
     <string name="module_name_fun">סרטון קצר</string>
     <string name="module_name_video">וידאו</string>
     <string name="module_name_capture">תמונה</string>
@@ -433,7 +437,7 @@
     <string name="config_name_hht">HHT</string>
     <string name="config_name_group">סלפי קבוצתי</string>
     <string name="config_name_tilt">טילט שיפט</string>
-    <string name="config_name_scene">סצנה</string>
+    <string name="config_name_scene">סצינה</string>
     <string name="config_name_magic">קסם</string>
     <string name="beauty_fragment_tab_name_beauty">ייפוי</string>
     <string name="beauty_fragment_tab_name_makeup">מתקדם</string>
@@ -455,5 +459,5 @@
     <string name="pref_retain_camera_mode_title">שמירת המצב הקודם</string>
     <string name="pref_retain_camera_mode_summary">העברת המצלמה למצב השימוש הקודם בעת פתיחת היישום.</string>
     <string name="pref_fingerprint_capture_title">צילום באמצעות טביעת אצבע</string>
-    <string name="multi_window_mode_not_supported">"Camera doesn't work in Split screen"</string>
+    <string name="multi_window_mode_not_supported">"המצלמה אינה עובדת במצב 'מסך מפוצל'"</string>
 </resources>

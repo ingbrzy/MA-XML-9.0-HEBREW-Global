@@ -13,10 +13,10 @@
         <item quantity="many">%d יישומים יכולים להציג התראות</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d מתגים יופיעו בלוח ההתראות</item>
+        <item quantity="other">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
         <item quantity="one">"מתג %1$d יופיע ב'לוח ההתראות'"</item>
-        <item quantity="two">%1$d מתגים יופיעו בלוח ההתראות</item>
-        <item quantity="many">%1$d מתגים יופיעו בלוח ההתראות</item>
+        <item quantity="two">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
+        <item quantity="many">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d סיכונים נמצאו</item>

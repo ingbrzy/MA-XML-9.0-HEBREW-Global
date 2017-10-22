@@ -23,10 +23,14 @@
     <string name="action_menu_account_not_login_hint">היכנס על מנת לסנכרן עם Mi Cloud</string>
     <string name="action_menu_bookshelf">מדף ספרים</string>
     <string name="action_menu_current_version">גרסה נוכחית</string>
+    <string name="action_menu_request_desktop_site">בקשת אתר שולחן עבודה</string>
+    <string name="action_menu_request_desktop_site_off">בקשת אתר שולחן עבודה/כבויה</string>
+    <string name="action_menu_request_desktop_site_on">בקשת אתר שולחן עבודה/מופעלת</string>
     <string name="action_menu_text_add_bookmark">הוסף סימניה</string>
     <string name="action_menu_text_bandwidth">חסכון בנתונים</string>
     <string name="action_menu_text_bandwidth_off">חסכון בנתונים</string>
     <string name="action_menu_text_bandwidth_on">חסכון בנתונים</string>
+    <string name="action_menu_text_bookmark_add_off">לא ניתן להוסיף דפי אינטרנט.</string>
     <string name="action_menu_text_bookmark_added">סימניה נוספה</string>
     <string name="action_menu_text_copy_url">העתק כתובת אינטרנט</string>
     <string name="action_menu_text_create_qr_code">קוד QR</string>
@@ -61,6 +65,7 @@
     <string name="add_favorites_to">הוסף למועדפים</string>
     <string name="add_new_bookmark">הוסף סימניה</string>
     <string name="add_new_quicklink">הוסף לעמוד הבית</string>
+    <string name="add_pwa_to_homescreen">להוסיף עמוד זה למסך הבית?</string>
     <string name="add_ql_bm_title">שמירה</string>
     <string name="add_quicklink_to_popular">הוסף לעמוד הבית</string>
     <string name="add_quicklinks">הוספה</string>
@@ -74,6 +79,7 @@
     <string name="added_to_bookmarks">נוסף לסימניות</string>
     <string name="adjust_text_zoom_toast">שינוי טקסט זום עשוי לגרום לאתרי אינטרנט מסוימים להיות מוצגים באופן שגוי</string>
     <string name="agree">מסכים</string>
+    <string name="agree_permissions_request">קבלה</string>
     <string name="alert_tips">אתר זה עשוי להוות סיכון אבטחה</string>
     <string name="allow">אפשר</string>
     <string name="app_new_version">הגרסה האחרונה של יישום זה כבר מותקנת</string>
@@ -132,6 +138,7 @@
     <string name="browserFrameFormResubmitMessage">"העמוד שאתה מנסה לפתוח מכיל נתונים שכבר נשלחו. אם תשלח מחדש את הנתונים, פעולות קודמות שבוצעו (לדגמ' חיפושים או רכישות) יבוצעו מחדש."</string>
     <string name="browserFrameNetworkErrorLabel">שגיאת חיבור</string>
     <string name="cancel">ביטול</string>
+    <string name="cancle_sync_cloud_tabs">ביטול הסנכרון</string>
     <string name="cannot_download">ניתן להוריד קישורי \"http\" או \"https\" בלבד</string>
     <string name="choosertitle_sharevia">שתף באמצעות</string>
     <string name="clear_history">נקה היסטוריה</string>
@@ -167,6 +174,7 @@
     <string name="color_picker_dialog_title">בחר צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -183,6 +191,7 @@
     <string name="contextmenu_manually_block_ad">תיוג כפרסומת</string>
     <string name="contextmenu_map">מפה</string>
     <string name="contextmenu_openlink">פתח</string>
+    <string name="contextmenu_openlink_in_browser">"פתיחה ב'דפדפן'"</string>
     <string name="contextmenu_openlink_newwindow">פתח בכרטיסיה חדשה</string>
     <string name="contextmenu_openlink_newwindow_background">פתוח בכרטיסית רקע</string>
     <string name="contextmenu_recognise_qr_code">סרוק קוד QR</string>
@@ -192,7 +201,7 @@
     <string name="contextmenu_share_image">שיתוף תמונה</string>
     <string name="contextmenu_sharelink">שתף קישור</string>
     <string name="contextmenu_view_image">הצג תמונה</string>
-    <string name="contextmenu_webpage_capture">שמור כתצלום מסך</string>
+    <string name="contextmenu_webpage_capture">צילום מסך</string>
     <string name="contextmenu_webpage_html">שמור כקובץ HTML</string>
     <string name="contextmenu_webpage_snapshot">שמירת עמוד</string>
     <string name="copy_to_clipboard_failure_message">נכשל בהעתקה אל הלוח</string>
@@ -285,6 +294,9 @@
     <string name="edit_quicklink">ערוך</string>
     <string name="empty_app_name">יישום אחר</string>
     <string name="empty_bookmark">ריק</string>
+    <string name="empty_cloud_tab_login_hint">אין תויות ענן</string>
+    <string name="empty_cloud_tab_logout_hint">"היכנס אל חשבון Mi
+ תויות אשר נפתחו במכשירים אחרים יופיעו כאן"</string>
     <string name="empty_history_hint">אין היסטוריה להצגה</string>
     <string name="empty_snapshot_hint">ריק</string>
     <string name="enable_geolocation_confirm_message">כיבוי שירותי המיקום ישפיע על ההמלצות שתקבל.</string>
@@ -308,6 +320,7 @@
     <string name="find_on_page_next">הבא</string>
     <string name="find_on_page_prev">הקודם</string>
     <string name="find_previous">מצא את הקודם</string>
+    <string name="finish_sync_cloud_tabs">הסנכרון הסתיים</string>
     <string name="firstUsingSearchEngineTips">להחליף מנוע חיפוש?</string>
     <string name="fling_on_border_gesture_hint">"באפשרותך לבחור את הפונקציה של מחווה זו ב'הגדרות'"</string>
     <string name="force_quick_search_title">חיפוש</string>
@@ -341,6 +354,7 @@
     <string name="homepage_more_sites">אתרים נוספים</string>
     <string name="homepage_search_hint">חיפוש</string>
     <string name="homepage_top_card_menu">עליון</string>
+    <string name="ignore_add_pwa_dialog_today">אל תציג היום</string>
     <string name="in_incognito">אתה גולש במצב נסתר! דפים בהם תצפה בתוית זו לא יופיעו בהיסטורית הדפדפן שלך.</string>
     <string name="in_secureaccess">הדפדפן עבר למצב בטוח</string>
     <string name="isReplacePage">הקובץ קיים כבר, להחליף?</string>
@@ -466,7 +480,7 @@
     <string name="miuichromium_error_page_reason_proxy_error">. קיימת בעיה עם שרת ה-Proxy, או שכתובת ה-Proxy שגויה</string>
     <string name="miuichromium_error_page_reason_site_unreachable">. %s0 אינו נגיש כעת</string>
     <string name="miuichromium_error_page_reason_timed_out">. %s0 אינו מגיב למשך זמן רב מידי</string>
-    <string name="miuichromium_error_page_reason_too_many_redirects">" כיוון ש- %s0 הפנה אותך מחדש פעמים רבות מידי"</string>
+    <string name="miuichromium_error_page_reason_too_many_redirects">" כיוון ש-%s0 הפנה אותך מחדש פעמים רבות מידי"</string>
     <string name="miuichromium_error_page_reason_unsafe_port">. %s0 משתמש במספר Port לא בטוח</string>
     <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 מפנה אותך באופן לא בטוח</string>
     <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 משתמש בפרוטוקול בלתי נתמך</string>
@@ -550,9 +564,12 @@
     <string name="pay_failed_toast">לא ניתן היה להשלים את התשלום</string>
     <string name="pay_success_toast">שולם בהצלחה</string>
     <string name="permission_alert_window">אפשר לחלונות קופצים לעשות שימוש בתכונה זו</string>
+    <string name="permission_notification">לשלוח לך התראות</string>
     <string name="permission_unknown">פעולה לא מוכרת</string>
+    <string name="permissions_prompt_message">"%s רוצה "</string>
     <string name="popup_window_attempt">לאפשר לאתר זה לפתוח חלון קופץ?</string>
     <string name="positive_confirm_message">כבה בכל זאת</string>
+    <string name="pref_accept_quicklink_push">פוש בעמוד ההתחלה</string>
     <string name="pref_accessibility">נגישות</string>
     <string name="pref_accessibility_title">נגישות</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">ניתן להזין צרופי אותיות נפוצים בהקשה אחת בשורת הכתובת</string>
@@ -592,7 +609,7 @@
     <string name="pref_extras_reset_default_summary">שחזור הגדרות ברירת מחדל</string>
     <string name="pref_extras_reset_default_title">אחר</string>
     <string name="pref_extras_send_feedback">שלח משוב</string>
-    <string name="pref_extras_title">מתקדם</string>
+    <string name="pref_extras_title">הגדרות מתקדמות</string>
     <string name="pref_extras_title_version">פרטי גרסה</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">שמור קבצים למיקום ברירת המחדל של הדפדפן</string>
     <string name="pref_file_downlaod_save_reset_default_settings">שחזר מיקום ברירת מחדל</string>
@@ -663,12 +680,14 @@
     <string name="progress_dialog_setting_wallpaper">מגדיר טפט…</string>
     <string name="pull_to_refresh_pull_label">משוך לרענון</string>
     <string name="pull_to_refresh_release_label">שחרר להמלצה ורענון</string>
+    <string name="pwa_app_name">יישום רשת</string>
     <string name="qr_code_title">קוד QR</string>
     <string name="qr_description">סריקת קוד QR</string>
     <string name="quicklink_bookmark_save">שמור ב-</string>
     <string name="quicklink_cannot_save_url">לא ניתן להוסיף כתובת URL זו.</string>
     <string name="quicklink_folder_text">יישומים מומלצים</string>
     <string name="quicklink_not_saved">לא ניתן היה להוסיף לעמוד הבית</string>
+    <string name="quicklink_push_confirm_message">כיבוי תכונה זו תשפיע על דחיפת עמוד ההתחלה.</string>
     <string name="quicklink_saved">נשמר לעמוד הבית</string>
     <string name="quicklink_saved_before">אתר זה כבר נוסף</string>
     <string name="quicklink_user_define_webpage_title">שם</string>
@@ -691,6 +710,7 @@
     <string name="readmode_recommend_message">כבר קראת את הספר הזה. :)</string>
     <string name="readmode_refresh">רענן</string>
     <string name="readmodelist_bookmarks_to_show">רשימת קריאה</string>
+    <string name="refuse_permissions_request">דחיה</string>
     <string name="remember_passwords_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="remove_bookmark">מחק סימניה</string>
     <string name="remove_bookmark_group">מחק קבוצה</string>
@@ -780,7 +800,7 @@
     <string name="ssl_certificate">אישור אבטחה</string>
     <string name="ssl_certificate_is_valid">אישור זה חוקי.</string>
     <string name="ssl_continue">המשך</string>
-    <string name="ssl_date_error_warnings_header">פג תוקף התעודה של אתר זה או שאינה תקינה. מומלץ לעזוב עמוד זה.</string>
+    <string name="ssl_date_error_warnings_header">פג תוקף התעודה של אתר זה או שאינה תקינה. מומלץ לעזוב דף זה.</string>
     <string name="ssl_date_invalid">לאישור זה תאריך לא חוקי.</string>
     <string name="ssl_expired">פג תוקפה של תעודה זו.</string>
     <string name="ssl_go_back">חזור</string>
@@ -801,16 +821,24 @@
     <string name="suggest_access_btn_play">נגן</string>
     <string name="suggest_access_btn_view">צפה</string>
     <string name="suggest_access_item_album_songs">%d שירים</string>
+    <string name="suggest_access_item_app_mark">יישום</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">עדכון: %s</string>
+    <string name="suggest_access_item_book_mark">ספר</string>
+    <string name="suggest_access_item_mina_mark">שירות ישיר</string>
+    <string name="suggest_access_item_music_mark">מוסיקה</string>
     <string name="suggest_access_item_singer_albums">%d אלבומים</string>
     <string name="suggest_access_item_singer_pop">%d שירים פופולריים</string>
+    <string name="suggest_access_item_site_mark">אתרים</string>
+    <string name="suggest_access_item_video_mark">סרטון</string>
+    <string name="suggest_access_item_website_mark">אתר אינטרנט</string>
     <string name="suggest_access_music">Mi מוסיקה</string>
     <string name="suggest_item_delete_text">מחיקה</string>
     <string name="suggest_open_app_failed">לא ניתן היה לפתוח את היישום</string>
     <string name="switchText">כן</string>
     <string name="switch_proxy_dialog_msg">נתגלה נסיון ריגול רשת. דווח על כך לספק הרשת שלך באמצעות אפליקצית האבטחה המובנית של MIUI.</string>
     <string name="switch_proxy_dialog_title">ריגול רשת</string>
+    <string name="sync_cloud_tabs">סנכרון</string>
     <string name="tab_hotpage">עדכונים</string>
     <string name="tab_quicklinks">עמוד הבית</string>
     <string name="tab_yellowpage">קישורים</string>

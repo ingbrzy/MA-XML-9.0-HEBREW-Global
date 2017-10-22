@@ -88,7 +88,7 @@
     <string name="st_title_editblacklist">עריכת רשימת החסומים</string>
     <string name="st_title_addwhitelist">הוסף לרשימת החריגים</string>
     <string name="st_title_editwhitelist">עריכת רשימת החריגים</string>
-    <string name="st_title_man_head_addblacklist">הוספת קידומת מספר הטלפון לרשימת החסומים</string>
+    <string name="st_title_man_head_addblacklist">הוספת קידומת מספר טלפון לרשימת החסומים</string>
     <string name="st_title_man_addblacklist">הוספת מספר לרשימת החסומים</string>
     <string name="st_title_man_head_addwhitelist">הוסף את קידומת מספר הטלפון לרשימת החריגים</string>
     <string name="st_title_man_addwhitelist">הוסף את מספר הטלפון לרשימת החריגים</string>
@@ -380,6 +380,7 @@
     <string name="detail_app_button">פרטי היישום</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">מגבלת נתונים סלולריים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -872,6 +873,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -1212,7 +1214,7 @@ Rolled over extra data"</string>
     <string name="sp_background_risk_type_sign">קיים יישום לא רשמי המופעל ברקע</string>
     <string name="sp_background_risk_type_root">בוצע Root למערכת</string>
     <string name="resource_securitycenter_settings">אבטחה</string>
-    <string name="keywords_securitycenter_settings">שימוש בסוללה;נהל התחלה אוטומטית;התקן באמצעות USB;הרשאות היישום;רכוש נתונים סלולריים;רשימת החסומים;שימוש בנתונים;תכנית כיול נתונים;בדיקת רשת;חסוך בסוללה;התחממות;הפעלה;כיבוי;סוללה;התרוקנות;בעיות סוללה;אנרגיה;חסכון בסוללה;חסכון באנרגיה;חסכון באנרגיה;חסכון בסוללה; התחלה אוטומטית;הרשאות;התחלה אוטומטית;התחלה אוטומטית של MIUI; התחלה אוטומטית של יישומים; יישומי התחלה אוטומטית;התחלת שרשרת;התחלה משורשרת;התחלת טריגר: התקנת USB;התקן מהמחשב;התקנת ADB; מיקום;גישה לאנשי הקשר; נתונים;נתונים סלולריים;רכוש נתונים;טען נתונים;חבילת נתונים; חסום;רשימה שחורה;רשימת חסומים חכמה;תרמית;מבצעים;סוכנים;רשימת השיחות החסומות;רשימת ההודעות החסומות;רשימת ההודעות החסומות;רשימת המסרונים החסומים;רשימה שחורה;רשימה שחורה;רשימת החסומים;רשימת החסומים;תרמית;חסימת איש קשר;חסימת אנשי קשר; תעבורה; כיול; חיבור;בדיקת אינטרנט; שימוש בסוללה</string>
+    <string name="keywords_securitycenter_settings">Battery usage;Manage autostart;Install via USB;App permissions;Buy mobile data;Blocklist;Data usage;Calibrate data plan;Test network; Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery issues;Energy;Battery saver;Energy saver;Energy saving;Battery saving; Autostart;Permissions;Auto start;MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start; USB install;install from computer;ADB install; Location;Access contacts; data;mobile data;buy data;topup data;data plan; Block;Black list;Smart blocklist;Fraud;Sales;Agents;Call blocklist;Message blocklist;Messaging blocklist;SMS blocklist;blacklist;black list;blocklist;block list;fraud;block contact;block contacts; Traffic; Calibrate; Connection;Internet;Test; Battery use; Game;speed booster;Glory of the king;Performance mode;DND</string>
     <string name="path_securitycenter_settings">יישומי מערכת/אבטחה</string>
     <string name="resource_securitycenter">אבטחה</string>
     <string name="keywords_securitycenter">אבטחה;בדוק;סרוק</string>
@@ -1253,6 +1255,9 @@ Rolled over extra data"</string>
     <string name="resource_powercenter_powerrank">סוללה &amp; ביצועים</string>
     <string name="keywords_powercenter_powerrank">שימוש בסוללה</string>
     <string name="path_powercenter_powerrank">סוללה &amp; ביצועים/שימוש בסוללה</string>
+    <string name="resource_gamebooster">Game speed booster</string>
+    <string name="keywords_gamebooster">Game;speed booster;Glory of the king;Performance mode;DND</string>
+    <string name="path_gamebooster">System apps/Security/Game speed booster</string>
     <string name="app_name_securitycenter">אבטחה</string>
     <string name="ok">אישור</string>
     <string name="exit">יציאה</string>
@@ -1267,6 +1272,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1542,8 +1548,8 @@ Rolled over extra data"</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">העלה וסרוק את שמות ופרטי היישומים באמצעות הגדרות וירוסים מקוונות.</string>
     <string name="antivirus_privacy_dialog_ok">אישור</string>
     <string name="pref_title_manual_check_virus_db_update">בדוק זמינות עדכונים</string>
-    <string name="virus_update_tips_title">התחבר לרשת אלחוטית</string>
-    <string name="virus_wait_network_dialog_message">נפח העדכונים גדול. התחבר לרשת אלחוטית על מנת להורידם.</string>
+    <string name="virus_update_tips_title">Warning</string>
+    <string name="virus_wait_network_dialog_message">Your phone is not connected to WLAN now. It will cost metered mobile data usage. Continue ?</string>
     <string name="antivirus_not_wlan">אינך מחובר לרשת אלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
     <string name="antivirus_longtime_no_update">"נראה כי הגדרות הוירוסים שלך ישנות. עדכונים על בסיס קבוע מסייעים לקבלת תוצאות סריקה טובות יותר. לאפשר ל'אבטחה' להתחבר לאינטרנט ולעדכן את הגדרות הוירוסים?"</string>
     <string name="antivirus_longtime_no_update1">נראה כי הגדרות הוירוסים שלך ישנות. עדכונים על בסיס קבוע מסייעים לקבלת תוצאות סריקה טובות יותר. עדכן את ההגדרות ונסה שוב.</string>
@@ -1627,6 +1633,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1652,7 +1659,7 @@ Rolled over extra data"</string>
     <string name="Setting_lock">הגדרות</string>
     <string name="app_name">נועל היישומים</string>
     <string name="back_app_name">"חזרה ל'נועל היישומים'"</string>
-    <string name="notification_item">הגן על יישומים באמצעות נועל היישומים</string>
+    <string name="notification_item">"הגן על יישומים באמצעות 'נועל היישומים'"</string>
     <string name="lock_mode_title">הגדרות נעילה</string>
     <string name="after_the_lock_screen">נעל יישומים יחד עם המסך</string>
     <string name="set_applock_password">הגדר סיסמה</string>
@@ -1932,10 +1939,16 @@ Rolled over extra data"</string>
     <string name="game_booster">מאיץ המשחקים</string>
     <string name="game_booster_title">האץ</string>
     <string name="top_game">משחקים מובילים</string>
+    <string name="game_booster_tab_top">Top</string>
+    <string name="game_bootser_tab_settings">Booster settings</string>
+    <string name="game_booster_jump_webview">Just a sec…</string>
     <string name="game_setting">הגדרות משחקים</string>
     <string name="gs_auto_clean_memory">ניקוי מטמון</string>
     <string name="gs_auto_clean_memory_detail">נקה מטמון באופן אוטומטי לייעול המשחקים</string>
     <string name="gs_anto_clean_memory_whitelist">חריגים</string>
+    <string name="gs_call_handsfree">Answer calls hands free</string>
+    <string name="gs_call_handsfree_mute">Silent mode</string>
+    <string name="gs_forbid_autosync">Restrict background sync</string>
     <string name="gs_app_back_self_start">חסכון בסוללה</string>
     <string name="gs_only_self_start_for_list">הגבל תהליכי רקע על מנת לחסוך בסוללה לטובת משחקים</string>
     <string name="gs_game_shortcut">חוית משחקים רציפה יותר</string>
@@ -1985,7 +1998,7 @@ Rolled over extra data"</string>
     <string name="more_game">משחקים נוספים</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
-    <string name="google_base_app_install_choice">\"%s\" דורש התקנה של מסגרת שירותי Google על מנת לפעול באופן תקין, להוריד ולהתקין אותם?</string>
+    <string name="google_base_app_install_choice">\"%s\" דורש התקנה של מסגרת שירותי Google על מנת לפעול באופן תקין, להוריד ולהתקין אותה?</string>
     <string name="application_item_disable">מוגבל</string>
     <string name="application_item_already_permission">מאופשר</string>
     <string name="man_add_application">הוסף יישומי הפעלה אוטומטית באופן ידני</string>
@@ -2032,13 +2045,19 @@ Rolled over extra data"</string>
     <string name="net_booster_overdue_notification">"תהליך 'מאיץ מהירות הרשת' עומד להסתיים"</string>
     <string name="net_booster_overdue_notification_tip">"תהליך 'מאיץ מהירות הרשת' יסתיים בקרוב. לחדש את התהליך?"</string>
     <string name="net_booster_expire_notification">"תהליך 'מאיץ מהירות הרשת' עומד להסתיים"</string>
+    <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
     <string name="xunyou_pay_webview">שירותי Xunyou</string>
     <string name="xunyou_server_expired">פג תוקף התהליך.</string>
     <string name="game_anti_disturb_msg">"'נא לא להפריע' עבור משחקים"</string>
-    <string name="gamebooster_main_activity_back">"חזרה אל 'מאיץ מהירות המשחקים'"</string>
+    <string name="gamebooster_main_activity_back">Back</string>
     <string name="data_booster_title">ייצוב חיבור הנתונים</string>
     <string name="data_booster_desc">ביטול הפעלת כרטיסי SIM אחרים על מנת לשמור על יציבות החיבור</string>
     <string name="international_Ad">Ad</string>
+    <string name="thermal_tips_title">Attention</string>
+    <string name="thermal_tips_message">Playing games in the Performance mode may lead to overheating issues.</string>
+    <string name="forbid_autobright_title">Fix screen brightness</string>
+    <string name="gamebooster_lowbattery_notification_title">Battery is lower than 5%%</string>
+    <string name="gamebooster_lowbattery_notification_summary">Charge your device before it turns off.</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

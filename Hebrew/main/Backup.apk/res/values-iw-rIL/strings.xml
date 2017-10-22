@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -224,6 +227,7 @@
     <string name="file_uploading">מעלה…</string>
     <string name="new_backup">גיבוי</string>
     <string name="restore_backup">שחזור</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -370,18 +374,18 @@
     <string name="trans_intro_question_2">2. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
     <string name="trans_intro_desc_2">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
     <string name="trans_intro_question_3">3. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
-    <string name="trans_intro_desc_3">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה מדוע אינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
+    <string name="trans_intro_desc_3">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה לכך שאינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
     <string name="trans_intro_question_4">4. מדוע Mi Mover טוען שאין מספיק שטח אחסון פנוי על גבי הטלפון הישן שלי?</string>
     <string name="trans_intro_desc_4">שטח אחסון על גבי מכשירים ישנים משמש ליצירת חבילות העברה. ודא כי יש ברשותך לפחות 500MB-1GB של שטח אחסון זמין על גבי הטלפון הישן שלך לפני שתתחיל לבצע העברה.</string>
     <string name="trans_intro_question_5">5. מדוע יישומים מסויימים אינם מועברים בהצלחה?</string>
     <string name="trans_intro_desc_5">"ישנן לכך סיבות אפשריות שונות: בעיות תאימות בין המערכת לגירסת היישום, בעיות רשת, בעיות תאימות ייחודיות למכשירים מסויימים וכו'."</string>
     <string name="trans_intro_question_6">6. מדוע יישומים מסויימים אינם מתחילים לפעול במכשיר חדש?</string>
-    <string name="trans_intro_desc_6">"פרופילים של יישומים מסויימים (בנקאות דיגיטלית, כלכלה וכו') משוייכים למכשיר מסויים עקב נסיבות אבטחה. נסה לנקות את נתוני היישום או להתקין מחדש את היישום על גבי מכשיר חדש."</string>
+    <string name="trans_intro_desc_6">"פרופילים של יישומים מסויימים (בנקאות דיגיטלית, כלכלה וכו') משוייכים למכשיר מסיבות אבטחה. נסה לנקות את נתוני היישום או להתקין מחדש את היישום על גבי מכשיר חדש."</string>
     <string name="trans_intro_question_7">7. מדוע היסטורית WeChat אינה מועברת במלואה?</string>
-    <string name="trans_intro_desc_7">"יתכן כי נתוני היישום והיסטורית הצ'אט של WeChat לא יועברו במלואם באמצעות Mi Mover. עבור על הגדרות WeChat וצא מחשבונך לסיכויי העברה מוצלחת גבוהים יותר."</string>
+    <string name="trans_intro_desc_7">"יתכן כי נתוני היישום והיסטורית הצ'אט של WeChat לא יועברו במלואם באמצעות Mi Mover. עבור אל הגדרות WeChat וצא מחשבונך לסיכויי העברה מוצלחת גבוהים יותר."</string>
     <string name="trans_intro_question_8">8. אילו פריטים אינם יכולים להיות מועברים?</string>
     <string name="trans_intro_title_account">חשבונות וסיסמאות:</string>
-    <string name="trans_intro_desc_account">"עליך להיכנס שוב לחשבונותיך (לדוגמה: Google, Exchange, חשבון Mi, וכו') במכשיר חדש עקב נסיבות אבטחה."</string>
+    <string name="trans_intro_desc_account">"עליך להיכנס שוב לחשבונותיך (לדוגמה: Google, Exchange, חשבון Mi, וכו') במכשיר חדש מסיבות אבטחה."</string>
     <string name="trans_intro_title_private">אלבום מוסתר:</string>
     <string name="trans_intro_desc_private">Mi Mover לא יכול לגשת לתמונות ואלבומים מוסתרים כיוון שהם מוצפנים. באפשרותך לשחזר תמונות אלה מ-Mi Cloud במכשיר חדש.</string>
     <string name="trans_intro_title_multiuser">"נתוני 'שטח שני':"</string>

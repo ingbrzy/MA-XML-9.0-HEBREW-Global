@@ -288,8 +288,8 @@
     <string name="support_desc">שירותי האבטחה מסופקים על ידי Graphite</string>
     <string name="sdcardfs_dialog_message">"כבה את \"ייעול כרטיס זכרון וירטואלי\" באפשרויות המפתח לפני כניסה ל'שטח שני'."</string>
     <string name="do_not_ask">אל תשאל שוב</string>
-    <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Google'?"</string>
-    <string name="gpg_title">יישום משוכפל עבור Google Play Games</string>
+    <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Play'?"</string>
+    <string name="gpg_title">"יישום משוכפל עבור 'משחקי חנות Play'"</string>
     <string name="gms_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'שירותי Google'. ליצור יישום משוכפל עבור 'שירותי Google'?"</string>
     <string name="gms_title">הפעלת שירותי Google</string>
     <string name="gms_open_button">הפעלה</string>

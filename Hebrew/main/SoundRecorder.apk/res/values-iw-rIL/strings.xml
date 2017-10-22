@@ -145,7 +145,7 @@
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="choose_call_records_count">%d פריטים</string>
     <string name="network_tip_dialog_title">דרוש חיבור לאינטרנט</string>
-    <string name="network_tip_dialog_content">"ה'רשמקול' זקוק לחיבור לאינטרט, וכמו כן לקרוא את אנשי הקשר שלך על מנת לעבוד באופן תקין. מסכים?"</string>
+    <string name="network_tip_dialog_content">"ה'רשמקול' זקוק לחיבור לאינטרנט, וכמו כן לקריאת אנשי הקשר שלך על מנת לעבוד באופן תקין. מסכים?"</string>
     <string name="network_tip_dialog_ok">מסכים</string>
     <string name="network_tip_dialog_cancel">ביטול</string>
     <string name="head_set_tip_dialog_title">השתמש במיקרופון הפנימי</string>

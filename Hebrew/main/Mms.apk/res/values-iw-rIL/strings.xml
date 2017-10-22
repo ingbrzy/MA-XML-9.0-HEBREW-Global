@@ -178,6 +178,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -250,7 +251,7 @@
     <string name="message_number">מספר טלפון:</string>
     <string name="message_pending">שולח</string>
     <string name="message_queued">לא ניתן לשלוח את ההודעה שלך כעת. ההודעה תישלח כשיהיה שירות זמין.</string>
-    <string name="message_queued_second_space">לא ניתן לשלוח את ההודעה שלך כעת. אנא התחבר לרשת הנתונים הסלולרית.</string>
+    <string name="message_queued_second_space">לא ניתן היה לשלוח את ההודעה. הפעל את חיבור הנתונים הסלולריים על מנת לשלוח.</string>
     <string name="message_readed">נקראה</string>
     <string name="message_received">התקבלה</string>
     <string name="message_rejected">נדחתה</string>
@@ -300,9 +301,6 @@
     <string name="mx_activate_status_desc_query_activte_info">בודק מידע אודות כרטיס ה-SIM…</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">מספר הטלפון שהזנת אינו חוקי</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">לא ניתן היה להפעיל את הודעות Mi</string>
-    <string name="mx_and_voip_enable">הודעות Mi &amp; קולי</string>
-    <string name="mx_and_voip_enable_popup_msg">שליחת הודעות להתקני MIUI אחרים ללא חיוב מספק הרשת שלך. VoIP נתמך על ידי Weihui. הצג את מדיניות הפרטיות של Weihui.</string>
-    <string name="mx_and_voip_enable_popup_msg2">מדיניות הפרטיות</string>
     <string name="mx_auto_resend_mms">שלח כהודעת מולטימדיה</string>
     <string name="mx_auto_resend_mms_summary">שליחת הודעות מולטימדיה באמצעות חיבור נתונים סלולרי כשאינך מחובר לרשת אלחוטית. ספק הרשת שלך יחייב אותך בעבור שימוש בנתונים.</string>
     <string name="mx_auto_resend_sms">שלח כהודעת SMS</string>
@@ -314,7 +312,6 @@
     <string name="mx_dspt">שליחת מסרונים והודעות מולטימדיה למכשירי MIUI אחרים בחינם, בעת חיבור לרשת אלחוטית.</string>
     <string name="mx_dspt_listview">שלח הודעות למכשירי MIUI אחרים בחינם</string>
     <string name="mx_dspt_provision">שירות הודעות Mi מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים באמצעות האינטרנט בחינם. יתכן וידרש מסרון SMS יוצא להפעלה מחודשת של הודעות Mi. ספק הרשת שלך יחייב אותך בעבור מסרון זה. בנוסף, שירות זה זקוק לגישה לנתונים הסלולריים על מנת שיוכל לפעול באופן תקין.</string>
-    <string name="mx_dspt_provision_ex">שליחת הודעות וביצוע שיחות למשתמשי MIUI אחרים באמצעות האינטרנט ללא חיוב מספק הרשת שלך. VoIP נתמך על ידי Weihui. הצג את מדיניות הפרטיות של Weihui.</string>
     <string name="mx_dspt_provision_ex2">מדיניות הפרטיות</string>
     <string name="mx_enable">הודעות Mi</string>
     <string name="mx_enable_ex">הודעות Mi &amp; קולי</string>
@@ -355,8 +352,8 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">הודעות חדשות</string>
     <string name="number_add_hint">הזן מספר טלפון</string>
-    <string name="open_audio_record_panel">פתח את פאנל הקלטות השמע</string>
-    <string name="open_edit_sms_panel">פתיחת לוח עריכת המסרונים</string>
+    <string name="open_audio_record_panel">פתח את לוח הקלטת השמע</string>
+    <string name="open_edit_sms_panel">פתח את לוח עריכת ההודעות</string>
     <string name="open_url_with_web">לפתוח כתובת אתר זו בדפדפן?</string>
     <string name="over_max_mms_size">הודעת המולטימדיה גדולה מידי.</string>
     <string name="overwrite_edited_content">התוכן שערכת יכתב מחדש.</string>
@@ -391,7 +388,7 @@
     <string name="pref_sms_storage_title">אחסון</string>
     <string name="pref_sms_theme_title">תצוגה</string>
     <string name="pref_summary_allow_si_sl_push">אפשר להודעות לטעון תוכן מאתרים</string>
-    <string name="pref_summary_auto_delete">מחק הודעות ישנות בעת הגעה לתקרת המגבלה</string>
+    <string name="pref_summary_auto_delete">מחק הודעות ישנות עם הגעה לתקרת המגבלה</string>
     <string name="pref_summary_delete_limit">%1$s הודעות לכל שיחה</string>
     <string name="pref_summary_delivery_reports">הצג דו\"ח מסירה להודעות שנשלחו</string>
     <string name="pref_summary_delivery_ringtone">קבל התראה קולית עבור הודעה שנמסרה.</string>
@@ -400,7 +397,6 @@
     <string name="pref_summary_mms_read_reports">הצג התראה בחלון השיחה כאשר הנמען הוריד את תוכן הודעת המולטימדיה</string>
     <string name="pref_summary_mms_retrieval_during_roaming">הורד אוטומטית תמונות וסרטונים מתוך הודעות בנדידה</string>
     <string name="pref_summary_notification_body_enabled">הצג הודעות במסך הנעילה ובלוח ההתראות</string>
-    <string name="pref_summary_notification_body_enabled_when_secure">לא ניתן לבצע תצוגה מקדימה של הודעות במצב אורח</string>
     <string name="pref_summary_off_system_mms_priority">השתמש ביישומי צד שלישי לשליחה וקבלת הודעות מולטימדיה</string>
     <string name="pref_summary_on_system_mms_priority">הגדר את יישום ההודעות של MIUI כיישום ברירת המחדל לשליחה וקבלה של הודעות מולטימדיה</string>
     <string name="pref_summary_send_delivery_reports">שלח אישור קבלת הודעת מולטימדיה לשולח בעת קבלת הודעת מולטימדיה</string>
@@ -530,6 +526,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -566,15 +563,15 @@
     <string name="sms_report_dialog_title">נסה שוב</string>
     <string name="sms_report_failed">לא ניתן היה לשלוח דו\"ח</string>
     <string name="sms_report_success">הדו\"ח נשלח בהצלחה</string>
-    <string name="snippet_audio">[שמע]</string>
-    <string name="snippet_picture">[תמונה]</string>
+    <string name="snippet_audio">[Audio]</string>
+    <string name="snippet_picture">[Image]</string>
     <string name="sp_category_all">כל הודעות השירות</string>
     <string name="sp_category_bank">הודעות מהבנקים</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">התראות</string>
     <string name="sp_mark_as_read_menu_title">סמן כנקרא</string>
-    <string name="sqlite_disk_full">מסד הנתונים או הדיסק מלאים</string>
-    <string name="sqlite_low_memory">זכרון נמוך</string>
+    <string name="sqlite_disk_full">שטח האחסון במכשירך מלא.</string>
+    <string name="sqlite_low_memory">אין מספיק שטח אחסון</string>
     <string name="status_failed">נכשל</string>
     <string name="status_label">"מצב: "</string>
     <string name="status_pending">ממתין</string>
@@ -651,9 +648,6 @@
     <string name="view">הצגה</string>
     <string name="view_bookmark">הצג הודעה מקורית</string>
     <string name="view_message_details">הצג פרטים</string>
-    <string name="voip_enable">הודעות Mi וקול Mi</string>
-    <string name="voip_enable_popup_msg">ביצוע שיחות להתקני MIUI אחרים ללא חיוב מספק הרשת שלך. VoIP נתמך על ידי Weihui. הצג את מדיניות הפרטיות של Weihui.</string>
-    <string name="voip_enable_popup_msg2">מדיניות הפרטיות</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">שלח בעוד %dש</string>
     <string name="wild_msg_processing">מעבד/u2026</string>

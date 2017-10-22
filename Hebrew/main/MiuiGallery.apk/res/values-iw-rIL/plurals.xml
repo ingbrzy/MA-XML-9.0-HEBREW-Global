@@ -192,6 +192,12 @@
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
     </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Hide these files?</item>
+        <item quantity="one">Hide this file?</item>
+        <item quantity="two">Hide these files?</item>
+        <item quantity="many">Hide these files?</item>
+    </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d תמונות</item>
         <item quantity="one">תמונה 1</item>

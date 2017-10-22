@@ -21,7 +21,7 @@
     <string name="phone_locked_foget_password_mehod_back">הקודם</string>
     <string name="phone_locked_foget_password_method_next">הבא</string>
     <string name="phone_locked_forget_password_suggesstions_title">כיצד למחוק נתונים?</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e>לחצן ההפעלה&lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע&lt;/font> בו זמנית עד להופעת הלוגו של Mi.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>כבה את מכשירך, לחץ והחזק את &lt;font color=#a5220e>לחצן ההפעלה&lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע&lt;/font> בו זמנית עד להופעת הלוגו של Mi.;</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>בחר &lt;font color=#a5220e>\"הסרה &amp;amp; איפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.;</Data></string>
     <string name="phone_locked_foget_password_ok">הבנתי</string>
     <string name="lockscreen_access_pattern_start">תבנית החלה</string>
@@ -95,7 +95,7 @@
     <string name="face_data_introduction_msg">"נתוני פנים יכולים לשמש לביטול נעילת מכשירך או אימות זהותך. הוסף סיסמת 'מסך הנעילה' לפני הוספת נתוני הפנים שלך."</string>
     <string name="face_data_introduction_next">הבא</string>
     <string name="face_data_suggesstion_first">"ביטול נעילת מכשירך באמצעות נתוני הפנים שלך הינו בטוח פחות מאשר שימוש בסיסמת 'מסך הנעילה'. נעילת מכשירך עלולה להתבטל על ידי אנשים הדומים לך."</string>
-    <string name="face_data_suggesstion_second">ודא כי כל חלקי הפנים שלך נראים לעין ושאינם מכוסים על ידי עצמים כלשהם. כמו כן, על הפנים שלך להיות מוארות.</string>
+    <string name="face_data_suggesstion_second">ודא כי כל חלקי הפנים שלך נראים לעין ושאינם מכוסים על ידי עצמים כלשהם. כמו כן, על פניך להיות מוארים.</string>
     <string name="face_data_input_camera_fail">לא ניתן היה לטעון את המצלמה</string>
     <string name="face_data_input_camera_ok">טוען את המצלמה…</string>
     <string name="face_data_input_msg">מקם את פניך בתוך המסגרת</string>
