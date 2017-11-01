@@ -81,7 +81,6 @@
     <string name="birthday_alarm_summary">נגן את השיר \"Happy Birthday\" במקום הצליל הקבוע ביום הולדתך</string>
     <string name="turn_off_a_repeat_alarm">בטל שעון מעורר חוזר</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
