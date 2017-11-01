@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -15,8 +18,6 @@
     <string name="button_cancel">ביטול</string>
     <string name="button_send">שליחה</string>
     <string name="backup_empty">אין גיבויים</string>
-    <string name="backup_items_sysdata_tailer">" קבצי נתונים של המערכת,"</string>
-    <string name="backup_items_app_tailer">" קבצי נתונים של יישומים"</string>
     <string name="backup_failed">לא ניתן היה לגבות</string>
     <string name="sdcard_unmounted">הכנס כרטיס זכרון כעת</string>
     <string name="backup_progress">מגבה…</string>
@@ -37,7 +38,6 @@
     <string name="start_restore">שחזור</string>
     <string name="backup_file_error">לא ניתן היה לגבות</string>
     <string name="unit_byte">B</string>
-    <string name="unit_piece">" פריטים"</string>
     <string name="restore_finished">שוחזר בהצלחה</string>
     <string name="restore_report">פרטי שחזור</string>
     <string name="restore_progress">משחזר…</string>
@@ -224,6 +224,7 @@
     <string name="file_uploading">מעלה…</string>
     <string name="new_backup">גיבוי</string>
     <string name="restore_backup">שחזור</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -356,19 +357,13 @@
     <string name="user_notice_message">תכונות מסוימות זקוקות לחיבור לאינטרנט על מנת לעבוד כראוי.</string>
     <string name="user_notice_declaration_ignore">אל תציג שוב</string>
     <string name="total_size">, %s</string>
-    <string name="btn_got_it">הבנתי</string>
-    <string name="backup_security_tips_title">הגיבוי עלול לא להצליח</string>
-    <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
-    <string name="trans_security_tips_title">תאימות Mi Mover</string>
-    <string name="trans_security_tips_message">יישומים מסויימים אינם תומכים ב-Mi Mover.</string>
     <string name="trans_intro_title">שאלות נפוצות</string>
     <string name="trans_intro_question_1">1. כיצד עלי להשתמש ב-Mi Mover?</string>
+    <string name="trans_intro_question_2">2. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
     <string name="trans_intro_title_new">בטלפון חדש:</string>
     <string name="trans_intro_desc_new">לחץ על \"אני נמען\". קוד QR יווצר.</string>
     <string name="trans_intro_title_old">בטלפון ישן:</string>
     <string name="trans_intro_desc_old">לחץ על \"אני השולח\". סרוק את קוד ה-QR המופיע בטלפון החדש, המתן עד לאחר ש-Mi Mover יזהה אילו קבצים עליו לשלוח, ואז לחץ על \"שליחה\".</string>
-    <string name="trans_intro_question_2">2. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
-    <string name="trans_intro_desc_2">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
     <string name="trans_intro_question_3">3. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
     <string name="trans_intro_desc_3">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה לכך שאינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
     <string name="trans_intro_question_4">4. מדוע Mi Mover טוען שאין מספיק שטח אחסון פנוי על גבי הטלפון הישן שלי?</string>
@@ -388,4 +383,13 @@
     <string name="trans_intro_desc_multiuser">"Mi Mover אינו יכול לגשת לפריטים ב'שטח שני'. העבר פריטים ל'שטח ראשון' תחילה והתחל שם את הפעלת Mi Mover."</string>
     <string name="trans_intro_title_multiapp">"נתוני 'יישומים משוכפלים':"</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover אינו מעביר נתוני 'יישומים משוכפלים' על מנת להימנע מסתירות בין קבצים."</string>
+    <string name="btn_got_it">הבנתי</string>
+    <string name="backup_security_tips_title">הגיבוי עלול לא להצליח</string>
+    <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
+    <string name="trans_security_tips_title">תאימות Mi Mover</string>
+    <string name="trans_security_tips_message">יישומים מסויימים אינם תומכים ב-Mi Mover.</string>
+    <string name="backup_items_sysdata_tailer">" קבצי נתונים של המערכת,"</string>
+    <string name="backup_items_app_tailer">" קבצי נתונים של יישומים"</string>
+    <string name="unit_piece">" פריטים"</string>
+    <string name="trans_intro_desc_2">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
 </resources>

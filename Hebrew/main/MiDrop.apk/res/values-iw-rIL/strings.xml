@@ -13,6 +13,8 @@
     <string name="clear_all">ניקוי הכל</string>
     <string name="click_to_send">לחץ על תמונת הפרופיל לשליחה</string>
     <string name="coolboot_title">שיתוף Mi Drop</string>
+    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
+    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
     <string name="default_lang">שפת המערכת</string>
     <string name="delete">מחיקה</string>
     <string name="delete_item_desc">למחוק קובץ זה מרשימת ההעברה?</string>
@@ -26,6 +28,14 @@
     <string name="enable_hotspot">הנקודה החמה של הרשת האלחוטית הופעלה בהצלחה</string>
     <string name="exit">יציאה</string>
     <string name="file_count">%1$d</string>
+    <string name="file_size_b">%1$d B</string>
+    <string name="file_size_gb">%2$1.2f GB</string>
+    <string name="file_size_kb">%2$1.2f KB</string>
+    <string name="file_size_mb">%2$1.2f MB</string>
+    <string name="file_speed_b">"%1$d B/ש'"</string>
+    <string name="file_speed_gb">"%2$1.2f GB/ש'"</string>
+    <string name="file_speed_kb">"%2$1.2f KB/ש'"</string>
+    <string name="file_speed_mb">"%2$1.2f MB/ש'"</string>
     <string name="files_selected">נבחרו</string>
     <string name="files_selected_count">קבצים שנבחרו: %1$d | סה\"כ: %2$s</string>
     <string name="help">עזרה</string>
@@ -105,7 +115,7 @@
     <string name="sender_wait">שולח קבצים…</string>
     <string name="sender_wait_queue">מתכונן לשליחה…</string>
     <string name="setting_now">הגדרה</string>
-    <string name="share_desc">כך תוכל לשתף את Mi Drop:</string>
+    <string name="share_desc">שתף את Mi Drop מבלי להשתמש בנתונים סלולריים בכלל</string>
     <string name="share_mi_drop">שתף את Mi Drop עם החברים שלך</string>
     <string name="step_1">"שלב 1: 
 בקש מהאדם השני להתחבר לרשת האלחוטית."</string>
@@ -117,7 +127,6 @@
     <string name="storage_usb">אחסון USB</string>
     <string name="trans_progress_finish">בוצע</string>
     <string name="trans_progress_percent">%1$s%%</string>
-    <string name="trans_speed">"%1$s/ ש'"</string>
     <string name="transfer_cancel">ההעברה בוטלה</string>
     <string name="transfer_fail_desc">החיבור לרשת הופרע, או שההעברה בוטלה על ידי האדם השני.</string>
     <string name="transfer_failed">לא ניתן היה להעביר</string>
@@ -136,6 +145,6 @@
     <string name="version">גרסה</string>
     <string name="want_receive">קבלת קבצים</string>
     <string name="want_send">שליחת קבצים</string>
-    <string name="wifi_name">רשת אלחוטית:</string>
+    <string name="wifi_name">שם רשת אלחוטית:</string>
     <string name="wifi_psw">סיסמה:</string>
 </resources>

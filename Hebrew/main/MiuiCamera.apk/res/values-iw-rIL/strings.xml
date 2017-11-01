@@ -160,7 +160,7 @@
     <string name="accessibility_shutter_button">לחצן הצילום</string>
     <string name="accessibility_review_thumbnail">תמונה חדשה ביותר</string>
     <string name="accessibility_camera_picker">החלפת מצלמה קדמית ואחורית</string>
-    <string name="accessibility_stereo_button">מצב מצלמה כפולה</string>
+    <string name="accessibility_stereo_button">Focus adjustment</string>
     <string name="pref_camera_autoexposure_title">הגדרות חשיפה אוטומטית</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">ממוצע מסגרת</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">מרכז משוקלל</string>
@@ -320,13 +320,12 @@
     <string name="simple_mode_button_text_magic_mirror">כבה מראת קסמים</string>
     <string name="pano_how_to_use_prompt_align_reference_line">יישר את החץ על פי הקו המנחה</string>
     <string name="pano_how_to_use_prompt_slow_down">אנא האט</string>
-    <string name="pref_camera_stereo_mode_title">סטריאו</string>
-    <string name="simple_mode_button_text_stereo_mode">"כבה את 'סטריאו'"</string>
+    <string name="pref_camera_stereo_mode_title">Focus adjustment</string>
+    <string name="simple_mode_button_text_stereo_mode">Turn off Focus adjustment</string>
     <string name="dual_camera_too_close_toast">המצלמה קרובה מידי לעצם.</string>
     <string name="dual_camera_lowlight_toast">נראה כי חשוך מידי.</string>
     <string name="dual_camera_lens_covered_toast">העדשה מוסתרת.</string>
-    <string name="dual_camera_use_hint">"מצב 'סטריאו' עוזר לך לעמעם את הרקע.
-על העצם להיות לא רחוק יותר מ-2 מטרים."</string>
+    <string name="dual_camera_use_hint">"Make sure the object isn't further than 2 meters."</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -340,6 +339,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">אפשרויות</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -356,11 +356,12 @@
     <string name="toast_saving">שומר תמונות…</string>
     <string name="cannot_connect_camera_volte_call">שיחת וידאו בתהליך. נסה שוב מאוחר יותר.</string>
     <string name="hibernate_hint">"הקש על המסך על מנת לעורר את ה'מצלמה'"</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">מצב זום</string>
     <string name="accessibility_portrait_button">מצב דיוקן</string>
     <string name="toast_burst_snap_finished_summary">הצילום המתפרץ בוצע, %1$s תמונות צולמו</string>
     <string name="pref_dualcamera_watermark_title">סימן מים של מצלמה כפולה</string>
-    <string name="pref_camera_device_watermark_title">Device watermark</string>
+    <string name="pref_camera_device_watermark_title">סימן המים של המכשיר</string>
     <string name="pref_camera_zoom_mode_title">עדשה</string>
     <string name="pref_camera_zoom_mode_entry_wide">רחב</string>
     <string name="pref_camera_zoom_mode_entry_tele">טלה</string>
@@ -419,7 +420,7 @@
     <string name="hint_fast_motion">הסרטון שתצלם יתנגן מהר יותר.</string>
     <string name="hint_slow_motion">הסרטון שתצלם יתנגן לאט יותר.</string>
     <string name="hunt_dual_water_mark">סימני מים של המצלמה הכפולה יתווספו באופן אוטומטי.</string>
-    <string name="hint_device_water_mark">Device watermark will be added automatically.</string>
+    <string name="hint_device_water_mark">סימן המים של המכשיר יתווסף באופן אוטומטי.</string>
     <string name="module_name_fun">סרטון קצר</string>
     <string name="module_name_video">וידאו</string>
     <string name="module_name_capture">תמונה</string>

@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="change_response_labels">
+        <item>אירוע זה בלבד</item>
+        <item>כל האירועים בסדרה</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>אירוע זה בלבד</item>
+        <item>אירוע זה ואירועים עתידיים</item>
+        <item>כל האירועים</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>הראשון</item>
+        <item>השני</item>
+        <item>השלישי</item>
+        <item>הרביעי</item>
+        <item>האחרון</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>תמיד</item>
         <item>רק כאשר הצלצול מושתק</item>
@@ -10,6 +26,12 @@
         <item>שבת</item>
         <item>ראשון</item>
         <item>שני</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>ללא תגובה</item>
+        <item>כן</item>
+        <item>אולי</item>
+        <item>לא</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>איי מרשל</item>
@@ -135,6 +157,10 @@
         <item>יום לפני</item>
         <item>יומיים לפני</item>
         <item>שבוע לפני</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>תאומים</item>

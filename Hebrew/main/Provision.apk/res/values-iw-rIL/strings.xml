@@ -71,4 +71,7 @@
     <string name="two_dimensional_code_scan">סריקת קוד QR</string>
     <string name="user_strayed_warning">"עמוד זה נבנה עבור בדיקות היצרן, לחץ על 'הקודם' על מנת לצאת."</string>
     <string name="fail_to_generate_qr_code">לא ניתן היה לייצר קוד QR. פתח עמוד זה שוב.</string>
+    <string name="enable_accessibility_canceled">הנגישות מבוטלת.</string>
+    <string name="accessibility_enabled">הנגישות מאופשרת.</string>
+    <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
 </resources>

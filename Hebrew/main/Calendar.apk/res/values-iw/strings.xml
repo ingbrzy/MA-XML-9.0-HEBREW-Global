@@ -94,8 +94,6 @@
     <string name="search">חפש</string>
     <string name="select_synced_calendars_title">לוחות שנה לסינכרון</string>
     <string name="show_day_view">הצג יום</string>
-    <string name="show_newer_events">גע כדי להציג אירועים אחרי %1$s</string>
-    <string name="show_older_events">גע כדי להציג אירועים לפני %1$s</string>
     <string name="synced">מסונכרן</string>
     <string name="template_announce_item_index">אירוע %1$s מתוך %2$s.</string>
     <string name="timezone_label">אזור זמן</string>
@@ -164,6 +162,8 @@
     <string name="select_synced_calendars_button">יומנים לסינכרון</string>
     <string name="select_visible_calendars_title">לוחות שנה להצגה</string>
     <string name="show_controls">הצג פקדים</string>
+    <string name="show_newer_events">גע כדי להציג אירועים אחרי %1$s</string>
+    <string name="show_older_events">גע כדי להציג אירועים לפני %1$s</string>
     <string name="snooze_all_label">העבר את כולם למצב נמנום</string>
     <string name="snooze_label">נודניק</string>
     <string name="week_view">שבוע</string>

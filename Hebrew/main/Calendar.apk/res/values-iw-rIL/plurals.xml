@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים לפני</item>
+        <item quantity="one">יום %d לפני</item>
+        <item quantity="two">%d ימים לפני</item>
+        <item quantity="many">%d ימים לפני</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות לפני</item>
+        <item quantity="one">שעה %d לפני</item>
+        <item quantity="two">%d שעות לפני</item>
+        <item quantity="many">%d שעות לפני</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d דקות לפני</item>
+        <item quantity="one">דקה %d לפני</item>
+        <item quantity="two">%d דקות לפני</item>
+        <item quantity="many">%d דקות לפני</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">%d+</item>
+        <item quantity="one">1+</item>
+        <item quantity="two">%d+</item>
+        <item quantity="many">%d+</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">שבוע %d</item>
+        <item quantity="one">שבוע %d</item>
+        <item quantity="two">שבוע %d</item>
+        <item quantity="many">שבוע %d</item>
+    </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">בעוד %1$d ימים ב- %2$s</item>
         <item quantity="one">בעוד יום %1$d ב- %2$s</item>

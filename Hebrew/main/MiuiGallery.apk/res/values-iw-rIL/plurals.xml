@@ -108,24 +108,6 @@
         <item quantity="two">%d תמונות ענן נוספו, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגן.</item>
         <item quantity="many">%d תמונות ענן נוספו, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגן.</item>
     </plurals>
-    <plurals name="delete_photo_msg_format">
-        <item quantity="other">למחוק את %1$d התמונות הללו %2$s?</item>
-        <item quantity="one">למחוק תמונה זו %2$s?</item>
-        <item quantity="two">למחוק את %1$d התמונות הללו %2$s?</item>
-        <item quantity="many">למחוק את %1$d התמונות הללו %2$s?</item>
-    </plurals>
-    <plurals name="delete_video_msg_format">
-        <item quantity="other">למחוק את %1$d הסרטונים הללו %2$s?</item>
-        <item quantity="one">למחוק וידאו זה %2$s?</item>
-        <item quantity="two">למחוק את %1$d הסרטונים הללו %2$s?</item>
-        <item quantity="many">למחוק את %1$d הסרטונים הללו %2$s?</item>
-    </plurals>
-    <plurals name="delete_media_msg_format">
-        <item quantity="other">למחוק %1$d פריטים %2$s?</item>
-        <item quantity="one">למחוק פריט %1$d %2$s?</item>
-        <item quantity="two">למחוק %1$d פריטים %2$s?</item>
-        <item quantity="many">למחוק %1$d פריטים %2$s?</item>
-    </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d פריטים)</item>
         <item quantity="one">(פריט %d)</item>
@@ -193,10 +175,10 @@
         <item quantity="many">%d סרטונים</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Hide these files?</item>
-        <item quantity="one">Hide this file?</item>
-        <item quantity="two">Hide these files?</item>
-        <item quantity="many">Hide these files?</item>
+        <item quantity="other">להסתיר קבצים אלה?</item>
+        <item quantity="one">להסתיר קובץ זה?</item>
+        <item quantity="two">להסתיר קבצים אלה?</item>
+        <item quantity="many">להסתיר קבצים אלה?</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d תמונות</item>
@@ -305,5 +287,23 @@
         <item quantity="one">תמונה %1$d נוספה אל \"%2$s\" ולמסד הנתונים.</item>
         <item quantity="two">%1$d תמונות נוספו אל \"%2$s\" ולמסד הנתונים.</item>
         <item quantity="many">%1$d תמונות נוספו אל \"%2$s\" ולמסד הנתונים.</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">למחוק את %1$d התמונות הללו %2$s?</item>
+        <item quantity="one">למחוק תמונה זו %2$s?</item>
+        <item quantity="two">למחוק את %1$d התמונות הללו %2$s?</item>
+        <item quantity="many">למחוק את %1$d התמונות הללו %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">למחוק את %1$d הסרטונים הללו %2$s?</item>
+        <item quantity="one">למחוק וידאו זה %2$s?</item>
+        <item quantity="two">למחוק את %1$d הסרטונים הללו %2$s?</item>
+        <item quantity="many">למחוק את %1$d הסרטונים הללו %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">למחוק %1$d פריטים %2$s?</item>
+        <item quantity="one">למחוק פריט %1$d %2$s?</item>
+        <item quantity="two">למחוק %1$d פריטים %2$s?</item>
+        <item quantity="many">למחוק %1$d פריטים %2$s?</item>
     </plurals>
 </resources>

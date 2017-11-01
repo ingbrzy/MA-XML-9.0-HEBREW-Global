@@ -246,6 +246,7 @@
     <string name="no_match_repate_scanner">לא ניתן היה למצוא טביעות אצבע תואמות, סרוק שוב</string>
     <string name="delete_phone_fingerprint">"מחק את טביעת האצבע של 'שטח שני'"</string>
     <string name="delete_fingerprint">מחק טביעת אצבע</string>
+    <string name="fingerprint_number_upper_limit">נסיונות ביטול נעילה כושלים רבים מידי</string>
     <string name="delete_fingerprint_desc">"טביעת האצבע של 'שטח שני' תמחק יחד עם הסיסמה"</string>
     <string name="fingerprint_removal_failed">לא ניתן היה למחוק את טביעת האצבע</string>
     <string name="notification_recommend_title">"12 היישומים המומלצים ביותר עבור 'שטח שני'"</string>
@@ -286,7 +287,7 @@
     <string name="can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="can_not_delete_when_calling">לא ניתן למחוק שטחים במהלך שיחה</string>
     <string name="support_desc">שירותי האבטחה מסופקים על ידי Graphite</string>
-    <string name="sdcardfs_dialog_message">"כבה את \"ייעול כרטיס זכרון וירטואלי\" באפשרויות המפתח לפני כניסה ל'שטח שני'."</string>
+    <string name="sdcardfs_dialog_message">"כבה את \"ייעול של כרטיס זכרון וירטואלי\" ב'הגדרות' > 'הגדרות נוספות' > 'אפשרויות מפתחים', לפני כניסה ל'שטח שני'."</string>
     <string name="do_not_ask">אל תשאל שוב</string>
     <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Play'?"</string>
     <string name="gpg_title">"יישום משוכפל עבור 'משחקי חנות Play'"</string>

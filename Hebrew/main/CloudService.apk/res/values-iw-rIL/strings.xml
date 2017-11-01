@@ -369,7 +369,7 @@
 %s נקודות Mi"</string>
     <string name="micloud_member_net_error_alert_title">לא ניתן להתחבר לרשת</string>
     <string name="micloud_member_net_error_alert_message">אין לך חיבור לאינטרנט.</string>
-    <string name="micloud_member_pay_fail_toast">לא ניתן היה להשלים את התשלום</string>
+    <string name="micloud_member_pay_fail_toast">לא ניתן היה לבצע את התשלום</string>
     <string name="micloud_member_webload_fail_toast_5xx">שגיאת שרת</string>
     <string name="micloud_member_webload_fail_toast_4xx">לא ניתן היה לטעון את העמוד</string>
     <string name="micloud_member_webload_fail_error_message">שגיאת רשת</string>
