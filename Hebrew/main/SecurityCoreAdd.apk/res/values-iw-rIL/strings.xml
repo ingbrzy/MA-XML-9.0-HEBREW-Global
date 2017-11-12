@@ -287,7 +287,7 @@
     <string name="can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="can_not_delete_when_calling">לא ניתן למחוק שטחים במהלך שיחה</string>
     <string name="support_desc">שירותי האבטחה מסופקים על ידי Graphite</string>
-    <string name="sdcardfs_dialog_message">"כבה את \"ייעול של כרטיס זכרון וירטואלי\" ב'הגדרות' > 'הגדרות נוספות' > 'אפשרויות מפתחים', לפני כניסה ל'שטח שני'."</string>
+    <string name="sdcardfs_dialog_message">"יתכן כי הנתונים הישנים שלך אינם תואמים לקובץ המערכת החדש. ייעל את הנתונים לפני כניסה ל'שטח שני' ואתחל את מכשירך."</string>
     <string name="do_not_ask">אל תשאל שוב</string>
     <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Play'?"</string>
     <string name="gpg_title">"יישום משוכפל עבור 'משחקי חנות Play'"</string>
@@ -314,4 +314,6 @@
 שני שטחים, מכשיר אחד."</string>
     <string name="privacy_password_fingerprint_dialog_title">סרוק את טביעת האצבע שלך</string>
     <string name="privacy_password_fingerprint_dialog_message">הנח את האצבע שלך על החיישן</string>
+    <string name="optimize_now">ייעול</string>
+    <string name="dialog_title">שים לב</string>
 </resources>

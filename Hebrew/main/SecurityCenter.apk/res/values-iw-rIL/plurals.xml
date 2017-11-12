@@ -308,6 +308,12 @@
         <item quantity="two">"המתן למשך %d שניות ונסה שוב. "</item>
         <item quantity="many">"המתן למשך %d שניות ונסה שוב. "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d יישומים</item>
+        <item quantity="one">יישום %d</item>
+        <item quantity="two">%d יישומים</item>
+        <item quantity="many">%d יישומים</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d יישומים נעולים</item>
         <item quantity="one">יישום %d נעול</item>
@@ -319,6 +325,18 @@
         <item quantity="one">יישום %d לא נעול</item>
         <item quantity="two">%d יישומים לא נעולים</item>
         <item quantity="many">%d יישומים לא נעולים</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d התראות הוסתרו</item>
+        <item quantity="one">התראה %d הוסתרה</item>
+        <item quantity="two">%d התראות הוסתרו</item>
+        <item quantity="many">%d התראות הוסתרו</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d התראות גלויות</item>
+        <item quantity="one">התראה %d גלויה</item>
+        <item quantity="two">%d התראות גלויות</item>
+        <item quantity="many">%d התראות גלויות</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">חפש בין %d יישומים</item>

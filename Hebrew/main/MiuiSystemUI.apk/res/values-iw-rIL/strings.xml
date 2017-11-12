@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -496,7 +498,7 @@ d MMMM"</string>
     <string name="camera_key_action_none_title">אין פעולה</string>
     <string name="camera_key_action_shortcut_title">קיצור דרך</string>
     <string name="camera_key_action_toggle_title">מתג טריגר</string>
-    <string name="camera_key_action_app_title">פתח יישום</string>
+    <string name="camera_key_action_app_title">פתיחת יישום</string>
     <string name="camera_key_action_shortcut_home">חזרה למסך הבית</string>
     <string name="camera_key_action_shortcut_screenshot">צילום מסך</string>
     <string name="camera_key_action_shortcut_search">חיפוש</string>
@@ -536,6 +538,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
     <string name="ext_media_mountable_notification_message">"לחץ על מנת לפתוח ב'סייר'."</string>
     <string name="ext_media_safe_remove">הסר בבטחה</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">М/s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
@@ -561,7 +564,7 @@ d MMMM"</string>
     <string name="notification_otg_stylus_in">מחט (סטיילוס) מחוברת</string>
     <string name="notification_otg_touchScreen_in">מסך מגע מחובר</string>
     <string name="notification_otg_touchPad_in">לוח מגע מחובר</string>
-    <string name="notification_otg_trackball_in">כדור עיקוב מחובר</string>
+    <string name="notification_otg_trackball_in">כדור העיקוב מחובר</string>
     <string name="notification_otg_unknow_in">התקן OTG מחובר</string>
     <string name="notification_otg_mouse_out">עכבר מנותק</string>
     <string name="notification_otg_keyboard_out">מקלדת מנותקת</string>
@@ -569,7 +572,7 @@ d MMMM"</string>
     <string name="notification_otg_stylus_out">מחט (סטיילוס) מנותקת</string>
     <string name="notification_otg_touchScreen_out">מסך המגע מנותק</string>
     <string name="notification_otg_touchPad_out">לוח המגע מנותק</string>
-    <string name="notification_otg_trackball_out">כדור עיקוב מנותק</string>
+    <string name="notification_otg_trackball_out">כדור העיקוב מנותק</string>
     <string name="notification_otg_unknow_out">התקן OTG מנותק</string>
     <string name="mdb_restore_label">שחזור MDB</string>
     <string name="mdb_restore_info1">שחזור נתונים של הטלפון שלך</string>
@@ -615,6 +618,7 @@ d MMMM"</string>
     <string name="notification_header_title">התראות</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="no_weather_description">קבל מידע אודות מזג האויר ></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="screenshot_long_screenshot">גלילה</string>
     <string name="screenshot_edit">עריכה</string>
     <string name="screenshot_send">שליחה</string>

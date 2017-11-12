@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -15,6 +18,7 @@
     <string name="button_cancel">ביטול</string>
     <string name="button_send">שליחה</string>
     <string name="backup_empty">אין גיבויים</string>
+    <string name="comma_seperator">", "</string>
     <string name="backup_failed">לא ניתן היה לגבות</string>
     <string name="sdcard_unmounted">הכנס כרטיס זכרון כעת</string>
     <string name="backup_progress">מגבה…</string>
@@ -28,6 +32,7 @@
     <string name="delete">מחיקה</string>
     <string name="cancel">ביטול</string>
     <string name="reconnect">התחבר שוב</string>
+    <string name="pause">הפסקה</string>
     <string name="delete_backup_process">מוחק…</string>
     <string name="backup_error">לא ניתן היה לגבות</string>
     <string name="delete_failed_backup_confirm">גיבוי זה מכיל שגיאות.</string>
@@ -163,7 +168,7 @@
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="no_network">לא ניתן להתחבר לרשת</string>
-    <string name="retry">נסה שוב</string>
+    <string name="retry">Try again</string>
     <string name="select_all">בחר הכל</string>
     <string name="deselect_all">הסר בחירה מהכל</string>
     <string name="reverse_all">נקה הכל</string>
@@ -194,7 +199,7 @@
     <string name="enable_encrypt_xiaomi_account">גיבוי זה נוצר על ידי %1$s. על מנת לשחזר, מחק את החשבון הנוכחי והתחבר כ- %2$s.</string>
     <string name="enable_encrypt_ok">אישור</string>
     <string name="no_encrypt_password">אין סיסמה</string>
-    <string name="enable_encrypt_fail">ההצפנה נכשלה</string>
+    <string name="enable_encrypt_fail">Encryption error</string>
     <string name="read_encrypt_fail">לא ניתן היה לקרוא את הגיבוי המוצפן</string>
     <string name="exchange_account">החלפת חשבונות</string>
     <string name="system_backup">גיבוי</string>
@@ -221,6 +226,9 @@
     <string name="file_uploading">מעלה…</string>
     <string name="new_backup">גיבוי</string>
     <string name="restore_backup">שחזור</string>
+    <string name="enable_encrypt_description">הצפנה</string>
+    <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -233,7 +241,7 @@
     <string name="summary_err_restore_encrypting">לא ניתן היה לשחזר, ודא כי גיבוי זה בוצע באמצעות שימוש בחשבון Mi שלך.</string>
     <string name="summary_err_backup_no_network">לא ניתן היה להתחבר לרשת</string>
     <string name="summary_err_restore_no_network">לא ניתן היה להתחבר לרשת</string>
-    <string name="err_authentication_failed">האימות נכשל</string>
+    <string name="err_authentication_failed">"Couldn't authenticate"</string>
     <string name="err_low_storage">אין מספיק מקום</string>
     <string name="err_unknown">שגיאה לא מוכרת</string>
     <string name="err_version_too_old">קובץ הגיבוי ישן מידי.</string>
@@ -255,6 +263,8 @@
     <string name="notif_trans_sending_failed">לא ניתן היה לשלוח נתונים</string>
     <string name="notif_trans_receiving_failed">לא ניתן היה לקבל נתונים</string>
     <string name="notif_trans_wait_for_reconnecting">החיבור נקטע. התחבר שוב.</string>
+    <string name="notif_trans_auto_reconnecting_title">החיבור הופרע. מתחבר מחדש באופן אוטומטי…</string>
+    <string name="notif_trans_auto_reconnecting_content">באפשרותך לבטל את המשימה הנוכחית במידת הצורך.</string>
     <string name="custom_progress">%d פריטים</string>
     <string name="remote_receive">קבל</string>
     <string name="click_to_view">לחץ להצגה</string>
@@ -306,11 +316,12 @@
     <string name="trans_cancelling">מבטל…</string>
     <string name="trans_device_disconnected">החיבור נקטע</string>
     <string name="trans_device_wait_for_reconnecting">החיבור נקטע. התחבר שוב על מנת להמשיך.</string>
+    <string name="trans_device_auto_reconnecting">המכשיר התנתק. מתחבר מחדש באופן אוטומטי…</string>
     <string name="trans_connecting_toast">מתחבר…</string>
     <string name="trans_connect_failed_toast">לא ניתן היה להתחבר</string>
     <string name="trans_generate_qr_code_failed">לא ניתן היה ליצור קוד QR</string>
     <string name="trans_scan_invalid_qrcode">קוד ה-QR אינו חוקי</string>
-    <string name="trans_scan_qr_code_tips">סרוק את קוד ה-QR במכשיר החדש</string>
+    <string name="trans_scan_qr_code_tips">סרוק את קוד ה-QR באמצעות המכשיר החדש</string>
     <string name="trans_show_qr_code_label">חבר את המכשיר הישן</string>
     <string name="trans_show_qr_code_tips">סרוק את קוד ה-QR באמצעות המכשיר הישן</string>
     <string name="trans_operate_new_phone_tips">"על מנת ליצור קוד QR עבור אל הגדרות > הגדרות נוספות > Mi Mover
@@ -344,7 +355,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="trans_connect_failed_title">לא ניתן היה להתחבר</string>
     <string name="trans_connect_failed_message">לא ניתן היה להתחבר, נסה שוב או אתחל את המכשיר. במכשיר האחר, עבור אל הגדרות > הגדרות נוספות &amp;Mi Mover; gt, לחץ על [אני השולח], או הפעל את Mi Mover שוב לאחר אתחול.</string>
-    <string name="trans_retry">נסה שוב</string>
+    <string name="trans_retry">Try again</string>
     <string name="trans_start_failed_title">לא ניתן היה להתחיל בהעברה</string>
     <string name="trans_start_failed_message">לא ניתן היה להתחיל בהעברה, נסה שוב או אתחל את המכשיר.</string>
     <string name="trans_connect_failed_device_incompatible">המכשיר אינו תואם. בטל את ההעברה ונסה שוב.</string>
@@ -354,23 +365,26 @@
     <string name="user_notice_declaration_ignore">אל תציג שוב</string>
     <string name="total_size">, %s</string>
     <string name="trans_intro_title">שאלות נפוצות</string>
-    <string name="trans_intro_question_1">1. כיצד עלי להשתמש ב-Mi Mover?</string>
-    <string name="trans_intro_question_2">2. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
+    <string name="trans_intro_question_1">1. How do I use Mi Mover to move data from an iOS device?</string>
+    <string name="trans_intro_desc_1">"On a Mi phone, connect to Wi-Fi and tap \"I'm a recipient\". Select your iOS device, sign in to iCloud, and import data."</string>
+    <string name="trans_intro_question_2">2. How do I use Mi Mover to move data from an Android device?</string>
     <string name="trans_intro_title_new">בטלפון חדש:</string>
     <string name="trans_intro_desc_new">לחץ על \"אני נמען\". קוד QR יווצר.</string>
     <string name="trans_intro_title_old">בטלפון ישן:</string>
     <string name="trans_intro_desc_old">לחץ על \"אני השולח\". סרוק את קוד ה-QR המופיע בטלפון החדש, המתן עד לאחר ש-Mi Mover יזהה אילו קבצים עליו לשלוח, ואז לחץ על \"שליחה\".</string>
-    <string name="trans_intro_question_3">3. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
-    <string name="trans_intro_desc_3">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה לכך שאינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
-    <string name="trans_intro_question_4">4. מדוע Mi Mover טוען שאין מספיק שטח אחסון פנוי על גבי הטלפון הישן שלי?</string>
-    <string name="trans_intro_desc_4">שטח אחסון על גבי מכשירים ישנים משמש ליצירת חבילות העברה. ודא כי יש ברשותך לפחות 500MB-1GB של שטח אחסון זמין על גבי הטלפון הישן שלך לפני שתתחיל לבצע העברה.</string>
-    <string name="trans_intro_question_5">5. מדוע יישומים מסויימים אינם מועברים בהצלחה?</string>
-    <string name="trans_intro_desc_5">"ישנן לכך סיבות אפשריות שונות: בעיות תאימות בין המערכת לגירסת היישום, בעיות רשת, בעיות תאימות ייחודיות למכשירים מסויימים וכו'."</string>
-    <string name="trans_intro_question_6">6. מדוע יישומים מסויימים אינם מתחילים לפעול במכשיר חדש?</string>
-    <string name="trans_intro_desc_6">"פרופילים של יישומים מסויימים (בנקאות דיגיטלית, כלכלה וכו') משוייכים למכשיר מסיבות אבטחה. נסה לנקות את נתוני היישום או להתקין מחדש את היישום על גבי מכשיר חדש."</string>
-    <string name="trans_intro_question_7">7. מדוע היסטורית WeChat אינה מועברת במלואה?</string>
-    <string name="trans_intro_desc_7">"יתכן כי נתוני היישום והיסטורית הצ'אט של WeChat לא יועברו במלואם באמצעות Mi Mover. עבור אל הגדרות WeChat וצא מחשבונך לסיכויי העברה מוצלחת גבוהים יותר."</string>
-    <string name="trans_intro_question_8">8. אילו פריטים אינם יכולים להיות מועברים?</string>
+    <string name="trans_intro_question_3">3. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
+    <string name="trans_intro_desc_3">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
+    <string name="trans_intro_question_4">4. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
+    <string name="trans_intro_desc_4">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה לכך שאינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
+    <string name="trans_intro_question_5">5. מדוע Mi Mover טוען שאין מספיק שטח אחסון פנוי על גבי הטלפון הישן שלי?</string>
+    <string name="trans_intro_desc_5">שטח אחסון על גבי מכשירים ישנים משמש ליצירת חבילות העברה. ודא כי יש ברשותך לפחות 500MB-1GB של שטח אחסון זמין על גבי הטלפון הישן שלך לפני שתתחיל לבצע העברה.</string>
+    <string name="trans_intro_question_6">6. מדוע יישומים מסויימים אינם מועברים בהצלחה?</string>
+    <string name="trans_intro_desc_6">"ישנן לכך סיבות אפשריות שונות: בעיות תאימות בין המערכת לגירסת היישום, בעיות רשת, בעיות תאימות ייחודיות למכשירים מסויימים וכו'."</string>
+    <string name="trans_intro_question_7">7. מדוע יישומים מסויימים אינם מתחילים לפעול במכשיר חדש?</string>
+    <string name="trans_intro_desc_7">"מסיבות אבטחה, פרופילים של יישומים מסויימים (בנקאות דיגיטלית, כלכלה וכו') משוייכים למכשיר מסויים בלבד. נסה לנקות את נתוני היישום או להתקין מחדש את היישום על גבי מכשיר חדש."</string>
+    <string name="trans_intro_question_8">8. מדוע היסטורית WeChat אינה מועברת במלואה?</string>
+    <string name="trans_intro_desc_8">"יתכן כי נתוני היישום והיסטורית הצ'אט של WeChat לא יועברו במלואם באמצעות Mi Mover. עבור אל הגדרות WeChat וצא מחשבונך לסיכויי העברה מוצלחת גבוהים יותר."</string>
+    <string name="trans_intro_question_9">9. אילו פריטים לא ניתן להעביר?</string>
     <string name="trans_intro_title_account">חשבונות וסיסמאות:</string>
     <string name="trans_intro_desc_account">"עליך להיכנס שוב לחשבונותיך (לדוגמה: Google, Exchange, חשבון Mi, וכו') במכשיר חדש מסיבות אבטחה."</string>
     <string name="trans_intro_title_private">אלבום מוסתר:</string>
@@ -384,8 +398,92 @@
     <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
     <string name="trans_security_tips_title">תאימות Mi Mover</string>
     <string name="trans_security_tips_message">יישומים מסויימים אינם תומכים ב-Mi Mover.</string>
-    <string name="backup_items_sysdata_tailer">" קבצי נתונים של המערכת,"</string>
-    <string name="backup_items_app_tailer">" קבצי נתונים של יישומים"</string>
-    <string name="unit_piece">" פריטים"</string>
-    <string name="trans_intro_desc_2">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
+    <string name="trans_wlan_tips_title">"Don't turn off Wi-Fi"</string>
+    <string name="trans_wlan_tips_message">"Don't turn off Wi-fi or switch to other Wi-Fi networks during the transfer. Otherwise, Mi Mover won't be able to transfer data."</string>
+    <string name="trans_disconnected_tips_title">Remote device disconnected</string>
+    <string name="trans_disconnected_tips_message">Remote device disconnected. Connect again manually or cancel the transfer.</string>
+    <string name="trans_button_cancel">ביטול</string>
+    <string name="close_twice_auth_tutor">Turn off Apple ID two-factor authorication</string>
+    <string name="close_twice_auth_steps">Follow these steps to turn off two-factor authentication for Apple ID:</string>
+    <string name="close_twice_auth_step_1">1. Open any web browser on any computer and go to appleid.apple.com.</string>
+    <string name="close_twice_auth_step_2">2. Sign in to the Apple ID you want to disable two factor authentication for, go to the \"Security\" section of account settings and choose \"Edit\"</string>
+    <string name="close_twice_auth_step_3">3. Click \"Turn Off Two-Factor Authentication\". Click again to confirm.</string>
+    <string name="close_twice_auth_note">"Note:
+After creating a new security question and confirming your date of birth, your Apple ID two-factor authentication will be turned off. If you don't see the option to turn off two-factor authentication on the Apple ID account page, you can't turn it off."</string>
+    <string name="close_twice_auth_btn">Turn off two-factor authentication</string>
+    <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
+    <string name="platform_chooser_title">בחר מכשיר ישן</string>
+    <string name="platform_chooser_item_ios">Import from an iOS device</string>
+    <string name="platform_chooser_item_android">Import from an Android device</string>
+    <string name="icloud_need_wifi_title">Connect to Wi-Fi</string>
+    <string name="icloud_need_wifi_message">"You aren't connected to Wi-Fi now. To import data from iCloud, connect to Wi-Fi."</string>
+    <string name="icloud_login_title">Sign in to iCloud</string>
+    <string name="icloud_backup_tip">Sign in to the iCloud account of your old iOS device</string>
+    <string name="icloud_how_to_backup_tip_title">טיפים:</string>
+    <string name="icloud_how_to_backup_tip_summary">To import data from iOS, you must create an iCloud backup.</string>
+    <string name="icloud_how_to_backup_tip_steps">"1. Open Settings on your iOS device, and select iCloud.
+2. Toggle the switch for Contacts.
+3.Select Photos and toggle the switch for iCloud Photo Library."</string>
+    <string name="user_name">Apple ID או כתובת דוא\"ל</string>
+    <string name="password">Password</string>
+    <string name="user_name_null">"Username can't be empty"</string>
+    <string name="password_null">"Password can't be empty"</string>
+    <string name="name_password_not_consistent">Username or password is wrong</string>
+    <string name="login">Sign in</string>
+    <string name="logining">Signing in…</string>
+    <string name="login_failed">"Couldn't sign in. Try again."</string>
+    <string name="connect_wifi_tip">"Couldn't connect to the network. Connect to Wi-Fi to import items from iCloud."</string>
+    <string name="connect_wifi">Connect to Wi-Fi</string>
+    <string name="notif_icloud_logining">Signing in to iCloud on the old iOS device…</string>
+    <string name="notif_icloud_loading_summary">טוען נתונים…</string>
+    <string name="notif_icloud_import_title">ייבוא נתונים מ-iCloud</string>
+    <string name="notif_icloud_loaded_summary">Waiting…</string>
+    <string name="notif_icloud_canceling_summary">מבטל…</string>
+    <string name="notif_icloud_canceled_summary">בוטל</string>
+    <string name="notif_icloud_saved_summary">Imported successfully</string>
+    <string name="notif_icloud_need_wifi_summary">Waiting for Wi-Fi</string>
+    <string name="hsa_title">אימות דו-שלבי</string>
+    <string name="hsa_input_tip">Your Apple ID uses two-factor authentication. Enter verification code.</string>
+    <string name="hsa_input_hint">הזן קוד אימות</string>
+    <string name="hsa_code_null">"Verification code can't be empty"</string>
+    <string name="hsa_send_again">שלח שוב</string>
+    <string name="hsa_send_again_countdown">Send again (%ds)</string>
+    <string name="hsa_sending">שולח…</string>
+    <string name="hsa_send_failed">"Couldn't send verification code. Waot a minute or two and try again."</string>
+    <string name="hsa_tip_title">טיפים:</string>
+    <string name="hsa_tip_message">"1. A message with the verification code has been sent to the device associated with your Apple ID.
+2. Turn off two-factor authentication if the verification code doesn't work."</string>
+    <string name="hsa_tip_message_with_device">"1. A message with the verification code has been sent to \"%s\" associated with your Apple ID.
+2. Turn off two-factor authentication if the verification code doesn't work."</string>
+    <string name="hsa_tip_message_shutdown_hsa">How to turn off two-factor authentication</string>
+    <string name="hsa_verify_failed">האימות הדו-שלבי נכשל</string>
+    <string name="hsa_verify_failed_message">האימות הדו-שלבי נכשל. באפשרותך לנסות שוב או לכבותו.</string>
+    <string name="hsa_verify_retry">Try again</string>
+    <string name="hsa_verify_shutdown">כיבוי</string>
+    <string name="import_data_from_icloud">ייבוא נתונים מ-iCloud</string>
+    <string name="loading_data">טוען נתונים</string>
+    <string name="icloud_need_sync">"To import data from iOS,
+you should create an iCloud backup first."</string>
+    <string name="import_tip_title">טיפים:</string>
+    <string name="import_tip_summary">Due to compatibility issues, you can only transfer contacts and photos from iOS devices. Make sure you create an iCloud backup before starting the transfer.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
+    <string name="button_import">ייבוא</string>
+    <string name="select_empty">בחירת פריטים לייבוא</string>
+    <string name="select_item_summary_wait">Waiting…</string>
+    <string name="select_item_summary_loading">טוען נתונים…</string>
+    <string name="select_item_contacts">אנשי קשר</string>
+    <string name="select_item_photos">תמונות</string>
+    <string name="select_item_empty_summary">No items</string>
+    <string name="cancel_moving_dialog_title">עצירת הייבוא</string>
+    <string name="cancel_moving_dialog_message">Stop importing now?</string>
+    <string name="notif_icloud_saving_summary">משחזר נתונים…</string>
+    <string name="saving_data">"Importing data from iCloud…
+Don't turn off Wi-Fi"</string>
+    <string name="saving_data_no_time">Restoring data…</string>
+    <string name="saving_data_space_low">"Not enough storage space.
+Free up at least %s."</string>
+    <string name="save_finish_with_failing_items">"Transfer was interrupted.
+The data which wasn't imported must be imported again."</string>
+    <string name="import_again">ייבא שוב</string>
 </resources>

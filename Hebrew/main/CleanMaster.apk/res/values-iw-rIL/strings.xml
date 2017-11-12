@@ -27,7 +27,7 @@
     <string name="btn_text_quick_cleanup">נקה</string>
     <string name="hints_title_garbage">אשפה</string>
     <string name="activity_title_main">מנקה</string>
-    <string name="activity_title_deep_clean">ניקוי עמוק</string>
+    <string name="activity_title_deep_clean">ניקוי יסודי</string>
     <string name="activity_title_cache">מטמון</string>
     <string name="activity_title_ad">פרסומות</string>
     <string name="activity_title_apk">חבילות</string>

@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -403,7 +405,7 @@
     <string name="unlock_set_unlock_password_summary">הזן ארבע או יותר אותיות או מספרים על מנת לבטל את נעילת המכשיר</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_mode_password">סיסמה</string>
-    <string name="unlock_change_lock_pin_title">שנה PIN</string>
+    <string name="unlock_change_lock_pin_title">שינוי PIN</string>
     <string name="lockpassword_pin_too_short">על קוד ה-PIN להיות באורך %d ספרות</string>
     <string name="lockpassword_pin_too_long">על קוד ה-PIN להכיל פחות מ- %d ספרות</string>
     <string name="lockpassword_pin_contains_non_digits">קוד PIN יכול להכיל ספרות בלבד</string>
@@ -572,7 +574,7 @@
     <string name="data_usage_metered_wifi_disabled">לבחירת נקודות חמות, הפעל את החיבור לרשתות האלחוטיות.</string>
     <string name="vpn_dns_servers">שרתי DNS</string>
     <string name="vpn_routes">מסלולי העברה</string>
-    <string name="vpn_create">הוסף VPN</string>
+    <string name="vpn_create">הוספת VPN</string>
     <string name="additional_system_update_settings_list_item_title">עדכוני מערכת נוספים</string>
     <string name="user_add_user_message_long">"באפשרותך לשתף מכשיר זה עם אנשים אחרים על ידי יצירת משתמשים נוספים. כל משתמש יקבל שטח משלו, שאותו הוא יוכל להתאים אישית בעזרת היישומים, הטפטים שלו וכן הלאה. בנוסף, יוכלו המשתמשים להתאים הגדרות טאבלט כגון הגדרות רשת אלחוטית, אשר משפיעות על כולם.
 
@@ -614,6 +616,7 @@
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
     <string name="dndm_auto_time_turn_on_title">"הפעל אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_off">עד</string>
@@ -900,7 +903,7 @@
     <string name="notification_reboot_title_hm">אתחל את המכשיר להחלת העדכון</string>
     <string name="notification_reboot_summary_hm">לחץ על מנת לאתחל את מכשירך.</string>
     <string name="notification_reboot_btn">אתחול</string>
-    <string name="miui_updater">עדכונים</string>
+    <string name="miui_updater">System update</string>
     <string name="giga_hertz">GHz</string>
     <string name="reading_data">מקבל פרטים…</string>
     <string name="available_size">%s זמין</string>
@@ -1034,13 +1037,11 @@
     <string name="key_gesture_function_dialog_negative">ביטול</string>
     <string name="enable_snapshot_screenlock">"לחיצה ארוכה על מקש 'חזרה' על מנת לצלם תמונה"</string>
     <string name="disable_power_key_long_press_under_keyguard">"כיבוי תפריט לחצן ה'הפעלה'"</string>
-    <string name="trackball_wake_title">הערת כדור עיקוב</string>
+    <string name="trackball_wake_title">הערת כדור העיקוב</string>
     <string name="pref_volume_wake_title">הער באמצעות לחצני עוצמת השמע</string>
     <string name="pref_volume_wake_summary">לחיצה על לחצני עוצמת השמע מעירה את המכשיר</string>
     <string name="pref_volume_launch_camera_title">"הפעל את ה'מצלמה'"</string>
     <string name="pref_volume_launch_camera_summary">"לחץ פעמיים על כפתור הנמכת עוצמת השמע על מנת להפעיל את ה'מצלמה'"</string>
-    <string name="suspend_gesture_enabled">הפוך את הטלפון לכיבוי המסך</string>
-    <string name="palm_enabled">כסה את המסך על מנת לכבות אותו</string>
     <string name="media_button">לחצן המדיה</string>
     <string name="preferred_media_app_summary">בחר נגן מוסיקה</string>
     <string name="no_media_button_receiver">לא</string>
@@ -1050,12 +1051,12 @@
     <string name="camera_key_action_none_title">אין פעולה</string>
     <string name="camera_key_action_shortcut_title">קיצור דרך</string>
     <string name="camera_key_action_toggle_title">מתג טריגר</string>
-    <string name="camera_key_action_app_title">פתח את היישום</string>
+    <string name="camera_key_action_app_title">פתיחת יישום</string>
     <string name="camera_key_action_shortcut_home">מסך הבית</string>
     <string name="camera_key_action_shortcut_screenshot">צילום מסך</string>
     <string name="camera_key_action_shortcut_search">חיפוש</string>
     <string name="camera_key_action_shortcut_call">התקשר</string>
-    <string name="camera_key_action_shortcut_wake">נעל את המכשיר</string>
+    <string name="camera_key_action_shortcut_wake">נעילת המכשיר</string>
     <string name="multi_touch_points_category_title">נקודות רב-מגע</string>
     <string name="multi_touch_points_preference">הגדרה זו תיכנס לתוקף לאחר שתאתחל את המכשיר</string>
     <string name="trackball_settings">כדור עיקוב</string>
@@ -1072,12 +1073,12 @@
     <string name="default_usb_mode">חיבור USB</string>
     <string name="wifi_tether_settings_title">נקודה חמה אישית</string>
     <string name="tether_and_hotspot_title">שיתוף אינטרנט &amp; נקודה חמה ניידת</string>
-    <string name="lock_settings">מסך נעילה &amp; סיסמה</string>
+    <string name="lock_settings">מסך הנעילה &amp; סיסמה</string>
     <string name="second_space">שטח שני</string>
     <string name="xspace">יישומים משוכפלים</string>
     <string name="call_settings_primary_user_only">"שנה את הגדרות השיחות ב'שטח ראשון'"</string>
     <string name="unlock_set_unlock_summary">הגדר שיטה לנעילת המסך</string>
-    <string name="lock_settings_picker_settings">הגדר נעילת מסך</string>
+    <string name="lock_settings_picker_settings">הגדר שיטה לנעילת המסך</string>
     <string name="date_time_settings">תאריך &amp; שעה</string>
     <string name="timezone_settings">איזור זמן</string>
     <string name="current_zone">(נוכחי)</string>
@@ -1091,7 +1092,7 @@
     <string name="forget_wifi_message">הטלפון שלך יפסיק לבצע חיבור אוטומטי לרשת זו.</string>
     <string name="button_disconnect_network">התנתק מהרשת</string>
     <string name="no_nearby_wifi">לא זוהו רשתות</string>
-    <string name="manually_add_network">הוסף רשת</string>
+    <string name="manually_add_network">הוספת רשת</string>
     <string name="network_detail">פרטי הרשת של %s</string>
     <string name="connected_wifi">מחובר</string>
     <string name="incoming_call_breathing_light_color_title">צבע נורית השיחה</string>
@@ -1115,7 +1116,7 @@
     <string name="button_light_timeout">השאר את תאורת הלחצנים דולקת</string>
     <string name="battery_light_title">האר בעת טעינה</string>
     <string name="battery_light_summary">הדלק את נורית ההתראה בעת טעינת המכשיר</string>
-    <string name="sim_change_failed_enable_sim_lock">הפעל נעילת SIM עכשיו.</string>
+    <string name="sim_change_failed_enable_sim_lock">הפעל את נעילת SIM כעת.</string>
     <string name="sim_lock_change_not_supported">לא ניתן לשנות את נעילת ה-SIM.</string>
     <string name="apn_new">נקודת גישה חדשה</string>
     <string name="apn_save">לשמור שינויים?</string>
@@ -1227,7 +1228,7 @@
     <string name="volume_restore_alert">לאפס את כל רמות עוצמת השמע להגדרות ברירת המחדל שלהן?</string>
     <string name="music_equalizer">אקולייזר</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary1">"אם טקסט המערכת שלך עדיין קטן מידי, נסה "</string>
+    <string name="font_size_summary1">"במידה וטקסט המערכת שלך עדיין קטן מידי, נסה "</string>
     <string name="font_size_summary2">מצב קל.</string>
     <string name="font_size_small">קטן יותר</string>
     <string name="font_size_normal">קטן</string>
@@ -1235,7 +1236,7 @@
     <string name="font_size_large">גדול יותר</string>
     <string name="font_size_huge">ענק</string>
     <string name="font_size_exhuge">עצום</string>
-    <string name="virus_scanner_title">סורק וירוסים</string>
+    <string name="virus_scanner_title">סריקת וירוסים</string>
     <string name="virus_scanner_scanning">סורק…</string>
     <string name="virus_scanner_scan">לחץ לסריקה</string>
     <string name="virus_scanner_select_lib">בחר הגדרות וירוסים</string>
@@ -1258,7 +1259,7 @@
     <string name="virus_scan_app_waiting">ממתין…</string>
     <string name="virus_scan_app_passed">נסרק</string>
     <string name="virus_scan_app_risk">זוהה סיכון</string>
-    <string name="virus_scan_app_stop_scan">עצור סריקה</string>
+    <string name="virus_scan_app_stop_scan">עצירת הסריקה</string>
     <string name="virus_scan_app_finish">הסריקה הושלמה</string>
     <string name="virus_scan_app_continue">המשך סריקה</string>
     <string name="virus_scan_app_uninstall">הסר את %d</string>
@@ -1272,7 +1273,7 @@
     <string name="wfd_settings_description">התחבר לתצוגה באמצעות רשת אלחוטית</string>
     <string name="wfd_enabler_title">תצוגה אלחוטית</string>
     <string name="wfd_enable_wifi_diag_title">להפעיל חיבור רשתות אלחוטיות?</string>
-    <string name="wfd_menu_search">חפש התקנים</string>
+    <string name="wfd_menu_search">חיפוש התקנים</string>
     <string name="wfd_menu_searching">מחפש…</string>
     <string name="wfd_menu_teardown">עצור</string>
     <string name="wfd_available_devices">התקנים זמינים</string>
@@ -1307,7 +1308,7 @@
     <string name="msd_install_retry_connect">חבר מחדש את כבל ה-USB.</string>
     <string name="msd_install_retry_reinstall">התקן מחדש את מנהל ההתקן.</string>
     <string name="msd_install_retry_reinstall_mac">התקן את Android File Transfer תחילה, ואז הפעל את התוכנה.</string>
-    <string name="msd_install_status_undo">התקן מנהל התקן</string>
+    <string name="msd_install_status_undo">התקנת מנהל התקן</string>
     <string name="msd_install_status_done">מנהל ההתקן מותקן</string>
     <string name="msd_driver_download">הורד מנהל התקן</string>
     <string name="msd_driver_download_xp">Windows: הורד את Mi Phone Manager על מנת להשתמש בטלפון שלך כהתקן אחסון USB.</string>
@@ -1342,7 +1343,7 @@
     <string name="drive_mode_title">מצב רכב</string>
     <string name="drive_mode_settings">"הגדרות מצב 'רכב'"</string>
     <string name="drive_mode_voice_report">"פלט 'טקסט לדיבור'"</string>
-    <string name="drive_mode_phone_report">מידע אודות שיחה נכנסת</string>
+    <string name="drive_mode_phone_report">פרטי שיחה נכנסת</string>
     <string name="drive_mode_sms_report">הודעות</string>
     <string name="drive_mode_invert_stop_report">הפוך את הטלפון על מנת להשתיקו</string>
     <string name="drive_mode_auto_reply">תגובה מהירה</string>
@@ -1370,7 +1371,7 @@
     <string name="screen_effect">ניגודיות &amp; צבעים</string>
     <string name="screen_optimize">ניגודיות</string>
     <string name="screen_color_and_optimize">צבעים &amp; ניגודיות</string>
-    <string name="screen_color_and_optimize_disabled">"לא ניתן להתאים טמפרטורת צבע במצב 'קריאה'"</string>
+    <string name="screen_color_and_optimize_disabled">"לא ניתן להתאים טמפרטורת צבע ב'מצב קריאה'"</string>
     <string name="screen_paper_mode_title">מצב קריאה</string>
     <string name="screen_paper_mode_summary">הפחת את פליטת אור התצוגה הכחול</string>
     <string name="screen_paper_mode_time_title">תזמון</string>
@@ -1387,8 +1388,8 @@
     <string name="paper_mode_get_location_dlg_negative_btn_text">ביטול</string>
     <string name="screen_paper_mode_turn_on">מופעל</string>
     <string name="screen_paper_mode_turn_off">כבוי</string>
-    <string name="screen_paper_mode_apps_title">"השתמש במצב 'קריאה'"</string>
-    <string name="screen_paper_mode_off_apps_title">"אל תשתמש במצב 'קריאה'"</string>
+    <string name="screen_paper_mode_apps_title">"השתמש ב'מצב קריאה'"</string>
+    <string name="screen_paper_mode_off_apps_title">"אל תשתמש ב'מצב קריאה'"</string>
     <string name="screen_monochrome_mode_apps_title">"השתמש במצב 'מונוכרום'"</string>
     <string name="screen_monochrome_mode_off_apps_title">"אל תשתמש במצב 'מונוכרום'"</string>
     <string name="screen_paper_mode_adjust_level">התאמה</string>
@@ -1400,10 +1401,10 @@
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">אפשר</string>
     <string name="screen_paper_mode_range_title">הגדרות</string>
     <string name="screen_paper_mode_global_title">כל היישומים</string>
-    <string name="screen_paper_mode_global_summary">"השתמש במצב 'קריאה' עבור כל היישומים"</string>
+    <string name="screen_paper_mode_global_summary">"השתמש ב'מצב קריאה' עבור כל היישומים"</string>
     <string name="screen_paper_mode_local_title">יישומים נבחרים</string>
-    <string name="screen_paper_mode_local_summary">"השתמש במצב 'קריאה' עבור יישומים שתבחר"</string>
-    <string name="screen_paper_mode_set_apps_title">"יישומים במצב 'קריאה'"</string>
+    <string name="screen_paper_mode_local_summary">"השתמש ב'מצב קריאה' עבור יישומים שתבחר"</string>
+    <string name="screen_paper_mode_set_apps_title">"יישומים ב'מצב קריאה'"</string>
     <string name="screen_paper_mode_apps_loading">רק רגע…</string>
     <string name="screen_monochrome_mode_title">"מצב 'מונוכרום'"</string>
     <string name="screen_monochrome_mode_summary">"עבור למצב 'מונוכרום' על מנת להאריך את חיי הסוללה"</string>
@@ -1448,7 +1449,7 @@
     <string name="private_gallery_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_gallery_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
     <string name="private_gallery_recording_intro_header">צייר תבנית לפתיחה:</string>
-    <string name="unlock_disable_lock_pin_summary">כבה PIN</string>
+    <string name="unlock_disable_lock_pin_summary">כיבוי PIN</string>
     <string name="lockpassword_confirm_for_second_user">"אשר את סיסמת ה'שטח שני' שלך"</string>
     <string name="lockpassword_choose_for_second_user">"הגדר סיסמת 'שטח שני'"</string>
     <string name="lockpassword_choose_your_password_second_space">"הגדר סיסמה 
@@ -1500,8 +1501,8 @@
     <string name="bluetooth_ask_enablement_and_discovery_detected">" רוצה להפעיל את Bluetooth ולהפוך את הטלפון שלך גלוי למכשירים אחרים למשך %1$d שניות."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" רוצה להפעיל את Bluetooth ולהפוך את הטלפון שלך גלוי למכשירים אחרים. תוכל לשנות זאת בהגדרות Bluetooth מאוחר יותר."</string>
     <string name="wifi_share">שתף רשת אלחוטית</string>
-    <string name="wifi_share_turn_on">הפעל</string>
-    <string name="wifi_share_turn_off">כבה</string>
+    <string name="wifi_share_turn_on">הפעלה</string>
+    <string name="wifi_share_turn_off">כיבוי</string>
     <string name="wifi_share_upload">שתף</string>
     <string name="wifi_share_uploading">משתף…</string>
     <string name="wifi_share_upload_finish">שותף</string>
@@ -2089,6 +2090,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">סטטוס ASDiv:</string>
     <string name="app_factory_reset_dlg_title">להסיר את התקנת העדכונים?</string>
     <string name="app_factory_reset_dlg_text">התקנת כל העדכונים עבור יישום המערכת של אנדרואיד זה תוסר.</string>
@@ -2101,7 +2103,6 @@
     <string name="reset_second_space_passwd_confirm">המשך</string>
     <string name="reset_second_space_passwd_cancel">ביטול</string>
     <string name="backtouch_enable_title">התאם את עוצמת השמע מאחור</string>
-    <string name="edge_touch_volume">התאם את עוצמת השמע בקצוות</string>
     <string name="keywords_bluetooth">"Bluetooth;bluetooth;blue tooth;בלוטות;בלוטות'"</string>
     <string name="keywords_airplane">מטוס;מצב מטוס;אוירון; מצב אוירון; טיסה;מצב טיסה</string>
     <string name="keywords_do_not_disturb">DND;מצב DND; אל תפריע;נא לא להפריע;שינה;לילה;עסוק</string>

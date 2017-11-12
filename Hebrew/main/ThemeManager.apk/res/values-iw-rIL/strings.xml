@@ -298,6 +298,7 @@
     <string name="theme_batch_update_dlg_content_single">לעדכן את %1$s כעת?</string>
     <string name="theme_current_using_has_update">קיים עדכון זמין עבור ערכת נושא</string>
     <string name="theme_immediately_apply_tip">להחיל עדכון לערכת הנושא כעת?</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">ערכות נושא חדשות זמינות</string>
     <string name="selected_resource_file_invalid">לא ניתן להשתמש בקובץ המשאב הנבחר</string>
     <string name="apply_theme_with_ringtones">השתמש בצלצולים של ערכת הנושא</string>
@@ -358,9 +359,9 @@
     <string name="gift_received_list_empty">לא קיבלת כל מתנה.</string>
     <string name="gift_received_notification_title">%s העביר לך ערכת נושא.</string>
     <string name="present_online_themes">קבל ערכות נושא מקוונות נוספות</string>
-    <string name="present_local_themes">My theme resources</string>
-    <string name="present_official_themes">Official Selection</string>
-    <string name="find_more_theme">Find more</string>
+    <string name="present_local_themes">משאבי ערכות הנושא שלי</string>
+    <string name="present_official_themes">בחירה רשמית</string>
+    <string name="find_more_theme">מצא עוד</string>
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="lockscreen_magazine_summary">קטגוריות</string>
     <string name="lockscreen_magazine_subscribe">%1$s עוקבים</string>
@@ -448,11 +449,11 @@
     <string name="ringtone_set_success">הוגדר בהצלחה</string>
     <string name="online_precust_peach_blossom">פריחת האפרסק</string>
     <string name="online_precust_asphalt">אספלט</string>
-    <string name="online_precust_forest_stories">Forest Stories</string>
-    <string name="online_precust_chubby_dreamer">Chubby Dreamer</string>
-    <string name="online_precust_paper_world">Paper World</string>
-    <string name="online_precust_geometry">Geometry</string>
-    <string name="online_precust_tiny">Tiny</string>
+    <string name="online_precust_forest_stories">יער האגדות</string>
+    <string name="online_precust_chubby_dreamer">השמנמן הישנוני</string>
+    <string name="online_precust_paper_world">עולם הנייר</string>
+    <string name="online_precust_geometry">גאומטריה</string>
+    <string name="online_precust_tiny">זערורי</string>
     <string name="online_precust_mi_note2">Mi Note 2</string>
     <string name="online_precust_scenery">נוף</string>
     <string name="online_precust_plant">צמחים</string>
@@ -460,7 +461,7 @@
     <string name="online_precust_creative">יצירתיות</string>
     <string name="online_precust_building">מבנים</string>
     <string name="online_precust_lifestyle">לייפסטייל</string>
-    <string name="online_precust_abstract">Abstract</string>
+    <string name="online_precust_abstract">אבסטרקטי</string>
     <string name="region_not_support">"מצטערים, 'ערכות נושא' אינו זמין באזורך."</string>
     <string name="hide_free">"הסתרת ערכות חינמיות "</string>
     <string name="hide_incompatible">"הסתרת ערכות בלתי מתאימות "</string>

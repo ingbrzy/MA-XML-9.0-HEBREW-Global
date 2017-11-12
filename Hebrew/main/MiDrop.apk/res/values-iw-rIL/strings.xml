@@ -13,8 +13,6 @@
     <string name="clear_all">ניקוי הכל</string>
     <string name="click_to_send">לחץ על תמונת הפרופיל לשליחה</string>
     <string name="coolboot_title">שיתוף Mi Drop</string>
-    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
-    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
     <string name="default_lang">שפת המערכת</string>
     <string name="delete">מחיקה</string>
     <string name="delete_item_desc">למחוק קובץ זה מרשימת ההעברה?</string>
@@ -147,4 +145,6 @@
     <string name="want_send">שליחת קבצים</string>
     <string name="wifi_name">שם רשת אלחוטית:</string>
     <string name="wifi_psw">סיסמה:</string>
+    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
+    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
 </resources>

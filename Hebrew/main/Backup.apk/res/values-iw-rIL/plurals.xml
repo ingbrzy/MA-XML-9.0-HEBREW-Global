@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d קבצי נתוני מערכת</item>
+        <item quantity="one">קובץ נתוני מערכת %d</item>
+        <item quantity="two">%d קבצי נתוני מערכת</item>
+        <item quantity="many">%d קבצי נתוני מערכת</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d קבצי נתוני יישום</item>
+        <item quantity="one">קובץ נתוני יישום %d</item>
+        <item quantity="two">%d קבצי נתוני יישום</item>
+        <item quantity="many">%d קבצי נתוני יישום</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d פריטים</item>
         <item quantity="one">פריט %d</item>
@@ -17,5 +29,41 @@
         <item quantity="one">שעה %d</item>
         <item quantity="two">שעתיים</item>
         <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d פריטים</item>
+        <item quantity="one">פריט %1$s | %2$d</item>
+        <item quantity="two">%1$s | %2$d פריטים</item>
+        <item quantity="many">%1$s | %2$d פריטים</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">פריטים</item>
+        <item quantity="one">פריט</item>
+        <item quantity="two">פריטים</item>
+        <item quantity="many">פריטים</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Restored %d items</item>
+        <item quantity="one">Restored %d item</item>
+        <item quantity="two">Restored %d items</item>
+        <item quantity="many">Restored %d items</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Imported and restored %d items</item>
+        <item quantity="one">Imported and restored %d item</item>
+        <item quantity="two">Imported and restored %d items</item>
+        <item quantity="many">Imported and restored %d items</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Imported %d items. "</item>
+        <item quantity="one">"Imported %d item. "</item>
+        <item quantity="two">"Imported %d items. "</item>
+        <item quantity="many">"Imported %d items. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Import %d items again.</item>
+        <item quantity="one">Import %d item again.</item>
+        <item quantity="two">Import %d items again.</item>
+        <item quantity="many">Import %d items again.</item>
     </plurals>
 </resources>

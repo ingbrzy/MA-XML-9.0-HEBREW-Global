@@ -440,4 +440,5 @@
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>
     <string name="bind_safe_phone_msg">הוסף את מספר הטלפון שלך על מנת שתוכל להיכנס לחשבון Mi שלך בכל עת.</string>
+    <string name="account_notification_message">פג תוקף מזהה חשבון Mi, אנא היכנס שוב!</string>
 </resources>

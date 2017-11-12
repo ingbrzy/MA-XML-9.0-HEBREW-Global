@@ -32,7 +32,7 @@
     <string name="setting_alarm_arriving_summary">שלח התראה לפני צלצול</string>
     <string name="close_alarm">כיבוי</string>
     <string name="timer_notify_text">הפעל נודניק או בטל טיימר.</string>
-    <string name="upcoming_alarm">השעון המעורר הבא %s</string>
+    <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
     <string name="upcoming_alarm_hint">באפשרותך לסגור שעון מעורר זה מראש</string>
     <string name="start">התחל</string>
     <string name="pause">עצור</string>
@@ -81,6 +81,7 @@
     <string name="birthday_alarm_summary">נגן את השיר \"Happy Birthday\" במקום הצליל הקבוע ביום הולדתך</string>
     <string name="turn_off_a_repeat_alarm">בטל שעון מעורר חוזר</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
