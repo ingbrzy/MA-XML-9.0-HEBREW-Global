@@ -109,58 +109,58 @@
         <item quantity="many">%d תמונות ענן נוספו, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגן.</item>
     </plurals>
     <plurals name="delete_photo_from_local">
-        <item quantity="other">Delete %d photos?</item>
-        <item quantity="one">Delete this photo?</item>
-        <item quantity="two">Delete %d photos?</item>
-        <item quantity="many">Delete %d photos?</item>
+        <item quantity="other">למחוק %d תמונות?</item>
+        <item quantity="one">למחוק תמונה זו?</item>
+        <item quantity="two">למחוק %d תמונות?</item>
+        <item quantity="many">למחוק %d תמונות?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d photos from all devices and Mi Cloud?</item>
-        <item quantity="one">Delete this photo from all devices and Mi Cloud?</item>
-        <item quantity="two">Delete %d photos from all devices and Mi Cloud?</item>
-        <item quantity="many">Delete %d photos from all devices and Mi Cloud?</item>
+        <item quantity="other">למחוק %d תמונות מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="one">למחוק תמונה זו מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="two">למחוק %d תמונות מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="many">למחוק %d תמונות מכל המכשירים ומ-Mi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d photos from this album and Mi Cloud?</item>
-        <item quantity="one">Delete this photo from this album and Mi Cloud?</item>
-        <item quantity="two">Delete %d photos from this album and Mi Cloud?</item>
-        <item quantity="many">Delete %d photos from this album and Mi Cloud?</item>
+        <item quantity="other">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="one">למחוק תמונה זו מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="two">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="many">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_local">
-        <item quantity="other">Delete %d videos?</item>
-        <item quantity="one">Delete this video?</item>
-        <item quantity="two">Delete %d videos?</item>
-        <item quantity="many">Delete %d videos?</item>
+        <item quantity="other">למחוק %d סרטונים?</item>
+        <item quantity="one">למחוק סרטון זה?</item>
+        <item quantity="two">למחוק %d סרטונים?</item>
+        <item quantity="many">למחוק %d סרטונים?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d videos from all devices and Mi Cloud?</item>
-        <item quantity="one">Delete this video from all devices and Mi Cloud?</item>
-        <item quantity="two">Delete %d videos from all devices and Mi Cloud?</item>
-        <item quantity="many">Delete %d videos from all devices and Mi Cloud?</item>
+        <item quantity="other">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="one">למחוק סרטון זה מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="two">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="many">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d videos from this album and Mi Cloud?</item>
-        <item quantity="one">Delete this video from this album and Mi Cloud?</item>
-        <item quantity="two">Delete %d videos from this album and Mi Cloud?</item>
-        <item quantity="many">Delete %d videos from this album and Mi Cloud?</item>
+        <item quantity="other">למחוק %d סרטונים מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="one">למחוק סרטון זה מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="two">למחוק %d סרטונים מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="many">למחוק %d סרטונים מאלבום זה ומ-Mi Cloud?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">Delete %d items?</item>
-        <item quantity="one">Delete %d item?</item>
-        <item quantity="two">Delete %d items?</item>
-        <item quantity="many">Delete %d items?</item>
+        <item quantity="other">למחוק %d פריטים?</item>
+        <item quantity="one">למחוק פריט %d?</item>
+        <item quantity="two">למחוק %d פריטים?</item>
+        <item quantity="many">למחוק %d פריטים?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d items from all devices and Mi Cloud?</item>
-        <item quantity="one">Delete %d item from all devices and Mi Cloud?</item>
-        <item quantity="two">Delete %d items from all devices and Mi Cloud?</item>
-        <item quantity="many">Delete %d items from all devices and Mi Cloud?</item>
+        <item quantity="other">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="one">למחוק פריט %d מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="two">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="many">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d items from this album and Mi Cloud?</item>
-        <item quantity="one">Delete %d item from this album and Mi Cloud?</item>
-        <item quantity="two">Delete %d items from this album and Mi Cloud?</item>
-        <item quantity="many">Delete %d items from this album and Mi Cloud?</item>
+        <item quantity="other">למחוק %d פריטים מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="one">למחוק פריט %d מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="two">למחוק %d פריטים מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="many">למחוק %d פריטים מאלבום זה ומ-Mi Cloud?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d פריטים)</item>

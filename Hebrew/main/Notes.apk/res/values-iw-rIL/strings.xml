@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">חשבון Weibo פג תוקף, הוסף את החשבון שוב.</string>
     <string name="sina_token_invalid_warning">חשבון Weibo לא חוקי, הוסף את החשבון שוב.</string>
     <string name="sina_share_fail_content_repeat">שיתפת זאת כבר.</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
     <string name="search_path_notes">יישומי מערכתתקים</string>
     <string name="dlg_move_message">מעביר…</string>
@@ -117,6 +118,7 @@
     <string name="error_unsupport_content">פתק זה מכיל תוכן שאינו נתמך, לחץ כאן לעדכון</string>
     <string name="error_contact_not_exist">איש הקשר אינו קיים</string>
     <string name="sync_tips">לחץ לסנכרון פתקים עם Mi Cloud</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">גודל גופן</string>
     <string name="call_folder_name">הערות לשיחות</string>
     <string name="trash_folder_name">אשפה</string>

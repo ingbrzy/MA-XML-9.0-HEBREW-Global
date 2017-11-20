@@ -287,7 +287,8 @@
     <string name="can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="can_not_delete_when_calling">לא ניתן למחוק שטחים במהלך שיחה</string>
     <string name="support_desc">שירותי האבטחה מסופקים על ידי Graphite</string>
-    <string name="sdcardfs_dialog_message">"יתכן כי הנתונים הישנים שלך אינם תואמים לקובץ המערכת החדש. ייעל את הנתונים לפני כניסה ל'שטח שני' ואתחל את מכשירך."</string>
+    <string name="sdcardfs_dialog_title">עדכון חשוב</string>
+    <string name="sdcardfs_dialog_message">ל-MIUI יש קובץ מערכת חדש. יתכן שנתונים ישנים אינם מתאימים לו. על מנת לפתור בעיה זו, עקוב אחר הצעדים המפורטים להתקנת העדכון. המכשיר שלך יבצע אתחול פעמיים במהלך העדכון.</string>
     <string name="do_not_ask">אל תשאל שוב</string>
     <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Play'?"</string>
     <string name="gpg_title">"יישום משוכפל עבור 'משחקי חנות Play'"</string>
@@ -316,4 +317,13 @@
     <string name="privacy_password_fingerprint_dialog_message">הנח את האצבע שלך על החיישן</string>
     <string name="optimize_now">ייעול</string>
     <string name="dialog_title">שים לב</string>
+    <string name="remove_user_click_message">"*במידה ואין לך פריטים חשובים ב'שטח שני', %s"</string>
+    <string name="remove_user_click_message_action">"באפשרותך להסיר את 'שטח שני' ולאתחל את מכשירך כעת."</string>
+    <string name="sdcradfs_dialog_in_owner_title">שטח שני</string>
+    <string name="sdcradfs_dialog_in_owner_message">"ל-MIUI יש קובץ מערכת חדש. יתכן שנתונים ישנים אינם מתאימים לו. על מנת לבצע עדכון, העבר פריטים מ'שטח שני', אתחל את המכשיר שלך וצור מחדש את 'שטח שני'.
+במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
+    <string name="sdcradfs_dialog_in_sec_title">עדכון חשוב</string>
+    <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
+במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
+    <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
 </resources>

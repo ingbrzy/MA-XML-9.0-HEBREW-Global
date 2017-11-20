@@ -501,6 +501,7 @@
     <string name="set_id3_failed">לא ניתן לשמור פרטים</string>
     <string name="set_id3_not_support_format">לא ניתן לערוך את הפורמט של קובץ זה</string>
     <string name="set_id3_not_have_read_or_write_permission">אין לך הרשאה לערוך קובץ זה</string>
+    <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="lyric_setting">הגדרות מילות שירים</string>
     <string name="modify_lyric">ערוך את מילות השיר</string>
     <string name="modify_progress">שנה את קצב גלילת מילות השיר</string>
@@ -521,7 +522,7 @@
     <string name="bill_list_fragment_title">מצעדים</string>
     <string name="nowplaying_dialog_title_delete_tracks">לנקות את רשימת ההשמעה הנוכחית?</string>
     <string name="nowplaying_menu_item_delete">נקה</string>
-    <string name="nowplaying_circle_style">מנגן בסגנון מעגלי כעת</string>
+    <string name="nowplaying_circle_style">נגינה בעיגול</string>
     <string name="nowplaying_circle_style_wave">גל</string>
     <string name="nowplaying_circle_style_rainbow">קשת בענן</string>
     <string name="similar_songs">שירים דומים</string>

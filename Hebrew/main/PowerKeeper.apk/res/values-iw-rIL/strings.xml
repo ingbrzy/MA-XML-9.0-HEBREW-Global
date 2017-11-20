@@ -122,9 +122,9 @@
     <string name="config_scenario_policies_title">תרחישים</string>
     <string name="scenario_policies_summary">החלת אסטרטגיות שונות לחכסון באנרגיה עבור תרחישים שונים.</string>
     <string name="sleep_config_enhance_title">מצב שינה</string>
-    <string name="sleep_config_enhance_description">כאשר מערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth, GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
+    <string name="sleep_config_enhance_description">בכל פעם שמערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
-    <string name="nonui_mode_config_description">המסך לא יואר בקבלת התראות. נורית ההתראות, טביעת האצבע ולחצני המגע יכובו כאשר מכשירך יהיה בכיס.</string>
+    <string name="nonui_mode_config_description">הימנע מהארת המסך עבור התראות, כבה את תאורת ה-LED, את חיישן טביעת האצבע ואת לחצני השליטה במגע על מנת לחסוך בשימוש בסוללה כאשר מערכת MIUI תזהה שאינך משתמש במכשירך.</string>
     <string name="scenario_policies_warmcontrol">בקרת טמפרטורה</string>
     <string name="warm_configure">"הגדרות 'בקרת טמפרטורה'"</string>
     <string name="important_warning">שים לב</string>
@@ -199,7 +199,7 @@
     <string name="sucess">בוצע</string>
     <string name="failure">נכשל</string>
     <string name="cloud_addr_info">פרטי הענן</string>
-    <string name="lasttime_feature_cloud">תכונות שעודכנו:</string>
-    <string name="lasttime_applist_cloud">רשימת היישומים שעודכנו:</string>
+    <string name="lasttime_feature_cloud">תכונות מעודכנות:</string>
+    <string name="lasttime_applist_cloud">יישומים מעודכנים:</string>
     <string name="base_info">פרטי בסיס</string>
 </resources>

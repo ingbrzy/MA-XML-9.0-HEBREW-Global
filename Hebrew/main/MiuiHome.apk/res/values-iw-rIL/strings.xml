@@ -9,8 +9,8 @@
     <string name="bad_wallpaper_source_prompt">לא ניתן לטעון את הטפט</string>
     <string name="apply_action">הגדר</string>
     <string name="download_action">הורדה</string>
-    <string name="lock_screen_failed_message">לא ניתן להגדיר טפט מסך הנעילה</string>
-    <string name="lock_screen_success_message">נקבע כטפט מסך הנעילה</string>
+    <string name="lock_screen_failed_message">"לא ניתן להגדיר את טפט 'מסך הנעילה'"</string>
+    <string name="lock_screen_success_message">"נקבע כטפט 'מסך הנעילה'"</string>
     <string name="wallpaper_failed_message">לא ניתן להגדיר טפט</string>
     <string name="launcher_not_exist">"אירעה שגיאה, חזור ל'מסך הבית' ונסה שוב."</string>
     <string name="image_too_small_message">תמונה מקורית אינה גדולה מספיק</string>
@@ -73,7 +73,7 @@
     <string name="uninstall_xspace_dialog_title_format">להסיר התקנה של \"%s\" המשוכפל?</string>
     <string name="uninstall_xspace_dialog_message">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="uninstall_with_xspace_dialog_message">יישומים משוכפלים תואמים יוסרו יחד עם נתוני היישום שלהם.</string>
-    <string name="confirm_uninstall_dialog_title">יישומים משוכפלים תואמים יוסרו.</string>
+    <string name="confirm_uninstall_dialog_title">התקנת היישומים המשוכפלים תוסר</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">היישום המשוכפל יוסר יחד עם יישום זה.</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">היישום המשוכפל יוסר יחד עם יישומים אלה.</string>
     <string name="uninstall">הסר התקנה</string>
@@ -114,7 +114,7 @@
     <string name="local_wallpaper">הורדו</string>
     <string name="setting_wallpaper_tip">קמץ או החלק להתאמה</string>
     <string name="apply_as_wallpaper">הגדר כמסך הבית</string>
-    <string name="apply_as_lock_screen">הגדר כמסך נעילה</string>
+    <string name="apply_as_lock_screen">"הגדר כ'מסך הנעילה'"</string>
     <string name="apply_both">הגדר כשניהם</string>
     <string name="enable_wallpaper_scroll">אפשר גלילה הצידה</string>
     <string name="disable_wallpaper_scroll">מנע גלילה הצידה</string>
@@ -248,7 +248,7 @@
     <string name="recommend_apps_tips">דרוש חיבור לאינטרנט על מנת שתכונה זו תוכל לעבוד כראוי. לכיבוי תכונה זו, גע בשם של תיקיה זו.</string>
     <string name="wallpaper_auto_change_title">מסך הנעילה</string>
     <string name="wallpaper_scaling_message">משנה קנה מידה לגודל קבוע</string>
-    <string name="cant_edit_lock_screen">לא ניתן לערוך את סגנון מסך הנעילה.</string>
+    <string name="cant_edit_lock_screen">"לא ניתן לערוך את סגנון 'מסך הנעילה'."</string>
     <string name="screen_number">%d מסך</string>
     <string name="delete_screen">מחק מסך</string>
     <string name="add_screen">הוסף מסך</string>
@@ -274,5 +274,5 @@
     <string name="menu_lock">"נעל את פריסת 'מסך הבית'"</string>
     <string name="menu_more">עוד</string>
     <string name="default_screen_preview_title">לחץ להגדרת מסך ברירת המחדל</string>
-    <string name="action_add_to_workspace">Add to workspace</string>
+    <string name="action_add_to_workspace">"הוסף אל 'שטח העבודה'"</string>
 </resources>

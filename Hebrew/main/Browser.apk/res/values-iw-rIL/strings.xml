@@ -23,14 +23,14 @@
     <string name="action_menu_account_not_login_hint">היכנס על מנת לסנכרן עם Mi Cloud</string>
     <string name="action_menu_bookshelf">מדף ספרים</string>
     <string name="action_menu_current_version">גרסה נוכחית</string>
-    <string name="action_menu_request_desktop_site">בקשת אתר שולחן עבודה</string>
-    <string name="action_menu_request_desktop_site_off">בקשת אתר שולחן עבודה/כבויה</string>
-    <string name="action_menu_request_desktop_site_on">בקשת אתר שולחן עבודה/מופעלת</string>
+    <string name="action_menu_request_desktop_site">גישה לאתרים</string>
+    <string name="action_menu_request_desktop_site_off">"'גישה לאתרים' כבויה"</string>
+    <string name="action_menu_request_desktop_site_on">"'גישה לאתרים' מופעלת"</string>
     <string name="action_menu_text_add_bookmark">הוספת סימניה</string>
     <string name="action_menu_text_bandwidth">חסכון בנתונים</string>
     <string name="action_menu_text_bandwidth_off">חסכון בנתונים</string>
     <string name="action_menu_text_bandwidth_on">חסכון בנתונים</string>
-    <string name="action_menu_text_bookmark_add_off">לא ניתן להוסיף דפי אינטרנט.</string>
+    <string name="action_menu_text_bookmark_add_off">לא ניתן היה להוסיף את האתר</string>
     <string name="action_menu_text_bookmark_added">הסימניה נוספה</string>
     <string name="action_menu_text_copy_url">העתק כתובת אינטרנט</string>
     <string name="action_menu_text_create_qr_code">קוד QR</string>
@@ -65,7 +65,7 @@
     <string name="add_favorites_to">הוספה למועדפים</string>
     <string name="add_new_bookmark">הוספת סימניה</string>
     <string name="add_new_quicklink">הוספה לעמוד הבית</string>
-    <string name="add_pwa_to_homescreen">"להוסיף עמוד זה ל'מסך הבית'?"</string>
+    <string name="add_pwa_to_homescreen">"להוסיף קיצור דרך ל'מסך הבית'?"</string>
     <string name="add_ql_bm_title">שמירה</string>
     <string name="add_quicklink_to_popular">הוספה לעמוד הבית</string>
     <string name="add_quicklinks">הוספה</string>
@@ -79,7 +79,7 @@
     <string name="added_to_bookmarks">נוסף לסימניות</string>
     <string name="adjust_text_zoom_toast">שינוי גודל הטקסט עשוי לגרום לאתרי אינטרנט מסוימים להיות מוצגים באופן שגוי</string>
     <string name="agree">מסכים</string>
-    <string name="agree_permissions_request">קבלה</string>
+    <string name="agree_permissions_request">אפשר</string>
     <string name="alert_tips">אתר זה עשוי להוות סיכון אבטחה</string>
     <string name="allow">אפשר</string>
     <string name="app_new_version">הגרסה העדכנית ביותר של יישום זה כבר מותקנת</string>
@@ -155,7 +155,7 @@
     <string name="close_cloud_tab_tip">לסגור תויות ענן ב-%s?</string>
     <string name="cloud_loading_tips">משוך למטה לסנכרון</string>
     <string name="cloud_no_new_data_toast">הכל מעודכן</string>
-    <string name="cloud_sync_closed_toast">הסנכרון כבוי, לא ניתן לעדכן</string>
+    <string name="cloud_sync_closed_toast">הפעל את הסנכרון על מנת לעדכן</string>
     <string name="cloud_sync_failed_toast">לא ניתן היה לעדכן</string>
     <string name="cloud_tab">תויות ענן</string>
     <string name="cloud_time_tips">סנכרון אחרון</string>
@@ -174,6 +174,7 @@
     <string name="color_picker_dialog_title">בחירת צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -294,8 +295,8 @@
     <string name="empty_app_name">יישום אחר</string>
     <string name="empty_bookmark">ריק</string>
     <string name="empty_cloud_tab_login_hint">אין תויות ענן</string>
-    <string name="empty_cloud_tab_logout_hint">"היכנס אל חשבון Mi
- תויות אשר נפתחו במכשירים אחרים יופיעו כאן"</string>
+    <string name="empty_cloud_tab_logout_hint">"היכנס לחשבון Mi שלך
+ על מנת להציג תויות פתוחות ממכשירים אחרים."</string>
     <string name="empty_history_hint">אין היסטוריה להצגה</string>
     <string name="empty_snapshot_hint">ריק</string>
     <string name="enable_geolocation_confirm_message">כיבוי שירותי המיקום ישפיע על ההמלצות שתקבל.</string>
@@ -319,7 +320,7 @@
     <string name="find_on_page_next">הבא</string>
     <string name="find_on_page_prev">הקודם</string>
     <string name="find_previous">מצא את הקודם</string>
-    <string name="finish_sync_cloud_tabs">הסנכרון הסתיים</string>
+    <string name="finish_sync_cloud_tabs">סונכרן בהצלחה</string>
     <string name="firstUsingSearchEngineTips">להחליף מנוע חיפוש?</string>
     <string name="fling_on_border_gesture_hint">"באפשרותך לבחור את הפונקציה של מחווה זו ב'הגדרות'"</string>
     <string name="force_quick_search_title">חיפוש</string>
@@ -563,12 +564,12 @@
     <string name="pay_failed_toast">לא ניתן היה לבצע את התשלום</string>
     <string name="pay_success_toast">שולם בהצלחה</string>
     <string name="permission_alert_window">אפשר לחלונות קופצים לעשות שימוש בתכונה זו</string>
-    <string name="permission_notification">לשלוח לך התראות</string>
+    <string name="permission_notification">שליחת התראות.</string>
     <string name="permission_unknown">פעולה לא מוכרת</string>
-    <string name="permissions_prompt_message">"%s רוצה "</string>
+    <string name="permissions_prompt_message">%s רוצה</string>
     <string name="popup_window_attempt">לאפשר לאתר זה לפתוח חלון קופץ?</string>
     <string name="positive_confirm_message">כבה בכל זאת</string>
-    <string name="pref_accept_quicklink_push">פוש בעמוד הבית</string>
+    <string name="pref_accept_quicklink_push">עדכונים</string>
     <string name="pref_accessibility">נגישות</string>
     <string name="pref_accessibility_title">נגישות</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">ניתן להזין צירופי אותיות נפוצים בהקשה אחת בשורת הכתובת</string>
@@ -608,7 +609,7 @@
     <string name="pref_extras_reset_default_summary">שחזור הגדרות ברירת המחדל</string>
     <string name="pref_extras_reset_default_title">אחר</string>
     <string name="pref_extras_send_feedback">שליחת משוב</string>
-    <string name="pref_extras_title">הגדרות מתקדמות</string>
+    <string name="pref_extras_title">הגדרות נוספות</string>
     <string name="pref_extras_title_version">פרטי גרסה</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">"שמור קבצים במיקום ברירת המחדל של ה'דפדפן'"</string>
     <string name="pref_file_downlaod_save_reset_default_settings">שחזר מיקום ברירת מחדל</string>
@@ -679,14 +680,14 @@
     <string name="progress_dialog_setting_wallpaper">מגדיר טפט…</string>
     <string name="pull_to_refresh_pull_label">משוך לרענון</string>
     <string name="pull_to_refresh_release_label">שחרר להמלצה ורענון</string>
-    <string name="pwa_app_name">יישום רשת</string>
+    <string name="pwa_app_name">יישומי רשת</string>
     <string name="qr_code_title">קוד QR</string>
     <string name="qr_description">סריקת קוד QR</string>
     <string name="quicklink_bookmark_save">שמור ב:</string>
     <string name="quicklink_cannot_save_url">לא ניתן להוסיף כתובת אתר זו.</string>
     <string name="quicklink_folder_text">יישומים מומלצים</string>
     <string name="quicklink_not_saved">לא ניתן היה להוסיף לעמוד הבית</string>
-    <string name="quicklink_push_confirm_message">כיבוי תכונה זו ישפיע על הודעות הפוש בעמוד הבית.</string>
+    <string name="quicklink_push_confirm_message">לא תקבל עדכונים לאחר כיבוי תכונה זו. לכבות כעת?</string>
     <string name="quicklink_saved">נשמר בעמוד הבית</string>
     <string name="quicklink_saved_before">אתר זה כבר נוסף</string>
     <string name="quicklink_user_define_webpage_title">שם</string>
@@ -709,7 +710,7 @@
     <string name="readmode_recommend_message">כבר קראת את הספר הזה. :)</string>
     <string name="readmode_refresh">רענון</string>
     <string name="readmodelist_bookmarks_to_show">רשימת קריאה</string>
-    <string name="refuse_permissions_request">דחיה</string>
+    <string name="refuse_permissions_request">הגבל</string>
     <string name="remember_passwords_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="remove_bookmark">מחיקת סימניה</string>
     <string name="remove_bookmark_group">מחיקת קבוצה</string>
@@ -793,7 +794,7 @@
     <string name="skip_current_version">דלג על גרסה זו</string>
     <string name="snapshot">מקומי</string>
     <string name="snapshot_failed">לא ניתן היה לשמור את העמוד</string>
-    <string name="snapshot_successed">"פתח את 'סימניות'/'היסטוריה'->'מקומי' על מנת להציג את העמוד"</string>
+    <string name="snapshot_successed">"פתח את 'סימניות &amp; היסטוריה' -> 'מקומי' על מנת להציג את העמוד"</string>
     <string name="ssl_bad_clock_date_settings">הגדרת תאריך</string>
     <string name="ssl_bad_clock_warning" formatted="false">חיבור פרטי אל %s1 אינו יכול להתבצע כיוון שהתאריך והשעה של המכשיר שלך (%s2) שגויים.</string>
     <string name="ssl_certificate">אישור אבטחה</string>
@@ -885,7 +886,7 @@
     <string name="version_check_button_no_network">לא ניתן להתחבר לרשת</string>
     <string name="version_check_button_resume_download">המשך הורדה</string>
     <string name="version_check_button_update">עדכון</string>
-    <string name="version_check_failed">כשלון בבדיקת עדכונים</string>
+    <string name="version_check_failed">לא ניתן היה לבדוק זמינות עדכונים</string>
     <string name="version_dialog_buttion_ok">אישור</string>
     <string name="version_dialog_buttion_update">עדכון</string>
     <string name="version_update_file_download_toast">מוריד</string>

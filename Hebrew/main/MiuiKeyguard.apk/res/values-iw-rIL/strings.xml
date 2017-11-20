@@ -59,6 +59,7 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="input_password_handle_sdcard_fs">"לא ניתן להיכנס ל'שטח שני' מ'מסך הנעילה'. היכנס מ'שטח ראשון'."</string>
     <string name="accessibility_enter_lock_wallpaper">"לחץ לפתיחת 'טפט מתחלף'"</string>
+    <string name="wallpaper_global_des_drop_down_notify_text">שחרר לצפיה בפרטים</string>
     <string name="lock_wallpaper_learn_more">עוד</string>
     <string name="lock_wallpaper_enter">היכנס</string>
     <string name="custom_lock_wallpaper_enter">היכנס</string>
@@ -86,10 +87,6 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">℃%s</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_left_smarthome">Mi Home</string>
-    <string name="keyguard_left_remotecentral">שלט Mi</string>
-    <string name="keyguard_left_bankcard">Mi Pay</string>
-    <string name="keyguard_left_buscard">כרטיס תחבורה</string>
     <string name="face_data_input_title">הוספת נתוני פנים</string>
     <string name="face_data_introduction_title">זיהוי פנים</string>
     <string name="face_data_introduction_msg">"נתוני פנים יכולים לשמש לביטול נעילת מכשירך או אימות זהותך. הוסף סיסמת 'מסך הנעילה' לפני הוספת נתוני הפנים שלך."</string>

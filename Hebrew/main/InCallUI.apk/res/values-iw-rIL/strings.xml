@@ -39,7 +39,7 @@
     <string name="onscreen_add_call_text">הוסף שיחה</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
     <string name="onscreen_audio_mode_conference">ועידה</string>
-    <string name="onscreen_audio_mode_handset">ללא ידיים</string>
+    <string name="onscreen_audio_mode_handset">אפרכסת</string>
     <string name="onscreen_audio_mode_headset">אוזניות</string>
     <string name="onscreen_audio_mode_speaker">רמקול</string>
     <string name="onscreen_audio_switch_mode">החלף שמע</string>

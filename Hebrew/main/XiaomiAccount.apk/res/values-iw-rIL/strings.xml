@@ -19,7 +19,7 @@
     <string name="passport_reg_via_sms_alert">יתכן וידרש מסרון SMS יוצא להפעלת שירות זה. ספק הרשת שלך יחייב אותך בעבור מסרון זה.</string>
     <string name="passport_reg_using_other_phone"><u>השתמש במספר טלפון חלופי</u></string>
     <string name="passport_reg_btn_using_other_phone">השתמש במספר טלפון חלופי</string>
-    <string name="passport_downlink_reg">צור חשבון באמצעות מספר טלפון</string>
+    <string name="passport_downlink_reg">מספר טלפון</string>
     <string name="passport_select_reg_ways_title">דרכים אחרות להרשמה</string>
     <string name="passport_reg_using_phone_number_prompt">צור חשבון באמצעות מספר טלפון</string>
     <string name="passport_reg_using_other_phone_number_prompt">"צור חשבון חדש באמצעות "</string>
@@ -213,7 +213,7 @@
     <string name="account">חשבון</string>
     <string name="logout_failed">לא ניתן לצאת</string>
     <string name="turn_off_find_device_failed_title">"לא ניתן לכבות את 'איתור המכשיר'"</string>
-    <string name="no_response_retry">אין תגובה, אנא נסה שוב.</string>
+    <string name="no_response_retry">אין תגובה, נסה שוב.</string>
     <string name="removing_account">יוצא…</string>
     <string name="delete_bank_card_title">מוחק את כרטיס הבנק שלך</string>
     <string name="delete_bank_card_message">כרטיס הבנק שלך ימחק לאחר יציאתך לאור נסיבות אבטחה</string>
@@ -328,7 +328,7 @@
     <string name="loading_micloud_sync_data">רק רגע…</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="scan_barcode_title">על מנת להיכנס לחשבון Mi שלך, סרוק את קוד ה-QR</string>
-    <string name="talkback_scan_barcode">סרוק את קוד ה-QR</string>
+    <string name="talkback_scan_barcode">סריקת קוד QR</string>
     <string name="authorize_title">הרשאה</string>
     <string name="my_device_title">מכשיר נוכחי</string>
     <string name="device_list_title">המכשירים שלי</string>
@@ -440,5 +440,5 @@
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>
     <string name="bind_safe_phone_msg">הוסף את מספר הטלפון שלך על מנת שתוכל להיכנס לחשבון Mi שלך בכל עת.</string>
-    <string name="account_notification_message">פג תוקף מזהה חשבון Mi, אנא היכנס שוב!</string>
+    <string name="account_notification_message">פג תוקף התהליך, היכנס שוב.</string>
 </resources>

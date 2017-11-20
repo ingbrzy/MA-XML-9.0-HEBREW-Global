@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d שיחות</item>
-        <item quantity="one">שיחה %d</item>
-        <item quantity="two">%d שיחות</item>
-        <item quantity="many">%d שיחות</item>
+        <item quantity="other">%1$d שיחות מאת %2$s ואחרים</item>
+        <item quantity="one">שיחה %1$d מאת %2$s</item>
+        <item quantity="two">%1$d שיחות מאת %2$s ואחרים</item>
+        <item quantity="many">%1$d שיחות מאת %2$s ואחרים</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d הודעות</item>

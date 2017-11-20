@@ -46,7 +46,7 @@
     <string name="rename_duplicate">הקלטה נוספת עם שם זהה קיימת כבר.</string>
     <string name="rename_no_more_tip">אל תציג שוב</string>
     <string name="dialog_title_storage_full">אין מספיק מקום</string>
-    <string name="dialog_content_storage_full">ההקלטה נעצרה משום שלא נותר מספיק מקום פנוי בזכרון הפנימי של המכשיר שלך.</string>
+    <string name="dialog_content_storage_full">ההקלטה נעצרה משום שלא נותר מספיק שטח אחסון פנוי על גבי המכשיר שלך.</string>
     <string name="status_bar_recording">מקליט…</string>
     <string name="status_bar_back">"לחץ על מנת לחזור ל'רשמקול'"</string>
     <string name="status_bar_recording_pause">הרשמקול הופסק</string>
@@ -93,7 +93,7 @@
     <string name="data_connection_body">שימוש בחיבור הנתונים הסלולרי שלך להורדת קובץ זה יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
     <string name="data_connection_button_text">אישור</string>
     <string name="error_sdcard_unmounted">הכנס כרטיס זכרון כעת</string>
-    <string name="record_back_pressed_hint">"להפסקת ההקלטה, לחץ שוב על 'חזרה'"</string>
+    <string name="record_back_pressed_hint">"לעצירת ההקלטה, לחץ שוב על 'חזרה'"</string>
     <string name="record_mark_point">סמן את %s</string>
     <string name="record_quliaty_preference_title">איכות הקלטה</string>
     <string name="cloud_record_tip">סנכרן הקלטות עם-Mi Cloud.</string>
@@ -107,7 +107,7 @@
     <string name="text_btn_play">נגן</string>
     <string name="text_btn_mark">סימון</string>
     <string name="text_btn_list">הקלטות</string>
-    <string name="text_btn_complete">הפסק</string>
+    <string name="text_btn_complete">עצירה</string>
     <string name="text_btn_recognize">זהה</string>
     <string name="text_btn_wave">גל</string>
     <string name="text_finish">אישור</string>

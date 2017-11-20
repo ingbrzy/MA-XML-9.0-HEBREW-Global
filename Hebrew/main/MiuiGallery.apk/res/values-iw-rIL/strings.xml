@@ -3,11 +3,11 @@
     <string name="video_editor_cancel">ביטול</string>
     <string name="video_editor_done">בוצע</string>
     <string name="video_editor_filter">סנן</string>
-    <string name="video_editor_trim">קישוט</string>
+    <string name="video_editor_trim">חיתוך</string>
     <string name="video_editor_text">טקסט</string>
     <string name="video_editor_audio">שמע</string>
     <string name="video_editor_more">מתקדם</string>
-    <string name="video_editor_auto_trim">קישוט אוטומטי</string>
+    <string name="video_editor_auto_trim">חיתוך אוטומטי</string>
     <string name="video_editor_not_support_tips">קבצי וידאו מסוג זה אינם נתמכים</string>
     <string name="video_editor_filter_none">ללא</string>
     <string name="video_editor_template_sports">רוק</string>
@@ -38,7 +38,7 @@
     <string name="video_editor_text_input_empty_tips">נראה כי עדיין לא הזנת טקסט</string>
     <string name="video_editor_encode_video">מקודד וידאו…</string>
     <string name="video_editor_analyzing">מנתח וידאו…</string>
-    <string name="video_editor_auto_trim_tip">קישוט אוטומטי…</string>
+    <string name="video_editor_auto_trim_tip">מבצע חיתוך אוטומטי…</string>
     <string name="video_editor_encode_video_error">לא ניתן היה לקודד את הוידאו</string>
     <string name="video_editor_text_edit_start">כותרת</string>
     <string name="video_editor_text_edit_end">נקודות</string>
@@ -123,6 +123,7 @@
     <string name="more_face">אנשים נוספים עם פרצופים דומים</string>
     <string name="face_confirm">זהו אותו אדם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_name_edit">עריכה</string>
     <string name="confirm_hidden_recommend_group">אישור</string>
@@ -417,6 +418,7 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tip_capture_time">צולם ב:</string>
     <string name="tip_file_info">פרטי הקובץ:</string>
     <string name="tip_capture_params">נתוני EXIF:</string>
@@ -596,6 +598,7 @@
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
     <string name="slim_introduce">החלף תמונות ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ב-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">החלף קבצים ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ב-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="next">הבא</string>
     <string name="login_and_enable_service">היכנס באמצעות חשבון Mi</string>
@@ -673,6 +676,7 @@
     <string name="cloud_storage_ok_append_desc">זמין %s</string>
     <string name="cloud_storage_warn_title">אין מספיק שטח אחסון ב-Mi Cloud</string>
     <string name="cloud_storage_warn_desc">רכוש חבילת Cloud VIP לקבלת שטח אחסון נוסף</string>
+    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">הרחבת שטח הענן</string>
     <string name="user_agreement2">תנאי השירות</string>
     <string name="user_agreement4">מדיניות הפרטיות</string>
@@ -783,6 +787,8 @@
     <string name="search_request_open">הצטרפות לצוות הבדיקה</string>
     <string name="search_request_applied">הוחל</string>
     <string name="search_title_more">עוד</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="search_mark_feedback_false_positive_title">תיקון</string>
     <string name="search_mark_feedback_false_negative_title">אישור</string>
     <string name="search_feedback_false_negative_title">הפריטים שנבחרו \"%s\"</string>
@@ -889,6 +895,20 @@
     <string name="error_unauthorized">הסנכרון הושבת עקב ניסיונות כניסה רבים מידי.</string>
     <string name="error_forbidden">הסנכרון הושבת בגלל בעיות עם חשבון Mi שלך.</string>
     <string name="error_not_acceptable">הסנכרון הושבת.</string>
+    <string name="operation_back">חזרה</string>
+    <string name="collage_choose">בחירה</string>
+    <string name="collage_rotate">סיבוב</string>
+    <string name="collage_mirror">מראה</string>
+    <string name="collage_title_layout">פריסה</string>
+    <string name="collage_margin_text">שוליים</string>
+    <string name="collage_title_poster">פלקט</string>
+    <string name="collage_poster_global_summer_flower_text">קיץ</string>
+    <string name="collage_poster_global_city_text">מטרופולין</string>
+    <string name="collage_poster_global_dream_text">חלומות</string>
+    <string name="collage_poster_global_tea_text">הפסקת תה</string>
+    <string name="collage_poster_global_foodie_text">טעים</string>
+    <string name="collage_poster_global_green_plant_text">מסע</string>
+    <string name="collage_poster_global_cat_text">עקבות</string>
     <string name="image_not_found">לא ניתן היה למצוא את התמונה</string>
     <string name="image_decode_failed">לא ניתן היה לפענח את התמונה</string>
     <string name="image_invalid_path">נתיב לא חוקי</string>
@@ -911,10 +931,10 @@
     <string name="photo_editor_navigator_module_download_success">ירד בהצלחה</string>
     <string name="photo_editor_navigator_module_download_failed">לא ניתן היה להוריד את %s</string>
     <string name="photo_editor_beautify">ייפוי</string>
-    <string name="photo_editor_filter">סנן</string>
+    <string name="photo_editor_filter">מסננים</string>
     <string name="photo_editor_crop_and_rotate">חיתוך</string>
     <string name="photo_editor_adjust">התאמה</string>
-    <string name="photo_editor_sticker">מדבקה</string>
+    <string name="photo_editor_sticker">מדבקות</string>
     <string name="photo_editor_doodle">קשקוש</string>
     <string name="photo_editor_text">מלל</string>
     <string name="photo_editor_long_crop">חיתוך</string>
@@ -980,7 +1000,7 @@
     <string name="sticker_ad">עלון</string>
     <string name="sticker_pupil">תלמידת בית ספר</string>
     <string name="sticker_baibai">צמחים</string>
-    <string name="sticker_fit">בכושר</string>
+    <string name="sticker_fit">תרנגול בריא</string>
     <string name="sticker_girl">ילדה מצחיקה</string>
     <string name="sticker_spring">אביב</string>
     <string name="sticker_summer">קיץ</string>

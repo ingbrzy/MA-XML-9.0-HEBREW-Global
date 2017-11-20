@@ -193,11 +193,14 @@
     <string name="micloud_storage_expires_very_soon_title">תוקף אחסון Mi Cloud יפוג בקרוב</string>
     <string name="micloud_storage_expires_auto_renewal_sum">עליך לחדש את הרישום שלך.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">עליך לחדש את הרישום שלך.</string>
-    <string name="micloud_full_influence_dspt">"כל התמונות שלך, וידאו, הערות, ויישומים יישארו מגובים בענן. 
-בדרך זו, אם אתה מעבד או נגרום נזק למכשירך, הנתונים שלך יהיה בטוחים. 
-כאשר הענן שלך מלא, הנתונים הישנים שלך לא הולכים לשום מקום. עם זאת, אם קיים תוכן חדש שתוסיף (לדוגמה תמונות, וידאו, הערות, ויישומים) לא היו מגובים. 
-על מנת שתוכל לגבות אותם, אתה יכול לנקות כמה קבצים ישנים על מנת לפנות מקום עבור חדשים, או שאתה יכול לרכוש שטח אחסון נוסף."</string>
-    <string name="micloud_upgrade_space">הוסף שטח אחסון</string>
+    <string name="micloud_full_influence_dspt">"כל התמונות, הסרטונים, הפתקים והיישומים שלך ישארו מגובים בענן. 
+
+על כן, במקרה של אובדן או נזק למכשירך, הנתונים שלך ישארו בטוחים. 
+
+כאשר הענן שלך יתמלא, הנתונים שלך לא ילכו לשום מקום. עם זאת, כל תוכן חדש שתוסיף (לדוגמה: תמונות, סרטונים, פתקים ויישומים) לא יגובה.
+
+על מנת לתקן זאת, באפשרותך להסיר קבצים ישנים על מנת לפנות מקום לקבצים חדשים, או לחלופין לרכוש שטח אחסון נוסף."</string>
+    <string name="micloud_upgrade_space">הוספת שטח אחסון</string>
     <string name="enable_sync_dspt">אל תסנכרן</string>
     <string name="enable_sync">סנכרון</string>
     <string name="cloud_find_device">אתר מכשיר</string>
@@ -448,7 +451,7 @@
     <string name="micloud_sync_alert_dialog_positive">אישור</string>
     <string name="micloud_battery_low_notification_title">סוללה חלשה</string>
     <string name="micloud_battery_low_notification_message">חבר מטען על מנת לסנכרן</string>
-    <string name="micloud_upgrade_member">קבל שטח אחסון נוסף</string>
+    <string name="micloud_upgrade_member">הוספת שטח אחסון</string>
     <string name="micloud_notif_content_depend_wifi">התחבר לרשת אלחוטית על מנת לסנכרן.</string>
     <string name="micloud_notif_title_master_depend_wifi">לא ניתן לסנכרן עם Mi Cloud</string>
     <string name="micloud_notif_content_master_depend_wifi">התחבר לרשת אלחוטית תחילה.</string>

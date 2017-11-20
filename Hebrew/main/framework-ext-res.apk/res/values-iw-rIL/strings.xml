@@ -38,6 +38,7 @@
     <string name="translation_query_error">לא ניתן היה להשיג תוצאות</string>
     <string name="translation_query_error_network">לא ניתן היה לקבל מידע, בדוק את החיבור לרשת ונסה שוב</string>
     <string name="translation_more">עוד</string>
+    <string name="autofill">מילוי אוטומטי</string>
     <string name="auto_start_warning_title">לאפשר ל-%s להתחיל באופן אוטומטי?</string>
     <string name="auto_start_warning_allow">אפשר</string>
     <string name="auto_start_warning_deny">דחה</string>

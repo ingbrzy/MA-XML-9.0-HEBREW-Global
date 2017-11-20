@@ -384,9 +384,9 @@
     <string name="load_only_under_wlan">טען באמצעות רשת אלחוטית בלבד</string>
     <string name="recommend_news">קבל המלצות</string>
     <string name="dialog_title_stop_scan">עצור סריקה</string>
-    <string name="dialog_msg_stop_scan">לעצור את הסריקה הנוכחית?</string>
+    <string name="dialog_msg_stop_scan">לעצור את הסריקה כעת?</string>
     <string name="dialog_title_esc_cleanmaster">"יציאה מ'מנקה'"</string>
-    <string name="dialog_msg_esc_cleanmaster">לעצור את הסריקה הנוכחית?</string>
+    <string name="dialog_msg_esc_cleanmaster">"לעצור את הסריקה ולצאת מה'סורק'?"</string>
     <string name="pref_category_title_engine_settings">הגדרות מגדירי סריקה</string>
     <string name="pref_title_choose_engine">הגדרות</string>
     <string name="recommend_the_following">בצע את הפעולות הבאות על מנת להפיק את המירב ממכשירך</string>
@@ -473,5 +473,5 @@
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">"אודות 'מנקה'"</string>
     <string name="app_description_content">"ה'מנקה' מאתר אשפה במכשירך ומפנה שטח אחסון. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
-    <string name="engine_init">מאתחל...</string>
+    <string name="engine_init">מאתחל…</string>
 </resources>

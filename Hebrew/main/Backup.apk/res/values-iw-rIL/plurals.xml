@@ -43,27 +43,27 @@
         <item quantity="many">פריטים</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">Restored %d items</item>
-        <item quantity="one">Restored %d item</item>
-        <item quantity="two">Restored %d items</item>
-        <item quantity="many">Restored %d items</item>
+        <item quantity="other">%d פריטים שוחזרו</item>
+        <item quantity="one">פריט %d שוחזר</item>
+        <item quantity="two">%d פריטים שוחזרו</item>
+        <item quantity="many">%d פריטים שוחזרו</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">Imported and restored %d items</item>
-        <item quantity="one">Imported and restored %d item</item>
-        <item quantity="two">Imported and restored %d items</item>
-        <item quantity="many">Imported and restored %d items</item>
+        <item quantity="other">%d פריטים יובאו ושוחזרו</item>
+        <item quantity="one">פריט %d יובא ושוחזר</item>
+        <item quantity="two">%d פריטים יובאו ושוחזרו</item>
+        <item quantity="many">%d פריטים יובאו ושוחזרו</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"Imported %d items. "</item>
-        <item quantity="one">"Imported %d item. "</item>
-        <item quantity="two">"Imported %d items. "</item>
-        <item quantity="many">"Imported %d items. "</item>
+        <item quantity="other">"%d פריטים יובאו. "</item>
+        <item quantity="one">"פריט %d יובא. "</item>
+        <item quantity="two">"%d פריטים יובאו. "</item>
+        <item quantity="many">"%d פריטים יובאו. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">Import %d items again.</item>
-        <item quantity="one">Import %d item again.</item>
-        <item quantity="two">Import %d items again.</item>
-        <item quantity="many">Import %d items again.</item>
+        <item quantity="other">ייבא שוב %d פריטים.</item>
+        <item quantity="one">ייבא שוב פריט %d.</item>
+        <item quantity="two">ייבא שוב %d פריטים.</item>
+        <item quantity="many">ייבא שוב %d פריטים.</item>
     </plurals>
 </resources>

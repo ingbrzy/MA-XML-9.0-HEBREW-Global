@@ -279,7 +279,7 @@
     <string name="wallpaper_decoded_error">לא ניתן לטעון את הטפט</string>
     <string name="close">סגירה</string>
     <string name="download_success">ההורדה הושלמה</string>
-    <string name="account_info">אני</string>
+    <string name="account_info">החשבון שלי</string>
     <string name="account_name_not_login">היכנס</string>
     <string name="favorite_list">מועדפים</string>
     <string name="favorite_list_format">מועדף %1$s</string>
@@ -298,6 +298,7 @@
     <string name="theme_batch_update_dlg_content_single">לעדכן את %1$s כעת?</string>
     <string name="theme_current_using_has_update">קיים עדכון זמין עבור ערכת נושא</string>
     <string name="theme_immediately_apply_tip">להחיל עדכון לערכת הנושא כעת?</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">ערכות נושא חדשות זמינות</string>
     <string name="selected_resource_file_invalid">לא ניתן להשתמש בקובץ המשאב הנבחר</string>
     <string name="apply_theme_with_ringtones">השתמש בצלצולים של ערכת הנושא</string>
@@ -358,8 +359,8 @@
     <string name="gift_received_list_empty">לא קיבלת כל מתנה.</string>
     <string name="gift_received_notification_title">%s העביר לך ערכת נושא.</string>
     <string name="present_online_themes">קבל ערכות נושא מקוונות נוספות</string>
-    <string name="present_local_themes">משאבי ערכות הנושא שלי</string>
-    <string name="present_official_themes">בחירה רשמית</string>
+    <string name="present_local_themes">ערכות הנושא שלי</string>
+    <string name="present_official_themes">הבחירות שלנו</string>
     <string name="find_more_theme">מצא עוד</string>
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="lockscreen_magazine_summary">קטגוריות</string>
@@ -461,8 +462,8 @@
     <string name="online_precust_building">מבנים</string>
     <string name="online_precust_lifestyle">לייפסטייל</string>
     <string name="online_precust_abstract">אבסטרקטי</string>
-    <string name="region_not_support">"מצטערים, 'ערכות נושא' אינו זמין באזורך."</string>
-    <string name="hide_free">"הסתרת ערכות חינמיות "</string>
-    <string name="hide_incompatible">"הסתרת ערכות בלתי מתאימות "</string>
-    <string name="current_version_incompatible">גירסה בלתי מתאימה</string>
+    <string name="region_not_support">"יישום 'ערכות נושא' אינו נתמך באזורך."</string>
+    <string name="hide_free">הסתרת ערכות נושא חינמיות</string>
+    <string name="hide_incompatible">הסתרת ערכות נושא בלתי מתאימות</string>
+    <string name="current_version_incompatible">ערכת נושא זו אינה מתאימה</string>
 </resources>

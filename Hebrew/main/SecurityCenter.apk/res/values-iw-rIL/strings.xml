@@ -384,6 +384,7 @@
     <string name="detail_app_button">פרטי היישום</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">מגבלת נתונים סלולריים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -821,8 +822,8 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   קביעת חבילת נתונים >"</string>
     <string name="status_bar_network_flow_phone_balance">"   יתרת הטלפון: %1$s "</string>
     <string name="status_bar_network_flow_exceed_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;חריגה מהתכנית: &lt;font color=%2$s>%3$s&lt;/font></string>
-    <string name="status_bar_network_flow_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;;נותרו: %2$s</string>
-    <string name="status_bar_network_flow_content_not_setting">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;;החודש: %2$s</string>
+    <string name="status_bar_network_flow_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;נותרו: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;החודש: %2$s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
     <string name="optimize_manage_title">האצת מהירות</string>
     <string name="cpu_usage_android_system">מערכת אנדרואיד</string>
@@ -885,6 +886,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -1181,7 +1183,7 @@ Rolled over extra data"</string>
     <string name="sp_settings_info_monitor">ניטור סביבת המערכת כאשר יישומי תשלום מופעלים</string>
     <string name="scan_status_safe">בטוח</string>
     <string name="scan_status_risk">מסוכן</string>
-    <string name="safepay_alert_dialog_button_fix">Fix</string>
+    <string name="safepay_alert_dialog_button_fix">תיקון</string>
     <string name="safepay_alert_dialog_button_continue">המשך</string>
     <string name="safe_result_header_info_protecting">מגן</string>
     <string name="safe_result_item_info_system_version">MIUI מעודכן</string>
@@ -1216,10 +1218,10 @@ Rolled over extra data"</string>
     <string name="sp_monitored_apps_count_zero">אין יישומי תשלומים מוגנים</string>
     <string name="monitor_app_more">עוד</string>
     <string name="monitor_app_add">הוספה</string>
-    <string name="sc_system_risk_fix_info_xspace">לא ניתן לתקן את הסיכון בשטח X, אנא עבור אל שטח הבעלים על מנת לתקנו.</string>
-    <string name="dialog_no_longer_alert">no longer remind</string>
-    <string name="sp_background_risk_dialog_title_wifi_approve">Free WLAN Alert</string>
-    <string name="sp_background_risk_dialog_summary_wifi_approve">You are currently using a free public wifi which could be a fishing one. Make sure it is safe before your payment.</string>
+    <string name="sc_system_risk_fix_info_xspace">"לא ניתן לפתור זאת ב'שטח שני'. נסה שוב ב'שטח ראשון'."</string>
+    <string name="dialog_no_longer_alert">אל תציג שוב</string>
+    <string name="sp_background_risk_dialog_title_wifi_approve">התרעת רשת אלחוטית ציבורית</string>
+    <string name="sp_background_risk_dialog_summary_wifi_approve">הינך מחובר לרשת אלחוטית ציבורית אשר יתכן כי אינה בטוחה. ודא כי התשלום שהינך מבצע הינו מאובטח לפני השלמתו.</string>
     <string name="sp_background_risk_dialog_title">שים לב</string>
     <string name="sp_background_risk_dialog_summary">, בדוק ותקן בעיות תשלום.</string>
     <string name="sp_background_risk_type_wifi">רשת אלחוטית זו הינה מסוכנת</string>
@@ -1270,7 +1272,7 @@ Rolled over extra data"</string>
     <string name="keywords_powercenter_powerrank">שימוש בסוללה</string>
     <string name="path_powercenter_powerrank">סוללה &amp; ביצועים/שימוש בסוללה</string>
     <string name="resource_gamebooster">מאיץ מהירות המשחקים</string>
-    <string name="keywords_gamebooster">משחק;מאיץ מהירות;Glory of the king;מצב ביצועים;DND;נא לא להפריע</string>
+    <string name="keywords_gamebooster">משחק;מאיץ המהירות;King of Glory;מצב ביצועים;נא לא להפריע;משחקים;גיימינג;מהירות משחקים;האצה</string>
     <string name="path_gamebooster">יישומי מערכת/אבטחה/מאיץ מהירות המשחקים</string>
     <string name="app_name_securitycenter">אבטחה</string>
     <string name="ok">אישור</string>
@@ -1286,6 +1288,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1503,7 +1506,7 @@ Rolled over extra data"</string>
     <string name="title_mifi_insurance">אחריות מורחבת</string>
     <string name="summary_mifi_insurance">קבל תכנית החלפה לשנה אשר עובדת במקרים של נזק לחומרה</string>
     <string name="title_cloud_space_almost_full">אחסון הענן כמעט מלא, יתכן כי לא יתבצע סנכרון לפריטים מסויימים</string>
-    <string name="summary_cloud_space_almost_full">קבל שטח אחסון נוסף</string>
+    <string name="summary_cloud_space_almost_full">הוספת שטח אחסון</string>
     <string name="title_cloud_space_full">הענן מלא</string>
     <string name="summary_cloud_space_full">קבל מקום אחסון נוסף בענן וגישה לתכונות נוספות</string>
     <string name="title_auto_update">עדכן באופן אוטומטי</string>
@@ -1562,8 +1565,8 @@ Rolled over extra data"</string>
     <string name="antivirus_privacy_dialog_ok">אישור</string>
     <string name="pref_title_manual_check_virus_db_update">בדוק זמינות עדכונים</string>
     <string name="virus_update_tips_title">אזהרה</string>
-    <string name="virus_wait_network_dialog_message">הטלפון שלך אינו מחובר לרשת האלחוטית כעת. יעשה שימוש ברשת הנתונים הסלולרית. להמשיך?</string>
-    <string name="antivirus_not_wlan">אינך מחובר לרשת אלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
+    <string name="virus_wait_network_dialog_message">הטלפון שלך אינו מחובר לרשת האלחוטית כעת. להשתמש בחיבור הנתונים הסלולרי?</string>
+    <string name="antivirus_not_wlan">אינך מחובר לרשת האלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
     <string name="antivirus_longtime_no_update">"נראה כי הגדרות הוירוסים שלך ישנות. עדכונים על בסיס קבוע מסייעים לקבלת תוצאות סריקה טובות יותר. לאפשר ל'אבטחה' להתחבר לאינטרנט ולעדכן את הגדרות הוירוסים?"</string>
     <string name="antivirus_longtime_no_update1">נראה כי הגדרות הוירוסים שלך ישנות. עדכונים על בסיס קבוע מסייעים לקבלת תוצאות סריקה טובות יותר. עדכן את ההגדרות ונסה שוב.</string>
     <string name="antivirus_sec_network_unavailable">"יישום ה'אבטחה' אינו יכול לבצע עדכון כיוון שהגבלת את החיבור לאינטרנט. לאפשר ל'אבטחה' להתחבר לאינטרנט?"</string>
@@ -1587,7 +1590,7 @@ Rolled over extra data"</string>
     <string name="hints_risk_name_title">סיכון:</string>
     <string name="hints_risk_descx_title">תאור:</string>
     <string name="button_text_clear">ניקוי</string>
-    <string name="antivirus_main_activity_back">חזרה מסריקת האבטחה</string>
+    <string name="antivirus_main_activity_back">חזרה</string>
     <string name="toast_removed_from_virus_white_list">"הוסר מ'רשימת החריגים'. הפריט יסרק בפעם הבאה."</string>
     <string name="long_click_dialog_title">שים לב</string>
     <string name="long_click_dialog_summary">"לחץ והחזק את התוצאות ברשימה על מנת להוסיפן ל'רשימת החריגים'"</string>
@@ -1646,6 +1649,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1799,7 +1803,7 @@ Rolled over extra data"</string>
     <string name="optimize_result_button_consume_power_analysis">סרוק סוללה</string>
     <string name="optimize_result_button_purchase_flow">הצג הכל</string>
     <string name="optimize_result_button_purchase">רכישה</string>
-    <string name="optimize_result_button_cloudspace">הוסף שטח אחסון בענן</string>
+    <string name="optimize_result_button_cloudspace">הוספת שטח אחסון בענן</string>
     <string name="optimize_result_title_system_default_settings">הגדרות ברירת המחדל שונו</string>
     <string name="optimize_result_summary_system_default_settings">שימוש ביישומי ברירת המחדל של MIUI מעלה את רמת יציבות ואבטחת המערכת.</string>
     <string name="optimize_result_toast_system_default_settings">הגדרות ברירת המחדל שוחזרו</string>
@@ -1929,15 +1933,15 @@ Rolled over extra data"</string>
 
  "<li>יישומים מושבתים</li>"
  "<li>התראות של יישומים מושבתים</li>"
- "<li>יישומי ברירת מחדל עבור פעולות</li>"
+ "<li>יישומי ברירת מחדל</li>"
  "<li>מגבלות נתוני רקע עבור יישומים</li>"
 
  לא תאבד כל נתוני יישומים."</string>
     <string name="app_manager_reset_app_preferences_button">איפוס יישומים</string>
     <string name="app_manager_disable_text">השבת</string>
     <string name="app_manager_enable_text">אפשר</string>
-    <string name="app_manager_disable_dlg_title">להשבית יישומים מובנים?</string>
-    <string name="app_manager_disable_dlg_text">במידה ותשבית יישום זה, יתכן ויישומים אחרים לא יתפקדו כראוי.</string>
+    <string name="app_manager_disable_dlg_title">להשבית את יישום המערכת?</string>
+    <string name="app_manager_disable_dlg_text">במידה ותשבית יישום זה, יתכן ויישומים אחרים לא יוכלו לעבוד באופן תקין.</string>
     <string name="app_manager_disabled">מושבת</string>
     <string name="app_manager_enabled">מאופשר</string>
     <string name="app_manager_globel_perm_title">הרשאות של יישומים</string>
@@ -1950,11 +1954,11 @@ Rolled over extra data"</string>
     <string name="app_manager_as_dlg_title">שים לב</string>
     <string name="app_manager_as_dlg_msg">יישומים אשר הוענקה להם הרשאת התחלה אוטומטית עשויים לדרוש משאבי סוללה ו-RAM נוספים. להעניק בכל זאת?</string>
     <string name="app_manager_default_cleared">נוקה</string>
-    <string name="app_manager_not_allow">No</string>
-    <string name="app_manager_allow">Yes</string>
-    <string name="app_manager_install_other_app">install apps unknown sources</string>
-    <string name="app_manager_disabled_by_admin">Disabled by admin</string>
-    <string name="app_manager_advanced_setting">Advanced settings</string>
+    <string name="app_manager_not_allow">לא</string>
+    <string name="app_manager_allow">כן</string>
+    <string name="app_manager_install_other_app">התקן יישומים ממקורות לא ידועים</string>
+    <string name="app_manager_disabled_by_admin">הושבת על ידי המנהל</string>
+    <string name="app_manager_advanced_setting">הגדרות מתקדמות</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
@@ -2002,8 +2006,8 @@ Rolled over extra data"</string>
     <string name="function_close">כיבוי</string>
     <string name="add_done">נוסף בהצלחה</string>
     <string name="boost_done">הואץ בהצלחה</string>
-    <string name="boost_stop">Turn off speed boost</string>
-    <string name="already_close_gamebooster">Gaming speed boost is off</string>
+    <string name="boost_stop">כיבוי מאיץ המהירות</string>
+    <string name="already_close_gamebooster">מאיץ מהירות המשחקים כבוי</string>
     <string name="no_game">לא ניתן היה למצוא משחקים</string>
     <string name="gamebooster_network_dialog_title">תכונות מסויימות אינן זמינות</string>
     <string name="gamebooster_network_dialog_message">"לאפשר ל'אבטחה' להתחבר לרשת על מנת שתוכל להשתמש בכל התכונות של 'מאיץ מהירות המשחקים'?"</string>
@@ -2058,8 +2062,8 @@ Rolled over extra data"</string>
     <string name="renew_now">חידוש</string>
     <string name="receive_now">קבלה</string>
     <string name="net_booster">מאיץ מהירות הרשת</string>
-    <string name="xunyou_net_booster">Network speed boost</string>
-    <string name="xunyou_net_booster_detail">Use Xunyou speed boost services for gaming</string>
+    <string name="xunyou_net_booster">מאיץ מהירות הרשת</string>
+    <string name="xunyou_net_booster_detail">השתמש בשירותי האצת המהירות של Xunyou עבור משחקים</string>
     <string name="wlan_booster">ייעול רשת אלחוטית</string>
     <string name="tab_gift">מתנות</string>
     <string name="tab_guide">מדריך</string>
@@ -2090,13 +2094,13 @@ Rolled over extra data"</string>
     <string name="thermal_tips_title">שים לב</string>
     <string name="thermal_tips_message">"משחק במצב 'ביצועים' עשוי להוביל לבעיות התחממות."</string>
     <string name="forbid_autobright_title">תאורת מסך קבועה</string>
-    <string name="forbid_autobright_summary">"Screen brightness will stay the same when you're playing games"</string>
+    <string name="forbid_autobright_summary">בהירות המסך תישאר קבועה בעת שתשחק במשחקים</string>
     <string name="gamebooster_lowbattery_notification_title">הסוללה נמוכה מ-5%%</string>
     <string name="gamebooster_lowbattery_notification_summary">טען את מכשירך לפני שיכבה.</string>
     <string name="game_ad_recommendation">כולם משחקים</string>
-    <string name="game_booster_close">Game Speed Booster off</string>
-    <string name="databooster_tips_title">Attention</string>
-    <string name="databooster_tips_message">Turn on to restrict all SIM cards except for the data card. Turn this feature off if errors occur in the games of your choice.</string>
+    <string name="game_booster_close">מאיץ מהירות המשחקים כבוי</string>
+    <string name="databooster_tips_title">שים לב</string>
+    <string name="databooster_tips_message">הפעל על מנת להגביל את כל כרטיסי ה-SIM מלבד כרטיס הנתונים. כבה תכונה זו במידה ומתרחשות שגיאות במשחקים שבחרת.</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>
