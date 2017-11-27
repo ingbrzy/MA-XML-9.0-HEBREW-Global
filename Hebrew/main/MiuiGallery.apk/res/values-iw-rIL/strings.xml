@@ -792,7 +792,6 @@
     <string name="search_feedback_false_negative_text">להוסיף תמונות אל \"%s\"?</string>
     <string name="search_feedback_contribute">הוסף תמונות אל מסד נתוני האלגוריתם AI</string>
     <string name="search_feedback_task_finish_title">לחץ לקבלת פרס!</string>
-    <string name="search_feedback_task_progress">%1$d/%2$d</string>
     <string name="search_feedback_likely_title">נראה כי לתמונות אלה יש \"%s\"</string>
     <string name="search_feedback_likely_check_title">בדיקה</string>
     <string name="search_feedback_false_positive_title">נראה כי אלו הם \"%s\"</string>
@@ -802,7 +801,6 @@
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_go_and_set">הגדר</string>
     <string name="loading">רק רגע</string>
     <string name="loading_dots">רק רגע…</string>

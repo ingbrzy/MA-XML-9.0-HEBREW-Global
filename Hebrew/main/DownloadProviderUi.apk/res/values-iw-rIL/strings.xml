@@ -106,7 +106,6 @@
     <string name="package_filter">חבילות</string>
     <string name="other_filter">אחר</string>
     <string name="xunlei_brand">מופעל על ידי Xunlei</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">מנוע ההורדות של Xunlei</string>
     <string name="turn_off_xunlei_title">כבה את Xunlei</string>
     <string name="turn_off_xunlei_message">אתה עשוי לחוות מהירויות הורדה איטיות יותר.</string>
