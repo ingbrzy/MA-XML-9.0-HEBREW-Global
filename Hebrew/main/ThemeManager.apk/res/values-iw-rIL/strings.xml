@@ -298,6 +298,7 @@
     <string name="theme_batch_update_dlg_content_single">לעדכן את %1$s כעת?</string>
     <string name="theme_current_using_has_update">קיים עדכון זמין עבור ערכת נושא</string>
     <string name="theme_immediately_apply_tip">להחיל עדכון לערכת הנושא כעת?</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">ערכות נושא חדשות זמינות</string>
     <string name="selected_resource_file_invalid">לא ניתן להשתמש בקובץ המשאב הנבחר</string>
     <string name="apply_theme_with_ringtones">השתמש בצלצולים של ערכת הנושא</string>
@@ -427,7 +428,7 @@
     <string name="wallpaper_settings_pad_more_page_title">טפטים נוספים</string>
     <string name="find_more_wallpapers">מצא עוד</string>
     <string name="local_photos">תמונות מקומיות</string>
-    <string name="recently_used">היה בשימוש לאחרונה</string>
+    <string name="recently_used">בשימוש לאחרונה</string>
     <string name="system_precust">מותקן מראש</string>
     <string name="wallpaper_settings_loading_text">רק רגע…</string>
     <string name="wallpaper_settings_no_history">אין היסטוריה</string>
@@ -461,8 +462,8 @@
     <string name="online_precust_building">מבנים</string>
     <string name="online_precust_lifestyle">לייפסטייל</string>
     <string name="online_precust_abstract">אבסטרקטי</string>
-    <string name="region_not_support">"יישום 'ערכות נושא' אינו נתמך באזורך."</string>
-    <string name="hide_free">הסתרת ערכות נושא חינמיות</string>
-    <string name="hide_incompatible">הסתרת ערכות נושא בלתי מתאימות</string>
+    <string name="hide_free">Hide free %1$s</string>
+    <string name="hide_incompatible">Hide incompatible %1$s</string>
     <string name="current_version_incompatible">ערכת נושא זו אינה מתאימה</string>
+    <string name="region_not_support">"יישום 'ערכות נושא' אינו נתמך באזורך."</string>
 </resources>

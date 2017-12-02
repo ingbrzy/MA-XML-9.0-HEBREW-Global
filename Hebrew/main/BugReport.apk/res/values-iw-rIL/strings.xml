@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -213,9 +214,12 @@
     <string name="feedback_select_suggestion">הצעות</string>
     <string name="feedback_select_problem">בעיות</string>
     <string name="feedback_choose_module">בחר פריט</string>
+    <string name="feedback_choose_third_app_name">Select app name</string>
     <string name="toast_module_required">בחר פריט</string>
     <string name="feedback_choose_module_hint">נדרש</string>
-    <string name="feedback_report_remind_login_desc">היכנס לחשבון Mi שלך על מנת שהמהנדסים שלנו יוכלו ליצור איתך קשר.</string>
+    <string name="feedback_choose_reproductivity">Reproductivity</string>
+    <string name="feedback_title_reproductivity">Select reproductivity</string>
+    <string name="feedback_report_remind_login_desc">היכנס לחשבון Mi שלך על מנת שהמתכנתים שלנו יוכלו ליצור איתך קשר.</string>
     <string name="feedback_report_remind_login_desc2">"תוכל לצפות בהתקדמות הדיווח שלך גם ב'הדיווחים שלי'."</string>
     <string name="feedback_history_remind_login_desc">היכנס לחשבון Mi שלך על מנת לצפות בפרטים ובהתקדמות הדיווח שלך</string>
     <string name="feedback_remind_login_btn">היכנס</string>
@@ -224,6 +228,7 @@
     <string name="feedback_title_hint">תאר בקצרה את הבעיה</string>
     <string name="feedback_description_suggest_hint">ברצוני להוסיף תכונה חדשה () מכיוון שאני זקוק ל ().</string>
     <string name="feedback_description_bugreport_hint">במקרים מסויימים (…) הטלפון שלי אינו מתנהג כראוי (…).</string>
+    <string name="feedback_description_hint">"Describe the issue you've encountered"</string>
     <string name="toast_title_required">תאר את הבעיה שלך</string>
     <string name="toast_problem_class_required">בחר קטגוריה</string>
     <string name="feedback_third_packagename_hint">איזה יישום צד שלישי גורם לבעיות?</string>
@@ -240,6 +245,7 @@
     <string name="feedback_status_replyed">קיבל תשובה</string>
     <string name="feedback_status_jira_comment">הוסף הערה</string>
     <string name="feedback_status_forum_reply">השב</string>
+    <string name="feedback_status_submit_attachment">Submitted attachment successfully</string>
     <string name="feedback_status_change_notification_title">התקדמות הדווח שלך עודכנה</string>
     <string name="feedback_bug_status_change_notification_desc">בעיה %1$s \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">הצעה %1$s \"%2$s\"</string>
@@ -297,9 +303,11 @@
     <string name="toast_log_not_exists">היומן הדרוש נמחק או שאינו קיים</string>
     <string name="toast_pic_not_exists">תמונת המטמון נמחקה</string>
     <string name="toast_screenshot_too_large">לא ניתן להעלות קבצים הגדולים מ-10MB.</string>
+    <string name="toast_log_too_large">"Can't upload. The file is too big."</string>
     <string name="title_bbs_feedback_main">למידע נוסף אודות Mi phones</string>
     <string name="title_customer_service">שירות לקוחות</string>
     <string name="customer_service_apply">בקשת עזרה משירות הלקוחות</string>
     <string name="customer_service_complain">דיווח לשירות הלקוחות</string>
     <string name="customer_service_station">מיקומי שירות</string>
+    <string name="select_system_app_tag">Select tags</string>
 </resources>

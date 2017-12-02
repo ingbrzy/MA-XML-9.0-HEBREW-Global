@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">תחזית עבור %1$s ימים</item>
-        <item quantity="one">תחזית עבור יום %1$s</item>
-        <item quantity="two">תחזית עבור %1$s ימים</item>
-        <item quantity="many">תחזית עבור %1$s ימים</item>
+        <item quantity="other">%1$s-day forecast</item>
+        <item quantity="one">%1$s-day forecast</item>
+        <item quantity="two">%1$s-day forecast</item>
+        <item quantity="many">%1$s-day forecast</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">לפני %d דקות</item>
-        <item quantity="one">לפני דקה %d</item>
-        <item quantity="two">לפני %d דקות</item>
-        <item quantity="many">לפני %d דקות</item>
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
+        <item quantity="two">%d minutes ago</item>
+        <item quantity="many">%d minutes ago</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">לפני %d שעות</item>

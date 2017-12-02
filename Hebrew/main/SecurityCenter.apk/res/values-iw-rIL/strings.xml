@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="fw_blocked">רשימת החסומים</string>
+    <string name="fw_oversea">Block calls from abroad</string>
     <string name="fw_blocked_count">"נחסמו "</string>
     <string name="fw_blocked_join">" ו-"</string>
+    <string name="fw_oversea_content">Block incoming calls from foreign phone numbers</string>
     <string name="tab_title">רשימת החסומים</string>
     <string name="tab_blacklist">רשימת החסומים</string>
     <string name="tab_sms">מסרונים</string>
@@ -132,6 +134,7 @@
     <string name="call_contact_block">חסום שיחות מאנשי קשר</string>
     <string name="call_transfer_block">חסום שיחות שהופנו</string>
     <string name="call_cloud_block">רשימת חסומים בענן</string>
+    <string name="call_oversea_block">Block calls from abroad</string>
     <string name="mark_fraud_block">דווח כהונאה</string>
     <string name="mark_agent_block">דווח כסוכנות</string>
     <string name="mark_sell_block">דווח כטלמרקטינג</string>
@@ -270,6 +273,7 @@
     <string name="st_call_settings">רשימת שיחות חסומות</string>
     <string name="st_call_intercept_stranger">חסום שיחות מזרים</string>
     <string name="st_call_intercept_forwarding">חסום שיחות שהופנו</string>
+    <string name="st_call_intercept_oversea">Block calls from abroad</string>
     <string name="st_call_intercept_reported">חסום שיחות ממספרים שדווחו</string>
     <string name="st_call_intercept_contacts">חסום שיחות מאנשי קשר</string>
     <string name="st_call_intercept_unknown">חסום שיחות ממספרים נסתרים</string>
@@ -281,6 +285,7 @@
     <string name="st_confirm_dialog_btn_open">פתיחה</string>
     <string name="st_confirm_dialog_summary_stranger_call">כל השיחות מזרים יחסמו.</string>
     <string name="st_confirm_dialog_summary_contact_call">כל השיחות מאנשי קשר יחסמו.</string>
+    <string name="st_confirm_dialog_summary_oversea_call">Turn on to block all incoming calls from foreign phone numbers.</string>
     <string name="cta_dialog_title">חיבור אינטרנט</string>
     <string name="cta_dialog_msg">"יישום ה'אבטחה' דורש חיבור לאינטרנט על מנת לקבל עדכונים, כמו גם גישה למיקום על מנת לעבוד כראוי."</string>
     <string name="cta_settings">אפשר חיבור לאינטרנט</string>
@@ -384,6 +389,7 @@
     <string name="detail_app_button">פרטי היישום</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">מגבלת נתונים סלולריים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -885,6 +891,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -963,7 +970,7 @@ Rolled over extra data"</string>
     <string name="battery_history_seconds">%1$d שניות</string>
     <string name="delete">מחק</string>
     <string name="every_day">כל יום</string>
-    <string name="legal_workday">חג</string>
+    <string name="legal_workday">Legal workdays</string>
     <string name="never">פעם 1</string>
     <string name="power_20s_shutdown">ההתקן יכבה בעוד %d שניות</string>
     <string name="boot_reminder">תזמן את הפעלת המכשיר שלך</string>
@@ -1273,6 +1280,7 @@ Rolled over extra data"</string>
     <string name="keywords_gamebooster">משחק;מאיץ המהירות;King of Glory;מצב ביצועים;נא לא להפריע;משחקים;גיימינג;מהירות משחקים;האצה</string>
     <string name="path_gamebooster">יישומי מערכת/אבטחה/מאיץ מהירות המשחקים</string>
     <string name="app_name_securitycenter">אבטחה</string>
+    <string name="back_description_securitycenter">Back</string>
     <string name="ok">אישור</string>
     <string name="exit">יציאה</string>
     <string name="cancel">ביטול</string>
@@ -1286,6 +1294,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1646,6 +1655,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1841,11 +1851,9 @@ Rolled over extra data"</string>
     <string name="app_manager_details_electric_title">סוללה </string>
     <string name="app_manager_card_permission_title">הרשאות</string>
     <string name="app_manager_permission_startself_title">הפעלה אוטומטית</string>
-    <string name="app_manager_permission_startself_summary">יישומים המופעלים אוטומטית תופסים זכרון RAM ומרוקנים את הסוללה מהר יותר</string>
     <string name="app_manager_permission_manager_title">הרשאות</string>
     <string name="app_manager_permission_notify_title">התראות</string>
     <string name="app_manager_permission_power_saving_title">חסכון בסוללה</string>
-    <string name="app_manager_permission_power_saving_summary">"מצב 'חסכון בסוללה' של MIUI"</string>
     <string name="app_manager_default_open_title">ניקוי ברירות המחדל</string>
     <string name="app_manager_default_close_summary">לא הוגדרו ברירות מחדל.</string>
     <string name="app_manager_default_open_summary">בחרת להפעיל יישום זה כברירת מחדל בעבור פעולות מסויימות.</string>
@@ -1871,7 +1879,6 @@ Rolled over extra data"</string>
     <string name="app_manager_stop_wakepath_success">הוגבל בהצלחה</string>
     <string name="app_maanger_app_uninstalled_toast">יישום זה הוסר</string>
     <string name="app_manager_start_by">הופעל על ידי %s</string>
-    <string name="app_manager_not_record">לא ניתן היה למצוא יישומים אשר דורשים הרשאות</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">יישומים משוכפלים תואמים יוסרו יחד עם נתוני היישום שלהם.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">להסיר את התקנת היישום המשוכפל?</string>
@@ -1880,12 +1887,11 @@ Rolled over extra data"</string>
     <string name="app_manager_loading_data">טוען נתונים…</string>
     <string name="app_manager_appupdate_remind">הודע אודות עדכונים</string>
     <string name="app_usage_never">מעולם לא היה בשימוש</string>
-    <string name="app_usage_recently">היה בשימוש לאחרונה</string>
+    <string name="app_usage_recently">בשימוש לאחרונה</string>
     <string name="app_manager_have_not_consume">ללא</string>
     <string name="app_manager_menu_clear_data">נקה נתונים</string>
     <string name="app_manager_clear_data_dlg_title">למחוק את נתוני היישום?</string>
     <string name="app_manager_clear_data_dlg_message">"כל הנתונים של יישום זה ימחקו לצמיתות. זה כולל את כל הקבצים, ההגדרות, החשבונות, מסדי הנתונים וכו'."</string>
-    <string name="app_manager_clear_failed_dlg_title">ניקוי נתונים</string>
     <string name="app_manager_clear_failed_dlg_message">לא ניתן היה לנקות את נתוני יישום זה.</string>
     <string name="app_manager_manage_space">ניהול שטח</string>
     <string name="app_manager_permission_summary_reject">הגבלת הכל</string>
@@ -1893,7 +1899,6 @@ Rolled over extra data"</string>
     <string name="app_manager_powerkeeper_miui_auto">"מצב 'חסכון בסוללה' של MIUI"</string>
     <string name="app_manager_powerkeeper_restrict_bg">הגבל יישומים המופעלים ברקע</string>
     <string name="app_manager_powerkeeper_no_bg">הגבל פעילות רקע</string>
-    <string name="app_manager_sort">מיון לפי</string>
     <string name="app_manager_instruction">הוראות</string>
     <string name="app_manager_app_storage">"אחסון: "</string>
     <string name="app_manager_app_traffic">"שימוש בנתונים: "</string>
@@ -2097,6 +2102,11 @@ Rolled over extra data"</string>
     <string name="game_booster_close">מאיץ מהירות המשחקים כבוי</string>
     <string name="databooster_tips_title">שים לב</string>
     <string name="databooster_tips_message">הפעל על מנת להגביל את כל כרטיסי ה-SIM מלבד כרטיס הנתונים. כבה תכונה זו במידה ומתרחשות שגיאות במשחקים שבחרת.</string>
+    <string name="app_manager_permission_startself_summary">יישומים המופעלים אוטומטית תופסים זכרון RAM ומרוקנים את הסוללה מהר יותר</string>
+    <string name="app_manager_permission_power_saving_summary">"מצב 'חסכון בסוללה' של MIUI"</string>
+    <string name="app_manager_not_record">לא ניתן היה למצוא יישומים אשר דורשים הרשאות</string>
+    <string name="app_manager_clear_failed_dlg_title">ניקוי נתונים</string>
+    <string name="app_manager_sort">מיון לפי</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

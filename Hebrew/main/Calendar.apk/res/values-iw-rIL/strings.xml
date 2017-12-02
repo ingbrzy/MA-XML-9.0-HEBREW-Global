@@ -9,7 +9,7 @@
     <string name="accessibility_repeats">חזרה</string>
     <string name="accessibility_sync_cal">סנכרון לוח שנה</string>
     <string name="accounts">חשבונות &amp; סנכרון</string>
-    <string name="acct_not_synced">חשבון זה אינו מסונכרן ולכן יתכן כי לוח השנה שלך אינו עדכני.</string>
+    <string name="acct_not_synced">חשבון זה אינו מסונכרן. יתכן כי לוח השנה שלך אינו עדכני.</string>
     <string name="acessibility_selected_marker_description">אירוע נבחר</string>
     <string name="agenda_today">היום, %1$s</string>
     <string name="agenda_tomorrow">מחר, %1$s</string>
@@ -17,14 +17,14 @@
     <string name="agenda_yesterday">אתמול, %1$s</string>
     <string name="alert_title">התראות לוח שנה</string>
     <string name="app_label">לוח שנה</string>
-    <string name="calendar_refresh">\"רענון\"</string>
+    <string name="calendar_refresh">רענון</string>
     <string name="change_response_title">שינוי תגובה</string>
     <string name="create_an_account_desc">"'לוח שנה' עובד טוב יותר עם חשבון Mi.
 
 • גש אליו מכל דפדפן.
-• גבה את האירועים שלך באופן מאובטח"</string>
+•גבה את האירועים שלך באופן מאובטח."</string>
     <string name="creating_event">האירוע נוצר</string>
-    <string name="creating_event_with_guest">ההזמנות ישלחו</string>
+    <string name="creating_event_with_guest">שולח הזמנות…</string>
     <string name="daily">יומי</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
@@ -41,7 +41,7 @@
     <string name="edit_event_to_label">אל</string>
     <string name="email_guests_label">שלח דוא\"ל לאורחים</string>
     <string name="email_picker_label">שלח דוא\"ל באמצעות</string>
-    <string name="empty_event">האירוע הריק אינו נוצר</string>
+    <string name="empty_event">לא ניתן ליצור אירועים ריקים</string>
     <string name="event_create">אירוע חדש</string>
     <string name="event_delete">מחיקת אירוע</string>
     <string name="event_edit">עריכת אירוע</string>
@@ -86,7 +86,7 @@
     <string name="response_no">לא</string>
     <string name="response_yes">כן</string>
     <string name="saving_event">האירוע נשמר</string>
-    <string name="saving_event_with_guest">העדכונים ישלחו</string>
+    <string name="saving_event_with_guest">שולח עדכונים…</string>
     <string name="search">חיפוש</string>
     <string name="select_synced_calendars_title">לוחות שנה לסנכרון</string>
     <string name="show_day_view">הצג יום</string>
@@ -199,7 +199,7 @@
     <string name="edit_event_tab_birthday">יום הולדת</string>
     <string name="edit_event_tab_countdown">ספירה לאחור</string>
     <string name="edit_event_tab_event">אירוע</string>
-    <string name="email_install_hint">הוסרה התקנת הדוא\"ל. על ידי התקנתו מחדש, תוכל לשחזר את נתוני חשבון לוח השנה או להוסיף חשבון חדש.</string>
+    <string name="email_install_hint">"התקנת יישום ה'דואר' הוסרה. התקן שוב את 'דואר' על מנת לשחזר חשבונות לוח שנה או להוסיף חשבון חדש."</string>
     <string name="english_premium_league">ליגת העל האנגלית</string>
     <string name="event_account">חשבון</string>
     <string name="event_action_delete">מחק</string>
@@ -237,9 +237,9 @@
     <string name="insert_event_dialog_title">שים לב</string>
     <string name="insert_event_toast_add_failed">לא ניתן היה להוסיף</string>
     <string name="insert_event_toast_add_success">האירוע נוצר</string>
-    <string name="install_email_app">התקנת דוא\"ל</string>
-    <string name="install_email_finished">הדוא\"ל הותקן</string>
-    <string name="installing_email">מתקין...</string>
+    <string name="install_email_app">"התקנת 'דואר'"</string>
+    <string name="install_email_finished">הותקן בהצלחה</string>
+    <string name="installing_email">מתקין…</string>
     <string name="item_num_selected">%1$d נבחרו</string>
     <string name="jump_date_full">דלג לתאריך</string>
     <string name="load_more_hint">רענן אירועים מ-%1$d</string>
@@ -269,9 +269,9 @@
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
 בדוק את הגדרות הרשת ונסה שוב."</string>
     <string name="no_network_btn">נסה שוב</string>
-    <string name="no_visiable_calendar_message">עליך לבחור חשבון לוח שנה. לחץ על \"בחר חשבון\" על מנת להמשיך.</string>
-    <string name="no_visiable_calendar_select_account">בחר חשבון</string>
-    <string name="no_visiable_calendar_title">בחר חשבון לוח שנה</string>
+    <string name="no_visiable_calendar_message">עליך להוסיף חשבון לוח שנה. לחץ על \"הוספת חשבון\" על מנת להמשיך.</string>
+    <string name="no_visiable_calendar_select_account">הוספת חשבון</string>
+    <string name="no_visiable_calendar_title">הוספת חשבון</string>
     <string name="panchang_amanta">אמנטה</string>
     <string name="panchang_amanta_month">חודש אמנטה:</string>
     <string name="panchang_ayana">איאנה</string>

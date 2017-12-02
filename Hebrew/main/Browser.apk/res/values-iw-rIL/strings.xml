@@ -35,6 +35,7 @@
     <string name="action_menu_text_copy_url">העתק כתובת אינטרנט</string>
     <string name="action_menu_text_create_qr_code">קוד QR</string>
     <string name="action_menu_text_download">ניהול הורדות</string>
+    <string name="action_menu_text_drop">Exit menu</string>
     <string name="action_menu_text_exit">יציאה</string>
     <string name="action_menu_text_find_in_page">חיפוש בעמוד</string>
     <string name="action_menu_text_fullscreen">מסך מלא</string>
@@ -114,6 +115,7 @@
     <string name="bookmark_cannot_save_url">לא ניתן לשמור כתובת אתר זו כסימניה.</string>
     <string name="bookmark_folder_needs_title">הזן שם קבוצה</string>
     <string name="bookmark_group_lable">קבוצה</string>
+    <string name="bookmark_move_to">Move to</string>
     <string name="bookmark_needs_title">יש להזין שם סימניה</string>
     <string name="bookmark_needs_url">על הסימניה להכיל כתובת אינטרנט</string>
     <string name="bookmark_not_saved">לא ניתן היה לשמור סימניה</string>
@@ -140,6 +142,8 @@
     <string name="cancel">ביטול</string>
     <string name="cancle_sync_cloud_tabs">ביטול הסנכרון</string>
     <string name="cannot_download">ניתן להוריד קישורי \"http\" או \"https\" בלבד</string>
+    <string name="check_security_tip_privacy_policy">Privacy Policy</string>
+    <string name="check_security_tip_user_agreement">User Agreement</string>
     <string name="choosertitle_sharevia">שיתוף באמצעות</string>
     <string name="clear_history">ניקוי היסטוריה</string>
     <string name="clear_most_visited">היסטוריה אחרונה</string>
@@ -174,6 +178,7 @@
     <string name="color_picker_dialog_title">בחירת צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -203,18 +208,16 @@
     <string name="contextmenu_webpage_capture">צילום מסך</string>
     <string name="contextmenu_webpage_html">שמור כקובץ HTML</string>
     <string name="contextmenu_webpage_snapshot">שמירת עמוד</string>
-    <string name="copy_to_clipboard_failure_message">כשלון בהעתקה אל הלוח</string>
+    <string name="copy_to_clipboard_failure_message">"Couldn't copy to clipboard."</string>
     <string name="copy_url">העתק כתובת אינטרנט</string>
     <string name="create_qr_code">קוד QR</string>
     <string name="current_version_pad">טאבלט</string>
     <string name="current_version_pc">שולחן עבודה</string>
     <string name="current_version_phone">טלפון</string>
     <string name="custom_head_card_text">האמן תמיד כי משהו נפלא עומד להתרחש</string>
-    <string name="custom_head_card_text_incognito">"אתה גולש במצב נסתר!
-דפים בהם תצפה לא יופיעו בהיסטוריה."</string>
-    <string name="data_traffic_prompt_change">שימוש בחיבור הנתונים הסלולרי שלך לצפיה בסרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
-    <string name="data_traffic_prompt_message">שימוש בחיבור הנתונים הסלולרי שלך לחיפוש סרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
-    <string name="data_traffic_prompt_message_short">שימוש בנתונים סלולריים להזרמת וידאו עלול לגרום לחריגה מחבילת הגלישה שלך.</string>
+    <string name="data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+    <string name="data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+    <string name="data_traffic_prompt_message_short">"Using mobile data to stream video may cause you to go over your plan's data usage limit."</string>
     <string name="data_traffic_prompt_title">אזהרת שימוש בנתונים</string>
     <string name="date_picker_dialog_clear">ניקוי</string>
     <string name="date_picker_dialog_other_button_label">אחר</string>
@@ -223,6 +226,7 @@
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="delete">מחיקה</string>
     <string name="delete_bookmark">מחיקה</string>
+    <string name="delete_bookmark_action_warning">Delete bookmarks?</string>
     <string name="delete_bookmark_group_warning">למחוק את \"%s\"? כל הסימניות בקבוצה זו ימחקו.</string>
     <string name="delete_bookmark_warning">למחוק סימניה \"%s\"?</string>
     <string name="delete_download">מחיקה</string>
@@ -258,7 +262,7 @@
     <string name="download_default_path_txt">זכור בחירה זו</string>
     <string name="download_dialog_default_path_invalid">מיקום ההורדה שבחרת לא חוקי. שומר למיקום ברירת המחדל…</string>
     <string name="download_dialog_file_length_hint_txt">"גודל הקובץ: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">פחות מ-1K</string>
+    <string name="download_dialog_file_length_lessthan1kb">Less than 1KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">לא ניתן היה להוריד</string>
     <string name="download_dialog_file_length_nolength_txt">רק רגע…</string>
     <string name="download_failed">לא ניתן היה להשלים את ההורדה</string>
@@ -291,7 +295,7 @@
     <string name="edit">עריכה</string>
     <string name="edit_bookmark">עריכת סימניה</string>
     <string name="edit_quicklink">עריכה</string>
-    <string name="empty_app_name">יישום אחר</string>
+    <string name="empty_app_name">Another app</string>
     <string name="empty_bookmark">ריק</string>
     <string name="empty_cloud_tab_login_hint">אין תויות ענן</string>
     <string name="empty_cloud_tab_logout_hint">"היכנס לחשבון Mi שלך
@@ -338,6 +342,7 @@
     <string name="geolocation_settings_page_summary_allowed">אתר זה יכול לגשת למיקומך</string>
     <string name="geolocation_settings_page_summary_not_allowed">אתר זה אינו יכול לגשת למיקומך</string>
     <string name="geolocation_settings_page_title">ניקוי הרשאות גישה למיקום</string>
+    <string name="go_back_descirption">Go back</string>
     <string name="go_supermarket_button">המשך</string>
     <string name="go_supermarket_title">"עוד יישומים, מהירות גבוהה יותר ופחות שימוש בנתונים ב'חנות היישומים'"</string>
     <string name="gold_medals">מדליות זהב</string>
@@ -354,7 +359,6 @@
     <string name="homepage_search_hint">חיפוש</string>
     <string name="homepage_top_card_menu">עליון</string>
     <string name="ignore_add_pwa_dialog_today">אל תציג היום</string>
-    <string name="in_incognito">אתה גולש במצב נסתר! דפים בהם תצפה בתוית זו לא יופיעו בהיסטורית הדפדפן שלך.</string>
     <string name="in_secureaccess">"ה'דפדפן' עבר ל'מצב בטוח'"</string>
     <string name="isReplacePage">הקובץ קיים כבר, להחליף?</string>
     <string name="is_first_history_item">זהו העמוד הראשון בהיסטורית הדפדפן</string>
@@ -379,7 +383,7 @@
     <string name="loading_tips">משוך מטה לרענון</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">לא ניתן היה להיכנס, רענן ונסה שוב</string>
-    <string name="low_memory_error">לא ניתן להשלים את הפעולה האחרונה עקב זכרון מערכת נמוך</string>
+    <string name="low_memory_error">"Couldn't complete previous operation due to low memory."</string>
     <string name="low_memory_toast">"לא ניתן להשתמש ב'דפדפן' עקב זכרון נמוך"</string>
     <string name="max_tabs_warning">לא ניתן לפתוח תויות נוספות</string>
     <string name="maximum_input_alert">לא ניתן להזין יותר מ-2048 תווים</string>
@@ -393,9 +397,9 @@
     <string name="media_error_timeout">פג תוקף החיבור לרשת</string>
     <string name="media_error_video_not_exist">קובץ הוידאו לא קיים</string>
     <string name="media_player_error_button">אישור</string>
-    <string name="media_player_error_text_invalid_progressive_playback">מצטערים, סרטון זה לא ניתן להזרמה במכשיר זה.</string>
-    <string name="media_player_error_text_unknown">מצטערים, לא ניתן להפעיל סרטון זה.</string>
-    <string name="media_player_error_title">לא ניתן להפעיל את הסרטון</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"This video isn't valid for streaming to this device."</string>
+    <string name="media_player_error_text_unknown">"Can't play this video."</string>
+    <string name="media_player_error_title">"Can't play video"</string>
     <string name="media_player_loading_video">טוען וידאו</string>
     <string name="menu_addtodesk">"הוספה ל'מסך הבית'"</string>
     <string name="menu_exit_nightmode">יציאה</string>
@@ -450,39 +454,11 @@
     <string name="miuichromium_error_page_problem_access_denied">הגישה אל %s0 נדחתה</string>
     <string name="miuichromium_error_page_problem_cache_miss">לא ניתן לטעון את הגירסה המוטמנת של עמוד זה</string>
     <string name="miuichromium_error_page_problem_cannot_open_page">לא ניתן לפתוח את העמוד</string>
-    <string name="miuichromium_error_page_problem_cannot_reach_site">לא ניתן לגשת לאתר זה</string>
-    <string name="miuichromium_error_page_problem_connection_interrupted">החיבור נקטע</string>
-    <string name="miuichromium_error_page_problem_file_not_found">לא ניתן היה למצוא את הקובץ</string>
     <string name="miuichromium_error_page_problem_gateway_timed_out">לוקח ל-%s0 זמן רב מידי להגיב</string>
     <string name="miuichromium_error_page_problem_network_access_denied">הגישה לרשת מוגבלת</string>
-    <string name="miuichromium_error_page_problem_no_internet_connection">לא ניתן היה להתחבר לאינטרנט</string>
     <string name="miuichromium_error_page_problem_page_moved">יתכן שעמוד זה ב: %s0 הועבר או שנמחק</string>
     <string name="miuichromium_error_page_problem_page_not_found">לא ניתן היה למצוא עמוד זה ב: %s0</string>
-    <string name="miuichromium_error_page_problem_page_not_working">עמוד זה אינו עובד</string>
-    <string name="miuichromium_error_page_problem_security_error">אתר זה אינו יכול לספק חיבור מאובטח</string>
     <string name="miuichromium_error_page_problem_server_fault">אין באפשרות %s0 לטפל בבקשה זו כרגע</string>
-    <string name="miuichromium_error_page_reason_bad_client_cert">" כיוון ש-%s0 לא קיבל את התעודה שלך"</string>
-    <string name="miuichromium_error_page_reason_bad_server_cert">. %s0 אינו עומד בתקני האבטחה</string>
-    <string name="miuichromium_error_page_reason_blocked_by_response">. הגישה חסומה על ידי %s0</string>
-    <string name="miuichromium_error_page_reason_connection_closed">. %s0 הפריע לחיבור</string>
-    <string name="miuichromium_error_page_reason_connection_refused">. %s0 סירב להתחבר</string>
-    <string name="miuichromium_error_page_reason_connection_reset">. החיבור אופס</string>
-    <string name="miuichromium_error_page_reason_device_slept">" כשהמכשיר שלך עבר למצב שינה"</string>
-    <string name="miuichromium_error_page_reason_empty_response">" כיוון ש-%s0 לא שלח נתונים כלל"</string>
-    <string name="miuichromium_error_page_reason_invalid_address">. כתובת ה-IP או מספר ה-Port אינם חוקיים</string>
-    <string name="miuichromium_error_page_reason_invalid_response">" כיוון ש-%s0 שלח תגובה בלתי חוקית"</string>
-    <string name="miuichromium_error_page_reason_invalid_url">" כיוון שכתובת ה-URL אינה חוקית"</string>
-    <string name="miuichromium_error_page_reason_moved_or_deleted">. יתכן שהועברה או שנמחקה</string>
-    <string name="miuichromium_error_page_reason_name_collision">. לאתר זה באינטראנט יש את אותה כתובת URL כמו לאתר האינטרנט החיצוני</string>
-    <string name="miuichromium_error_page_reason_name_not_resolved">. לא ניתן היה למצוא כתובת DNS עבור %s0</string>
-    <string name="miuichromium_error_page_reason_network_changed">" עקב שינוי רשת"</string>
-    <string name="miuichromium_error_page_reason_proxy_error">. קיימת בעיה עם שרת ה-Proxy, או שכתובת ה-Proxy שגויה</string>
-    <string name="miuichromium_error_page_reason_site_unreachable">. %s0 אינו נגיש כעת</string>
-    <string name="miuichromium_error_page_reason_timed_out">. %s0 אינו מגיב למשך זמן רב מידי</string>
-    <string name="miuichromium_error_page_reason_too_many_redirects">" כיוון ש-%s0 הפנה אותך מחדש פעמים רבות מידי"</string>
-    <string name="miuichromium_error_page_reason_unsafe_port">. %s0 משתמש במספר Port לא בטוח</string>
-    <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 מפנה אותך באופן לא בטוח</string>
-    <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 משתמש בפרוטוקול בלתי נתמך</string>
     <string name="miuichromium_error_page_reload">רענון</string>
     <string name="miuichromium_error_page_safe_network">מצב בטוח</string>
     <string name="miuichromium_error_page_server_error">התקנים רבים מידי מנסים ליצור חיבור</string>
@@ -525,9 +501,13 @@
     <string name="more_option">אפשרויות נוספות</string>
     <string name="nav_bottom_bar_back">הקודם</string>
     <string name="nav_bottom_bar_close_all">סגירת הכל</string>
+    <string name="nav_bottom_bar_close_description">Close</string>
     <string name="nav_bottom_bar_new_tab">תוית חדשה</string>
     <string name="nav_screen_container_tab_incognito">תוית אנונימית</string>
     <string name="nav_screen_container_tab_normal">תוית רגילה</string>
+    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
+Remember that the files you download and the bookmarks you add will still be saved."</string>
+    <string name="nav_screen_incognito_title">Incognito mode</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ביטול</string>
     <string name="navigationbar_rightbutton_actiontext_go">המשך</string>
     <string name="navigationbar_rightbutton_actiontext_search">חיפוש</string>
@@ -549,7 +529,7 @@
     <string name="open_app_confirm_message">לאפשר לדף זה לפתוח את %s?</string>
     <string name="open_file_explorer_failed">"לא ניתן לפתוח את 'סייר הקבצים'"</string>
     <string name="open_voice_permission">אפשר למיקרופון להתחבר לאינטרנט</string>
-    <string name="opening_file_error">כשלון בפתיחת הקובץ שנבחר</string>
+    <string name="opening_file_error">"Couldn't open selected file"</string>
     <string name="page_info">פרטי העמוד</string>
     <string name="page_info_address">כתובת:</string>
     <string name="page_info_view">צפיה בפרטי העמוד</string>
@@ -671,9 +651,9 @@
     <string name="pref_ua_string">סוכן משתמש</string>
     <string name="pref_version_info">פרטי גרסה</string>
     <string name="pref_volume_key_action">גלול על ידי שימוש במקשי עוצמת השמע</string>
-    <string name="private_browsing_warning">אפשרות זו אינה נתמכת בגרסה זו של אנדרואיד.</string>
-    <string name="profiler_error_toast">הפעלת יוצר הפרופילים נכשלה</string>
-    <string name="profiler_no_storage_toast">לא ניתן להתחיל ביצירת הפרופיל מאחר והתקן האחסון החיצוני אינו מוכן</string>
+    <string name="private_browsing_warning">"This functionality isn't supported in this version of Android."</string>
+    <string name="profiler_error_toast">"Couldn't start profiler."</string>
+    <string name="profiler_no_storage_toast">"Can't start profiler because external storage isn't ready."</string>
     <string name="profiler_started_toast">יצירת פרופיל החלה</string>
     <string name="profiler_stopped_toast">יצירת הפרופיל הסתיימה. התוצאות נמצאות ב: %1$s.</string>
     <string name="progress_dialog_setting_wallpaper">מגדיר טפט…</string>
@@ -782,18 +762,25 @@
     <string name="send_comment_title">הערה</string>
     <string name="senddesktop">מסך הבית</string>
     <string name="sendstartpage">עמוד הבית</string>
+    <string name="sequence_bookmark_description">Press and hold to rearrange bookmarks</string>
     <string name="share_image_text">תראו מה שיתפתי! @MIUI</string>
     <string name="share_page_text">תראו מה שיתפתי: %1$s @MIUI| %2$s</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
-    <string name="show_check_security_url_check_tip_dialog_description_international">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לקבל המלצות רלוונטיות נוספות, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
-    <string name="show_security_tip_dialog_title">תנאי השירות</string>
-    <string name="show_weather_location_getter_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות ומידע אודות מזג האויר, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
+Here's the data that we'll collect:
+1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.
+2. Location data: We'll access your location info.
+That's how we use the data we collect:
+1. Security: We use your data when we protect your device from fraud and viruses, as well as for storage and backup reasons.
+2. Content: Your data helps us provide relevant localized news content.
+Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
+    <string name="show_security_tip_dialog_title">Privacy Policy</string>
     <string name="sign_in_to" formatted="false">היכנס אל %s1 %s2\"</string>
     <string name="skip_button_label">דלג</string>
     <string name="skip_current_version">דלג על גרסה זו</string>
     <string name="snapshot">מקומי</string>
     <string name="snapshot_failed">לא ניתן היה לשמור את העמוד</string>
     <string name="snapshot_successed">"פתח את 'סימניות &amp; היסטוריה' -> 'מקומי' על מנת להציג את העמוד"</string>
+    <string name="soft_toast_see_view">View</string>
     <string name="ssl_bad_clock_date_settings">הגדרת תאריך</string>
     <string name="ssl_bad_clock_warning" formatted="false">חיבור פרטי אל %s1 אינו יכול להתבצע כיוון שהתאריך והשעה של המכשיר שלך (%s2) שגויים.</string>
     <string name="ssl_certificate">אישור אבטחה</string>
@@ -823,14 +810,14 @@
     <string name="suggest_access_item_app_mark">יישום</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">עדכון: %s</string>
-    <string name="suggest_access_item_book_mark">ספר</string>
-    <string name="suggest_access_item_mina_mark">שירות ישיר</string>
+    <string name="suggest_access_item_book_mark">BOOKS</string>
+    <string name="suggest_access_item_mina_mark">INSTANT APPS</string>
     <string name="suggest_access_item_music_mark">מוסיקה</string>
     <string name="suggest_access_item_singer_albums">%d אלבומים</string>
     <string name="suggest_access_item_singer_pop">%d שירים פופולריים</string>
     <string name="suggest_access_item_site_mark">אתרים</string>
-    <string name="suggest_access_item_video_mark">סרטון</string>
-    <string name="suggest_access_item_website_mark">אתר אינטרנט</string>
+    <string name="suggest_access_item_video_mark">VIDEOS</string>
+    <string name="suggest_access_item_yellow_mark">YELLOW PAGES</string>
     <string name="suggest_access_music">Mi מוסיקה</string>
     <string name="suggest_item_delete_text">מחיקה</string>
     <string name="suggest_open_app_failed">לא ניתן היה לפתוח את היישום</string>
@@ -851,6 +838,8 @@
     <string name="title_bar_loading">טוען…</string>
     <string name="too_many_windows_dialog_message">"לא ניתן לפתוח תויות חדשה ב'דפדפן' עד לסגירת תוית אחרת"</string>
     <string name="too_many_windows_dialog_title">לא ניתן לפתוח תויות נוספות</string>
+    <string name="transfer_prompt_0">Play video</string>
+    <string name="transfer_restart">Restart</string>
     <string name="unSwitchText">לא</string>
     <string name="undo">ביטול</string>
     <string name="unknown_title">לא ידוע</string>
@@ -893,9 +882,10 @@
     <string name="video_activity_name">מועדפים</string>
     <string name="video_buffering_percent">"טוען קובץ וידאו מהרשת "</string>
     <string name="video_buffering_percent_string">טוען קובץ וידאו מהרשת</string>
-    <string name="video_collect_cancel">מחיקה מהמועדפים</string>
+    <string name="video_collect_cancel">Remove from favorites</string>
     <string name="video_collect_success">נוסף למועדפים</string>
-    <string name="video_download_complete">ההורדה הושלמה.</string>
+    <string name="video_doenload_complete">Downloaded video successfully</string>
+    <string name="video_download_complete">Downloaded successfully</string>
     <string name="video_download_empty">אין סרטונים</string>
     <string name="video_download_error">שגיאה</string>
     <string name="video_download_error_http_gone">לא ניתן היה למצוא את הקובץ</string>
@@ -905,9 +895,9 @@
     <string name="video_download_finding_address">משיג קישור הורדה</string>
     <string name="video_download_pause">הופסק</string>
     <string name="video_download_start">מוריד…</string>
-    <string name="video_download_success">ההורדה הושלמה</string>
-    <string name="video_download_unknown_name">שם לא ידוע</string>
-    <string name="video_download_unknown_size">גודל לא ידוע</string>
+    <string name="video_download_success">Downloaded successfully</string>
+    <string name="video_download_unknown_name">Unknown name</string>
+    <string name="video_download_unknown_size">Unknown size</string>
     <string name="video_download_unsupport">לא נתמך</string>
     <string name="video_download_wait_for_wifi">ממתין לחיבור רשת אלחוטית</string>
     <string name="video_downloaded_group">הורדו</string>
@@ -931,6 +921,7 @@
     <string name="video_push_multi_message">%1$d עדכונים זמינים.</string>
     <string name="video_push_multi_title">עדכון זמין</string>
     <string name="video_push_single_message">לחץ על מנת לעדכן ל-%1$d.</string>
+    <string name="video_service_notification_title">Playing pop-up video</string>
     <string name="video_subtitle_last_message1">נותרה פחות מדקה</string>
     <string name="video_subtitle_prefix1">נצפה</string>
     <string name="video_subtitle_prefix2">"נצפה "</string>
@@ -956,6 +947,35 @@
     <string name="weather_location_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="webpage_title">סימניות &amp; היסטוריה</string>
     <string name="webview_find_on_page">חיפוש בדף</string>
-    <string name="webviewchromium_private_browsing_warning">אפשרות זו אינה נתמכת בגרסה זו של אנדרואיד.</string>
+    <string name="webviewchromium_private_browsing_warning">"This functionality isn't supported in this version of Android."</string>
     <string name="week_picker_dialog_title">הגדר שבוע</string>
+    <string name="miuichromium_error_page_problem_cannot_reach_site">לא ניתן לגשת לאתר זה</string>
+    <string name="miuichromium_error_page_problem_connection_interrupted">החיבור נקטע</string>
+    <string name="miuichromium_error_page_problem_file_not_found">לא ניתן היה למצוא את הקובץ</string>
+    <string name="miuichromium_error_page_problem_no_internet_connection">לא ניתן היה להתחבר לאינטרנט</string>
+    <string name="miuichromium_error_page_problem_page_not_working">עמוד זה אינו עובד</string>
+    <string name="miuichromium_error_page_problem_security_error">אתר זה אינו יכול לספק חיבור מאובטח</string>
+    <string name="miuichromium_error_page_reason_bad_client_cert">" כיוון ש-%s0 לא קיבל את התעודה שלך"</string>
+    <string name="miuichromium_error_page_reason_bad_server_cert">. %s0 אינו עומד בתקני האבטחה</string>
+    <string name="miuichromium_error_page_reason_blocked_by_response">. הגישה חסומה על ידי %s0</string>
+    <string name="miuichromium_error_page_reason_connection_closed">. %s0 הפריע לחיבור</string>
+    <string name="miuichromium_error_page_reason_connection_refused">. %s0 סירב להתחבר</string>
+    <string name="miuichromium_error_page_reason_connection_reset">. החיבור אופס</string>
+    <string name="miuichromium_error_page_reason_device_slept">" כשהמכשיר שלך עבר למצב שינה"</string>
+    <string name="miuichromium_error_page_reason_empty_response">" כיוון ש-%s0 לא שלח נתונים כלל"</string>
+    <string name="miuichromium_error_page_reason_invalid_address">. כתובת ה-IP או מספר ה-Port אינם חוקיים</string>
+    <string name="miuichromium_error_page_reason_invalid_response">" כיוון ש-%s0 שלח תגובה בלתי חוקית"</string>
+    <string name="miuichromium_error_page_reason_invalid_url">" כיוון שכתובת ה-URL אינה חוקית"</string>
+    <string name="miuichromium_error_page_reason_moved_or_deleted">. יתכן שהועברה או שנמחקה</string>
+    <string name="miuichromium_error_page_reason_name_collision">. לאתר זה באינטראנט יש את אותה כתובת URL כמו לאתר האינטרנט החיצוני</string>
+    <string name="miuichromium_error_page_reason_name_not_resolved">. לא ניתן היה למצוא כתובת DNS עבור %s0</string>
+    <string name="miuichromium_error_page_reason_network_changed">" עקב שינוי רשת"</string>
+    <string name="miuichromium_error_page_reason_proxy_error">. קיימת בעיה עם שרת ה-Proxy, או שכתובת ה-Proxy שגויה</string>
+    <string name="miuichromium_error_page_reason_site_unreachable">. %s0 אינו נגיש כעת</string>
+    <string name="miuichromium_error_page_reason_timed_out">. %s0 אינו מגיב למשך זמן רב מידי</string>
+    <string name="miuichromium_error_page_reason_too_many_redirects">" כיוון ש-%s0 הפנה אותך מחדש פעמים רבות מידי"</string>
+    <string name="miuichromium_error_page_reason_unsafe_port">. %s0 משתמש במספר Port לא בטוח</string>
+    <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 מפנה אותך באופן לא בטוח</string>
+    <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 משתמש בפרוטוקול בלתי נתמך</string>
+    <string name="nav_screen_incognito_time">After %s seconds will automatically create a new page</string>
 </resources>

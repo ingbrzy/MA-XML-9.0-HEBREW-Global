@@ -54,7 +54,7 @@
     <string name="passport_change_phone_number">החלף מספר</string>
     <string name="passport_forget_password"><u>שכחתי את הסיסמה</u></string>
     <string name="passport_forget_password_no_underline">שכחתי את הסיסמה</string>
-    <string name="passport_reg_type_email">השתמש בכתובת דוא\"ל</string>
+    <string name="passport_reg_type_email">Email address</string>
     <string name="passport_register_by_email"><u>צור חשבון באמצעות כתובת דואל</u></string>
     <string name="passport_account_not_actived">החשבון שלך לא הופעל</string>
     <string name="passport_active_email_visit">בדוק את תיבת הדואר הנכנס שלך ב- %s</string>
@@ -258,6 +258,7 @@
     <string name="account_limit_update_birthday">לא ניתן לעדכן את יום ההולדת כעת</string>
     <string name="account_user_other_info">מקורות נוספים</string>
     <string name="account_user_region">אזור</string>
+    <string name="account_global_region">בינלאומי</string>
     <string name="account_user_location">מיקום</string>
     <string name="account_user_location_title">בחר את המיקום הנוכחי</string>
     <string name="account_user_education">השכלה</string>
@@ -287,10 +288,6 @@
     <string name="confirm_unbundled_phone_dialog_message">מספר הטלפון %1$s מקושר לחשבון Mi %2$s. הוא לא יהיה מקושר יותר לחשבון Mi %3$s במידה ותמשיך. להמשיך?</string>
     <string name="change_phone_number">שנה מספר טלפון</string>
     <string name="change_email_address">שנה כתובת דוא\"ל</string>
-    <string name="checking_phone_num_availible">מאמת טלפון…</string>
-    <string name="account_binded_phone">טלפון %d</string>
-    <string name="account_bind_new_phone">הוסף טלפון חדש</string>
-    <string name="account_bind_phone_notice">השתמש במספר טלפון זה על מנת להיכנס לחשבון שלך, לאפס את הסיסמה שלך, או לשנות את הגדרות האבטחה.</string>
     <string name="continue_action">המשך</string>
     <string name="replace_binded_phone">החלף טלפון</string>
     <string name="delete_action">מחק</string>
@@ -315,6 +312,15 @@
     <string name="resend_email_reach_limit_message">ביקשת מספר רב מידי של דוא\"ל אימות. וודא כי דוא\"ל האימות אינו נמצא בתיקית דואר הזבל שלך.</string>
     <string name="update_email_address_dialog_title">עדכן דוא\"ל</string>
     <string name="update_email_address_dialog_message">עליך לאמת את זהותך לפני שתוכל לעדכן דוא\"ל.</string>
+    <string name="update_phone_notice">שינוי הגדרות האבטחה</string>
+    <string name="no_phone">אין מספר טלפון</string>
+    <string name="action_update_phone">שינוי מספר טלפון</string>
+    <string name="action_add_phone">הוספת מספר טלפון</string>
+    <string name="phone_num_use_for">מספר הטלפון משמש ל:</string>
+    <string name="sign_in">כניסה</string>
+    <string name="get_back_pwd">איפוס סיסמה</string>
+    <string name="identity">זיהוי</string>
+    <string name="set_success">שונה בהצלחה</string>
     <string name="account_user_details">מידע אישי</string>
     <string name="account_security">אבטחת החשבון</string>
     <string name="account_mibi_center">נקודות Mi</string>

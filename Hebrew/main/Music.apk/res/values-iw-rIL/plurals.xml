@@ -144,6 +144,12 @@
         <item quantity="two">%d עוקבים</item>
         <item quantity="many">%d עוקבים</item>
     </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%dsongs</item>
+        <item quantity="one">%d song</item>
+        <item quantity="two">%dsongs</item>
+        <item quantity="many">%dsongs</item>
+    </plurals>
     <plurals name="Nunbackup_audios">
         <item quantity="other">%1$d שירים לא גובו (%2$.1fMB)</item>
         <item quantity="one">שיר %1$d לא גובה (%2$.1fMB)</item>
@@ -185,5 +191,17 @@
         <item quantity="one">"שיר %d דולג. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין לו."</item>
         <item quantity="two">"%d שירים דולגו. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין להם."</item>
         <item quantity="many">"%d שירים דולגו. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין להם."</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d songs?</item>
+        <item quantity="one">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d song?</item>
+        <item quantity="two">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d songs?</item>
+        <item quantity="many">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d songs?</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Matching album and lyric (%1$d/%2$d songs)</item>
+        <item quantity="one">Matching album and lyric (%1$d/%2$d song)</item>
+        <item quantity="two">Matching album and lyric (%1$d/%2$d songs)</item>
+        <item quantity="many">Matching album and lyric (%1$d/%2$d songs)</item>
     </plurals>
 </resources>

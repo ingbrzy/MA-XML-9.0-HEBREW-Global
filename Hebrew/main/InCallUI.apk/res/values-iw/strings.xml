@@ -34,13 +34,11 @@
     <string name="incall_call_type_label_sip">שיחת אינטרנט</string>
     <string name="card_title_dialing">מחייג</string>
     <string name="card_title_conf_call">שיחת ועידה</string>
-    <string name="card_title_incoming_call">שיחה נכנסת</string>
     <string name="card_title_call_ended">השיחה הסתיימה</string>
     <string name="card_title_on_hold">בהמתנה</string>
     <string name="card_title_hanging_up">מנתק</string>
     <string name="card_title_in_call">בשיחה</string>
     <string name="onscreenEndCallText">סיום</string>
-    <string name="calling_via_template">שיחה באמצעות %s</string>
     <string name="respond_via_sms_custom_message">כתוב אחת משלך...</string>
     <string name="manageConferenceLabel">נהל שיחת ועידה</string>
     <string name="emergency_call_dialog_number_for_display">מספר חירום</string>
@@ -364,6 +362,7 @@
     <string name="doneButton">סיום</string>
     <string name="voicemail_settings_number_label">המספר של הדואר הקולי</string>
     <string name="card_title_redialing">מנסה שוב</string>
+    <string name="card_title_incoming_call">שיחה נכנסת</string>
     <string name="card_title_my_phone_number">המספר שלי הוא %s</string>
     <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
     <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
@@ -444,6 +443,7 @@
     <string name="voicemail_settings">הגדרות</string>
     <string name="voicemail_number_not_set">‏&lt;לא הוגדר></string>
     <string name="other_settings">הגדרות שיחה אחרות</string>
+    <string name="calling_via_template">שיחה באמצעות %s</string>
     <string name="contactPhoto">תמונה של איש קשר</string>
     <string name="goPrivate">עבור לשיחה פרטית</string>
     <string name="selectContact">בחר איש קשר</string>

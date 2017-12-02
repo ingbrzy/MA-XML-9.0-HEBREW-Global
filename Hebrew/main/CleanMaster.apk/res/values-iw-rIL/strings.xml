@@ -184,8 +184,8 @@
     <string name="toast_backup_uninstall_success">הגיבוי והסרת ההתקנה הושלמו</string>
     <string name="activity_title_cache_data">נתוני יישום</string>
     <string name="deepclean_cache_header_left">קבצי נתונים: %d</string>
-    <string name="notification_title_of_garbage_cleanup">נפח האשפה</string>
-    <string name="notification_summary_of_garbage_cleanup">נפח האשפה שלך חורג מ- %s.</string>
+    <string name="notification_title_of_garbage_cleanup">%s של קבצי אשפה</string>
+    <string name="notification_summary_of_garbage_cleanup">לחץ לפינוי שטח אחסון.</string>
     <string name="notification_summary_after_auto_cleanup">%s נוקו.</string>
     <string name="toast_uninstall_success">הסרת ההתקנה הושלמה</string>
     <string name="toast_app_no_residual_on_sdcard">היישום אינו מכיל קבצים השמורים בכרטיס הזכרון שלך</string>
@@ -308,7 +308,7 @@
     <string name="seton_immediately">הפעל</string>
     <string name="notify_when">קבל התראה כאשר נפח האשפה מגיע ל-100MB</string>
     <string name="goto_set">הגדר</string>
-    <string name="virus_scan">סריקת וירוסים</string>
+    <string name="virus_scan">סריקת אבטחה</string>
     <string name="tips_of_virus_scan">סרוק את מכשירך אחר וירוסים באופן קבוע על מנת לשמור עליו מאובטח</string>
     <string name="conn_of_function_safe">"חיבור לרשת עבור 'אבטחה'"</string>
     <string name="tips_of_connect">"התחבר לאינטרנט על מנת להשתמש בכל התכונות של 'אבטחה'"</string>
@@ -366,7 +366,7 @@
     <string name="hints_cache_msd_desc">מחיקת עדכוני הדלתא תשפיע על השימוש ביישום</string>
     <string name="hints_installed_app_never">מעולם לא היה בשימוש</string>
     <string name="hints_installed_app_fewer">בשימוש נדיר</string>
-    <string name="hints_installed_app_near">היה בשימוש לאחרונה</string>
+    <string name="hints_installed_app_near">בשימוש לאחרונה</string>
     <string name="activity_title_deep_apk">מחק קבצי APK</string>
     <string name="deepclean_apk_content">מחק קבצי APK או יישומים מיותרים</string>
     <string name="deepclean_apk_summary_empty">הכל נראה תקין, אין קבצי APK למחיקה</string>

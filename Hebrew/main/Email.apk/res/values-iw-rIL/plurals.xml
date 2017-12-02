@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d הודעות חדשות</item>
-        <item quantity="one">הודעה חדשה %1$d</item>
-        <item quantity="two">%1$d הודעות חדשות</item>
-        <item quantity="many">%1$d הודעות חדשות</item>
+        <item quantity="other">%1$d לא נקראו</item>
+        <item quantity="one">%1$d לא נקרא</item>
+        <item quantity="two">%1$d לא נקראו</item>
+        <item quantity="many">%1$d לא נקראו</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">להעביר %1$d שיחות לארכיון?</item>
-        <item quantity="one">להעביר שיחה %1$d לארכיון?</item>
-        <item quantity="two">להעביר %1$d שיחות לארכיון?</item>
-        <item quantity="many">להעביר %1$d שיחות לארכיון?</item>
+        <item quantity="other">לשלוח את %1$d השיחות הללו לארכיון?</item>
+        <item quantity="one">לשלוח שיחה זו לארכיון?</item>
+        <item quantity="two">לשלוח את %1$d השיחות הללו לארכיון?</item>
+        <item quantity="many">לשלוח את %1$d השיחות הללו לארכיון?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">למחוק %1$d שיחות?</item>
-        <item quantity="one">למחוק שיחה %1$d?</item>
-        <item quantity="two">למחוק %1$d שיחות?</item>
-        <item quantity="many">למחוק %1$d שיחות?</item>
+        <item quantity="other">למחוק את %1$d השיחות הללו?</item>
+        <item quantity="one">למחוק שיחה זו?</item>
+        <item quantity="two">למחוק את %1$d השיחות הללו?</item>
+        <item quantity="many">למחוק את %1$d השיחות הללו?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
-        <item quantity="one">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
-        <item quantity="two">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
-        <item quantity="many">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
+        <item quantity="other">שיחות אלו מכילות פריטים ממוזגים. למחוק בכל מקרה?</item>
+        <item quantity="one">שיחה זו מכילה פריטים ממוזגים. למחוק בכל מקרה?</item>
+        <item quantity="two">שיחות אלו מכילות פריטים ממוזגים. למחוק בכל מקרה?</item>
+        <item quantity="many">שיחות אלו מכילות פריטים ממוזגים. למחוק בכל מקרה?</item>
     </plurals>
     <plurals name="confirm_delete_draft">
         <item quantity="other">למחוק %1$d טיוטות?</item>
@@ -31,28 +31,28 @@
         <item quantity="many">למחוק %1$d טיוטות?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d פריטים נבחרו</item>
-        <item quantity="one">פריט %d נבחר</item>
-        <item quantity="two">%d פריטים נבחרו</item>
-        <item quantity="many">%d פריטים נבחרו</item>
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">%d נבחר</item>
+        <item quantity="two">%d נבחרו</item>
+        <item quantity="many">%d נבחרו</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">%1$d שיחות הועברו לארכיון.</item>
-        <item quantity="one">שיחה %1$d הועברה לארכיון.</item>
-        <item quantity="two">%1$d שיחות הועברו לארכיון.</item>
-        <item quantity="many">%1$d שיחות הועברו לארכיון.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> נשלחו לארכיון.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> נשלח לארכיון.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> נשלחו לארכיון.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> נשלחו לארכיון.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">%1$d שיחות נמחקו.</item>
-        <item quantity="one">שיחה %1$d נמחקה.</item>
-        <item quantity="two">%1$d שיחות נמחקו.</item>
-        <item quantity="many">%1$d שיחות נמחקו.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> נמחקו.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> נמחק.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> נמחקו.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> נמחקו.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">התיקיות שונו</item>
-        <item quantity="one">התיקייה שונתה.</item>
-        <item quantity="two">התיקיות שונו</item>
-        <item quantity="many">התיקיות שונו</item>
+        <item quantity="other">התיקיות שונו.</item>
+        <item quantity="one">התיקיה שונתה.</item>
+        <item quantity="two">התיקיות שונו.</item>
+        <item quantity="many">התיקיות שונו.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">+%1$d אנשים</item>
@@ -61,34 +61,34 @@
         <item quantity="many">+%1$d אנשים</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">התעלם מ- %1$d שיחות.</item>
-        <item quantity="one">התעלם משיחה %1$d.</item>
-        <item quantity="two">התעלם מ- %1$d שיחות.</item>
-        <item quantity="many">התעלם מ- %1$d שיחות.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> הושתקו</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> הושתק.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> הושתקו</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> הושתקו</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">הוסר סימון כחשוב מ- %1$d שיחות.</item>
-        <item quantity="one">הוסר סימון כחשוב משיחה %1$d.</item>
-        <item quantity="two">הוסר סימון כחשוב מ- %1$d שיחות.</item>
-        <item quantity="many">הוסר סימון כחשוב מ- %1$d שיחות.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" הוסרו מתיקיית 'חשוב'"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" הוסר מתיקיית 'חשוב'"</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>" הוסרו מתיקיית 'חשוב'"</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>" הוסרו מתיקיית 'חשוב'"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">הוסר סימון כספאם מ- %1$d שיחות</item>
-        <item quantity="one">הוסר סימון כספאם משיחה %1$d</item>
-        <item quantity="two">הוסר סימון כספאם מ- %1$d שיחות</item>
-        <item quantity="many">הוסר סימון כספאם מ- %1$d שיחות</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" הוסרו מתיקיית 'ספאם'"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" הוסר מתיקיית 'ספאם'"</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>" הוסרו מתיקיית 'ספאם'"</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>" הוסרו מתיקיית 'ספאם'"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">%1$d שיחות דווחו כתרמית.</item>
-        <item quantity="one">שיחה %1$d דווחה כתרמית.</item>
-        <item quantity="two">%1$d שיחות דווחו כתרמית.</item>
-        <item quantity="many">%1$d שיחות דווחו כתרמית.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> הודעות דווחו כספאם</item>
+        <item quantity="one">הודעה &lt;b>%1$d&lt;/b> דווחה כספאם</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> הודעות דווחו כספאם</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> הודעות דווחו כספאם</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">%1$d שיחות דווחו כספאם.</item>
-        <item quantity="one">שיחה %1$d דווחה כספאם.</item>
-        <item quantity="two">%1$d שיחות דווחו כספאם.</item>
-        <item quantity="many">%1$d שיחות דווחו כספאם.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> סומנו כספאם</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> סומן כספאם</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> סומנו כספאם</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> סומנו כספאם</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%d ימים</item>
@@ -127,27 +127,27 @@
         <item quantity="many">%d חודשים</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">העבר %1$d שיחות</item>
-        <item quantity="one">העבר שיחה %1$d</item>
-        <item quantity="two">העבר %1$d שיחות</item>
-        <item quantity="many">העבר %1$d שיחות</item>
+        <item quantity="other">הזז %1$d שיחות</item>
+        <item quantity="one">הזז שיחה</item>
+        <item quantity="two">הזז %1$d שיחות</item>
+        <item quantity="many">הזז %1$d שיחות</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d הודעות חדשות</item>
-        <item quantity="one">הודעה חדשה %1$d</item>
-        <item quantity="two">%1$d הודעות חדשות</item>
-        <item quantity="many">%1$d הודעות חדשות</item>
+        <item quantity="other">הצג %1$d הודעות חדשות.</item>
+        <item quantity="one">הצג הודעה חדשה %1$d.</item>
+        <item quantity="two">הצג %1$d הודעות חדשות.</item>
+        <item quantity="many">הצג %1$d הודעות חדשות.</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d פריטים נבחרו</item>
-        <item quantity="one">פריט %d נבחר</item>
-        <item quantity="two">%d פריטים נבחרו</item>
-        <item quantity="many">%d פריטים נבחרו</item>
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">%d נבחר</item>
+        <item quantity="two">%d נבחרו</item>
+        <item quantity="many">%d נבחרו</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d הודעות ישנות</item>
-        <item quantity="one">הודעה ישנה %1$d</item>
-        <item quantity="two">%1$d הודעות ישנות</item>
-        <item quantity="many">%1$d הודעות ישנות</item>
+        <item quantity="other">%1$d הודעות ישנות יותר</item>
+        <item quantity="one">הודעה %1$d ישנה יותר</item>
+        <item quantity="two">%1$d הודעות ישנות יותר</item>
+        <item quantity="many">%1$d הודעות ישנות יותר</item>
     </plurals>
 </resources>

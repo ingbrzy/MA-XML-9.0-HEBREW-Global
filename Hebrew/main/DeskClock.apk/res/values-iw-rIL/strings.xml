@@ -81,6 +81,7 @@
     <string name="birthday_alarm_summary">נגן את השיר \"Happy Birthday\" במקום הצליל הקבוע ביום הולדתך</string>
     <string name="turn_off_a_repeat_alarm">בטל שעון מעורר חוזר</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
@@ -113,6 +114,7 @@
     <string name="install_weather_app_error">לא ניתן היה לטעון את היישום</string>
     <string name="more_setting">הגדרות נוספות</string>
     <string name="go_back">חזרה</string>
+    <string name="invalid_time">שעה לא חוקית: %3$s %1$d: %2$d</string>
     <string name="app_label">שעון</string>
     <string name="alarm_list_title">שעון מעורר</string>
     <string name="add_alarm">הוספת שעון מעורר</string>

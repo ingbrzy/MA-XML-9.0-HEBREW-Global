@@ -87,4 +87,8 @@
         <item>מצב בקרת טמפרטורה נוכחי</item>
         <item>מצב ביצועים נוכחי</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performance</item>
+        <item>Balanced</item>
+    </string-array>
 </resources>

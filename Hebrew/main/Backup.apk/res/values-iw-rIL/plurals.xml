@@ -18,6 +18,18 @@
         <item quantity="two">%d פריטים</item>
         <item quantity="many">%d פריטים</item>
     </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d פריטים,</item>
+        <item quantity="one">פריט %d,</item>
+        <item quantity="two">%d פריטים,</item>
+        <item quantity="many">%d פריטים,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט %d</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d דקות</item>
         <item quantity="one">דקה %d</item>
