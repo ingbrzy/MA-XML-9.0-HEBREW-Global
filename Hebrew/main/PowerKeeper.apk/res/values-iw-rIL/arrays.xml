@@ -88,7 +88,7 @@
         <item>מצב ביצועים נוכחי</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Performance</item>
-        <item>Balanced</item>
+        <item>ביצועים</item>
+        <item>מאוזן</item>
     </string-array>
 </resources>

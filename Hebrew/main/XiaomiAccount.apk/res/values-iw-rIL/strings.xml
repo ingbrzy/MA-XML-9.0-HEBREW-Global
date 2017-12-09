@@ -190,11 +190,15 @@
     <string name="passport_user_reg_region_warning">לא תוכל לשנות את האזור/מדינה שלך לאחר יצירת החשבון.</string>
     <string name="passport_sync_account_data">מסנכרן פרטי חשבון…</string>
     <string name="passport_sync_account_data_failed_warning">מתבצע סנכרון של פרטי החשבון שלך כעת, באפשרותך להיכנס באמצעות מזהה חשבון Mi שלך. במידה וברצונך להיכנס באמצעות הטלפון או הדוא\"ל שלך, המתן עד לאחר שהפרטים סונכרנו במלואם.</string>
-    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
     <string name="passport_login_recycle_account_yes">כן</string>
-    <string name="passport_login_recycle_account_no">לא</string>
+    <string name="passport_login_recycle_account_no">No</string>
     <string name="passport_reg_recycle_account_yes">כן</string>
-    <string name="passport_reg_recycle_account_no">לא</string>
+    <string name="passport_reg_recycle_account_no">No</string>
+    <string name="passport_get_innetdate_title">Check when the number went online</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
+    <string name="passport_get_innetdate_agree">Check</string>
+    <string name="passport_get_innetdate_disagree">No</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -254,6 +258,7 @@
     <string name="account_error_invalid_user_name">השם אינו יכול להכיל &lt; > /</string>
     <string name="account_error_shorter_user_name">השם חייב להיות ארוך מ-2 תוים</string>
     <string name="account_error_longer_user_name">השם לא יכול להיות ארוך מ-20 תוים</string>
+    <string name="account_error_user_name">השם שהזנת אינו חוקי</string>
     <string name="account_error_user_birthday">תאריך יום ההולדת שהזנת אינה חוקי</string>
     <string name="account_limit_update_birthday">לא ניתן לעדכן את יום ההולדת כעת</string>
     <string name="account_user_other_info">מקורות נוספים</string>
@@ -446,5 +451,9 @@
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>
     <string name="bind_safe_phone_msg">הוסף את מספר הטלפון שלך על מנת שתוכל להיכנס לחשבון Mi שלך בכל עת.</string>
-    <string name="account_notification_message">פג תוקף התהליך, היכנס שוב.</string>
+    <string name="account_notification_message">>פג תוקף התהליך. היכנס שוב.</string>
+    <string name="sim_changed_notification_title">שינית מספר טלפון?</string>
+    <string name="sim_changed_notification_msg">לחץ לעדכון מספר הטלפון לשחזור שלך על מנת לשמור על אבטחת חשבונך.</string>
+    <string name="recycle_phone_notification_title">סיכון אבטחה בחשבון Mi</string>
+    <string name="recycle_phone_notification_msg">נראה כי מספר הטלפון שלך מוחזר. לחץ לעדכון.</string>
 </resources>

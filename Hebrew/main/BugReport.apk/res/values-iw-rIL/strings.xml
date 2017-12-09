@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -152,7 +153,7 @@
     <string name="network_err">לא ניתן להתחבר לרשת.</string>
     <string name="refresh">רענון</string>
     <string name="announcement">שים לב</string>
-    <string name="app_empty">לא הורדת כל יישום.</string>
+    <string name="app_empty">"Couldn't find apps."</string>
     <string name="screen_lock">נעילת מסך</string>
     <string name="systemui">לוח ההתראות</string>
     <string name="cta_dialog_title">חיבור לאינטרנט</string>
@@ -213,11 +214,11 @@
     <string name="feedback_select_suggestion">הצעות</string>
     <string name="feedback_select_problem">בעיות</string>
     <string name="feedback_choose_module">בחר פריט</string>
-    <string name="feedback_choose_third_app_name">Select app name</string>
+    <string name="feedback_choose_third_app_name">בחר את שם היישום</string>
     <string name="toast_module_required">בחר פריט</string>
     <string name="feedback_choose_module_hint">נדרש</string>
-    <string name="feedback_choose_reproductivity">Reproductivity</string>
-    <string name="feedback_title_reproductivity">Select reproductivity</string>
+    <string name="feedback_choose_reproductivity">רפרודוקציה</string>
+    <string name="feedback_title_reproductivity">בחר רפרודוקציה</string>
     <string name="feedback_report_remind_login_desc">היכנס לחשבון Mi שלך על מנת שהמתכנתים שלנו יוכלו ליצור איתך קשר.</string>
     <string name="feedback_report_remind_login_desc2">"תוכל לצפות בהתקדמות הדיווח שלך גם ב'הדיווחים שלי'."</string>
     <string name="feedback_history_remind_login_desc">היכנס לחשבון Mi שלך על מנת לצפות בפרטים ובהתקדמות הדיווח שלך</string>
@@ -227,7 +228,7 @@
     <string name="feedback_title_hint">תאר בקצרה את הבעיה</string>
     <string name="feedback_description_suggest_hint">ברצוני להוסיף תכונה חדשה () מכיוון שאני זקוק ל ().</string>
     <string name="feedback_description_bugreport_hint">במקרים מסויימים (…) הטלפון שלי אינו מתנהג כראוי (…).</string>
-    <string name="feedback_description_hint">"Describe the issue you've encountered"</string>
+    <string name="feedback_description_hint">תאר את הבעיה בה נתקלת</string>
     <string name="toast_title_required">תאר את הבעיה שלך</string>
     <string name="toast_problem_class_required">בחר קטגוריה</string>
     <string name="feedback_third_packagename_hint">איזה יישום צד שלישי גורם לבעיות?</string>
@@ -244,7 +245,7 @@
     <string name="feedback_status_replyed">קיבל תשובה</string>
     <string name="feedback_status_jira_comment">הוסף הערה</string>
     <string name="feedback_status_forum_reply">השב</string>
-    <string name="feedback_status_submit_attachment">Submitted attachment successfully</string>
+    <string name="feedback_status_submit_attachment">הקובץ המצורף נשלח בהצלחה</string>
     <string name="feedback_status_change_notification_title">התקדמות הדווח שלך עודכנה</string>
     <string name="feedback_bug_status_change_notification_desc">בעיה %1$s \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">הצעה %1$s \"%2$s\"</string>
@@ -279,6 +280,7 @@
     <string name="title_answer_feedback_main">מצאנו תשובות!</string>
     <string name="title_same_question_feedback_main">בעיות דומות בפורום MIUI</string>
     <string name="related_question_answer_details">בעיה קשורה</string>
+    <string name="issue_search">Search</string>
     <string name="module_item_more">עוד</string>
     <string name="module_item_less">הסתרה</string>
     <string name="feedback_guess">הניחוש שלנו</string>
@@ -296,17 +298,18 @@
     <string name="module_more">עוד</string>
     <string name="module_search">חיפוש</string>
     <string name="module_google_apps">יישומי Google</string>
+    <string name="app_search">Search apps</string>
     <string name="feedback_submit_hint">דווח על שגיאות בכל פעם שהינך נתקל בהן על מנת לעזור לנו לפתור אותן מהר יותר.</string>
     <string name="feedback_submit_hint_gone">הודעה שנסגרה</string>
     <string name="toast_post_deleted">נושא זה אינו קיים, נמחק, או נערך.</string>
     <string name="toast_log_not_exists">היומן הדרוש נמחק או שאינו קיים</string>
     <string name="toast_pic_not_exists">תמונת המטמון נמחקה</string>
     <string name="toast_screenshot_too_large">לא ניתן להעלות קבצים הגדולים מ-10MB.</string>
-    <string name="toast_log_too_large">"Can't upload. The file is too big."</string>
+    <string name="toast_log_too_large">לא ניתן היה להעלות. הקובץ גדול מידי.</string>
     <string name="title_bbs_feedback_main">למידע נוסף אודות Mi phones</string>
     <string name="title_customer_service">שירות לקוחות</string>
     <string name="customer_service_apply">בקשת עזרה משירות הלקוחות</string>
     <string name="customer_service_complain">דיווח לשירות הלקוחות</string>
     <string name="customer_service_station">מיקומי שירות</string>
-    <string name="select_system_app_tag">Select tags</string>
+    <string name="select_system_app_tag">בחירת תויות תיוג</string>
 </resources>

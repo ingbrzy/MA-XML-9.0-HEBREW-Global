@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Battery and Performance</string>
+    <string name="app_name">סוללה וביצועים</string>
     <string name="activity_title_poweroptimize">חסכון בסוללה</string>
     <string name="activity_title_poweranalyze">בדיקת סוללה</string>
     <string name="activity_title_powerconfigure">הגדרות סוללה</string>
@@ -107,7 +107,7 @@
     <string name="mode_settings">הגדרות</string>
     <string name="hide_mode_desc">כאשר יישום פועל ברקע, הפעילויות שלו ינוטרו על מנת להפחית שימוש בסוללה.</string>
     <string name="hide_mode_ultimate_desc">"'מצב אולטימטיבי' מופעל. היישומים ברקע יוקפאו. כבה את מצב 'חסכון בסוללה' על מנת לצאת מ'מצב אולטימטיבי'."</string>
-    <string name="power_hide_mode_title">Battery &amp; performance</string>
+    <string name="power_hide_mode_title">סוללה &amp; ביצועים</string>
     <string name="power_hide_mode_summary">חסכון בסוללה על ידי הגבלת יישומים הפועלים ברקע, חיבור לרשתות אלחוטיות וסלולריות, ו-GPS</string>
     <string name="power_config_apps">חסכון בסוללה</string>
     <string name="app_list_title">בחר יישומים</string>
@@ -125,10 +125,10 @@
     <string name="sleep_config_enhance_description">בכל פעם שמערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
     <string name="nonui_mode_config_description">הימנע מהארת המסך עבור התראות, כבה את תאורת ה-LED, את חיישן טביעת האצבע ואת לחצני השליטה במגע על מנת לחסוך בשימוש בסוללה כאשר מערכת MIUI תזהה שאינך משתמש במכשירך.</string>
-    <string name="power_center">Power</string>
-    <string name="power_usage">Power usage</string>
-    <string name="power_mode">Power settings</string>
-    <string name="performance_category">Performance</string>
+    <string name="power_center">אנרגיה</string>
+    <string name="power_usage">צריכת אנרגיה</string>
+    <string name="power_mode">הגדרות אנרגיה</string>
+    <string name="performance_category">ביצועים</string>
     <string name="scenario_policies_warmcontrol">בקרת טמפרטורה</string>
     <string name="warm_configure">"הגדרות 'בקרת טמפרטורה'"</string>
     <string name="important_warning">שים לב</string>

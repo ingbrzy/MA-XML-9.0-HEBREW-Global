@@ -32,7 +32,6 @@
     <string name="emergency_alert_settings_title">הגדרות התרעת חירום</string>
     <string name="enable_emergency_alerts_title">הפעל התרעות</string>
     <string name="enable_emergency_alerts_summary">הצג שידורי התראות חירום</string>
-    <string name="alert_sound_duration_title">משך צליל התראה</string>
     <string name="alert_reminder_interval_title">תזכורת התראה</string>
     <string name="enable_alert_speech_title">אמור הודעת התראה</string>
     <string name="enable_alert_speech_summary">השתמש בטקסט לדיבור כדי להגיד הודעות של התראת חירום</string>
@@ -92,4 +91,5 @@
     <string name="cmas_opt_out_dialog_text">נכון לעכשיו אתה מקבל התראות חירום. האם ברצונך להמשיך לקבל התראות חירום?</string>
     <string name="cmas_opt_out_button_yes">כן</string>
     <string name="cmas_opt_out_button_no">לא</string>
+    <string name="alert_sound_duration_title">משך צליל התראה</string>
 </resources>

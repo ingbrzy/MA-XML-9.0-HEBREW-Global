@@ -134,4 +134,5 @@
     <string name="face_unlock_rise">הנמך את ראשך</string>
     <string name="face_unlock_down">הרם את ראשך</string>
     <string name="face_unlock_quality">לא ניתן היה לראות את פניך בבירור</string>
+    <string name="lock_screen_no_sim_card">No SIM card</string>
 </resources>

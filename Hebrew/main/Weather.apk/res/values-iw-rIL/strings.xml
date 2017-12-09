@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="temperature_unit_C">%1$s℃</string>
-    <string name="temperature_unit_F">%1$s℉</string>
+    <string name="temperature_unit_C">℃%1$s</string>
+    <string name="temperature_unit_F">℉%1$s</string>
     <string name="app_name">מזג אויר</string>
     <string name="gps_hint">מיקום נוכחי</string>
     <string name="add_city">הוסף</string>
@@ -38,10 +38,10 @@
     <string name="activity_main_update_time_expire">פג תוקף הנתונים</string>
     <string name="activity_main_update_time_right_now">ממש עכשיו</string>
     <string name="refresh_fail">לא ניתן היה להתחבר לרשת</string>
-    <string name="pull_fresh_updating">Updating…</string>
-    <string name="pull_fresh_updated">Updated successfully</string>
-    <string name="updating">Updating…</string>
-    <string name="updated_a_moment_ago">Updated a moment ago</string>
+    <string name="pull_fresh_updating">מעדכן…</string>
+    <string name="pull_fresh_updated">עודכן בהצלחה</string>
+    <string name="updating">מעדכן…</string>
+    <string name="updated_a_moment_ago">עודכן לפני חודש</string>
     <string name="activity_find_city_dialog_cancel">ביטול</string>
     <string name="activity_find_city_dialog_set">הגדרות</string>
     <string name="activity_find_city_dialog_title">גישה לנתוני מיקום</string>
@@ -60,6 +60,7 @@
     <string name="share_title">שיתוף מזג האויר</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#מזג אויר MIUI#היום %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">כעת</string>
     <string name="sunrise">זריחה</string>
     <string name="sunset">שקיעה</string>
@@ -153,9 +154,11 @@
     <string name="install">התקן</string>
     <string name="open">פתח</string>
     <string name="open_now">פתיחה</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="aqi_publish_source">עודכן ב: %1$s על ידי CNEMC</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">מופעל על ידי Colorful Clouds</string>
     <string name="traffic_controls">הקצבת ימי נהיגה</string>
     <string name="traffic_control_today_numbers">היום: %1$s</string>
@@ -172,6 +175,7 @@
     <string name="international_details_uv_index_title">מדד UV</string>
     <string name="international_details_pressure_title">לחץ</string>
     <string name="pressure_connect">%1$s מ\"ב</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">"התרעות 'מזג אויר'"</string>
     <string name="edit_alert_city_title">נהל התרעות</string>
     <string name="aqi_detail_unit">יחידה: מק\"ג/מ\"ק</string>
@@ -238,6 +242,8 @@
     <string name="minute_rain_pull_down_refresh">משוך מטה לרענון</string>
     <string name="minute_rain_refreshing_now">מרענן…</string>
     <string name="minute_rain_let_go_refresh">שחרר לרענון</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="alert_detail_title">פרטי התרעה</string>
     <string name="aqi_quality_map_title">מפת איכות האויר</string>
     <string name="aqi_station_min_distance_station">התחנה הקרובה ביותר</string>
@@ -259,6 +265,6 @@
     <string name="city_exceeded_warning">באפשרותך להוסיף עד 10 ערים</string>
     <string name="xiaomi_weather_description_title">"אודות 'מזג אויר'"</string>
     <string name="xiaomi_weather_description_content">"'מזג אויר' מספק עבורך מידע מדויק אודות מזג האויר. ללא יישום זה, שורת המצב וווידג'ט 'מזג אויר' ב'מסך הבית' לא יפעלו באופן תקין. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
-    <string name="real_time_sunrise">Sunrise %1$s</string>
-    <string name="real_time_sunset">Sunset %1$s</string>
+    <string name="real_time_sunrise">זריחה %1$s</string>
+    <string name="real_time_sunset">שקיעה %1$s</string>
 </resources>

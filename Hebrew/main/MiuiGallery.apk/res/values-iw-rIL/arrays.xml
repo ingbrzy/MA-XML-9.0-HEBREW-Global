@@ -4,15 +4,21 @@
         <item>ילד</item>
         <item>ילדה</item>
     </string-array>
-    <string-array name="owner_relation">
-        <item>אבא</item>
-        <item>אמא</item>
-        <item>סבא מצד האבא</item>
-        <item>סבתא מצד האבא</item>
-        <item>סבא מצד האמא</item>
-        <item>סבתא מצד האמא</item>
+    <string-array name="collage_month">
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>מאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
     </string-array>
-    <string-array name="sharer_relation_addressive">
+    <string-array name="owner_relation">
         <item>אבא</item>
         <item>אמא</item>
         <item>סבא מצד האבא</item>
@@ -29,18 +35,12 @@
         <item>חברים</item>
         <item>לא בקבוצה</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>ינו</item>
-        <item>פבר</item>
-        <item>מרץ</item>
-        <item>אפר</item>
-        <item>מאי</item>
-        <item>יונ</item>
-        <item>יול</item>
-        <item>אוג</item>
-        <item>ספט</item>
-        <item>אוק</item>
-        <item>נוב</item>
-        <item>דצמ</item>
+    <string-array name="sharer_relation_addressive">
+        <item>אבא</item>
+        <item>אמא</item>
+        <item>סבא מצד האבא</item>
+        <item>סבתא מצד האבא</item>
+        <item>סבא מצד האמא</item>
+        <item>סבתא מצד האמא</item>
     </string-array>
 </resources>

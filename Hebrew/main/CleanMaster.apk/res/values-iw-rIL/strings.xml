@@ -423,7 +423,6 @@
     <string name="wechat_cache_files">מטמון WeChat</string>
     <string name="qq_cache_files">מטמון QQ</string>
     <string name="wechat_qq_chat_files">"היסטורית צ'אט"</string>
-    <string name="wechat_chat_clean_done">הכל נראה תקין</string>
     <string name="analying">מנתח…</string>
     <string name="open_file_error">לא ניתן היה למצוא את היישום המתאים לפתיחת קובץ זה</string>
     <string name="location_not_found">לא ניתן היה למצוא את הקובץ</string>
@@ -474,4 +473,5 @@
     <string name="app_description_title">"אודות 'מנקה'"</string>
     <string name="app_description_content">"ה'מנקה' מאתר אשפה במכשירך ומפנה שטח אחסון. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="engine_init">מאתחל…</string>
+    <string name="wechat_chat_clean_done">הכל נראה תקין</string>
 </resources>
