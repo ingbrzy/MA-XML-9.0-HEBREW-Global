@@ -401,14 +401,12 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
     <string name="family_member_invitation_text">בן משפחה אחר</string>
     <string name="fast_share_auto_render">ייפוי</string>
     <string name="fast_share_auto_render_finish">יופה</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_category_film">סרט</string>
     <string name="filter_category_food">אוכל</string>
     <string name="filter_category_portrait">דיוקן</string>
@@ -456,7 +454,6 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -638,7 +635,6 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
-    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">תמונות חיות מחמד</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">תמונות</string>
@@ -788,7 +784,6 @@
     <string name="search_feedback_likely_check_title">בדיקה</string>
     <string name="search_feedback_likely_title">נראה כי לתמונות אלה יש \"%s\"</string>
     <string name="search_feedback_task_complete">All missions are completed</string>
-    <string name="search_feedback_task_progress">Missions %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">לא ניתן היה לקבל את הפרס. נסה שוב מאוחר יותר.</string>
     <string name="search_feedback_task_requesting_award">מקבל פרס…</string>
     <string name="search_feedback_user_notice">"I've read and agreed to %s."</string>
@@ -821,8 +816,6 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
     <string name="secret_album_display_name">אלבום מוסתר</string>
@@ -1038,7 +1031,6 @@
     <string name="view_by_gallery_tip">גלרית MIUI</string>
     <string name="view_face_album">צפה באלבום</string>
     <string name="view_queuing_status">בדוק סטטוס</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
     <string name="where_is_barcode">איפה קוד ה-QR?</string>
