@@ -90,6 +90,12 @@
         <item quantity="two">למחוק %1$d פריטים מההיסטוריה?</item>
         <item quantity="many">למחוק %1$d פריטים מההיסטוריה?</item>
     </plurals>
+    <plurals name="video_push_multi_message">
+        <item quantity="other">קיימים %1$d עדכונים זמינים.</item>
+        <item quantity="one">קיים עדכון זמין %1$d.</item>
+        <item quantity="two">קיימים %1$d עדכונים זמינים.</item>
+        <item quantity="many">קיימים %1$d עדכונים זמינים.</item>
+    </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d דקות נותרו</item>
         <item quantity="one">דקה %d נותרה</item>

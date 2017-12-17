@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -152,7 +153,7 @@
     <string name="network_err">לא ניתן להתחבר לרשת.</string>
     <string name="refresh">רענון</string>
     <string name="announcement">שים לב</string>
-    <string name="app_empty">"Couldn't find apps."</string>
+    <string name="app_empty">לא ניתן היה למצוא יישומים.</string>
     <string name="screen_lock">נעילת מסך</string>
     <string name="systemui">לוח ההתראות</string>
     <string name="cta_dialog_title">חיבור לאינטרנט</string>
@@ -279,7 +280,7 @@
     <string name="title_answer_feedback_main">מצאנו תשובות!</string>
     <string name="title_same_question_feedback_main">בעיות דומות בפורום MIUI</string>
     <string name="related_question_answer_details">בעיה קשורה</string>
-    <string name="issue_search">Search</string>
+    <string name="issue_search">חיפוש</string>
     <string name="module_item_more">עוד</string>
     <string name="module_item_less">הסתרה</string>
     <string name="feedback_guess">הניחוש שלנו</string>
@@ -297,7 +298,7 @@
     <string name="module_more">עוד</string>
     <string name="module_search">חיפוש</string>
     <string name="module_google_apps">יישומי Google</string>
-    <string name="app_search">Search apps</string>
+    <string name="app_search">חיפוש יישומים</string>
     <string name="feedback_submit_hint">דווח על שגיאות בכל פעם שהינך נתקל בהן על מנת לעזור לנו לפתור אותן מהר יותר.</string>
     <string name="feedback_submit_hint_gone">הודעה שנסגרה</string>
     <string name="toast_post_deleted">נושא זה אינו קיים, נמחק, או נערך.</string>

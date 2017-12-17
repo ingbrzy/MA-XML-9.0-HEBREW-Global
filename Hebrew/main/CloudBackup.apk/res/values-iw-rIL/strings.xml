@@ -51,6 +51,8 @@
     <string name="self_phone">טלפון זה</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="device_xiaomi">טלפון Mi</string>
+    <string name="device_corrupt">Mi Phone (Data corrupt)</string>
+    <string name="size_unknown">Size unknown</string>
     <string name="recovering">משחזר את %s</string>
     <string name="start_recover">שחזר את %s</string>
     <string name="latest_backup_time_loading">טוען…</string>
@@ -58,7 +60,6 @@
     <string name="backing_up_to_micloud">מגבה…</string>
     <string name="restore_from_cloud">שחזר מגיבוי ב-Mi Cloud</string>
     <string name="backup_to_cloud">גבה יישום</string>
-    <string name="restoring_file_tile">משחזר %d קבצים</string>
     <string name="menu_item_sort">מיין לפי</string>
     <string name="menu_item_sort_name">שם</string>
     <string name="menu_item_sort_size">גודל</string>

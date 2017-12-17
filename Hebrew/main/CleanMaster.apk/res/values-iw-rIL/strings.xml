@@ -456,7 +456,7 @@
     <string name="wechat_copy_video_failed_dialog_title">לא ניתן היה לייצא</string>
     <string name="wechat_copying_video_success">ייוצא בהצלחה</string>
     <string name="wechat_copying_video_dialog_title">ייצוא לגלריה</string>
-    <string name="wechat_copying_video_dialog_msg">הקבצים יישמרו בתיקייה זו: /DCIM/WeChat</string>
+    <string name="wechat_copying_video_dialog_msg">הקבצים ישמרו בתיקיה זו: %s</string>
     <string name="wechat_copying_video_dialog_checkbox">מחק קבצים לאחר הייצוא</string>
     <string name="wechat_copying_video_empty">אין סרטונים לייצוא</string>
     <string name="wechat_content_empty">אין קבצים לייצוא</string>
@@ -473,5 +473,23 @@
     <string name="app_description_title">"אודות 'מנקה'"</string>
     <string name="app_description_content">"ה'מנקה' מאתר אשפה במכשירך ומפנה שטח אחסון. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="engine_init">מאתחל…</string>
-    <string name="wechat_chat_clean_done">הכל נראה תקין</string>
+    <string name="unlike">לא תודה</string>
+    <string name="wechat_qq_celan_tab_video">וידאו</string>
+    <string name="wechat_qq_celan_tab_voice">קול</string>
+    <string name="wechat_qq_celan_tab_image">תמונה</string>
+    <string name="wechat_qq_celan_tab_file">קובץ</string>
+    <string name="wechat_qq_deep_clean_button_text">ניקוי יסודי</string>
+    <string name="wechat_clean_finish_summary">הקבצים שנבחרו נמחקו בהצלחה</string>
+    <string name="qq_clean_finish_summary">הקבצים שנבחרו נמחקו בהצלחה</string>
+    <string name="wechat_clean_finish_empty_summary">הכל נראה תקין</string>
+    <string name="wechat_clean_canceled_empty_summary">הניקוי לא הסתיים, התחל מחדש.</string>
+    <string name="wqfile_group_chat_pic">"תמונה מצ'אט"</string>
+    <string name="wqfile_group_chat_video">"סרטון מצ'אט"</string>
+    <string name="wqfile_group_chat_voice">"קול מצ'אט"</string>
+    <string name="wqfile_group_chat_file">קובץ אחר</string>
+    <string name="wq_deep_clean_filter_all">הכל</string>
+    <string name="wq_deep_clean_filter_week_ago">לפני שבוע</string>
+    <string name="wq_deep_clean_filter_month_ago">לפני חודש</string>
+    <string name="wq_deep_clean_filter_three_month_ago">לפני שלושה חודשים</string>
+    <string name="wq_deep_clean_filter_years_ago">לפני חצי שנה</string>
 </resources>

@@ -84,8 +84,8 @@
     <string name="passport_delete_account">צא</string>
     <string name="passport_vcode_notification_title">אימות הכניסה שלך לא הושלם</string>
     <string name="passport_account_name">חשבון: %1$s</string>
-    <string name="passport_account_hint_text">כתובת דוא\"ל, מספר טלפון, או מזהה חשבון Mi</string>
-    <string name="passport_email_or_id_hint_text">כתובת דוא\"ל או מזהה חשבון Mi</string>
+    <string name="passport_account_hint_text">Email/Phone number/Mi Account ID</string>
+    <string name="passport_email_or_id_hint_text">Email/Mi Account ID</string>
     <string name="passport_phone_num_hint_text">מספר טלפון</string>
     <string name="passport_input_password_hint">הזן סיסמה</string>
     <string name="passport_input_captcha_hint">הזן קוד</string>
