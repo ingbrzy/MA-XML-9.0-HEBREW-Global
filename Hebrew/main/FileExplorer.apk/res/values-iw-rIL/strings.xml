@@ -100,7 +100,6 @@
     <string name="ui_main_toast_operation_failed">לא ניתן למחוק את %1$s מהמועדפים</string>
     <string name="rename_failed">לא ניתן לשנות שם של %1$s</string>
     <string name="error_open_file_failed_no_app_found">לא נמצא יישום מתאים לביצוע פעולה זו</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">אין מספיק מקום</string>
     <string name="no_enough_storage_indication">שטח האחסון של המכשיר מלא</string>
     <string name="used">נוצל</string>
@@ -161,7 +160,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">מקומי</string>
     <string name="sys_size_enable">" זמין"</string>
     <string name="tools">כלים</string>
@@ -421,7 +419,6 @@
     <string name="video_upload_btn_hint">אורך סרטוני MP4 צריך להיות בין 3ש ל-10דק</string>
     <string name="video_upload_btn">הבא</string>
     <string name="video_upload_title">בחר וידאו</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#הוסף נושא#</string>
     <string name="video_comment_hint">בחר נושא</string>
     <string name="video_comment_publish">פרסם</string>
@@ -495,7 +492,6 @@
     <string name="video_topic_hint">חפש אנשים או נושאים</string>
     <string name="comment_reply">השב ל-%1$s:</string>
     <string name="comment_hint">הוסף הערה</string>
-    <string name="origin_name">%1$s: </string>
     <string name="hot_comments">הערות פופולריות</string>
     <string name="new_comments">הערה חדשה</string>
     <string name="copy_text">העתק טקסט</string>
@@ -561,14 +557,12 @@
     <string name="recommend">מומלץ</string>
     <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">"סימוני ה'אהבתי' שלי"</string>
-    <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_comment_prefix">"הערה: "</string>
     <string name="message_reply_prefix">השב</string>
     <string name="topic_followed">עוקב</string>
     <string name="topic_follow">עקוב</string>
     <string name="reply_success">ההערה התווספה</string>
     <string name="operation_reply">הערה</string>
-    <string name="message_reply_suffix">": "</string>
     <string name="message_praise_video">" סימן וידאו זה ב'אהבתי'"</string>
     <string name="message_praise_comment">" סימן הערה זו ב'אהבתי'"</string>
     <string name="get_user_info_err">לא ניתן היה לקבל מידע אודות אדם זה</string>
@@ -755,7 +749,6 @@
     <string name="finish_str">בוצע</string>
     <string name="tab_msg">הודעות</string>
     <string name="msg_page_video_default_title">העלתי סרטון, בואו לצפות!</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">המעקב בוצע בהצלחה</string>
     <string name="comment_fail">לא ניתן היה לפרסם את התגובה, נסה שוב</string>
     <string name="comment_fail_banned_temporary">הינך מורחק באופן זמני עקב תגובות לא ראויות</string>
