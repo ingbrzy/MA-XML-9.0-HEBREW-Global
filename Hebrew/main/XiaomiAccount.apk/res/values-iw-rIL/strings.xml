@@ -10,6 +10,7 @@
     <string name="passport_skip_login">דלג</string>
     <string name="passport_skip_setup_account_title">דלג על ההתקנה</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
+    <string name="passport_confirm_login">Continue</string>
     <string name="passport_find_password_on_web_msg">בקר ב- account.mi.com על מנת לאפס את סיסמתך.</string>
     <string name="passport_title_reg">צור חשבון</string>
     <string name="passport_reg_prompt">אין לך חשבון Mi? צור אחד בחינם.</string>
@@ -54,7 +55,7 @@
     <string name="passport_change_phone_number">החלף מספר</string>
     <string name="passport_forget_password"><u>שכחתי את הסיסמה</u></string>
     <string name="passport_forget_password_no_underline">שכחתי את הסיסמה</string>
-    <string name="passport_reg_type_email">Email address</string>
+    <string name="passport_reg_type_email">כתובת דוא\"ל</string>
     <string name="passport_register_by_email"><u>צור חשבון באמצעות כתובת דואל</u></string>
     <string name="passport_account_not_actived">החשבון שלך לא הופעל</string>
     <string name="passport_active_email_visit">בדוק את תיבת הדואר הנכנס שלך ב- %s</string>
@@ -84,8 +85,8 @@
     <string name="passport_delete_account">צא</string>
     <string name="passport_vcode_notification_title">אימות הכניסה שלך לא הושלם</string>
     <string name="passport_account_name">חשבון: %1$s</string>
-    <string name="passport_account_hint_text">Email/Phone number/Mi Account ID</string>
-    <string name="passport_email_or_id_hint_text">Email/Mi Account ID</string>
+    <string name="passport_account_hint_text">דוא\"ל/מספר טלפון/מזהה חשבון Mi</string>
+    <string name="passport_email_or_id_hint_text">דוא\"ל/מזהה חשבון Mi</string>
     <string name="passport_phone_num_hint_text">מספר טלפון</string>
     <string name="passport_input_password_hint">הזן סיסמה</string>
     <string name="passport_input_captcha_hint">הזן קוד</string>
@@ -167,6 +168,7 @@
     <string name="passport_barcode_add_account_prompt">על מנת לחבר חשבון, סרוק שוב את קוד ה-QR לאחר הכניסה.</string>
     <string name="passport_quick_register_notice"><u>אין לך חשבון Mi? צור אחד.</u></string>
     <string name="passport_password_phone_login">היכנס באמצעות חשבון Mi</string>
+    <string name="passport_sms_verification_code_login">SMS verification code login</string>
     <string name="passport_login_other_account">חשבון אחר</string>
     <string name="passport_reg_new_account">צור חשבון</string>
     <string name="passport_select_the_login_account">בחר את החשבון אליו ברצונך להיכנס</string>
@@ -190,15 +192,15 @@
     <string name="passport_user_reg_region_warning">לא תוכל לשנות את האזור/מדינה שלך לאחר יצירת החשבון.</string>
     <string name="passport_sync_account_data">מסנכרן פרטי חשבון…</string>
     <string name="passport_sync_account_data_failed_warning">מתבצע סנכרון של פרטי החשבון שלך כעת, באפשרותך להיכנס באמצעות מזהה חשבון Mi שלך. במידה וברצונך להיכנס באמצעות הטלפון או הדוא\"ל שלך, המתן עד לאחר שהפרטים סונכרנו במלואם.</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
+    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>נדמה כי&lt;/font> המספר %s מוחזר על ידי ספק הרשת שלך וכי קיים חשבון Mi המקושר אליו. האם חשבון זה שייך לך?</string>
     <string name="passport_login_recycle_account_yes">כן</string>
-    <string name="passport_login_recycle_account_no">No</string>
+    <string name="passport_login_recycle_account_no">לא</string>
     <string name="passport_reg_recycle_account_yes">כן</string>
-    <string name="passport_reg_recycle_account_no">No</string>
-    <string name="passport_get_innetdate_title">Check when the number went online</string>
-    <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
-    <string name="passport_get_innetdate_agree">Check</string>
-    <string name="passport_get_innetdate_disagree">No</string>
+    <string name="passport_reg_recycle_account_no">לא</string>
+    <string name="passport_get_innetdate_title">בדוק מתי המספר היה מקוון</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>נדמה כי&lt;/font> המספר %s מוחזר על ידי ספק הרשת שלך. לבדוק מתי המספר היה מקוון?</string>
+    <string name="passport_get_innetdate_agree">בדיקה</string>
+    <string name="passport_get_innetdate_disagree">לא</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -289,10 +293,30 @@
     <string name="trans_time_spent">"
 זמן שעבר: %s"</string>
     <string name="trans_restoring_no_items">מסנכרן פריטים</string>
-    <string name="trans_detail_category_sysdata">נתוני מערכת</string>
+    <string name="trans_detail_category_sysdata">נתוני מערכת (כולל הודעות, אנשי קשר והיסטורית שיחות)</string>
     <string name="trans_detail_category_userdata">יישומים</string>
     <string name="trans_detail_category_account">חשבונות ואנשי קשר</string>
     <string name="trans_detail_category_files">קבצים</string>
+    <string name="trans_detail_category_audio_video_doc">שמע, וידאו וקבצים</string>
+    <string name="trans_detail_category_wechat_qq">נתוני WeChat ו-QQ (כולל היסטורית שיחות)</string>
+    <string name="trans_detail_category_user_app_data">נתוני יישום</string>
+    <string name="trans_detail_wechat_data">נתוני WeChat (כולל היסטורית שיחות)</string>
+    <string name="trans_detail_qq_data">נתוני QQ (כולל היסטורית שיחות)</string>
+    <string name="trans_detail_app_data_useless_tip">באפשרותך לשחזר פריטים אלה מתוך היישום, אין צורך לבצע העברה.</string>
+    <string name="trans_detail_item_app_data_too_large_tip">נראה כי פריט זה גדול מידי מכדי שיוכל להיות מועבר.</string>
+    <string name="trans_detail_item_app_data_selected_tip">יישומים קשורים נבחרו גם כן.</string>
+    <string name="trans_detail_list_footer">שים לב: באפשרותך להעביר יישומים בצורה נפרדת. עם זאת, במידה ותבחר בנתוני יישום מסויים, יישומים קשורים יועברו גם כן.</string>
+    <string name="trans_detail_page_tip">ככל שתבחר יותר יישומים כך גם תהליך ההעברה יארוך זמן רב יותר.</string>
+    <string name="trans_detail_sys_data_list_title">יישומי מערכת</string>
+    <string name="trans_detail_app_data_list_title">נתוני יישום</string>
+    <string name="trans_detail_app_apk_list_title">יישומים מותקנים</string>
+    <string name="trans_detail_wechat_qq_list_title">WeChat ו-QQ</string>
+    <string name="trans_detail_audio_video_doc_list_title">שמע, וידאו וקבצים</string>
+    <string name="trans_detail_sys_data_page_title">בחירת יישומי מערכת</string>
+    <string name="trans_detail_app_data_page_title">בחירת נתוני יישום</string>
+    <string name="trans_detail_app_apk_page_title">בחירת יישומים</string>
+    <string name="trans_detail_wechat_qq_page_title">בחר ב-WeChat, QQ ונתוני יישומים</string>
+    <string name="trans_detail_audio_video_doc_page_title">בחר בשמע, וידאו וקבצים</string>
     <string name="trans_sending_completed">נשלח בהצלחה</string>
     <string name="trans_receiving_completed">התקבל בהצלחה</string>
     <string name="trans_time_format_second">פחות מדקה 1</string>
@@ -309,6 +333,7 @@
     <string name="trans_progress_subdescript_transing_receiver_finish">%s התקבל, ממתין לשחזור…</string>
     <string name="trans_cancel_confirm">ההעברה בתהליך, לעצור עכשיו?</string>
     <string name="trans_cancelling">מבטל…</string>
+    <string name="trans_pausing">מפסיק…</string>
     <string name="trans_device_disconnected">החיבור נקטע</string>
     <string name="trans_device_wait_for_reconnecting">החיבור נקטע. התחבר שוב על מנת להמשיך.</string>
     <string name="trans_device_auto_reconnecting">המכשיר התנתק. מתחבר מחדש באופן אוטומטי…</string>
@@ -338,6 +363,8 @@
 קבצים זהים הקיימים במכשיר החדש יוחלפו"</string>
     <string name="trans_select_data_no_space">"אין מספיק מקום פנוי במכשיר החדש
 בחר קבצים שוב או פנה %s מקום על גבי המכשיר החדש"</string>
+    <string name="trans_select_data_too_large">"בחרת בפריטים רבים מידי להעברה.
+בחר בפריטים חשובים בלבד על מנת להפוך את ההעברה למהירה יותר."</string>
     <string name="trans_calculating_base_size">מחשב נפח נתונים</string>
     <string name="trans_calculating">מחשב…</string>
     <string name="trans_native_no_space">"אין מספיק מקום במכשיר זה.
@@ -462,8 +489,9 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="loading_data">טוען נתונים</string>
     <string name="icloud_need_sync">"על מנת שתוכל לייבא נתונים מ-iOS,
 עליך ליצור גיבוי iCloud תחילה."</string>
-    <string name="import_tip_title">טיפים:</string>
+    <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>
@@ -487,4 +515,20 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="error_permissions">"אין ליישום זה את ההרשאה הנדרשת על מנת לגשת ל'לוח שנה'. עבור אל 'הגדרות' ובדוק הרשאות על מנת להמשיך."</string>
     <string name="succ_description">הצלחה</string>
     <string name="failed_description">כשלון</string>
+    <string name="notif_connect_miasist">מחובר ל-Mi PC Suite</string>
+    <string name="notif_disconnect_miasist">לא מחובר ל-Mi PC Suite</string>
+    <string name="notif_sending_transingsd">שולח %1$s (%2$s)…</string>
+    <string name="notif_receiving_transingsd">מקבל %1$s (%2$s)…</string>
+    <string name="notif_calculating_app">מחשב %1$s (%2$s)…</string>
+    <string name="notif_parse_select_descript_error">לא ניתן היה לסנכרן את רשימת הפריטים המגובים.</string>
+    <string name="alert_miasist_occupy_backup">מגבה פריטים באמצעות Mi PC Suite… המתן להשלמת הגיבוי ונסה שוב.</string>
+    <string name="alert_miasist_occupy_restore">משחזר פריטים באמצעות Mi PC Suite… המתן להשלמת השחזור ונסה שוב.</string>
+    <string name="alert_phone_occupy_backup">לא ניתן להשתמש ב-Mi PC Suite כעת. השלם את פעולת הגיבוי או הסנכרון של פריטים בטלפון שלך ונסה שוב.</string>
+    <string name="alert_second_space_not_support_miasist">"לא ניתן להשתמש ב-Mi PC Suite ב'שטח שני'. עבור ל'שטח ראשון'."</string>
+    <string name="alert_title_backup_to_miasist">לגבות פריטים באמצעות Mi PC Suite?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite מבקש הרשאה ליצירת גיבוי במחשב. לאפשר?</string>
+    <string name="alert_title_restore_from_miasist">לשחזר פריטים בטלפון שלך?</string>
+    <string name="alert_message_restore_from_miasist">Mi PC Suite מבקש הרשאה לשחזור פריטים בטלפון שלך. לאפשר?</string>
+    <string name="alert_button_deny">דחה</string>
+    <string name="alert_button_agree_and_continue">אפשר</string>
 </resources>

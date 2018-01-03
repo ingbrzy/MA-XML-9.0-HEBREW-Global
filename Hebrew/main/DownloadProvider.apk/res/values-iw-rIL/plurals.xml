@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d downloaded</item>
-        <item quantity="one">%1$d downloaded</item>
-        <item quantity="two">%1$d downloaded</item>
-        <item quantity="many">%1$d downloaded</item>
+        <item quantity="other">%1$d ירדו</item>
+        <item quantity="one">%1$d ירד</item>
+        <item quantity="two">%1$d ירדו</item>
+        <item quantity="many">%1$d ירדו</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Downloading %1$d files</item>
-        <item quantity="one">Downloading %1$d file</item>
-        <item quantity="two">Downloading %1$d files</item>
-        <item quantity="many">Downloading %1$d files</item>
+        <item quantity="other">מוריד %1$d קבצים</item>
+        <item quantity="one">מוריד קובץ %1$d</item>
+        <item quantity="two">מוריד %1$d קבצים</item>
+        <item quantity="many">מוריד %1$d קבצים</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d items"</item>
-        <item quantity="one">"Couldn't download %1$d item"</item>
-        <item quantity="two">"Couldn't download %1$d items"</item>
-        <item quantity="many">"Couldn't download %1$d items"</item>
+        <item quantity="other">לא ניתן היה להוריד %1$d פריטים</item>
+        <item quantity="one">לא ניתן היה להוריד פריט %1$d</item>
+        <item quantity="two">לא ניתן היה להוריד %1$d פריטים</item>
+        <item quantity="many">לא ניתן היה להוריד %1$d פריטים</item>
     </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">מוריד %d קבצים</item>

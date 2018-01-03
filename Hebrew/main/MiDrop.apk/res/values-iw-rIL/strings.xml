@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
+    <string name="btn_save">שמירה</string>
     <string name="cancel_confirm">ביטול ההעברה</string>
     <string name="cancel_lang">ביטול</string>
     <string name="cancel_message">האדם השני לא יקבל את הקבצים במידה ותבטל את ההעברה. לבטל את ההעברה כעת?</string>
@@ -16,10 +17,14 @@
     <string name="default_lang">שפת המערכת</string>
     <string name="delete">מחיקה</string>
     <string name="delete_item_desc">למחוק קובץ זה מרשימת ההעברה?</string>
+    <string name="dialog_btn_setup">הענקה</string>
     <string name="dialog_close_data">כבה את חיבור הנתונים הסלולריים</string>
     <string name="dialog_mobile_data_warn">האדם השני יוכל להשתמש בנתונים הסלולריים שלך במידה ותשאיר את חיבור הנתונים הסלולריים מופעל.</string>
     <string name="dialog_mobile_data_warn_title">כבה את חיבור הנתונים הסלולריים</string>
+    <string name="dialog_msg_need_find_friend_permission">הענק הרשאות על מנת ש-Mi Drop יוכל למצוא את החברים שלך בקרבת מקום.</string>
+    <string name="dialog_msg_need_set_hotspot_permission">הענק הרשאות על מנת ש-Mi Drop יוכל להגדיר נקודה חמה ניידת.</string>
     <string name="dialog_ok">השאר מופעל</string>
+    <string name="dialog_title_permission_required">נדרשות הרשאות</string>
     <string name="enable_ap_message">אנדרואיד 7.1 וגרסאות מאוחרות יותר אוסרות על כיבוי אוטומטי של הנקודה החמה של הרשת האלחוטית. הפעל באופן ידני.</string>
     <string name="enable_ap_quit">יציאה</string>
     <string name="enable_ap_set">הגדרה</string>
@@ -52,6 +57,7 @@
 
 באנדרואיד 6.0 ומעלה עליך להפעיל את שירותי המיקום על מנת לשלוח ולקבל קבצים."</string>
     <string name="location_skip">דלג</string>
+    <string name="max_send_file">+99</string>
     <string name="never_remind">אל תציג שוב</string>
     <string name="no_file">ריק</string>
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
@@ -66,6 +72,7 @@
     <string name="other_files">קבצים</string>
     <string name="popup_window_bottom_bar_send">שליחה</string>
     <string name="popup_window_header_clear_all">ניקוי</string>
+    <string name="prompt_grant_write_settings_permission">אפשר ל-Mi Drop לשנות את הגדרות המערכת.</string>
     <string name="receive">קבלה</string>
     <string name="receive_exit_dialog_message">הקבצים לא ישלחו במידה ותבטל את ההעברה. לבטל בכל זאת?</string>
     <string name="receive_exit_dialog_negative_btn">המשך בקבלה</string>
@@ -112,7 +119,11 @@
     <string name="sender_transfer_interrupt">ההעברה הופרעה. אל תכבה את הרשת האלחוטית במהלך העברות קבצים.</string>
     <string name="sender_wait">שולח קבצים…</string>
     <string name="sender_wait_queue">מתכונן לשליחה…</string>
+    <string name="setname_enter_name_hint">הזן את הכינוי שלך</string>
+    <string name="setname_enter_name_prompt">הכינוי מסייע לאנשים אחרים לזהות אותך מהר יותר.</string>
+    <string name="setname_title">עריכת הכינוי</string>
     <string name="setting_now">הגדרה</string>
+    <string name="settings_set_name">כינוי</string>
     <string name="share_desc">שתף את Mi Drop מבלי להשתמש בנתונים סלולריים בכלל</string>
     <string name="share_mi_drop">שתף את Mi Drop עם החברים שלך</string>
     <string name="step_1">"שלב 1: 
@@ -145,6 +156,4 @@
     <string name="want_send">שליחת קבצים</string>
     <string name="wifi_name">שם רשת אלחוטית:</string>
     <string name="wifi_psw">סיסמה:</string>
-    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
-    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
 </resources>

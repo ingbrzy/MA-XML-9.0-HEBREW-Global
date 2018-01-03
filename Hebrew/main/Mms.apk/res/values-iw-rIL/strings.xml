@@ -65,7 +65,7 @@
     <string name="class_0_message_activity">פלאש SMS</string>
     <string name="close">סגור</string>
     <string name="cloud_recommend_msg">לחץ לסנכרון הודעות עם Mi Cloud.</string>
-    <string name="cloud_state_disabled">הסנכרון עם Mi Cloud כבוי</string>
+    <string name="cloud_state_disabled">הפעל את הסנכרון עם Mi Cloud על מנת לסנכרן הודעות</string>
     <string name="cloud_state_sync_finished">סונכרן עם Mi Cloud</string>
     <string name="cloud_state_syncing">מסנכרן עם Mi Cloud…</string>
     <string name="compressing">תמונה גדולה מידי. מכווץ…</string>
@@ -74,7 +74,7 @@
     <string name="confirm_delete_SIM_message">למחוק הודעת SIM זו?</string>
     <string name="confirm_delete_all_SIM_messages">למחוק את כל ההודעות ב-SIM?</string>
     <string name="confirm_delete_all_conversations">למחוק את כל השיחות?</string>
-    <string name="confirm_delete_conversation">למחוק את השרשור כולו?</string>
+    <string name="confirm_delete_conversation">למחוק שיחה זו?</string>
     <string name="confirm_delete_group_message">למחוק הודעות קבוצתיות?</string>
     <string name="confirm_delete_locked_message">למחוק הודעה נעולה זו?</string>
     <string name="confirm_delete_message">למחוק הודעה זו?</string>
@@ -126,7 +126,7 @@
     <string name="delivery_report_activity">דו\"ח מסירה</string>
     <string name="delivery_toast_body">הודעה התקבלה על ידי %s</string>
     <string name="dialog_message_sms_report">הודעות ספאם ופרטי השולח יועלו אל MIUI כשתדווח עליהן. הן ישמשו לשיפור סנני הספאם של MIUI בלבד.</string>
-    <string name="disable_notifications_dialog_message">להפסיק התראות מיישום ברירת מחדל של הודעות על כפל בהודעות טקסט?</string>
+    <string name="disable_notifications_dialog_message">להפסיק התראות אודות כפילויות בהודעות טקסט מיישום ברירת המחדל עבור הודעות?</string>
     <string name="disabled">כבוי</string>
     <string name="discard">ביטול</string>
     <string name="discard_message">ביטול</string>
@@ -179,6 +179,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -528,6 +529,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>

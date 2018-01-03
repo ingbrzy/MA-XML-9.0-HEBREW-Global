@@ -106,6 +106,7 @@
     <string name="package_filter">חבילות</string>
     <string name="other_filter">אחר</string>
     <string name="xunlei_brand">מופעל על ידי Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">מנוע ההורדות של Xunlei</string>
     <string name="turn_off_xunlei_title">כיבוי Xunlei</string>
     <string name="turn_off_xunlei_message">אתה עשוי לחוות מהירויות הורדה איטיות יותר.</string>
@@ -146,8 +147,8 @@
     <string name="download_list_open_xl_message">מאיץ ההורדות Xunlei יסייע להאצת הורדות.</string>
     <string name="download_list_open_xl_ok">אישור</string>
     <string name="download_list_open_xl_cancel">ביטול</string>
-    <string name="download_list_intoAuth">Verify your account</string>
-    <string name="download_list_intoAuthAlert">Just a sec…</string>
+    <string name="download_list_intoAuth">אמת את חשבונך</string>
+    <string name="download_list_intoAuthAlert">רק רגע…</string>
     <string name="unbind_xunlei_success">יצאת מחשבון Xunlei</string>
     <string name="unbind_xunlei_2_success">נוסף חשבון Xunlei</string>
     <string name="privacy_tip_title">להשתמש במאיץ של Xunlei?</string>
@@ -331,6 +332,8 @@
     <string name="xl_vip_open">רכישה</string>
     <string name="xl_vip_pay">הרחבה</string>
     <string name="xl_vip_overdue">פג תוקף</string>
+    <string name="download_num_size">%1$s  |  %2$s</string>
+    <string name="app_size">%1$s</string>
     <string name="ad_title">אנשים אחרים הורידו גם את  %1$s </string>
     <string name="rank_data_empty">אין דירוגים</string>
     <string name="net_error">לא ניתן להתחבר לרשת, נסה שוב</string>

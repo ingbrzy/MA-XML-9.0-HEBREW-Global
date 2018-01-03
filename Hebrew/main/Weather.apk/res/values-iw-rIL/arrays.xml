@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>טוב</item>
+        <item>מתון</item>
+        <item>לא בריא עבור קבוצות רגישות</item>
+        <item>לא בריא</item>
+        <item>מאוד לא בריא</item>
+        <item>מסוכן מאוד</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>טוב</item>
+        <item>משביע רצון</item>
+        <item>מזוהם באופן בינוני</item>
+        <item>דל</item>
+        <item>דל מאוד</item>
+        <item>חמור</item>
+        <item>מעבר למדד</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;עוצמה 2</item>
+        <item>&lt;6.0 קמ\"ש</item>
+        <item>&lt;1.7 מטר לשניה</item>
+        <item>&lt;3.7 מיל לשעה</item>
+        <item>&lt;3.2 קשר</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Beijing</item>
         <item>Shanghai</item>
@@ -25,37 +73,32 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+    <string-array name="indices_car_wash">
+        <item>מתאים</item>
+        <item>לא מתאים</item>
     </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+    <string-array name="indices_sport">
+        <item>מתאים</item>
+        <item>לא מתאים</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+    <string-array name="indices_uv_level">
+        <item>נמוכה</item>
+        <item>מתונה</item>
+        <item>גבוהה</item>
     </string-array>
-    <string-array name="aqi_detail_title">
-        <item>טוב</item>
+    <string-array name="minute_rain_array">
+        <item>כבד</item>
         <item>מתון</item>
-        <item>לא בריא עבור קבוצות רגישות</item>
-        <item>לא בריא</item>
-        <item>מאוד לא בריא</item>
-        <item>מסוכן מאוד</item>
+        <item>חלש</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>מצוינת</item>
+        <item>טובה</item>
+        <item>זיהום קל</item>
+        <item>זיהום בינוני</item>
+        <item>זיהום כבד</item>
+        <item>זיהום כבד מאוד</item>
+        <item>מעבר למדד</item>
     </string-array>
     <string-array name="weather_type">
         <item>בהיר</item>
@@ -85,19 +128,6 @@
         <item>אובך</item>
         <item>גשם מקפיא</item>
         <item></item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>נמוכה</item>
-        <item>מתונה</item>
-        <item>גבוהה</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>מתאים</item>
-        <item>לא מתאים</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>מתאים</item>
-        <item>לא מתאים</item>
     </string-array>
     <string-array name="wind_direction">
         <item>צפון</item>
@@ -134,29 +164,6 @@
         <item>11</item>
         <item>12</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>טוב</item>
-        <item>משביע רצון</item>
-        <item>מזוהם באופן בינוני</item>
-        <item>דל</item>
-        <item>דל מאוד</item>
-        <item>חמור</item>
-        <item>מעבר למדד</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>סולם בופורט</item>
-        <item>קמ\"ש</item>
-        <item>מטר לשניה</item>
-        <item>מיל לשעה</item>
-        <item>קשר</item>
-    </string-array>
-    <string-array name="breeze">
-        <item>&lt;עוצמה 2</item>
-        <item>&lt;6.0 קמ\"ש</item>
-        <item>&lt;1.7 מטר לשניה</item>
-        <item>&lt;3.7 מיל לשעה</item>
-        <item>&lt;3.2 קשר</item>
-    </string-array>
     <string-array name="wind_unit_detail">
         <item>סולם בופורט</item>
         <item>קילומטר לשעה (קמ\"ש)</item>
@@ -171,18 +178,11 @@
         <item>%1$s מיל לשעה</item>
         <item>%1$s קשר</item>
     </string-array>
-    <string-array name="minute_rain_array">
-        <item>כבד</item>
-        <item>מתון</item>
-        <item>חלש</item>
-    </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>מצוינת</item>
-        <item>טובה</item>
-        <item>זיהום קל</item>
-        <item>זיהום בינוני</item>
-        <item>זיהום כבד</item>
-        <item>זיהום כבד מאוד</item>
-        <item>מעבר למדד</item>
+    <string-array name="wind_unit_simple">
+        <item>סולם בופורט</item>
+        <item>קמ\"ש</item>
+        <item>מטר לשניה</item>
+        <item>מיל לשעה</item>
+        <item>קשר</item>
     </string-array>
 </resources>

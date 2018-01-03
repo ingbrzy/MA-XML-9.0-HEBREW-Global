@@ -164,11 +164,11 @@
     <string name="configure_input_methods">בחר מקלדות</string>
     <string name="miui_upgrading_notification_title">טוען את המערכת, יתכן שתכונות מסויימות לא יהיו זמינות.</string>
     <string name="miui_screen_ratio_hint">בעיות יחסי המסך</string>
-    <string name="miui_screen_ratio_hint_message">This app is allowed to run in the fullscreen mode, which may cause it to be displayed incorrectly. You can change this in Settings > Full screen display.</string>
+    <string name="miui_screen_ratio_hint_message">"יישום זה מורשה לעבוד במצב מסך מלא, דבר אשר עשוי לגרום לו להיות מוצג באופן שגוי. באפשרותך לשנות זאת ב'הגדרות' > 'תצוגת מסך מלא'."</string>
     <string name="miui_screen_ratio_hint_dont_show_again">אל תציג שוב</string>
     <string name="miui_screen_ratio_hint_ok">אישור</string>
     <string name="miui_screen_ratio_hint_go_to_settings">"עבור ל'הגדרות'"</string>
     <string name="switching_tv">מחליף…</string>
     <string name="switch_desc_tv">שני שטחים. מכשיר אחד.</string>
-    <string name="switch_brand_desc_tv">Security services provided by Spaces Mobile</string>
+    <string name="switch_brand_desc_tv">שירותי האבטחה מסופקים על ידי Spaces Mobile</string>
 </resources>

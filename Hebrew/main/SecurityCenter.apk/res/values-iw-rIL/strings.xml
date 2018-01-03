@@ -36,7 +36,8 @@
     <string name="dlg_clear_current_call">להסיר את כל השיחות החסומות ממספר זה?</string>
     <string name="dlg_clear_all_ok">הסר הכל</string>
     <string name="dlg_clear_current_ok">הסרה</string>
-    <string name="dlg_no_block">להסיר חסימת מספר זה ולהחזיר שיחות שהתקבלו ממספר זה ליומן השיחות?</string>
+    <string name="dlg_no_block">"Unblock this phone number ?
+It will be added to exceptions, but previously blocked items won't appear in call history."</string>
     <string name="dlg_no_block_ok">בטל חסימה</string>
     <string name="dlg_add_blacklist_title">הוספה לרשימת החסומים</string>
     <string name="dlg_add_blacklist">לחסום מספר זה?</string>
@@ -62,6 +63,14 @@
     <string name="dlg_antispam_mode_delete_message">אין באפשרותך לשחזר חוקים לאחר מחיקתם.</string>
     <string name="dlg_antispam_using_mode_delete_message">"למחוק את החוקים הנוכחיים ולחזור לשימוש בחוקי ברירת המחדל של 'רשימת החסומים'?"</string>
     <string name="dlg_antispam_using_mode_international_delete_message">"למחוק את החוקים הנוכחיים ולחזור לשימוש בחוקי ברירת המחדל של 'רשימת החסומים'?"</string>
+    <string name="back_sound_success">Success!</string>
+    <string name="back_sound_fail">Failed！</string>
+    <string name="back_sound_support">"The current network operators doesn't support it！"</string>
+    <string name="back_sound_data">It requires cellular mobile network, please retry!</string>
+    <string name="dlg_move_to_white">Add to exceptions</string>
+    <string name="dlg_add_white">"New calls and messages from the numbers added to exceptions will be shown in call history and Messaging inbox. However, previously blocked items won't appear there. Add selected numbers to exceptions?"</string>
+    <string name="dlg_not_block_sms">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in Messaging inbox."</string>
+    <string name="dlg_not_block_call">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in call history."</string>
     <string name="menu_call">חיוג</string>
     <string name="menu_sms">שליחת הודעה</string>
     <string name="menu_bl_call_log">צפיה בשיחות שנחסמו</string>
@@ -73,6 +82,7 @@
     <string name="menu_remove">מחיקה</string>
     <string name="st_settings_name">"הגדרות 'רשימת החסומים'"</string>
     <string name="st_filter_keywords_setting_summary1">הודעות ממספרים חסויים המכילות מילים מרשימה זו יחסמו.</string>
+    <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
     <string name="st_filter_keywords_setting_summary2">"
 (השתמש בפיסוק על מנת להפריד בין מילות המפתח השונות)"</string>
     <string name="label_callwait">התראת שיחה ממתינה</string>
@@ -163,7 +173,8 @@
     <string name="st_title_open_antispam">רשימת החסומים</string>
     <string name="st_title_antispam_mode">חוקים</string>
     <string name="st_sub_title_whiteblack_list_group">רשימת החסומים</string>
-    <string name="st_title_keywords_blacklist">מסנן מילות מפתח</string>
+    <string name="st_title_keywords_blacklist">Keyword blacklist</string>
+    <string name="st_title_keywords_whitelist">Keyword whitelist</string>
     <string name="st_title_blacklist_numbers">מספרים שנחסמו</string>
     <string name="st_title_whitelist_numbers">חריגים</string>
     <string name="st_title_backsound_group">"הודעת 'לא זמין'"</string>
@@ -269,7 +280,9 @@
     <string name="st_msg_intercept_contacts">חסום מסרונים מאנשי קשר</string>
     <string name="st_msg_stranger_group">חסום מסרונים מזרים</string>
     <string name="st_msg_other_group">אחר</string>
-    <string name="st_msg_keyword_group">רשימת מילות מפתח חסומות</string>
+    <string name="st_msg_keyword_group">Keywords</string>
+    <string name="st_msg_keyword_black">Keyword Blocklist</string>
+    <string name="st_msg_keyword_white">Keyword Exceptions</string>
     <string name="st_call_settings">רשימת שיחות חסומות</string>
     <string name="st_call_intercept_stranger">חסום שיחות מזרים</string>
     <string name="st_call_intercept_forwarding">חסום שיחות שהופנו</string>
@@ -361,6 +374,7 @@
     <string name="firewall_restrict_android_dialog_content">על מנת לודא כי מכשירך עובד בצורה תקינה, מספר יישומי מערכת של אנדרואיד ימשיכו להתחבר לאינטרנט. יישומים אלה יעשו שימוש ברשת הנתונים הסלולרית שלך ועשויים לגרום לחיובים מינוריים על ידי ספק הרשת שלך.</string>
     <string name="background_restrict_app_dialog_message">"הגבלת יישום זה מלגשת לרשת ברקע עשויה להפוך את ההפעלה התקינה, שליחת ההודעות, הורדת התוכן וכו' של יישום זה לבלתי אפשריים. להגביל בכל זאת?"</string>
     <string name="firewall_allow_network">אפשר</string>
+    <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content. Restrict anyway?</string>
     <string name="firewall_network_allow">ליישום %1$s ניתנה ההרשאה להשתמש בחיבור של %2$s</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="firewall_mobile_dialog_message">היישום המותקן לא יוכל להתחבר לאינטרנט באמצעות נתונים סלולריים כאשר מתג זה כבוי.</string>
@@ -388,7 +402,8 @@
     <string name="detail_app_button">פרטי היישום</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
-    <string name="pref_package_traffic_settings">מגבלת נתונים סלולריים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
+    <string name="pref_package_traffic_settings">Data plan</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
     <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
@@ -396,6 +411,7 @@
     <string name="pref_title_traffic_speed_state">הצג את מהירות החיבור של הרשת</string>
     <string name="pref_title_declaration">כתב ויתור חשוב</string>
     <string name="pref_new_installed_preconfig_title">הגדרות ברירת מחדל עבור יישומים חדשים</string>
+    <string name="pref_bg_network_title">Background connection</string>
     <string name="pref_mi_sim_settings">הגדרות Mi SIM</string>
     <string name="pref_title_upload_data_usage">דווח על סטטיסטיקות שימוש בנתונים</string>
     <string name="pref_summary_upload_data_usage">"דווח על סטטיסטיקות השימוש שלך בנתונים על מנת לסייע לנו לשפר את MIUI. הדיווח נעשה בהתאם ל'מדיניות הפרטיות' שלנו."</string>
@@ -631,7 +647,7 @@ Rolled over extra data"</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">לאפשר נדידת נתונים סלולריים?</string>
     <string name="title_limit_traffic_per_day">מגבלה יומית לשימוש בנתונים</string>
-    <string name="daily_limit_and_lock_screen">מגבלת נתונים &amp; התראות</string>
+    <string name="daily_limit_and_lock_screen">Data usage warning</string>
     <string name="pref_title_traffic_limit_number">גודל</string>
     <string name="pref_title_over_traffic_limit_warning">בעת חריגה</string>
     <string name="reach_daily_limit_value_title">הגעת לתקרת מגבלת הנתונים היומית</string>
@@ -646,12 +662,12 @@ Rolled over extra data"</string>
     <string name="lock_screen_warning_switch_title">הצג אזהרות במסך הנעילה</string>
     <string name="lock_screen_warning_switch_summary">הצג אזהרה במסך הנעילה כאשר השימוש בנתונים חורג מכמות מסויימת</string>
     <string name="lock_screen_warning_value">אזהרת שימוש בנתונים</string>
-    <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים היומית מנוצלת עד לתומה</string>
+    <string name="pref_normal_traffic_limit">When data plan is used up</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="traffic_warning_purchase_title">אזהרת שימוש בנתונים סלולריים</string>
     <string name="traffic_purchase_body">לחץ לטעינת יתרתך.</string>
     <string name="traffic_over_purchase_link">"הגעת לתקרת השימוש בחבילת הגלישה שלך.&lt;br/>במידה ותעבור את מגבלת השימוש בחבילת הגלישה שלך, ספק הרשת שלך עשוי לגבות חיובים נוספים.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>לחץ לטעינת יתרתך.&lt;/U>&lt;/font>"</string>
-    <string name="more_settings">More</string>
+    <string name="more_settings">עוד</string>
     <string name="repair_loading_text">רק רגע…</string>
     <string name="network_diagnostics">בדיקת רשת</string>
     <string name="btn_start_diagnostic">בדיקת רשת</string>
@@ -744,8 +760,8 @@ Rolled over extra data"</string>
 
  "<b>5. ודא כי הנתב שלך מחובר כראוי</b>"
  נסה שימוש בכבל רשת אחר לחיבור הנתב שלך. במידה ואתה חושד כי קיימת בעית חיבור בביתך, פנה לספק שירות האינטרנט שלך."</string>
-    <string name="permission_exception_title">הצג הרשאות רשת</string>
-    <string name="permission_exception_summary">ליישומים מסוימים אין הרשאת חיבור לאינטרנט</string>
+    <string name="permission_exception_title">Restricted connection for apps</string>
+    <string name="bg_network_exception_title">Restricted background connection</string>
     <string name="networkchanged_exception_title">החיבור השתנה</string>
     <string name="networkchanged_exception_summary">החיבור לרשת השתנה. בדוק שוב.</string>
     <string name="network_test_speed">בדיקת מהירות הרשת האלחוטית</string>
@@ -802,8 +818,6 @@ Rolled over extra data"</string>
     <string name="diagnostic_attention_dialog_message">אבחון %1$s נמצא בתהליך. המתן לסיומו ונסה שוב.</string>
     <string name="correction_attention_dialog_message">מבצע התאמת הגדרות. המתן לסיום התהליך ונסה שוב.</string>
     <string name="text_button">הבנתי</string>
-    <string name="vpn_unbale_get_phonenum">לא ניתן להשיג מספרי טלפון העושים שימוש בתכניות נתונים מיועדים</string>
-    <string name="vpn_disabled_by_user">חיבור הנתונים המיועדים כבוי</string>
     <string name="btn_back">חזרה</string>
     <string name="firewall_allow_data">אפשר שימוש בנתונים סלולריים</string>
     <string name="firewall_restrict_data">הגבל שימוש בנתונים סלולריים</string>
@@ -829,16 +843,16 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;נותרו: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;החודש: %2$s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
-    <string name="pref_key_tethering_setting">One-time data limit</string>
-    <string name="pref_key_tethering_title">One-time data limit</string>
-    <string name="tether_limit_value_custom">Custom</string>
-    <string name="tether_limit_dialog_title">Mobile data limit</string>
-    <string name="tether_custom_dialog_title">Mobile data limit</string>
-    <string name="tether_over_limit_warning_notify_title">Reached hotspot data limit</string>
-    <string name="tether_over_limit_warning_notify_message">Turn off portable hotspot.</string>
-    <string name="tether_over_limit_dialog_title">Data usage warning</string>
-    <string name="tether_over_limit_dialog_message">You reached portable hotspot data limit.</string>
-    <string name="tether_over_limit_dialog_cancle_btn">Reset hotspot</string>
+    <string name="pref_key_tethering_setting">מגבלת נתונים חד פעמית</string>
+    <string name="pref_key_tethering_title">מגבלת נתונים חד פעמית</string>
+    <string name="tether_limit_value_custom">מותאם אישית</string>
+    <string name="tether_limit_dialog_title">מגבלת נתונים סלולריים</string>
+    <string name="tether_custom_dialog_title">מגבלת נתונים סלולריים</string>
+    <string name="tether_over_limit_warning_notify_title">הגעת לתקרת השימוש בנתוני הנקודה החמה</string>
+    <string name="tether_over_limit_warning_notify_message">כיבוי הנקודה החמה הניידת.</string>
+    <string name="tether_over_limit_dialog_title">אזהרת שימוש בנתונים</string>
+    <string name="tether_over_limit_dialog_message">הגעת לתקרת מגבלת השימוש בנתוני הנקודה החמה הניידת.</string>
+    <string name="tether_over_limit_dialog_cancle_btn">איפוס נקודה חמה</string>
     <string name="optimize_manage_title">האצת מהירות</string>
     <string name="cpu_usage_android_system">מערכת אנדרואיד</string>
     <string name="cpu_usage_process_run_time_little_time">פחות מדקה 1</string>
@@ -900,6 +914,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -1302,6 +1317,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1662,6 +1678,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1869,28 +1886,11 @@ Rolled over extra data"</string>
     <string name="app_manager_force_stop_dlg_text">אם תכפה עצירה על יישום, הוא עשוי להתנהג שלא כראוי.</string>
     <string name="app_manager_dlg_ok">אישור</string>
     <string name="app_manager_dlg_cancel">ביטול</string>
-    <string name="app_manager_wake_path_card_title">היסטורית הפעלת שרשרת (יומיים)</string>
     <string name="app_manager_show_detail_infos">הצג הכל</string>
-    <string name="app_manager_wakepath_dialog_title">אודות הפעלת שרשרת</string>
-    <string name="app_manager_wakepath_dialog_summary">הפעלת שרשרת קורית כאשר יישום מפעיל יישום אחר ברקע. זה עשוי לרוקן את הסוללה ולהפחית את ביצועי המערכת. מערכת MIUI תחסום הפעלות אוטומטיות באופן קבוע.</string>
-    <string name="app_manager_wakepath_dialog_buttontext">הבנתי</string>
-    <string name="app_manager_stop_wakepath_dialog_title">הגבל הפעלת שרשרת</string>
-    <string name="app_manager_stop_wakepath_dialog_summary">להסיר את התקנת %s על מנת להגביל הפעלות שרשרת?</string>
-    <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">הסרת ההתקנה של יישום זה תגביל את הפעלת השרשרת. יישומים משוכפלים קשורים יוסרו גם כן. להסיר את התקנת %s?</string>
-    <string name="app_manager_stop_wp_dialog_cancel">ביטול</string>
-    <string name="app_manager_stop_wp_dialog_uninstall">הסר התקנה</string>
-    <string name="app_manager_reduce_wakepath_dialog">מזער הפעלות שרשרת</string>
-    <string name="app_manager_reduce_wakepath_summary">הגבלה של ההפעלה האוטומטית תביא למזעור הפעלות השרשרת. להגביל את ההפעלה האוטומטית עבור %s?</string>
-    <string name="app_manager_rebide_wakepath">הגבל</string>
-    <string name="app_manager_stop_wakepath_success">הוגבל בהצלחה</string>
-    <string name="app_maanger_app_uninstalled_toast">יישום זה הוסר</string>
     <string name="app_manager_start_by">הופעל על ידי %s</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">יישומים משוכפלים תואמים יוסרו יחד עם נתוני היישום שלהם.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">להסיר את התקנת היישום המשוכפל?</string>
-    <string name="app_manager_reject_count_over">נחסם 100000+ פעמים</string>
-    <string name="app_manager_start_count_over">100000+ פעמים</string>
-    <string name="app_manager_loading_data">טוען נתונים…</string>
     <string name="app_manager_appupdate_remind">הודע אודות עדכונים</string>
     <string name="app_usage_never">מעולם לא היה בשימוש</string>
     <string name="app_usage_recently">בשימוש לאחרונה</string>
@@ -1906,7 +1906,6 @@ Rolled over extra data"</string>
     <string name="app_manager_powerkeeper_miui_auto">"מצב 'חסכון בסוללה' של MIUI"</string>
     <string name="app_manager_powerkeeper_restrict_bg">הגבל יישומים המופעלים ברקע</string>
     <string name="app_manager_powerkeeper_no_bg">הגבל פעילות רקע</string>
-    <string name="app_manager_instruction">הוראות</string>
     <string name="app_manager_app_storage">"אחסון: "</string>
     <string name="app_manager_app_traffic">"שימוש בנתונים: "</string>
     <string name="app_manager_app_power">"שימוש בסוללה: "</string>
@@ -1976,6 +1975,9 @@ Rolled over extra data"</string>
     <string name="app_manager_support_uninstall">באפשרותך להסיר את התקנת יישומים אלה</string>
     <string name="app_manager_not_support_uninstall">לא ניתן להסיר את יישומים אלה</string>
     <string name="app_manager_comuting_size">מחשב…</string>
+    <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
+    <string name="app_manager_search_prompt">"Couldn't find results? Try showing results from all apps."</string>
+    <string name="app_manager_open_show_all_apps_immediate">Show all results</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
@@ -2049,6 +2051,8 @@ Rolled over extra data"</string>
     <string name="more_game">משחקים נוספים</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
+    <string name="gmscore_support_service">Google Services</string>
+    <string name="gmscore_support_remind">Turn this feature on if you experience problems with using Gmail, Google Maps, and other Google apps. It will slightly reduce battery life.</string>
     <string name="google_base_app_install_choice">\"%s\" דורש התקנה של מסגרת שירותי Google על מנת לפעול באופן תקין, להוריד ולהתקין אותה?</string>
     <string name="application_item_disable">מוגבל</string>
     <string name="application_item_already_permission">מאופשר</string>
@@ -2066,6 +2070,8 @@ Rolled over extra data"</string>
     <string name="scan_installed_games">בודק משחקים מותקנים…</string>
     <string name="boostering">מאיץ מהירות…</string>
     <string name="booster_suc">הואץ בהצלחה</string>
+    <string name="auto_booster_suc">Boosted successfully</string>
+    <string name="auto_back_booster">Stop boosting</string>
     <string name="support_game_booster_tips">האצת מהירות ושיפור חווית המשחקים</string>
     <string name="setting">הגדרות</string>
     <string name="loading">רק רגע…</string>
@@ -2117,6 +2123,12 @@ Rolled over extra data"</string>
     <string name="game_booster_close">מאיץ מהירות המשחקים כבוי</string>
     <string name="databooster_tips_title">שים לב</string>
     <string name="databooster_tips_message">הפעל על מנת להגביל את כל כרטיסי ה-SIM מלבד כרטיס הנתונים. כבה תכונה זו במידה ומתרחשות שגיאות במשחקים שבחרת.</string>
+    <string name="gb_description_image_button_answer">Answer</string>
+    <string name="gb_description_image_button_video_answer">Video call</string>
+    <string name="gb_description_image_button_reject">Decline</string>
+    <string name="gs_autobooster">Boost automatically</string>
+    <string name="gs_autobooster_detail">Boost speed for selected games automatically</string>
+    <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

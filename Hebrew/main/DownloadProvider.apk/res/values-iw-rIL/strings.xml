@@ -17,7 +17,7 @@
     <string name="permlab_downloadWithoutNotification">הורדת קבצים ללא התראה</string>
     <string name="permdesc_downloadWithoutNotification">מאפשר ליישום להוריד קבצים ללא מתן התראה למשתמש.</string>
     <string name="permlab_accessAllDownloads">גישה לכל ההורדות של המערכת</string>
-    <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app.</string>
+    <string name="permdesc_accessAllDownloads">מאפשר ליישום לצפות ולשנות את כל ההורדות אשר בוצעו על ידי כל יישום שהוא במערכת.</string>
     <string name="download_unknown_title">&lt;ללא שם></string>
     <string name="notification_download_complete">ירד בהצלחה.</string>
     <string name="notification_download_failed">לא ניתן היה להוריד פריטים.</string>
