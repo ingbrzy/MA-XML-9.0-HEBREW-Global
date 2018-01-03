@@ -231,9 +231,7 @@
     <string name="express_booking_txt">הזמנת משלוח אקספרס</string>
     <string name="express_code_txt">קוד:</string>
     <string name="express_complete">התקבל</string>
-    <string name="express_complete_flag">3</string>
     <string name="express_delivery">Delivered</string>
-    <string name="express_delivery_flag">5</string>
     <string name="express_icon_tip">אחזר את פרטי המעקב של משלוח האקספרס באמצעות מספר הטלפון ופרטי ההזמנה שלך.</string>
     <string name="express_icon_tip_link">אבטחה &amp; פרטיות</string>
     <string name="express_install_cainiao_description">%s דורש התקנת יישום Cainiao. להתקין כעת?</string>
@@ -480,7 +478,6 @@
     <string name="payment_total_today_desc">היום</string>
     <string name="payment_unit_cny">CNY</string>
     <string name="personalAssistant_mainpage">דף הבית</string>
-    <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
     <string name="place_label">מקומות פופולריים</string>
     <string name="plan">נקבע</string>
     <string name="preferences">העדפות</string>
@@ -628,7 +625,6 @@
     <string name="steps_vip_des">Count steps without installing third party apps.</string>
     <string name="stock_card_add">הוספת חברות</string>
     <string name="stock_card_title">Stocks</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Color scheme</string>
     <string name="stock_list_empty_text">"You aren't following any companies."</string>
     <string name="stock_search_empty">"Couldn't find results"</string>
