@@ -26,7 +26,6 @@
     <string name="notification_recording_ticker">הטלפון הושתק</string>
     <string name="notification_playback">מנגן…</string>
     <string name="notification_stopped">ההקלטה הופסקה</string>
-    <string name="notification_warning">שטח אחסון בלתי מספיק (פחות מ-%d דקות)</string>
     <string name="record_list">הקלטות</string>
     <string name="record_list_fm">הקלטות FM</string>
     <string name="record_list_call">שיחות מוקלטות</string>
@@ -73,6 +72,7 @@
     <string name="message_file_size_error">ההקלטה הגיעה לאורך המירבי הנתמך על ידי %s</string>
     <string name="pause">הפסקה</string>
     <string name="back">חזרה</string>
+    <string name="menu">תפריט</string>
     <string name="toast_uninstall_fileexplorer">"יישום ה'סייר' אינו מותקן"</string>
     <string name="record_download">הורד מ-Mi Cloud</string>
     <string name="record_download_msg">ניתן לנגן הקלטות לאחר סיום הורדתן בלבד.</string>
@@ -141,10 +141,8 @@
     <string name="recognition_error_downloading">מוריד</string>
     <string name="recognition_status_downloading">מוריד</string>
     <string name="runtime_permission_ungranted">"לא ניתן להשתמש ב'רשמקול' עקב מחסור בהרשאות"</string>
-    <string name="btn_clear_records">מחק הקלטות (%d פריטים)</string>
     <string name="alert_message_clear_records">למחוק את ההקלטות שנבחרו?</string>
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
-    <string name="choose_call_records_count">%d פריטים</string>
     <string name="network_tip_dialog_title">דרוש חיבור לאינטרנט</string>
     <string name="network_tip_dialog_content">"ה'רשמקול' זקוק לחיבור לאינטרנט, וכמו כן לקריאת אנשי הקשר שלך על מנת לעבוד באופן תקין. מסכים?"</string>
     <string name="network_tip_dialog_ok">מסכים</string>

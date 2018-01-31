@@ -20,7 +20,7 @@
     <string name="permdesc_accessAllDownloads">מאפשר ליישום לצפות ולשנות את כל ההורדות אשר בוצעו על ידי כל יישום שהוא במערכת.</string>
     <string name="download_unknown_title">&lt;ללא שם></string>
     <string name="notification_download_complete">ירד בהצלחה.</string>
-    <string name="notification_download_failed">לא ניתן היה להוריד פריטים.</string>
+    <string name="notification_download_failed">לא ניתן היה להוריד את הפריטים.</string>
     <string name="notification_need_wifi_for_size">גודל ההורדה מצריך חיבור לרשת אלחוטית.</string>
     <string name="notification_paused_in_background">ההורדה הושהתה ברקע.</string>
     <string name="wifi_required_title">הקובץ גדול מידי מכדי לרדת באמצעות נתונים סלולריים</string>

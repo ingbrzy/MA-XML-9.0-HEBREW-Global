@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">חשבון Weibo פג תוקף, הוסף את החשבון שוב.</string>
     <string name="sina_token_invalid_warning">חשבון Weibo לא חוקי, הוסף את החשבון שוב.</string>
     <string name="sina_share_fail_content_repeat">שיתפת זאת כבר.</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
     <string name="search_path_notes">יישומי מערכתתקים</string>
     <string name="dlg_move_message">מעביר…</string>
@@ -74,6 +75,7 @@
     <string name="db_downgrade_clear_date_reminder">"מעבר לגרסה אחרת של MIUI מצריך ניקוי של נתוני היישום עבור 'פתקים'. לפני שתעשה זאת, ודא כי גיבית את הפתקים שלך ב-Mi Cloud."</string>
     <string name="db_downgrade_clear_button">נקה את נתוני היישום</string>
     <string name="cloud_service_state_open_reminder">הפעל את הסנכרון עם Mi Cloud על מנת לסנכרן פתקים.</string>
+    <string name="toast_cancel_to_insert_image">לא ניתן היה להוסיף את התמונה.</string>
     <string name="app_name">פתקים</string>
     <string name="app_widget">פתקים</string>
     <string name="widget_havenot_content">"לחץ ליצירת פתק. לחץ והחזק ווידג'ט לשינוי הגודל."</string>
@@ -118,6 +120,7 @@
     <string name="error_unsupport_content">פתק זה מכיל תוכן שאינו נתמך, לחץ כאן לעדכון</string>
     <string name="error_contact_not_exist">איש הקשר אינו קיים</string>
     <string name="sync_tips">לחץ לסנכרון פתקים עם Mi Cloud</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">גודל גופן</string>
     <string name="call_folder_name">הערות לשיחות</string>
     <string name="trash_folder_name">אשפה</string>
@@ -195,6 +198,6 @@
     <string name="cancel_alarm_description">ביטול שעון מעורר</string>
     <string name="edit_header_done_description">בוצע</string>
     <string name="refuse_to_share_as_pic_because_of_content">פתק זה גדול מידי מכדי שתוכל לשתפו.</string>
-    <string name="refuse_to_share_as_pic_because_of_loading">המתן עד לטעינת הפתק ונסה שוב.</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">המתן עד לטעינת הפתק ונסה שוב.</string>
     <string name="toast_reach_text_limit_checkbox">לא ניתן להוסיף תיבת סימון משום שהפתק ארוך מידי</string>
 </resources>

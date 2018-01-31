@@ -36,8 +36,8 @@
     <string name="dlg_clear_current_call">להסיר את כל השיחות החסומות ממספר זה?</string>
     <string name="dlg_clear_all_ok">הסר הכל</string>
     <string name="dlg_clear_current_ok">הסרה</string>
-    <string name="dlg_no_block">"Unblock this phone number ?
-It will be added to exceptions, but previously blocked items won't appear in call history."</string>
+    <string name="dlg_no_block">"לבטל את חסימת מספר זה?
+הוא יתווסף לרשימת החריגים, אך פריטים אשר נחסמו בעבר לא יופיעו ביומן השיחות."</string>
     <string name="dlg_no_block_ok">בטל חסימה</string>
     <string name="dlg_add_blacklist_title">הוספה לרשימת החסומים</string>
     <string name="dlg_add_blacklist">לחסום מספר זה?</string>
@@ -63,14 +63,14 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="dlg_antispam_mode_delete_message">אין באפשרותך לשחזר חוקים לאחר מחיקתם.</string>
     <string name="dlg_antispam_using_mode_delete_message">"למחוק את החוקים הנוכחיים ולחזור לשימוש בחוקי ברירת המחדל של 'רשימת החסומים'?"</string>
     <string name="dlg_antispam_using_mode_international_delete_message">"למחוק את החוקים הנוכחיים ולחזור לשימוש בחוקי ברירת המחדל של 'רשימת החסומים'?"</string>
-    <string name="back_sound_success">Success!</string>
-    <string name="back_sound_fail">Failed！</string>
-    <string name="back_sound_support">"The current network operators doesn't support it！"</string>
-    <string name="back_sound_data">It requires cellular mobile network, please retry!</string>
-    <string name="dlg_move_to_white">Add to exceptions</string>
-    <string name="dlg_add_white">"New calls and messages from the numbers added to exceptions will be shown in call history and Messaging inbox. However, previously blocked items won't appear there. Add selected numbers to exceptions?"</string>
-    <string name="dlg_not_block_sms">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in Messaging inbox."</string>
-    <string name="dlg_not_block_call">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in call history."</string>
+    <string name="back_sound_success">הוגדר בהצלחה</string>
+    <string name="back_sound_fail">לא ניתן היה להגדיר. הגדרות ספק הרשת שונו. הגדר את כרטיס ה-SIM הנוכחי ככרטיס נתונים, התחבר לרשת ונסה שוב.</string>
+    <string name="back_sound_support">הרשת של הספק שלך אינה תומכת בהגדרה זו.</string>
+    <string name="back_sound_data">הפעל את חיבור הנתונים הסלולרי ונסה שוב.</string>
+    <string name="dlg_move_to_white">הוספה לרשימת החריגים</string>
+    <string name="dlg_add_white">שיחות והודעות חדשות מהמספרים אשר נוספו לרשימת החריגים יוצגו ביומן השיחות ותיבת ההודעות הנכנסות. עם זאת, פריטים אשר נחסמו בעבר לא יוצגו. להוסיף את המספרים שנבחרו לרשימת החריגים?</string>
+    <string name="dlg_not_block_sms">לבטל את חסימת המספרים שנבחרו? הם יתווספו לרשימת החריגים, אך פריטים אשר נחסמו בעבר לא יוצגו בתיבת ההודעות הנכנסות.</string>
+    <string name="dlg_not_block_call">לבטל את חסימת המספרים שנבחרו? הם יתווספו לרשימת החריגים, אך פריטים אשר נחסמו בעבר לא יוצגו ביומן השיחות.</string>
     <string name="menu_call">חיוג</string>
     <string name="menu_sms">שליחת הודעה</string>
     <string name="menu_bl_call_log">צפיה בשיחות שנחסמו</string>
@@ -80,9 +80,10 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="menu_add">הוספה</string>
     <string name="menu_edit">עריכה</string>
     <string name="menu_remove">מחיקה</string>
+    <string name="menu_white">מלבד</string>
     <string name="st_settings_name">"הגדרות 'רשימת החסומים'"</string>
     <string name="st_filter_keywords_setting_summary1">הודעות ממספרים חסויים המכילות מילים מרשימה זו יחסמו.</string>
-    <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
+    <string name="st_filter_keywords_setting_summary3">קבלת הודעות ממספרים חסויים המכילות מילים מרשימה זו תתאפשר.</string>
     <string name="st_filter_keywords_setting_summary2">"
 (השתמש בפיסוק על מנת להפריד בין מילות המפתח השונות)"</string>
     <string name="label_callwait">התראת שיחה ממתינה</string>
@@ -169,12 +170,13 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="st_sub_title_customize_mode_name">שם</string>
     <string name="read_all_sms">קרא הכל</string>
     <string name="loding">טוען נתונים</string>
-    <string name="action_source_sms_title">מסרונים שנחסמו</string>
+    <string name="action_source_sms_title">הודעות חסומות</string>
+    <string name="action_source_call_title">שיחות חסומות</string>
     <string name="st_title_open_antispam">רשימת החסומים</string>
     <string name="st_title_antispam_mode">חוקים</string>
     <string name="st_sub_title_whiteblack_list_group">רשימת החסומים</string>
-    <string name="st_title_keywords_blacklist">Keyword blacklist</string>
-    <string name="st_title_keywords_whitelist">Keyword whitelist</string>
+    <string name="st_title_keywords_blacklist">רשימת מילות מפתח חסומות</string>
+    <string name="st_title_keywords_whitelist">רשימת מילות מפתח חריגות</string>
     <string name="st_title_blacklist_numbers">מספרים שנחסמו</string>
     <string name="st_title_whitelist_numbers">חריגים</string>
     <string name="st_title_backsound_group">"הודעת 'לא זמין'"</string>
@@ -280,9 +282,9 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="st_msg_intercept_contacts">חסום מסרונים מאנשי קשר</string>
     <string name="st_msg_stranger_group">חסום מסרונים מזרים</string>
     <string name="st_msg_other_group">אחר</string>
-    <string name="st_msg_keyword_group">Keywords</string>
-    <string name="st_msg_keyword_black">Keyword Blocklist</string>
-    <string name="st_msg_keyword_white">Keyword Exceptions</string>
+    <string name="st_msg_keyword_group">מילות מפתח</string>
+    <string name="st_msg_keyword_black">רשימת מילות מפתח חסומות</string>
+    <string name="st_msg_keyword_white">רשימת מילות מפתח חריגות</string>
     <string name="st_call_settings">רשימת שיחות חסומות</string>
     <string name="st_call_intercept_stranger">חסום שיחות מזרים</string>
     <string name="st_call_intercept_forwarding">חסום שיחות שהופנו</string>
@@ -357,7 +359,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="main_purchase_tips">מבצע</string>
     <string name="main_month_total_used">נוצלו החודש</string>
     <string name="main_daily_package">חבילת נתונים יומית</string>
-    <string name="main_indicator_title">ממתין להפעלה</string>
+    <string name="main_indicator_title">הפעלה</string>
     <string name="main_tobe_added_desc">נתונים סלולריים החל מ-¥0.03/MB</string>
     <string name="main_button_mi_sim_close">הפעלת Mi SIM</string>
     <string name="main_button_mi_sim_open">הצג פרטים</string>
@@ -374,12 +376,13 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="firewall_restrict_android_dialog_content">על מנת לודא כי מכשירך עובד בצורה תקינה, מספר יישומי מערכת של אנדרואיד ימשיכו להתחבר לאינטרנט. יישומים אלה יעשו שימוש ברשת הנתונים הסלולרית שלך ועשויים לגרום לחיובים מינוריים על ידי ספק הרשת שלך.</string>
     <string name="background_restrict_app_dialog_message">"הגבלת יישום זה מלגשת לרשת ברקע עשויה להפוך את ההפעלה התקינה, שליחת ההודעות, הורדת התוכן וכו' של יישום זה לבלתי אפשריים. להגביל בכל זאת?"</string>
     <string name="firewall_allow_network">אפשר</string>
-    <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content. Restrict anyway?</string>
+    <string name="app_bg_restrict_dialog_message">הגבלת החיבור לרשת ברקע עשויה למנוע מהיישום לפעול באופן תקין. לדוגמה, יתכן כי היישום לא יוכל עוד לקבל הודעות או תוכן מעודכן.</string>
     <string name="firewall_network_allow">ליישום %1$s ניתנה ההרשאה להשתמש בחיבור של %2$s</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="firewall_mobile_dialog_message">היישום המותקן לא יוכל להתחבר לאינטרנט באמצעות נתונים סלולריים כאשר מתג זה כבוי.</string>
     <string name="firewall_wifi_dialog_message">היישום המותקן לא יוכל להתחבר לאינטרנט באמצעות רשת אלחוטית כאשר מתג זה כבוי</string>
     <string name="firewall_system_title">שימוש בנתונים על ידי יישומי מערכת</string>
+    <string name="firewall_temp_rule_reason">%2$s הגביל את החיבור לאינטרנט עבור %1$s​</string>
     <string name="usage_sorted_activity_lable">שימוש בנתונים</string>
     <string name="usage_sorted_loading_text">רק רגע…</string>
     <string name="usage_sorted_empty_text">ריק</string>
@@ -402,7 +405,8 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="detail_app_button">פרטי היישום</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
-    <string name="pref_package_traffic_settings">Data plan</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
+    <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
     <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
@@ -410,7 +414,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="pref_title_traffic_speed_state">הצג את מהירות החיבור של הרשת</string>
     <string name="pref_title_declaration">כתב ויתור חשוב</string>
     <string name="pref_new_installed_preconfig_title">הגדרות ברירת מחדל עבור יישומים חדשים</string>
-    <string name="pref_bg_network_title">Background connection</string>
+    <string name="pref_bg_network_title">חיבור רקע</string>
     <string name="pref_mi_sim_settings">הגדרות Mi SIM</string>
     <string name="pref_title_upload_data_usage">דווח על סטטיסטיקות שימוש בנתונים</string>
     <string name="pref_summary_upload_data_usage">"דווח על סטטיסטיקות השימוש שלך בנתונים על מנת לסייע לנו לשפר את MIUI. הדיווח נעשה בהתאם ל'מדיניות הפרטיות' שלנו."</string>
@@ -646,7 +650,7 @@ Rolled over extra data"</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">לאפשר נדידת נתונים סלולריים?</string>
     <string name="title_limit_traffic_per_day">מגבלה יומית לשימוש בנתונים</string>
-    <string name="daily_limit_and_lock_screen">Data usage warning</string>
+    <string name="daily_limit_and_lock_screen">אזהרת שימוש בנתונים</string>
     <string name="pref_title_traffic_limit_number">גודל</string>
     <string name="pref_title_over_traffic_limit_warning">בעת חריגה</string>
     <string name="reach_daily_limit_value_title">הגעת לתקרת מגבלת הנתונים היומית</string>
@@ -661,7 +665,7 @@ Rolled over extra data"</string>
     <string name="lock_screen_warning_switch_title">הצג אזהרות במסך הנעילה</string>
     <string name="lock_screen_warning_switch_summary">הצג אזהרה במסך הנעילה כאשר השימוש בנתונים חורג מכמות מסויימת</string>
     <string name="lock_screen_warning_value">אזהרת שימוש בנתונים</string>
-    <string name="pref_normal_traffic_limit">When data plan is used up</string>
+    <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="traffic_warning_purchase_title">אזהרת שימוש בנתונים סלולריים</string>
     <string name="traffic_purchase_body">לחץ לטעינת יתרתך.</string>
@@ -759,11 +763,13 @@ Rolled over extra data"</string>
 
  "<b>5. ודא כי הנתב שלך מחובר כראוי</b>"
  נסה שימוש בכבל רשת אחר לחיבור הנתב שלך. במידה ואתה חושד כי קיימת בעית חיבור בביתך, פנה לספק שירות האינטרנט שלך."</string>
-    <string name="permission_exception_title">Restricted connection for apps</string>
-    <string name="bg_network_exception_title">Restricted background connection</string>
+    <string name="permission_exception_title">חיבור מוגבל עבור יישומים</string>
+    <string name="bg_network_exception_title">חיבור רקע מוגבל</string>
     <string name="networkchanged_exception_title">החיבור השתנה</string>
     <string name="networkchanged_exception_summary">החיבור לרשת השתנה. בדוק שוב.</string>
     <string name="network_test_speed">בדיקת מהירות הרשת האלחוטית</string>
+    <string name="network_changed_noti_title">Disconnected from Wi-Fi</string>
+    <string name="network_changed_noti_summary">Using mobile data</string>
     <string name="network_speed_for_apps_title">חיבור</string>
     <string name="network_speed_for_apps_total">מהירות חיבור</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">כפה עצירה על יישום זה?</string>
@@ -913,6 +919,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -928,7 +935,8 @@ Rolled over extra data"</string>
     <string name="om_ill_proc_type_radio_title">היישום מתחבר לרשת בתדירות גבוהה וזולל את הסוללה</string>
     <string name="om_ill_proc_type_radio_detail">תיקון בעיות חיבור לרשת</string>
     <string name="om_ill_proc_activity_title">בעיות</string>
-    <string name="power_center_title">אנרגיה</string>
+    <string name="power_center_title">שימוש בסוללה</string>
+    <string name="power_center_back">"חזרה אל 'שימוש בסוללה'"</string>
     <string name="power_center_auto_shutdown">תזמון כיבוי/הפעלה</string>
     <string name="power_center_ontime_boot">זמן הפעלה</string>
     <string name="power_center_time_to_boot">זמן הפעלה</string>
@@ -1248,6 +1256,7 @@ Rolled over extra data"</string>
     <string name="dialog_no_longer_alert">אל תציג שוב</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">התרעת רשת אלחוטית ציבורית</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">הינך מחובר לרשת אלחוטית ציבורית אשר יתכן כי אינה בטוחה. ודא כי התשלום שהינך מבצע הינו מאובטח לפני השלמתו.</string>
+    <string name="sc_warning_updater_not_found">"לא ניתן היה למצוא את יישום ה'עדכונים'."</string>
     <string name="sp_background_risk_dialog_title">שים לב</string>
     <string name="sp_background_risk_dialog_summary">, בדוק ותקן בעיות תשלום.</string>
     <string name="sp_background_risk_type_wifi">רשת אלחוטית זו הינה מסוכנת</string>
@@ -1315,6 +1324,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1468,7 +1478,7 @@ Rolled over extra data"</string>
     <string name="pm_auto_start_by_system">הפעלת יישומים</string>
     <string name="pm_auto_start_by_system_event">אפשר ליישומים הפעלה אוטומטית</string>
     <string name="pm_auto_start_by_other">הפעלה הדדית</string>
-    <string name="pm_auto_start_by_other_app">אפשר לאפליקציות להפעיל יישומים אחרים</string>
+    <string name="pm_auto_start_by_other_app">אפשר ליישומים אחרים להפעיל יישום זה</string>
     <string name="pm_auto_start_proc_is_running">מופעל</string>
     <string name="empty_app">אין יישומים</string>
     <string name="pm_remember_choice">זכור את הבחירה שלי</string>
@@ -1629,7 +1639,7 @@ Rolled over extra data"</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="try_recommended_function">"הגן על מכשירך באמצעות תכונות 'אבטחה' חדשות"</string>
     <string name="activity_title_white_list">רשימת החריגים</string>
-    <string name="uninstall_danagerous_title">הסרת התקנה של יישום זדוני</string>
+    <string name="uninstall_danagerous_title">הסרת התקנה של יישומים זדוניים</string>
     <string name="uninstall_danagerous_desc">\"%s\" עלול להזיק למכשירך</string>
     <string name="uninstall_danagerous_msg">\"%s\" עלול להזיק למכשירך, להאט את ביצועיו או לגרום לאתחולים.</string>
     <string name="still_retain_btn">השאר</string>
@@ -1665,7 +1675,7 @@ Rolled over extra data"</string>
     <string name="preferred_app_entries_music">מוסיקה</string>
     <string name="preferred_app_entries_email">דוא\"ל</string>
     <string name="card_main_applock_title">נועל היישומים</string>
-    <string name="card_main_applock_summary">"הגן על פריטים אישיים באמצעות 'נועל היישומים'"</string>
+    <string name="card_main_applock_summary">הגן על הודעות, תמונות ופריטים אחרים באמצעות סיסמה.</string>
     <string name="card_main_applock_action">הפעל</string>
     <string name="card_main_deepclean_title">ניקוי יסודי</string>
     <string name="card_main_deepclean_summary">מחק קבצים לא חיוניים</string>
@@ -1675,6 +1685,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1695,8 +1706,10 @@ Rolled over extra data"</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_overscroll_tips">האבטחה במיטבה</string>
-    <string name="card_main_gamebooster_title">האצת מהירות משחקים</string>
+    <string name="card_main_gamebooster_title">מאיץ מהירות המשחקים</string>
     <string name="skin_change_close_toast">"השינויים יוחלו בפעם הבאה שתיכנס ל'אבטחה'"</string>
+    <string name="password_type">שינוי סיסמה</string>
+    <string name="password_type_underline"><u>שינוי סיסמה</u></string>
     <string name="Setting_lock">הגדרות</string>
     <string name="more_lock">עוד</string>
     <string name="app_name">נועל היישומים</string>
@@ -1717,7 +1730,11 @@ Rolled over extra data"</string>
     <string name="ac_summaryOff">כבוי, לא נידרשת סיסמה לפתיחת יישומים</string>
     <string name="lockpattern_tutorial_cancel_label">ביטול</string>
     <string name="lockpattern_tutorial_continue_label">הבא</string>
+    <string name="lockpattern_tutorial_continue_label_next">לחץ על \"הבא\"</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">לחץ על \"אישור\"</string>
     <string name="lockpattern_retry_button_text">צייר שוב</string>
+    <string name="numeric_retry_button_text">ביטול</string>
+    <string name="mixed_retry_button_text">ביטול</string>
     <string name="lockpattern_continue_button_text">הבא</string>
     <string name="lockpattern_confirm_button_text">אישור</string>
     <string name="modifypassword">שנה סיסמה</string>
@@ -1740,22 +1757,36 @@ Rolled over extra data"</string>
     <string name="passwordIncorrect">שם משתמש או סיסמה שגויים</string>
     <string name="access_control_app_is_launching">היישום מתחיל</string>
     <string name="access_control_need_to_unlock_nofingerprint">"הזן את סיסמת 'נועל היישומים'"</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">צייר את תבנית ביטול הנעילה שלך על מנת שתוכל להשתמש בטביעת אצבע חדשה</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">הזן סיסמה לפני ביטול הנעילה באמצעות טביעת האצבע</string>
     <string name="access_control_fingerprint_not_identified_msg">לא ניתן היה לקרוא את טביעת האצבע.</string>
     <string name="access_control_need_password">"%s נוסף בהצלחה
 "</string>
     <string name="privacy_mode_dialog_title">מצב אורח</string>
     <string name="lockpattern_settings_help_how_to_record">צייר תבנית</string>
+    <string name="numeric_settings_help_how_to_record">כיצד להגדיר PIN</string>
+    <string name="mixed_settings_help_how_to_record">כיצד להגדיר סיסמה</string>
     <string name="lockpattern_recording_incorrect_too_short">חבר %d נקודות לפחות</string>
+    <string name="numeric_recording_incorrect_too_short">הזן %d ספרות לכל הפחות.</string>
+    <string name="mixed_recording_incorrect_too_short">הזן %d תוים לכל הפחות.</string>
     <string name="lockpattern_recording_intro_header">חבר 4 נקודות לפחות על מנת ליצור תבנית</string>
+    <string name="numeric_recording_intro_header">הזן סיסמה</string>
+    <string name="mixed_recording_intro_header">הזן 4 תוים לכל הפחות</string>
     <string name="lockpattern_pattern_entered_header">התבנית נוספה</string>
+    <string name="numeric_pattern_entered_header">ה-PIN הוגדר בהצלחה</string>
+    <string name="mixed_pattern_entered_header">הסיסמה הוגדרה בהצלחה</string>
     <string name="lockpattern_need_to_confirm">צייר שוב את התבנית לאישור</string>
+    <string name="numeric_need_to_confirm">הזן שוב לאישור</string>
+    <string name="mixed_need_to_confirm">הזן שוב לאישור</string>
     <string name="unlock_pattern_to_bind_fingerprint">הזן סיסמה על מנת להפעיל את טביעת האצבע</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">לא ניתן היה לזהות את טביעת האצבע, נסה שוב.</string>
     <string name="lockpattern_access_need_to_unlock_wrong_pattern">הסיסמה שגויה, נסה שוב.</string>
     <string name="lockpattern_need_to_unlock_wrong">הסיסמאות אינן תואמות, נסה שוב.</string>
     <string name="lockpattern_recording_inprogress">הרם את האצבע כשתסיים</string>
     <string name="lockpattern_pattern_confirmed_header">תבנית פתיחה חדשה</string>
+    <string name="numeric_password_confirmed_header_continue">הוגדר בהצלחה. לחץ על \"הבא\".</string>
+    <string name="numeric_password_confirmed_header_confirm">הוגדר בהצלחה. לחץ לאישור.</string>
+    <string name="mixed_password_confirmed_header_continue">הוגדר בהצלחה. לחץ על \"הבא\".</string>
+    <string name="mixed_password_confirmed_header_confirm">הוגדר בהצלחה. לחץ לאישור.</string>
     <string name="forget_pattern"><u>שכחתי את הסיסמה</u></string>
     <string name="unlock_pattern"><u>תבנית</u></string>
     <string name="modify_password_mode"><u>שינוי סוג הסיסמה</u></string>
@@ -1788,6 +1819,19 @@ Rolled over extra data"</string>
     <string name="applock_close_dialog_title">"לכבות את 'נועל היישומים'?"</string>
     <string name="applock_close_dialog_summary">"היישומים לא יהיו מוגנים יותר וסיסמתך תימחק לאחר שתכבה את 'נועל היישומים'."</string>
     <string name="applock_header_text_less_than_half">קטן מידי. גרור מעט יותר קדימה.</string>
+    <string name="quite_all_string">ביטול</string>
+    <string name="delete_input">מחיקה</string>
+    <string name="input_password_hint_text">הזן סיסמה</string>
+    <string name="wrong_password">סיסמה שגויה</string>
+    <string name="unlock_set_unlock_pattern_title">תבנית</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_password_title">סיסמה</string>
+    <string name="unlock_set_unlock_pattern_summary">חבר 4 נקודות לפחות</string>
+    <string name="unlock_set_unlock_pin_summary">הזן 4 ספרות</string>
+    <string name="unlock_set_unlock_password_summary">שלב תוים שונים</string>
+    <string name="set_pattern_password_name">הגדרת תבנית</string>
+    <string name="set_numeric_password_name">הגדרת PIN</string>
+    <string name="set_mixed_password_name">הגדרת סיסמה</string>
     <string name="wakepath_confirm_start_activity">לאפשר ל- %1$s לפתוח את %2$s?</string>
     <string name="unlike">לא תודה</string>
     <string name="toast_network_eror">לא ניתן להתחבר לרשת</string>
@@ -1906,7 +1950,7 @@ Rolled over extra data"</string>
     <string name="app_manager_app_traffic">"שימוש בנתונים: "</string>
     <string name="app_manager_app_power">"שימוש בסוללה: "</string>
     <string name="app_manager_net_control_title">הגבל שימוש בנתונים</string>
-    <string name="app_manager_net_mobile">נתונים</string>
+    <string name="app_manager_net_mobile">נתונים סלולריים</string>
     <string name="app_manager_net_wifi">רשת אלחוטית</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_manager_disable">אל תאפשר</string>
@@ -1928,7 +1972,7 @@ Rolled over extra data"</string>
     <string name="app_manager_show_all_apps">הצג את כל היישומים</string>
     <string name="app_manager_hide_system_server">הצג שירותי מערכת</string>
     <string name="app_manager_back">חזרה</string>
-    <string name="app_manager_defaults_setting">ברירות מחדל</string>
+    <string name="app_manager_defaults_setting">יישומי ברירת מחדל</string>
     <string name="app_manager_clear_cache">ניקוי מטמון</string>
     <string name="app_manager_reset_app_preferences">איפוס העדפות היישום</string>
     <string name="app_manager_reset_app_preferences_title">לאפס את העדפות היישום?</string>
@@ -1969,11 +2013,13 @@ Rolled over extra data"</string>
     <string name="app_manager_clear_all_data">ניקוי כל הנתונים</string>
     <string name="app_manager_dlg_clear_cache_title">לנקות מטמון?</string>
     <string name="app_manager_support_uninstall">באפשרותך להסיר את התקנת יישומים אלה</string>
-    <string name="app_manager_not_support_uninstall">לא ניתן להסיר את יישומים אלה</string>
+    <string name="app_manager_not_support_uninstall">לא ניתן להסיר יישומים אלה</string>
     <string name="app_manager_comuting_size">מחשב…</string>
-    <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
-    <string name="app_manager_search_prompt">"Couldn't find results? Try showing results from all apps."</string>
-    <string name="app_manager_open_show_all_apps_immediate">Show all results</string>
+    <string name="app_manager_show_all_apps_opened">מציג תוצאות מכל היישומים…</string>
+    <string name="app_manager_search_prompt">לא מצאת דבר? נסה להציג תוצאות מכל היישומים.</string>
+    <string name="app_manager_open_show_all_apps_immediate">הצג את כל התוצאות</string>
+    <string name="app_manager_mobile_slot1">נתונים סלולריים (SIM 1)</string>
+    <string name="app_manager_mobile_slot2">נתונים סלולריים (SIM 2)</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
@@ -1998,7 +2044,7 @@ Rolled over extra data"</string>
     <string name="gs_forbid_autosync">הגבל את הסנכרון ברקע</string>
     <string name="gs_app_back_self_start">חסכון בסוללה</string>
     <string name="gs_only_self_start_for_list">הגבל תהליכי רקע על מנת לחסוך בסוללה לטובת משחקים</string>
-    <string name="gs_game_shortcut">חוית משחקים רציפה יותר</string>
+    <string name="gs_game_shortcut">שפר את חווית המשחקים שלך</string>
     <string name="gs_game_net_priority">עדיפות חיבור</string>
     <string name="gs_game_net_priority_detail">הגבל את מהירות ההורדה על מנת לאפשר רוחב פס מספיק למשחקים</string>
     <string name="gs_performance_mode">מצב ביצועים</string>
@@ -2040,15 +2086,14 @@ Rolled over extra data"</string>
     <string name="intro_improve">האץ את חווית המשחקים שלך ברמת המערכת</string>
     <string name="i_know">הבנתי</string>
     <string name="dialog_text">"צור קיצור דרך ב'מסך הבית' עבור 'מאיץ מהירות המשחקים'"</string>
-    <string name="anim_gamebooster_text">רק רגע…</string>
     <string name="intro_skip">דלג</string>
     <string name="open_game">פתיחה</string>
     <string name="try_game">נסיון</string>
     <string name="more_game">משחקים נוספים</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
-    <string name="gmscore_support_service">Google Services</string>
-    <string name="gmscore_support_remind">Turn this feature on if you experience problems with using Gmail, Google Maps, and other Google apps. It will slightly reduce battery life.</string>
+    <string name="gmscore_support_service">שירותי Google</string>
+    <string name="gmscore_support_remind">הפעל תכונה זו במידה והינך חווה בעיות שימוש ב-Gmail, מפות Google ויישומי Google אחרים. הפעלת תכונה זו תקצר במעט את חיי הסוללה.</string>
     <string name="google_base_app_install_choice">\"%s\" דורש התקנה של מסגרת שירותי Google על מנת לפעול באופן תקין, להוריד ולהתקין אותה?</string>
     <string name="application_item_disable">מוגבל</string>
     <string name="application_item_already_permission">מאופשר</string>
@@ -2066,8 +2111,8 @@ Rolled over extra data"</string>
     <string name="scan_installed_games">בודק משחקים מותקנים…</string>
     <string name="boostering">מאיץ מהירות…</string>
     <string name="booster_suc">הואץ בהצלחה</string>
-    <string name="auto_booster_suc">Boosted successfully</string>
-    <string name="auto_back_booster">Stop boosting</string>
+    <string name="auto_booster_suc">הואץ בהצלחה</string>
+    <string name="auto_back_booster">עצירת ההאצה</string>
     <string name="support_game_booster_tips">האצת מהירות ושיפור חווית המשחקים</string>
     <string name="setting">הגדרות</string>
     <string name="loading">רק רגע…</string>
@@ -2096,7 +2141,7 @@ Rolled over extra data"</string>
     <string name="wifi_optizition_tip">"הפעל את 'מאיץ מהירות הרשת האלחוטית' על מנת להפוך את החיבור לרשת האלחוטית ליציב יותר. יעשה שימוש בכמות קטנה של נתונים סלולריים."</string>
     <string name="wifi_optizition_loading">"מפעיל את 'מאיץ מהירות הרשת' של Xunyou…"</string>
     <string name="free_send_net_booster">האצת מהירות רשת חינמית</string>
-    <string name="free_send_net_booster_tip">"חווית משחקים חלקה עם 'מאיץ מהירות הרשת' החינמי."</string>
+    <string name="free_send_net_booster_tip">חווית משחקים חלקה עם מאיץ מהירות הרשת החינמי.</string>
     <string name="free_send_net_booster_busniess">"קבל את 'מאיץ המהירות של Xunlei' בחינם"</string>
     <string name="free_send_net_booster_busniess_tip">לחץ לקבלה</string>
     <string name="net_booster_overdue_notification">"תהליך 'מאיץ מהירות הרשת' עומד להסתיים"</string>
@@ -2119,12 +2164,16 @@ Rolled over extra data"</string>
     <string name="game_booster_close">מאיץ מהירות המשחקים כבוי</string>
     <string name="databooster_tips_title">שים לב</string>
     <string name="databooster_tips_message">הפעל על מנת להגביל את כל כרטיסי ה-SIM מלבד כרטיס הנתונים. כבה תכונה זו במידה ומתרחשות שגיאות במשחקים שבחרת.</string>
-    <string name="gb_description_image_button_answer">Answer</string>
-    <string name="gb_description_image_button_video_answer">Video call</string>
-    <string name="gb_description_image_button_reject">Decline</string>
-    <string name="gs_autobooster">Boost automatically</string>
-    <string name="gs_autobooster_detail">Boost speed for selected games automatically</string>
-    <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
+    <string name="gb_description_image_button_answer">מענה</string>
+    <string name="gb_description_image_button_video_answer">שיחת וידאו</string>
+    <string name="gb_description_image_button_reject">דחיה</string>
+    <string name="gs_autobooster">האצה אוטומטית</string>
+    <string name="gs_autobooster_detail">האץ מהירות עבור משחקים נבחרים באופן אוטומטי</string>
+    <string name="gs_autobooster_dialog_message">במידה והינך עושה שימוש במאיץ של Xunyou, עליך לפתוח משחקים דרך העמוד המיועד לכך.</string>
+    <string name="accessibility_gameboosterservice_description">השתקת ההודעות הנכנסות של WeChat במהלך שימוש במשחקים</string>
+    <string name="gb_cutoff">|</string>
+    <string name="gb_ad_game_size">MB</string>
+    <string name="gb_new_feature">תכונה חדשה</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

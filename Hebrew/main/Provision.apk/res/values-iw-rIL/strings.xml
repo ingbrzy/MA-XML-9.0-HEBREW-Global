@@ -2,6 +2,7 @@
 <resources>
     <string name="welcome">ברוכים הבאים</string>
     <string name="app_name">אספקה</string>
+    <string name="system_navigation_mode">מצב ניווט המערכת</string>
     <string name="input_method_setting">בחר מקלדת</string>
     <string name="input_method_category">בחר את מקלדת ברירת המחדל אשר תשמש אותך לכתיבת הודעות, פתקים, וכל דבר אחר. שים לב כי תוכל להתקין מקלדות צד שלישי מאוחר יותר.</string>
     <string name="provision_inputmethod_policy_description">"
@@ -13,6 +14,7 @@
     <string name="sim_card_detecting_title">חפש כרטיס SIM</string>
     <string name="sim_card_detection_info">על מנת להכניס את כרטיס ה-SIM שלך, קרא את ההוראות שהגיעו יחד עם מכשירך.</string>
     <string name="sim_card_detecting">מחפש כרטיס SIM…</string>
+    <string name="sim_card_detecting_check">לא ניתן היה למצוא את כרטיס ה-SIM. ודא כי כרטיס ה-SIM מותקן כראוי וכי יתרתך מספקת.</string>
     <string name="other_settings">הגדרות נוספות</string>
     <string name="other_settings_location">מיקום</string>
     <string name="other_settings_location_summary">אפשר ליישומים לגשת למיקומך.</string>
@@ -28,6 +30,7 @@
     <string name="sim_dectection_next">המשך</string>
     <string name="shut_down">כיבוי</string>
     <string name="sim_redetection">בדוק שוב</string>
+    <string name="navigation_picker_gesture_guide">מדריך המחוות</string>
     <string name="congratulation_title">ההתקנה הושלמה</string>
     <string name="congratulation_label">אתה מוכן לצאת לדרך!</string>
     <string name="pref_title_voice_slot">כרטיס ה-SIM המועדף לשיחות</string>
@@ -38,7 +41,10 @@
     <string name="terms_of_use">תנאי השימוש</string>
     <string name="terms_of_use_label">"הפרטיות שלך חשובה לנו מאוד. קרא את 'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ואילו אפשרויות עומדות בפניך.
 
-עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', 'מסך הבית', מרכז המשחקים, רכיבי המערכת MAB ו-MSA, יישומי רשת, כרטיסים מהירים, סטטיסטיקות, כרטיסים חכמים, Mi Link ורכיבי חשבון Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
+עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', 'מסך הבית', מרכז המשחקים, רכיבי המערכת MAB, MIUI Daemon ו-MSA, יישומי רשת, App vault, סטטיסטיקות, כרטיסים חכמים, Mi Link ורכיבי חשבון Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
+    <string name="terms_of_use_label_gms">"הפרטיות שלך חשובה לנו מאוד. קרא את 'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ואילו אפשרויות עומדות בפניך.
+
+עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', 'מסך הבית', מרכז המשחקים, רכיבי המערכת MAB, MIUI Daemon ו-MSA, יישומי רשת, App vault, סטטיסטיקות, כרטיסים חכמים, רכיבי Mi Link, חשבון Mi ושירותי Google Play יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
     <string name="user_agreement">תנאי השירות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="application_permissions">הרשאות של יישומים</string>
@@ -63,6 +69,9 @@
     <string name="content_description_complete">הסתיים</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>
     <string name="language_settings">בחירת שפה</string>
+    <string name="navigation_picker_radio_text_full_screen">מצב מסך מלא</string>
+    <string name="navigation_picker_radio_text_virtual_key">מצב מפתח וירטואלי</string>
+    <string name="congratulation_swipe">החלק מעלה על מנת להיכנס למערכת</string>
     <string name="enable_accessibility_dialog_message">"הפעלת את TalkBack על ידי לחיצה על המסך באמצעות 2 אצבעות למשך יותר מ-10 שניות. TalkBack מספק מחוות קוליות עבור בעלי לקויות ראיה. במידה והפעלת אותו בשוגג, לחץ על 'ביטול', ואז הקש הקשה כפולה על המסך."</string>
     <string name="enable_accessibility_dialog_positive_btn">אישור</string>
     <string name="enable_accessibility_dialog_negative_btn">ביטול</string>
@@ -71,4 +80,6 @@
     <string name="enable_accessibility_canceled">הנגישות מבוטלת.</string>
     <string name="accessibility_enabled">הנגישות מאופשרת.</string>
     <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
+    <string name="voice_assist_title">הער באמצעות קול</string>
+    <string name="voice_assist_desp">אמור \"Mi AI\" אל תוך מיקרופון הטלפון שלך. Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר.</string>
 </resources>

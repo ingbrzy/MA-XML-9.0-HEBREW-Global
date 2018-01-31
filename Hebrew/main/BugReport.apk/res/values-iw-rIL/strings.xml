@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -178,7 +179,7 @@
     <string name="bugreport_dialog_not_show_again">אל תציג שוב</string>
     <string name="bugreport_dialog_submit_content">המשוב שלך עשוי להכיל מידע אישי ונתוני מיקום.</string>
     <string name="bugreport_dump_start_notification_title">יוצר דו\"ח שגיאה…</string>
-    <string name="bugreport_dump_start_notification_summary">יארך מספר דקות.</string>
+    <string name="bugreport_dump_start_notification_summary">זה עשוי לארוך מספר דקות.</string>
     <string name="bugreport_dump_complete_notification_title">דו\"ח שגיאה נוצר</string>
     <string name="bugreport_dump_complete_notification_summary">לחץ להצגה.</string>
     <string name="plus_one_submit_dialog_content">המשוב שלך, יחד עם יומני השגיאה, ישלח לשרתי Mi.</string>

@@ -17,6 +17,14 @@
     <string name="agree_to_turn_on">מסכים</string>
     <string name="all_services">הכל</string>
     <string name="allow">אפשר</string>
+    <string name="antispam_curr_version">גרסה נוכחית: %d</string>
+    <string name="antispam_data_downloading">"מוריד את פרטי 'מזהה המתקשר'. ההורדה עשויה לארוך כ-3 עד 5 שניות."</string>
+    <string name="antispam_data_downloading_error">לא ניתן היה להתחבר לרשת</string>
+    <string name="antispam_local_newest">הגרסה הנוכחית הינה עדכנית.</string>
+    <string name="antispam_network_remind_summary">להוריד עדכונים באמצעות חיבור נתונים סלולריים?</string>
+    <string name="antispam_network_remind_title">אזהרת שימוש בנתונים</string>
+    <string name="antispam_pull_newest">עודכן לגרסה %d בהצלחה</string>
+    <string name="antispam_update_version">בדוק זמינות עדכונים</string>
     <string name="app_label">דפי זהב</string>
     <string name="app_recommendation_install">התקנה</string>
     <string name="average_price">%d יואן (RMB) בממוצע</string>
@@ -190,6 +198,7 @@
     <string name="quick_yellow_page_tab_phones">טלפון</string>
     <string name="recharge_actual_price">מחיר:</string>
     <string name="recharge_charge_range">מחיר: RMB %1$s-%2$s</string>
+    <string name="recharge_charge_value">מחיר: RMB %s</string>
     <string name="recharge_follow_name">Top up</string>
     <string name="recharge_history">היסטורית Top-up</string>
     <string name="recharge_history_empty">ריק</string>
@@ -233,6 +242,7 @@
     <string name="sending_shortcut">שולח…</string>
     <string name="service_unavailiable">השירות אינו זמין</string>
     <string name="share">שיתוף</string>
+    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">מזהה מתקשר</string>
     <string name="toast_finish_delete_call_log">יומן השיחות נמחק</string>
     <string name="toast_text_copied">הטקסט הועתק</string>

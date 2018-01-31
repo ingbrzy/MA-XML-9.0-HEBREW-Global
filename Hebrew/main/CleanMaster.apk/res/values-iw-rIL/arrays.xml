@@ -12,12 +12,6 @@
         <item>בשימוש שכיח</item>
         <item>גודל</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>כל יום</item>
-        <item>כל 3 ימים</item>
-        <item>כל 7 ימים</item>
-        <item>כל 15 ימים</item>
-    </string-array>
     <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>

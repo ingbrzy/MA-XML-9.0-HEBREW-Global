@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="announce_for_drag">
+        <item quantity="other">גורר %1$d פריטים</item>
+        <item quantity="one">גורר פריט %1$d</item>
+        <item quantity="two">גורר %1$d פריטים</item>
+        <item quantity="many">גורר %1$d פריטים</item>
+    </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">למחוק %1$d טפטים?</item>
         <item quantity="one">למחוק טפט %1$d?</item>

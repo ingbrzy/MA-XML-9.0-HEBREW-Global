@@ -65,6 +65,13 @@
 "</string>
     <string name="pause_prompt_yes">כן</string>
     <string name="pause_prompt_no">לא</string>
+    <string name="no_vm_number">חסר מספר של דואר קולי</string>
+    <string name="no_vm_number_msg">‏בכרטיס ה-SIM לא מאוחסן מספר של דואר קולי.</string>
+    <string name="add_vm_number_str">הוסף מספר</string>
+    <string name="alert_dialog_yes">כן</string>
+    <string name="alert_dialog_no">לא</string>
+    <string name="alert_dialog_dismiss">סגור</string>
+    <string name="contactPhoto">תמונה של איש קשר</string>
     <string name="phoneAppLabel">טלפון</string>
     <string name="onHold">בהמתנה</string>
     <string name="confCall">שיחת ועידה</string>
@@ -77,9 +84,6 @@
 "</string>
     <string name="send_button">שלח</string>
     <string name="wild_prompt_str">החלף את התו הכללי ב</string>
-    <string name="no_vm_number">חסר מספר של דואר קולי</string>
-    <string name="no_vm_number_msg">‏בכרטיס ה-SIM לא מאוחסן מספר של דואר קולי.</string>
-    <string name="add_vm_number_str">הוסף מספר</string>
     <string name="puk_unlocked">‏בוטלה החסימה של כרטיס SIM. מבטל את חסימת הטלפון...</string>
     <string name="label_ndp">‏PIN לביטול נעילה של רשת SIM</string>
     <string name="sim_ndp_unlock_text">בטל נעילה</string>
@@ -436,15 +440,11 @@
     <string name="phone_in_ecm_call_notification_text">חיבור נתונים מושבת</string>
     <string name="alert_dialog_in_ecm_call">הפעולה שנבחרה אינה זמינה במהלך שיחת חירום.</string>
     <string name="progress_dialog_exiting_ecm">יציאה ממצב התקשרות חזרה בחירום</string>
-    <string name="alert_dialog_yes">כן</string>
-    <string name="alert_dialog_no">לא</string>
-    <string name="alert_dialog_dismiss">סגור</string>
     <string name="voicemail_provider">שירות</string>
     <string name="voicemail_settings">הגדרות</string>
     <string name="voicemail_number_not_set">‏&lt;לא הוגדר></string>
     <string name="other_settings">הגדרות שיחה אחרות</string>
     <string name="calling_via_template">שיחה באמצעות %s</string>
-    <string name="contactPhoto">תמונה של איש קשר</string>
     <string name="goPrivate">עבור לשיחה פרטית</string>
     <string name="selectContact">בחר איש קשר</string>
     <string name="sip_settings">הגדרות שיחת אינטרנט</string>

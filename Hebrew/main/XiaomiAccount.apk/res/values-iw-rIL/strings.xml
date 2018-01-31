@@ -10,7 +10,7 @@
     <string name="passport_skip_login">דלג</string>
     <string name="passport_skip_setup_account_title">דלג על ההתקנה</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
-    <string name="passport_confirm_login">Continue</string>
+    <string name="passport_confirm_login">המשך</string>
     <string name="passport_find_password_on_web_msg">בקר ב- account.mi.com על מנת לאפס את סיסמתך.</string>
     <string name="passport_title_reg">צור חשבון</string>
     <string name="passport_reg_prompt">אין לך חשבון Mi? צור אחד בחינם.</string>
@@ -168,7 +168,7 @@
     <string name="passport_barcode_add_account_prompt">על מנת לחבר חשבון, סרוק שוב את קוד ה-QR לאחר הכניסה.</string>
     <string name="passport_quick_register_notice"><u>אין לך חשבון Mi? צור אחד.</u></string>
     <string name="passport_password_phone_login">היכנס באמצעות חשבון Mi</string>
-    <string name="passport_sms_verification_code_login">SMS verification code login</string>
+    <string name="passport_sms_verification_code_login">היכנס באמצעות מסרון</string>
     <string name="passport_login_other_account">חשבון אחר</string>
     <string name="passport_reg_new_account">צור חשבון</string>
     <string name="passport_select_the_login_account">בחר את החשבון אליו ברצונך להיכנס</string>
@@ -244,9 +244,9 @@
     <string name="access_token_expired_warning">פג תוקף חשבון Weibo</string>
     <string name="access_token_invalid_warning">חשבון Weibo לא חוקי</string>
     <string name="service_error">שגיאת שירות</string>
-    <string name="account_user_base_info">מידע אישי</string>
+    <string name="account_user_base_info">פרטים אישיים</string>
     <string name="account_user_name">שם</string>
-    <string name="account_user_id">מזהה חשבון MI</string>
+    <string name="account_user_id">מזהה חשבון Mi</string>
     <string name="account_none">אין</string>
     <string name="account_no_set">אין</string>
     <string name="account_has_been_set">שנה</string>
@@ -328,7 +328,7 @@
     <string name="get_back_pwd">איפוס סיסמה</string>
     <string name="identity">זיהוי</string>
     <string name="set_success">שונה בהצלחה</string>
-    <string name="account_user_details">מידע אישי</string>
+    <string name="account_user_details">פרטים אישיים</string>
     <string name="account_security">אבטחת החשבון</string>
     <string name="account_mibi_center">נקודות Mi</string>
     <string name="account_mipay_info">Mi Pay</string>

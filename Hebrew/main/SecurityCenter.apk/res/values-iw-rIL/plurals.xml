@@ -6,6 +6,12 @@
         <item quantity="two">%1$d שיחות מאת %2$s ואחרים</item>
         <item quantity="many">%1$d שיחות מאת %2$s ואחרים</item>
     </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d שיחות מאת %2$s ואחרים</item>
+        <item quantity="one">שיחה %1$d מאת %2$s</item>
+        <item quantity="two">%1$d שיחות מאת %2$s ואחרים</item>
+        <item quantity="many">%1$d שיחות מאת %2$s ואחרים</item>
+    </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d הודעות</item>
         <item quantity="one">הודעה %d</item>
@@ -49,16 +55,16 @@
         <item quantity="many">%d יישומים</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d apps can connect to the network in the background</item>
-        <item quantity="one">%d app can connect to the network in the background</item>
-        <item quantity="two">%d apps can connect to the network in the background</item>
-        <item quantity="many">%d apps can connect to the network in the background</item>
+        <item quantity="other">%d יישומים יכולים להתחבר לרשת ברקע</item>
+        <item quantity="one">יישום %d יכול להתחבר לרשת ברקע</item>
+        <item quantity="two">%d יישומים יכולים להתחבר לרשת ברקע</item>
+        <item quantity="many">%d יישומים יכולים להתחבר לרשת ברקע</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d apps can't connect to the network in the background"</item>
-        <item quantity="one">"%d app can't connect to the network in the background"</item>
-        <item quantity="two">"%d apps can't connect to the network in the background"</item>
-        <item quantity="many">"%d apps can't connect to the network in the background"</item>
+        <item quantity="other">%d יישומים אינם יכולים להתחבר לרשת ברקע</item>
+        <item quantity="one">יישום %d אינו יכול להתחבר לרשת ברקע</item>
+        <item quantity="two">%d יישומים אינם יכולים להתחבר לרשת ברקע</item>
+        <item quantity="many">%d יישומים אינם יכולים להתחבר לרשת ברקע</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">השתמשת כבר ב-%s מגבלות נתונים יומיות.</item>
@@ -105,10 +111,10 @@
         <item quantity="many">נמצאו %d יישומים</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Network access is restricted for &lt;font color='#ff0000'>%d:&lt;/font> apps"</item>
-        <item quantity="one">"Network access is restricted for &lt;font color='#ff0000'>%d&lt;/font> app"</item>
-        <item quantity="two">"Network access is restricted for &lt;font color='#ff0000'>%d:&lt;/font> apps"</item>
-        <item quantity="many">"Network access is restricted for &lt;font color='#ff0000'>%d:&lt;/font> apps"</item>
+        <item quantity="other">"הגישה לרשת מוגבלת עבור &lt;font color='#ff0000'>%d&lt;/font> יישומים"</item>
+        <item quantity="one">"הגישה לרשת מוגבלת עבור יישום &lt;font color='#ff0000'>%d&lt;/font>"</item>
+        <item quantity="two">"הגישה לרשת מוגבלת עבור &lt;font color='#ff0000'>%d&lt;/font> יישומים"</item>
+        <item quantity="many">"הגישה לרשת מוגבלת עבור &lt;font color='#ff0000'>%d&lt;/font> יישומים"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">%d יישומים אינם עובדים באופן תקין וזוללים את הסוללה</item>
@@ -175,6 +181,18 @@
         <item quantity="one">הורד על ידי אדם %1$d</item>
         <item quantity="two">הורד על ידי %1$d אנשים</item>
         <item quantity="many">הורד על ידי %1$d אנשים</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d אנשים משחקים</item>
+        <item quantity="one">אדם %1$d משחק</item>
+        <item quantity="two">%1$d אנשים משחקים</item>
+        <item quantity="many">%1$d אנשים משחקים</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d אנשים משחקים</item>
+        <item quantity="one">אדם %1$d משחק</item>
+        <item quantity="two">%1$d אנשים משחקים</item>
+        <item quantity="many">%1$d אנשים משחקים</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d צפיות</item>

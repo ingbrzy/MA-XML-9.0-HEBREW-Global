@@ -46,6 +46,13 @@
     <string name="percentDesc">אחוז</string>
     <string name="menuDesc">תפריט</string>
     <string name="settingsDesc">הגדרות</string>
+    <string name="secondFunctionDesc">החלפה לפונקציה השניה</string>
+    <string name="degDesc">זוית</string>
+    <string name="radDesc">רדין</string>
+    <string name="reverceDesc">קשת</string>
+    <string name="switchDesc">החלפה</string>
+    <string name="scannerDesc">סורק</string>
+    <string name="reciprocalDesc">הפכי</string>
     <string name="home_title_calculator">מחשבון</string>
     <string name="item_title_calculator">מחשבון</string>
     <string name="item_title_scientific_calculator">מדעי</string>
@@ -62,6 +69,10 @@
     <string name="item_title_time_conversion">זמן</string>
     <string name="item_title_dress_size">מידת ביגוד</string>
     <string name="item_title_aa_payment">חלוקת חשבון</string>
+    <string name="scanner_had_been_uninstalled">"התקנת ה'סורק' הוסרה"</string>
+    <string name="install_scanner_to_continued_use">"התקנת ה'סורק' הוסרה. להתקין שוב?"</string>
+    <string name="cancel">ביטול</string>
+    <string name="install">התקנה</string>
     <string name="loan_interest_rate">ריבית</string>
     <string name="loan_edittext_hint_commercial">הזן סכום</string>
     <string name="loan_edittext_hint_fund">הזן סכום</string>

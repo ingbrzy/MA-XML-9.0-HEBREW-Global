@@ -12,6 +12,18 @@
         <item quantity="two">%d תמונות ענן נוספו, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגן.</item>
         <item quantity="many">%d תמונות ענן נוספו, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגן.</item>
     </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">לא ניתן להוסיף %2$d פריטים לאלבום. %1$s.</item>
+        <item quantity="one">לא ניתן להוסיף פריט %2$d לאלבום. %1$s.</item>
+        <item quantity="two">לא ניתן להוסיף %2$d פריטים לאלבום. %1$s.</item>
+        <item quantity="many">לא ניתן להוסיף %2$d פריטים לאלבום. %1$s.</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">לא ניתן להוסיף %2$d פריטים לאלבום המוסתר. %1$s.</item>
+        <item quantity="one">לא ניתן להוסיף פריט %2$d לאלבום המוסתר. %1$s.</item>
+        <item quantity="two">לא ניתן להוסיף %2$d פריטים לאלבום המוסתר. %1$s.</item>
+        <item quantity="many">לא ניתן להוסיף %2$d פריטים לאלבום המוסתר. %1$s.</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d ימים</item>
         <item quantity="one">יום %d</item>
@@ -180,6 +192,12 @@
         <item quantity="two">%d תמונות בסה\"כ</item>
         <item quantity="many">%d תמונות בסה\"כ</item>
     </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">מעבד תמונות…</item>
+        <item quantity="one">מעבד תמונה…</item>
+        <item quantity="two">מעבד תמונות…</item>
+        <item quantity="many">מעבד תמונות…</item>
+    </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">דולגו %1$d תמונות שלא ניתן היה להציג.</item>
         <item quantity="one">דולגה תמונה אחת שלא ניתן היה להציג.</item>
@@ -306,6 +324,12 @@
         <item quantity="two">%d תמונות בסה\"כ</item>
         <item quantity="many">%d תמונות בסה\"כ</item>
     </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">לא ניתן להסיר %2$d פריטים מהאלבום המוסתר. %1$s.</item>
+        <item quantity="one">לא ניתן להסיר פריט %2$d מהאלבום המוסתר. %1$s.</item>
+        <item quantity="two">לא ניתן להסיר %2$d פריטים מהאלבום המוסתר. %1$s.</item>
+        <item quantity="many">לא ניתן להסיר %2$d פריטים מהאלבום המוסתר. %1$s.</item>
+    </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d תמונות נוספו אל \"%2$s\" ולמסד הנתונים.</item>
         <item quantity="one">תמונה %1$d נוספה אל \"%2$s\" ולמסד הנתונים.</item>
@@ -329,6 +353,30 @@
         <item quantity="one">תמונה %1$d הוסרה מ-\"%2$s\".</item>
         <item quantity="two">%1$d תמונות הוסרו מ-\"%2$s\".</item>
         <item quantity="many">%1$d תמונות הוסרו מ-\"%2$s\".</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">לא ניתן היה לשתף. עדיין מעבד %d תמונות…</item>
+        <item quantity="one">לא ניתן היה לשתף. עדיין מעבד תמונה %d…</item>
+        <item quantity="two">לא ניתן היה לשתף. עדיין מעבד %d תמונות…</item>
+        <item quantity="many">לא ניתן היה לשתף. עדיין מעבד %d תמונות…</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d תמונות יועלו</item>
+        <item quantity="one">תמונה %d יועלה</item>
+        <item quantity="two">%d תמונות יועלו</item>
+        <item quantity="many">%d תמונות יועלו</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">לא ניתן לייעל %d תמונות. לעצור כעת?</item>
+        <item quantity="one">לא ניתן לייעל תמונה %d. לעצור כעת?</item>
+        <item quantity="two">לא ניתן לייעל %d תמונות. לעצור כעת?</item>
+        <item quantity="many">לא ניתן לייעל %d תמונות. לעצור כעת?</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">נותרו %d תמונות</item>
+        <item quantity="one">נותרה תמונה %d</item>
+        <item quantity="two">נותרו %d תמונות</item>
+        <item quantity="many">נותרו %d תמונות</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d תמונות או סרטונים לא גובו</item>

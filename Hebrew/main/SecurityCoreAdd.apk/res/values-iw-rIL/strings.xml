@@ -255,14 +255,14 @@
     <string name="scanner_fingerprint">סורק טביעת אצבע…</string>
     <string name="scanner_fingerprint_enter_second">"סרוק את טביעת האצבע שנוצרה עבור 'שטח שני'
 על מנת להיכנס ל'שטח שני' מ'מסך הנעילה"</string>
-    <string name="xspace_guide_title">צור יישום משוכפל עבור %s</string>
+    <string name="xspace_guide_title">יצירת יישום משוכפל</string>
     <string name="xspace_guide_des">השתמש בשני חשבונות מבלי להחליף</string>
     <string name="xpsace_guide_button">צור</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
-    <string name="weixin_share">"שיתוף ב'רגעים'"</string>
+    <string name="weixin_share_sign">היכנס ושתף</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">שליחה אל Weibo</string>
     <string name="xspace_qq_title">QQ</string>
@@ -271,6 +271,9 @@
     <string name="xspace_default_app_title">יישום ברירת מחדל</string>
     <string name="xspace_default_app_summary">הגדר יישומי ברירת מחדל עבור תשלומים, שיתוף, מועדפים ועוד.</string>
     <string name="xspace_default_setting_dialog_title">ברירת מחדל</string>
+    <string name="xspace_default_guide_notification_content">לחץ לשינוי</string>
+    <string name="xspace_default_guide_notification_main_title">שימוש ביישום ברירת המחדל</string>
+    <string name="xspace_default_guide_notification_xspace_title">שימוש ביישום המשוכפל</string>
     <string name="space_name_default">שטח העבודה</string>
     <string name="space_des_default">שטח מבודד בעל נתונים מוצפנים</string>
     <string name="create_work_space">צור שטח עבודה</string>

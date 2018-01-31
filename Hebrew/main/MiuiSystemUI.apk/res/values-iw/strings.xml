@@ -355,4 +355,113 @@
     <string name="gps_notification_found_text">מיקום מוגדר על ידי GPS</string>
     <string name="accessibility_clear_all">נקה את כל ההתראות.</string>
     <string name="status_bar_notification_inspect_item_title">פרטי יישום</string>
+    <string name="keyboard_key_button_template">לחצן %1$s</string>
+    <string name="keyboard_key_home">דף הבית</string>
+    <string name="keyboard_key_back">הקודם</string>
+    <string name="keyboard_key_dpad_up">למעלה</string>
+    <string name="keyboard_key_dpad_down">למטה</string>
+    <string name="keyboard_key_dpad_left">שמאלה</string>
+    <string name="keyboard_key_dpad_right">ימינה</string>
+    <string name="keyboard_key_dpad_center">מרכז</string>
+    <string name="keyboard_key_tab">כרטיסייה</string>
+    <string name="keyboard_key_space">רווח</string>
+    <string name="keyboard_key_enter">Enter</string>
+    <string name="keyboard_key_backspace">BACKSPACE</string>
+    <string name="keyboard_key_media_play_pause">הפעל/השהה</string>
+    <string name="keyboard_key_media_stop">עצור</string>
+    <string name="keyboard_key_media_next">הבא</string>
+    <string name="keyboard_key_media_previous">הקודם</string>
+    <string name="keyboard_key_media_rewind">הרץ אחורה</string>
+    <string name="keyboard_key_media_fast_forward">הרץ קדימה</string>
+    <string name="keyboard_key_page_up">דפדוף למעלה</string>
+    <string name="keyboard_key_page_down">דפדוף למטה</string>
+    <string name="keyboard_key_forward_del">מחיקה</string>
+    <string name="keyboard_key_move_home">דף הבית</string>
+    <string name="keyboard_key_move_end">סיום</string>
+    <string name="keyboard_key_insert">הזן</string>
+    <string name="keyboard_key_num_lock">‏מקש Num Lock</string>
+    <string name="keyboard_key_numpad_template">מקלדת נומרית %1$s</string>
+    <string name="keyboard_shortcut_group_system">מערכת</string>
+    <string name="keyboard_shortcut_group_system_home">דף הבית</string>
+    <string name="keyboard_shortcut_group_system_recents">מהזמן האחרון</string>
+    <string name="keyboard_shortcut_group_system_back">הקודם</string>
+    <string name="keyboard_shortcut_group_system_notifications">הודעות</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">מקשי קיצור במקלדת</string>
+    <string name="keyboard_shortcut_group_system_switch_input">החלפת שיטת קלט</string>
+    <string name="keyboard_shortcut_group_applications">אפליקציות</string>
+    <string name="keyboard_shortcut_group_applications_assist">מסייע</string>
+    <string name="keyboard_shortcut_group_applications_browser">דפדפן</string>
+    <string name="keyboard_shortcut_group_applications_contacts">אנשי קשר</string>
+    <string name="keyboard_shortcut_group_applications_email">אימייל</string>
+    <string name="keyboard_shortcut_group_applications_sms">SMS</string>
+    <string name="keyboard_shortcut_group_applications_im">שליחת הודעות מיידיות</string>
+    <string name="keyboard_shortcut_group_applications_music">מוזיקה</string>
+    <string name="keyboard_shortcut_group_applications_youtube">‏YouTube</string>
+    <string name="keyboard_shortcut_group_applications_calendar">יומן</string>
+    <string name="legacy_vpn_name">VPN</string>
+    <string name="monitoring_button_view_policies">הצג מדיניות</string>
+    <string name="monitoring_description_ca_certificate">במכשיר זה מותקנת רשות אישורים. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
+    <string name="monitoring_description_named_management">"המכשיר שלך מנוהל על ידי %1$s.
+
+מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.
+
+למידע נוסף, פנה למנהל המערכת."</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">הארגון שלך התקין רשות אישורים בפרופיל העבודה. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
+    <string name="monitoring_description_management">"המכשיר מנוהל על ידי הארגון שלך.
+
+מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.
+
+למידע נוסף, פנה למנהל המערכת."</string>
+    <string name="monitoring_description_management_ca_certificate">הארגון שלך התקין רשות אישורים במכשיר. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
+    <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_management_network_logging">"מנהל המערכת הפעיל את התכונה 'רישום התנועה ברשת', שמנטרת את תנועת הנתונים במכשיר."</string>
+    <string name="monitoring_description_named_vpn">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_personal_profile_named_vpn">הפרופיל האישי שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_two_named_vpns">אתה מחובר לאפליקציות %1$s ו-%2$s, שיכולות לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
+    <string name="monitoring_description_vpn_settings">‏פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_title">מעקב אחר פעילות ברשת</string>
+    <string name="monitoring_subtitle_ca_certificate">‏אישורי CA</string>
+    <string name="monitoring_subtitle_network_logging">רישום התנועה ברשת</string>
+    <string name="monitoring_subtitle_vpn">VPN</string>
+    <string name="monitoring_title_device_owned">ניהול מכשירים</string>
+    <string name="quick_settings_disclosure_management_monitoring">הארגון שלך מנהל מכשיר זה ועשוי לנטר את התנועה ברשת</string>
+    <string name="quick_settings_disclosure_named_management_monitoring">הארגון %1$s מנהל מכשיר זה ועשוי לנטר את התנועה ברשת</string>
+    <string name="quick_settings_disclosure_management_named_vpn">המכשיר מנוהל על ידי הארגון ומחובר לאפליקציה %1$s</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">המכשיר מנוהל על ידי %1$s ומחובר לאפליקציה %2$s</string>
+    <string name="quick_settings_disclosure_management">המכשיר מנוהל על ידי הארגון שלך</string>
+    <string name="quick_settings_disclosure_named_management">מכשיר זה מנוהל על ידי %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">‏המכשיר מנוהל על ידי הארגון שלך ומחובר לאפליקציות VPN</string>
+    <string name="quick_settings_disclosure_named_management_vpns">‏המכשיר מנוהל על ידי %1$s ומחובר לאפליקציות VPN</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">הארגון שלך יכול לנטר את התנועה ברשת בפרופיל העבודה שלך</string>
+    <string name="quick_settings_disclosure_named_managed_profile_monitoring">הארגון %1$s עשוי לנטר את התנועה ברשת בפרופיל העבודה שלך</string>
+    <string name="quick_settings_disclosure_monitoring">ייתכן שהרשת מנוטרת</string>
+    <string name="quick_settings_disclosure_vpns">‏המכשיר מחובר לאפליקציות VPN</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">פרופיל העבודה מחובר לאפליקציה %1$s</string>
+    <string name="quick_settings_disclosure_personal_profile_named_vpn">הפרופיל האישי מחובר לאפליקציה %1$s</string>
+    <string name="quick_settings_disclosure_named_vpn">המכשיר מחובר לאפליקציה %1$s</string>
+    <string name="monitoring_title_profile_owned">מעקב אחר פרופיל</string>
+    <string name="monitoring_description_do_body_vpn">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_network_logging">"מנהל המערכת הפעיל את תכונת רישום התנועה ברשת, שמנטרת את תנועת הנתונים במכשיר.
+
+למידע נוסף, צור קשר עם מנהל המערכת."</string>
+    <string name="monitoring_description_vpn">"‏נתת לאפליקציה כלשהי הרשאה להגדיר חיבור ‏VPN‏.
+
+האפליקציה הזו יכולה לעקוב אחר הפעילות שלך ברשת ובמכשיר, כולל הודעות אימייל, אפליקציות ואתרים."</string>
+    <string name="monitoring_description_vpn_profile_owned">"‏פרופיל העבודה שלך מנוהל על-ידי %1$s.
+
+ מנהל המערכת שלך יכול לעקוב אחרי הפעילות שלך ברשת, כולל פעילות באימייל, באפליקציות ובאתרים.
+
+ למידע נוסף, צור קשר עם מנהל המערכת.
+
+בנוסף, אתה מחובר ל-VPN, שגם באמצעותו ניתן לעקוב אחרי הפעילות שלך ברשת."</string>
+    <string name="monitoring_description_app">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_app_personal">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת הפרטית, כולל הודעות אימייל, אפליקציות ואתרים.</string>
+    <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על ידי %1$s.</string>
+    <string name="monitoring_description_do_header_with_name">%1$s משתמש באפליקציה %2$s כדי לנהל את מכשירך.</string>
+    <string name="monitoring_description_do_body">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
+    <string name="monitoring_description_do_learn_more">למידע נוסף</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
+    <string name="monitoring_description_ca_cert_settings">פתח את פרטי הכניסה המהימנים</string>
 </resources>
