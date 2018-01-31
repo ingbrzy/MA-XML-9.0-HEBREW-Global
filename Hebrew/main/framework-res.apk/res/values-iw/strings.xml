@@ -35,7 +35,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d ימים</string>
     <string name="durationDayHours">"יום %1$d ‏%2$d שע'"</string>
     <string name="durationDayHour">יום %1$d שעה %2$d</string>
@@ -1327,7 +1326,6 @@
     <string name="zen_mode_alarm">עד %1$s (ההתראה הבאה)</string>
     <string name="zen_mode_forever">עד שתכבה</string>
     <string name="zen_mode_forever_dnd">"עד שתכבה את 'נא לא להפריע'"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="toolbar_collapse_description">כווץ</string>
     <string name="zen_mode_feature_name">נא לא להפריע</string>
     <string name="zen_mode_downtime_feature_name">זמן השבתה</string>
@@ -1353,7 +1351,6 @@
     <string name="floating_toolbar_close_overflow_description">סגור את האפשרויות הנוספות</string>
     <string name="maximize_button_text">הגדל</string>
     <string name="close_button_text">סגור</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="importance_from_user">אתה מגדיר את החשיבות של ההודעות האלה.</string>
     <string name="importance_from_person">ההודעה חשובה בשל האנשים המעורבים.</string>
     <string name="user_creation_account_exists">האם לאפשר ל-%1$s ליצור משתמש חדש לחשבון %2$s ?</string>
