@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">זהירות</string>
     <string name="VideoView_error_text_invalid_progressive_playback">סרטון זה אינו חוקי להעברה כמדיה זורמת למכשיר זה.</string>
     <string name="selectTextMode">בחר טקסט</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">סמל טביעת אצבע</string>
     <string name="month_day_year" formatted="false">%-e ב%B %Y</string>
     <string name="time_of_day" formatted="false">%H:%M:%S</string>

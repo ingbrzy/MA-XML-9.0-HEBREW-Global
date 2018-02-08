@@ -691,7 +691,6 @@
     <string name="privacy_notif_content">לחץ לצפיה בפרטים.</string>
     <string name="privacy_notif_title">מאיץ ההורדות של Xunlei מופעל</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_tip_cancel">ביטול</string>
     <string name="privacy_tip_content">להשתמש במאיץ Xunlei על מנת להאיץ את מהירות ההורדות? קישור להורדה יועלה לשרתי Xunlei. פרטי חשבון Mi שלך יועלו על מנת לבדוק האם אתה כבר מנוי לשירות זה.</string>
     <string name="privacy_tip_ok">אישור</string>
@@ -935,7 +934,6 @@
     <string name="upgrade_to">שדרג ל-</string>
     <string name="upgrade_waringing">תוכל להאזין למוסיקה המאוחסנת על גבי מכשירך בלבד.</string>
     <string name="user_agreement">הסכם המשתמש</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="valid_period">תוקף: %s</string>
     <string name="version_info">גרסה</string>
     <string name="vip_after_tomorrow_auto_renew_message">"מנוי ה'מוסיקה' שלך יחודש באופן אוטומטי מחרתיים בערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
