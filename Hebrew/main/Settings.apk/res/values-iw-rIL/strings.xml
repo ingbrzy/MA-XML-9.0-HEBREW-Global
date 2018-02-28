@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -673,7 +671,6 @@
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
     <string name="dndm_auto_time_turn_on_title">"הפעל אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_off">עד</string>
@@ -2070,7 +2067,6 @@
     <string name="bootloader_locked_answer_1_warning">זכור: לא תוכל להשתמש ב\"איתור המכשיר\" לאחר ביטול נעילת המכשיר.</string>
     <string name="bootloader_locked_question_2">אני מבין את הסיכונים, אך עדיין רוצה לבטל את נעילת המכשיר.</string>
     <string name="bootloader_locked_answer_2">הקש על הלחצן המופיע מטה על מנת לקשר את חשבון Mi שלך עם מכשיר זה, ואז עבור לאתר MIUI על מנת להוריד את עזר ביטול הנעילה ולהתקין אותו על גבי מכשירך:</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bootloader_locked_check_status">הוסף חשבון ומכשיר</string>
     <string name="bootloader_device_bind_already">נוסף בהצלחה. חשבון Mi מקושר למכשיר זה כעת.</string>
     <string name="bootloader_device_bind_no_account">היכנס לחשבון Mi שלך תחילה</string>
@@ -2100,7 +2096,6 @@
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
     <string name="security_encryption_alert_dialog_title_first">הגדר שיטה לנעילת המסך תחילה</string>
     <string name="security_encryption_alert_dialog_info_first">הגדר סיסמה עבור מסך הנעילה על מנת להפעיל תכונה זו. יהיה עליך להזין את סיסמת מסך הנעילה לאחר כל אתחול על מנת לפענח את הצפנת המכשיר ולהשתמש בו באופן תקין.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_1">לא תוכל להשתמש בשעון המעורר כאשר המכשיר כבוי.</string>
     <string name="security_encryption_attention_2">יהיה עליך להזין את סיסמת מסך הנעילה לאחר כל אתחול על מנת לפענח את הצפנת המכשיר. האתחולים יארכו יותר ממשך הזמן הרגיל.</string>
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
@@ -2142,7 +2137,6 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">סטטוס ASDiv:</string>
     <string name="app_factory_reset_dlg_title">להסיר את התקנת העדכונים?</string>
     <string name="app_factory_reset_dlg_text">התקנת כל העדכונים עבור יישום המערכת של אנדרואיד זה תוסר.</string>
