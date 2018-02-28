@@ -20,13 +20,13 @@
     </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">מוריד %d קבצים</item>
-        <item quantity="one">מוריד קובץ 1</item>
+        <item quantity="one">מוריד קובץ %d</item>
         <item quantity="two">מוריד %d קבצים</item>
         <item quantity="many">מוריד %d קבצים</item>
     </plurals>
     <plurals name="notif_summary_waiting">
         <item quantity="other">%d קבצים ממתינים</item>
-        <item quantity="one">קובץ 1 ממתין</item>
+        <item quantity="one">קובץ %d ממתין</item>
         <item quantity="two">%d קבצים ממתינים</item>
         <item quantity="many">%d קבצים ממתינים</item>
     </plurals>

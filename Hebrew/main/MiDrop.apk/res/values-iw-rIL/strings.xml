@@ -11,6 +11,7 @@
     <string name="cancel_lang">ביטול</string>
     <string name="cancel_message">האדם השני לא יקבל את הקבצים במידה ותבטל את ההעברה. לבטל את ההעברה כעת?</string>
     <string name="cancel_stop">המשך לשלוח</string>
+    <string name="cannot_transfer_dir_to_low_version">בקש מהאדם השני לעדכן את Mi Drop</string>
     <string name="category_files">קבצים</string>
     <string name="category_installed_app">יישומים</string>
     <string name="category_music">מוסיקה</string>
@@ -74,7 +75,7 @@
     <string name="info_product">מכשיר:</string>
     <string name="info_system">מערכת:</string>
     <string name="info_system_version">גרסת מערכת:</string>
-    <string name="instruction">הזן כתובת זו אל תוך הדפדפן או מנהל הקבצים במחשב שלך.</string>
+    <string name="instruction">הזן כתובת זו אל תוך מנהל הקבצים במחשב שלך.</string>
     <string name="instruction_pre_pad">התחל לנהל קבצים באמצעות המחשב</string>
     <string name="instruction_pre_phone">התחל לנהל קבצים באמצעות המחשב</string>
     <string name="internal_storage">אחסון פנימי</string>
@@ -92,6 +93,7 @@
 באנדרואיד 6.0 ומעלה עליך להפעיל את שירותי המיקום על מנת לשלוח ולקבל קבצים."</string>
     <string name="location_skip">דלג</string>
     <string name="max_send_file">+99</string>
+    <string name="more">עוד</string>
     <string name="never_remind">אל תציג שוב</string>
     <string name="no_file">ריק</string>
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
@@ -112,6 +114,7 @@
     <string name="popup_window_header_clear_all">ניקוי</string>
     <string name="port_range">מספר ה-port חייב להיות בתחום של 1024-65535</string>
     <string name="prompt_grant_write_settings_permission">אפשר ל-Mi Drop לשנות את הגדרות המערכת.</string>
+    <string name="qr_code">קוד QR</string>
     <string name="receive">קבלה</string>
     <string name="receive_exit_dialog_message">הקבצים לא ישלחו במידה ותבטל את ההעברה. לבטל בכל זאת?</string>
     <string name="receive_exit_dialog_negative_btn">המשך בקבלה</string>
@@ -120,6 +123,7 @@
     <string name="received_files">קבצים שהתקבלו</string>
     <string name="receiver_accept">קבלה</string>
     <string name="receiver_clean">פנה שטח</string>
+    <string name="receiver_file_title">מאת %s</string>
     <string name="receiver_in_progress_summary">המתן עד להשלמת ההעברה הנוכחית, לאחר מכן תוכל לשלוח שוב קבצים.</string>
     <string name="receiver_in_progress_title">מעביר קבצים</string>
     <string name="receiver_insufficient_storage">אין מספיק שטח לאחסון.</string>
@@ -169,16 +173,21 @@
     <string name="settings_feedback">משוב</string>
     <string name="settings_score">דירוג Mi Drop</string>
     <string name="settings_set_name">כינוי</string>
-    <string name="share_desc">שתף את Mi Drop מבלי להשתמש בנתונים סלולריים בכלל</string>
+    <string name="share_ap_step_two">צפה בשלב 2 לאחר שחברך התחבר</string>
+    <string name="share_desc">שתף מבלי להתחבר לאינטרנט</string>
+    <string name="share_first_head_title">שתף עם חברים בקרבת מקום</string>
     <string name="share_mi_drop">שתף את Mi Drop עם החברים שלך</string>
+    <string name="share_second_head_title">דרכים אחרות לשיתוף</string>
+    <string name="share_via_ap">שיתוף באמצעות נקודה חמה ניידת</string>
+    <string name="share_via_qr_code">שיתוף באמצעות קוד QR</string>
     <string name="start_server">התחלה</string>
     <string name="stay_awake_summary">אל תאפשר למסך להחשיך בעת שימוש ב-FTP</string>
     <string name="stay_awake_title">השאר את המסך דולק</string>
-    <string name="step_1">"שלב 1: 
-בקש מהאדם השני להתחבר לרשת האלחוטית."</string>
-    <string name="step_2">"שלב 2: 
-בקש מהאדם השני להזין את הכתובת להלן בדפדפן:"</string>
-    <string name="step_2_scan_code">או לסרוק את קוד ה-QR שלהלן</string>
+    <string name="step_1">שלב 1:</string>
+    <string name="step_1_title">בקש מחברך להתחבר לרשת זו</string>
+    <string name="step_2">שלב 2:</string>
+    <string name="step_2_input_ip_address">או לחילופין בקש מחברך להזין אל תוך שורת הכתובת של הדפדפן שלו:</string>
+    <string name="step_2_scan_code">בקש מחברך לסרוק קוד QR זה</string>
     <string name="stop_server">עצירה</string>
     <string name="stop_transfer">עצירה</string>
     <string name="storage_internal">אחסון פנימי</string>
@@ -208,6 +217,7 @@
     <string name="version">גרסה</string>
     <string name="want_receive">קבלת קבצים</string>
     <string name="want_send">שליחת קבצים</string>
+    <string name="wifi_ap">נקודה חמה ניידת</string>
     <string name="wifi_name">שם רשת אלחוטית:</string>
     <string name="wifi_psw">סיסמה:</string>
     <string name="wifi_state">סטטוס רשת אלחוטית</string>

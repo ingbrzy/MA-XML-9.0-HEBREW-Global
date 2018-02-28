@@ -3,7 +3,7 @@
     <string name="passport_account_label">חשבון Mi</string>
     <string name="passport_notification_title">שגיאת כניסה עבור %1$s</string>
     <string name="passport_login_prompt">חשבון Mi אחד. כל שירותי Mi.</string>
-    <string name="passport_login_using_other_ways"><u>דרכים אחרות לכניסה</u></string>
+    <string name="passport_login_using_other_ways">דרכים אחרות לכניסה</string>
     <string name="passport_login_title">היכנס לחשבון Mi שלך</string>
     <string name="passport_login">היכנס</string>
     <string name="passport_relogin">היכנס שוב</string>
@@ -48,7 +48,7 @@
     <string name="passport_reset_password_title">איפוס סיסמה</string>
     <string name="passport_auto_generate_pwd">צור סיסמה מאובטחת</string>
     <string name="passport_pwd_generate_failure">לא ניתן היה ליצור סיסמה</string>
-    <string name="passport_use_generated_pwd_title">זכור את סיסמתך</string>
+    <string name="passport_use_generated_pwd_title">זכור את סיסמתך!</string>
     <string name="passport_use_generated_pwd_message">הקפד לזכור את הסיסמה שלך. תוכל להשתמש בה לכניסה לשירותי Mi אחרים.</string>
     <string name="passport_register_restricted_title">לא ניתן להשתמש במספר טלפון זה</string>
     <string name="passport_register_restricted">חשבונות רבים מידי קושרו עם מספר זה, נסה אחד אחר</string>
@@ -94,6 +94,7 @@
     <string name="passport_email">כתובת דוא\"ל</string>
     <string name="passport_vcode_prompt_long">הזן קוד אימות</string>
     <string name="passport_input_phone_hint">הזן מספר טלפון</string>
+    <string name="passport_input_voice_captcha_hint">הזן קוד אימות קולי</string>
     <string name="passport_error_empty_username">הזן את מזהה החשבון שלך</string>
     <string name="passport_error_invalid_phone_num">מספר טלפון לא חוקי</string>
     <string name="passport_error_empty_phone_num">הזן מספר טלפון</string>
@@ -218,11 +219,12 @@
     <string name="app_name">חשבון Mi</string>
     <string name="account">חשבון</string>
     <string name="logout_failed">לא ניתן לצאת</string>
+    <string name="turning_off_find_device">"מכבה את 'איתור המכשיר'…"</string>
     <string name="turn_off_find_device_failed_title">"לא ניתן לכבות את 'איתור המכשיר'"</string>
     <string name="no_response_retry">אין תגובה, נסה שוב.</string>
     <string name="removing_account">יוצא…</string>
-    <string name="delete_bank_card_title">מוחק את כרטיס הבנק שלך</string>
-    <string name="delete_bank_card_message">כרטיס הבנק שלך ימחק לאחר יציאתך לאור נסיבות אבטחה</string>
+    <string name="delete_bank_card_title">שים לב</string>
+    <string name="delete_bank_card_message">כרטיסי הבנק וכרטיסי ה-NFC של Mi Pay ימחקו לאחר שתצא.</string>
     <string name="bind_settings">חשבונות</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">חבר חשבון Sina Weibo</string>
@@ -360,13 +362,16 @@
     <string name="device_delete_success_title">יצא</string>
     <string name="device_delete_success_message">במידה ולא נכנסת באמצעות מכשיר זה, שנה סיסמתך באופן מידי.</string>
     <string name="change_password">שנה סיסמה</string>
-    <string name="completed">הכל בסדר</string>
+    <string name="completed">הכל מוכן!</string>
     <string name="no_network_title">לא ניתן להתחבר לרשת.</string>
     <string name="no_network_btn">רענן</string>
     <string name="get_device_list_failed">לא ניתן לקבל רשימת מכשירים</string>
     <string name="delete_device_failed">לא ניתן להסיר את המכשיר</string>
     <string name="empty_device_list_notice">אין מכשירים</string>
     <string name="device_name">שם המכשיר</string>
+    <string name="multi_user_not_show_sync_activity_title">אל תפעיל את הסנכרון עם Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_message_1">"נראה כי הינך משתמש ב'שטח ראשון' של חשבון Mi שלך."</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"במקרה כזה, כל הנתונים יסונכרנו ל'שטח שני' שלך. על מנת להמנע מכך, אל תפעיל את הסנכרון עם Mi Cloud."</string>
     <string name="find_device_access_denied">לא ניתן לקבל סטטוס, הגישה נדחתה</string>
     <string name="find_device_account_error">לא ניתן לקבל סטטוס עקב בעיה בחשבון</string>
     <string name="find_device_null_credential_error">לא ניתן לקבל מידע אודות המכשיר, צור קשר עם שירות הלקוחות של Xiaomi</string>
@@ -382,10 +387,7 @@
     <string name="find_device_operation_failed_error_unknown">אירעה שגיאה, נסה שוב מאוחר יותר</string>
     <string name="find_device_remote_exception">שגיאת RPC</string>
     <string name="io_error_title">אשר את הרשת שלך</string>
-    <string name="login_check_find_device_failed_title">"לא ניתן היה לבדוק את מצב 'איתור המכשיר'"</string>
-    <string name="multi_user_not_show_sync_activity_title">אל תפעיל את הסנכרון עם Mi Cloud</string>
-    <string name="multi_user_not_show_sync_activity_message_1">"נראה כי הינך משתמש ב'שטח ראשון' של חשבון Mi שלך."</string>
-    <string name="multi_user_not_show_sync_activity_message_2">"במקרה כזה, כל הנתונים יסונכרנו ל'שטח שני' שלך. על מנת להמנע מכך, אל תפעיל את הסנכרון עם Mi Cloud."</string>
+    <string name="login_check_find_device_failed_title">לא ניתן היה לבדוק את פרטי אבטחת המכשיר</string>
     <string name="notify_network_restricted_title">חשבון Mi נכשל בהתחברות לרשת</string>
     <string name="notify_network_restricted_content_hidden_state">פעילות הרקע של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
     <string name="notify_network_restricted_content_bg_network">הגישה לרשת של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
@@ -416,9 +418,8 @@
     <string name="unlock_help_notice">"עזרה:
 · במידה ושכחת את סיסמתך, עבור אל id.mi.com על מנת לאפס אותה.
 · אם אינך יכול לבטל את נעילת המכשיר, עבור אל i.mi.com על מנת לכבות את 'איתור המכשיר'.
-· ספק את מספר ביטול נעילה זה לשירות הלקוחות: %s"</string>
-    <string name="find_device_display_id">מספר ביטול נעילה: %s</string>
-    <string name="login_find_device_bind">מכשיר זה מקושר למזהה חשבון Mi קיים (%s). הזן סיסמה על מנת לאמת את המכשיר.</string>
+· מספר ביטול הנעילה שלך: %s"</string>
+    <string name="login_find_device_bind">מכשיר זה מקושר למזהה חשבון Mi קיים (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, מספר הטלפון המקושר: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, כתובת הדואל המקושרת: %s</string>
     <string name="oauth_title">היכנס באמצעות חשבון Mi</string>

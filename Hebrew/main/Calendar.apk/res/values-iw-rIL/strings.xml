@@ -35,10 +35,10 @@
     <string name="does_not_repeat">אירוע חד פעמי</string>
     <string name="edit_event_all_day_label">כל היום</string>
     <string name="edit_event_calendar_label">לוח שנה</string>
-    <string name="edit_event_from_label">מאת</string>
+    <string name="edit_event_from_label">מ:</string>
     <string name="edit_event_label">פרטים</string>
     <string name="edit_event_show_all">הצג הכל</string>
-    <string name="edit_event_to_label">אל</string>
+    <string name="edit_event_to_label">עד</string>
     <string name="email_guests_label">שלח דוא\"ל לאורחים</string>
     <string name="email_picker_label">שלח דוא\"ל באמצעות</string>
     <string name="empty_event">לא ניתן ליצור אירועים ריקים</string>
@@ -105,7 +105,7 @@
     <string name="yearly">שנתי (בכל %s)</string>
     <string name="yearly_plain">שנתי</string>
     <string name="account_and_calendar">חשבונות</string>
-    <string name="action_bar_date_button_title">Calculate date</string>
+    <string name="action_bar_date_button_title">חישוב תאריך</string>
     <string name="action_bar_more_menu_view_description">עוד</string>
     <string name="action_bar_return">חזרה</string>
     <string name="action_text_card_manager">ערוץ</string>
@@ -161,7 +161,7 @@
     <string name="date_calculate_description">גלה מהו התאריך לפני או לאחר יום מסויים</string>
     <string name="date_calculate_direction">כיוון</string>
     <string name="date_calculate_direction_content_description">כיוון נוכחי: %1s.</string>
-    <string name="date_calculate_hint">Learn what date it is after a number days</string>
+    <string name="date_calculate_hint">גלה מה יהיה התאריך בעוד מספר ימים</string>
     <string name="date_calculate_result">תוצאה</string>
     <string name="date_calculate_tab">חשב תאריך</string>
     <string name="date_calculate_today">0 ימים</string>

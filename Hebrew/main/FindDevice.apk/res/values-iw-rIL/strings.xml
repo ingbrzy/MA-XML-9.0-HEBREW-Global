@@ -22,6 +22,7 @@
     <string name="find_device_noise_title">"התרעת 'איתור המכשיר'"</string>
     <string name="find_device_success_title">איתור המכשיר</string>
     <string name="find_device_notice_p1">עבור אל</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"על מנת לאתר, לנעול או לשחזר את הטלפון שלך.
 במידה והחלפת כרטיס SIM, מסרון נוסף ישלח אוטומטית להפעלה של תכונה זו."</string>
     <string name="i_know">אישור</string>
@@ -38,6 +39,7 @@
     <string name="unlock_error_rpc">שגיאת RPC</string>
     <string name="unlock_error_abort">בוטל על ידי המשתמש</string>
     <string name="unlock_error_passport_sdk_timeout">SDK של חשבון Mi אינו מגיב</string>
+    <string name="open_wifi_settings">Open Wi-Fi settings</string>
     <string name="activate_xiaomi_account">הפעל מכשיר זה</string>
     <string name="login_extra_steps">אימות כניסה</string>
     <string name="phone_locked">מכשיר זה עשוי להיות מקושר לחשבון Mi קיים (%s). היכנס על מנת להפעיל מכשיר זה.</string>

@@ -97,6 +97,7 @@
     <string name="call_sim_menu_title_suffix">(עיקרי)</string>
     <string name="call_telex">התקשר לטלקס</string>
     <string name="call_tty_tdd">התקשר ל-TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">התקשר לעבודה</string>
     <string name="call_work_mobile">התקשר לנייד בעבודה</string>
@@ -338,7 +339,7 @@
     <string name="description_minus_button">מינוס</string>
     <string name="description_plus_button">פלוס</string>
     <string name="description_quick_contact_for">חיוג מהיר ל-%1$s</string>
-    <string name="description_quick_dial_button">Quick dial</string>
+    <string name="description_quick_dial_button">חיוג מהיר</string>
     <string name="description_search_button">חיפוש</string>
     <string name="description_send_message">שלח הודעה ל-%1$s</string>
     <string name="description_send_text_message">שלח הודעה ל-%1$s</string>
@@ -390,7 +391,7 @@
     <string name="dialer_empty_text_loading">רק רגע…</string>
     <string name="dialer_empty_text_no_call_log">אין אנשי קשר אחרונים</string>
     <string name="dialer_empty_text_no_search_result">לא נמצאו אנשי קשר</string>
-    <string name="dialer_firewall_entry_name">Blocked call logs</string>
+    <string name="dialer_firewall_entry_name">רישומי שיחות שנחסמו</string>
     <string name="dialer_menu_description">הצג תפריטים</string>
     <string name="dialer_menu_title">אפשרויות תפריט</string>
     <string name="dialer_returnToInCallScreen">חזור לשיחה הפעילה</string>
@@ -483,6 +484,7 @@
     <string name="force_touch_new_contact">איש קשר חדש</string>
     <string name="foundTooManyContacts">יותר מ %d נמצאו.</string>
     <string name="frequentList">שכיח</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="generic_no_account_prompt">שמור את אנשי הקשר שלך בטוחים גם אם תאבד את הטלפון שלך: סנכרן אותם באמצעות שרות מקוון.</string>
@@ -665,6 +667,7 @@
     <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
     <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
     <string name="miprofile_contact_verifying">מאמת</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
     <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -808,7 +811,7 @@
     <string name="path_key_rebuild_t9_index_title">יישומי מערכתנשי קשררגן אנשי קשרנה מחדש נתוני אינדקס</string>
     <string name="path_key_sim_manage">יישומי מערכתנשי קשררגן אנשי קשררטיסי SIM</string>
     <string name="path_preference_contacts_filter">יישומי מערכתנשי קשרעדפות תצוגהרוך רשימות אנשי קשר</string>
-    <string name="path_quick_dial_setting">System apps/Contacts/Quick dial</string>
+    <string name="path_quick_dial_setting">יישומי מערכתלפוןגדרות מתקדמותדור מהיר</string>
     <string name="path_remove_duplicate">יישומי מערכתנשי קשררגן אנשי קשרחד כפילויות של אנשי קשר</string>
     <string name="path_share_visible_contacts">יישומי מערכתנשי קשריבואיצוא אנשי קשרתף אנשי קשר</string>
     <string name="path_sim_capacity">יישומי מערכתנשי קשרחסון כרטיס SIM</string>
@@ -817,6 +820,8 @@
     <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">טלפון</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
@@ -867,6 +872,7 @@
     <string name="preference_contacts_display">העדפות תצוגה</string>
     <string name="preference_contacts_filter">קבע תצורת רשימות אנשי קשר</string>
     <string name="preference_contacts_more">סדר אנשי קשר</string>
+    <string name="preference_contacts_moresetting">More</string>
     <string name="preference_dial_pad_touch_tone_default">ברירת מחדל</string>
     <string name="preference_dial_pad_touch_tone_human">קול אנושי</string>
     <string name="preference_dial_pad_touch_tone_piano">קלידי פסנתר</string>
@@ -874,6 +880,7 @@
     <string name="preference_dial_pad_touch_tone_title">צלילי לוח המקשים</string>
     <string name="preference_display">תצוגה</string>
     <string name="preference_displayOptions">אפשרויות תצוגה</string>
+    <string name="preference_display_contact">Display options</string>
     <string name="preference_export">ייצוא</string>
     <string name="preference_import">ייבוא</string>
     <string name="preference_import_export">ייבוא/ייצוא</string>
@@ -918,12 +925,12 @@
     <string name="pull_to_refresh_release_label">שחרר לרענון</string>
     <string name="qr_card_card">קוד QR</string>
     <string name="qrcode_card_title">קוד QR</string>
-    <string name="quick_dial_setting_delete_dialog_message">Delete assigned quick dial number?</string>
-    <string name="quick_dial_setting_delete_dialog_option_delete">Delete</string>
-    <string name="quick_dial_setting_hint">Tap a button to assign or remove a quick dial number. Press and hold the button with an assigned number to dial.</string>
-    <string name="quick_dial_setting_set_dialog_message">Assign a quick dial number to this button?</string>
-    <string name="quick_dial_setting_set_dialog_option_set">Yes</string>
-    <string name="quick_dial_setting_title">Quick dial</string>
+    <string name="quick_dial_setting_delete_dialog_message">למחוק את מספר החיוג המהיר שהוקצה?</string>
+    <string name="quick_dial_setting_delete_dialog_option_delete">מחיקה</string>
+    <string name="quick_dial_setting_hint">הקש על הלחצן על מנת להקצות או להסיר מספר לחיוג מהיר. לחץ לחיצה ארוכה על לחצן חיוג מהיר על מנת לחייג.</string>
+    <string name="quick_dial_setting_set_dialog_message">להקצות מספר לחיוג מהיר עבור לחצן זה?</string>
+    <string name="quick_dial_setting_set_dialog_option_set">כן</string>
+    <string name="quick_dial_setting_title">חיוג מהיר</string>
     <string name="quickcontact_missing_app">לא נמצא יישום מתאים לביצוע פעולה זו</string>
     <string name="quit_dialog_confirm_message">לא מיזגת אף איש קשר</string>
     <string name="quit_dialog_confirm_title">בטל מיזוג אנשי קשר</string>
@@ -992,7 +999,7 @@
     <string name="search_key_rebuild_t9_index_title">ארגן;אנשי קשר;t9</string>
     <string name="search_key_sim_manage">ארגן;אנשי קשר</string>
     <string name="search_preference_contacts_filter">אנשי קשר;תצוגה</string>
-    <string name="search_quick_dial_setting">Contacts</string>
+    <string name="search_quick_dial_setting">טלפון</string>
     <string name="search_remove_duplicate">ארגן;אנשי קשר</string>
     <string name="search_results_searching">מחפש…</string>
     <string name="search_settings_description">שמות אנשי הקשר שלך</string>
@@ -1057,6 +1064,7 @@
     <string name="sim_unloaded">כרטיס ה-SIM אינו מותקן</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1188,12 +1196,13 @@
     <string name="voip_audio_description">שיחת VoiP</string>
     <string name="voip_video_description">שיחת וידאו VoiP</string>
     <string name="websiteLabelsGroup">אתר</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">נקה נתונים</string>
     <string name="yellowPageNavigationIconLabel">דפי זהב</string>
     <string name="yellowPageNavigationLabel">דפי זהב</string>
     <string name="yellowpage_fc_toast">"לא ניתן להשתמש בתכונה זו משום ש'דפי זהב' קרס."</string>
     <string name="yellowpage_navigation_ad_hint">פרסומת</string>
-    <string name="yellowpage_navigation_balance_refresh_failed">לא ניתן היה לאמת את היתרה והנתונים הסלולריים, נסה שובנסה שוב מאוחר יותר.</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">לא ניתן היה לאמת את היתרה והנתונים הסלולריים, נסה שוב מאוחר יותר.</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">היתרה והנתונים הסלולריים אומתו</string>
     <string name="yellowpage_navigation_clear_search_history">נקה היסטוריה</string>
     <string name="yellowpage_navigation_more_items">עוד</string>

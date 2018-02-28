@@ -13,10 +13,6 @@
     <string name="HIPS_Perm_Location_Desc">לקבל מיקום מדויק (לפי GPS ורשת סלולרית)</string>
     <string name="HIPS_Perm_PhoneID">קבלת מידע אודות ההתקן</string>
     <string name="HIPS_Perm_PhoneID_Desc">לגשת למספר הטלפון, IMEI, ו-IMSI</string>
-    <string name="HIPS_Perm_SMS">כתיבה ומחיקה של מסרוני SMS</string>
-    <string name="HIPS_Perm_SMS_Desc">לכתוב ולמחוק מסרוני SMS</string>
-    <string name="HIPS_Perm_MMS">כתיבה ומחיקה של הודעות מולטימדיה</string>
-    <string name="HIPS_Perm_MMS_Desc">לכתוב ולמחוק הודעות מולטימדיה</string>
     <string name="HIPS_Perm_Contact">שינוי ומחיקה של אנשי קשר</string>
     <string name="HIPS_Perm_Contact_Desc">לשנות ולמחוק אנשי קשר</string>
     <string name="HIPS_Perm_CallLog">כתיבה ומחיקה של יומן השיחות</string>

@@ -49,6 +49,7 @@
     <string name="actionbar_share">שיתוף</string>
     <string name="actionbar_textselection_title">בחירת טקסט</string>
     <string name="actionbar_web_search">חיפוש ברשת</string>
+    <string name="ad_btn_default_text">התקנה</string>
     <string name="adblock_force_updating_rules_toast">"מעדכן את 'חוסם המודעות'"</string>
     <string name="adblock_rules_not_updated_toast">לא ניתן היה לעדכן</string>
     <string name="adblock_rules_restore">ביטול חסימה</string>
@@ -132,6 +133,7 @@
     <string name="browserFrameNetworkErrorLabel">שגיאת חיבור</string>
     <string name="cancel">ביטול</string>
     <string name="cannot_download">ניתן להוריד קישורי \"http\" או \"https\" בלבד</string>
+    <string name="card_setting_close_recommend">קבלת המלצות</string>
     <string name="choosertitle_sharevia">שיתוף באמצעות</string>
     <string name="clear_history">ניקוי היסטוריה</string>
     <string name="clear_most_visited">היסטוריה אחרונה</string>
@@ -166,6 +168,7 @@
     <string name="color_picker_dialog_title">בחירת צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -512,6 +515,10 @@
     <string name="nav_bottom_bar_new_tab">תוית חדשה</string>
     <string name="nav_screen_container_tab_incognito">תוית אנונימית</string>
     <string name="nav_screen_container_tab_normal">תוית רגילה</string>
+    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
+Remember that the files you download and the bookmarks you add will still be saved."</string>
+    <string name="nav_screen_incognito_title">Incongnito mode</string>
+    <string name="navigation_delete_all">swipe left and right to close all tabs</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ביטול</string>
     <string name="navigationbar_rightbutton_actiontext_go">המשך</string>
     <string name="navigationbar_rightbutton_actiontext_search">חיפוש</string>
@@ -561,6 +568,7 @@
     <string name="pref_adblock_title">חוסם המודעות</string>
     <string name="pref_auto_update_under_wifi">עדכן בעת חיבור לרשת אלחוטית</string>
     <string name="pref_automatic_matching_searchengines_title">החלף למנוע החיפוש השכיח</string>
+    <string name="pref_card_setting">ארגון האתרים המובילים</string>
     <string name="pref_category_hint">קטגוריה</string>
     <string name="pref_check_security_url_summary">שלח כתובת אתר זה אל שרתי Mi לצורך בדיקת אבטחה</string>
     <string name="pref_check_security_url_summary_international">"אפשר ל'דפדפן' לגשת אל כתובות ה-URL של האתרים בהם הינך גולש על מנת לקבל המלצות רלוונטיות נוספות."</string>
@@ -587,7 +595,7 @@
     <string name="pref_enable_videos">סרטונים</string>
     <string name="pref_extras_reset_default">שחזור הגדרות ברירת המחדל</string>
     <string name="pref_extras_reset_default_dlg">לשחזר את הגדרות ברירת המחדל?</string>
-    <string name="pref_extras_reset_default_summary">שחזור הגדרות ברירת המחדל</string>
+    <string name="pref_extras_reset_default_summary">שחזור סדר ברירת המחדל</string>
     <string name="pref_extras_reset_default_title">אחר</string>
     <string name="pref_extras_send_feedback">שליחת משוב</string>
     <string name="pref_extras_title">מתקדם</string>
@@ -773,7 +781,7 @@
     <string name="show_security_tip_dialog_title">תנאי השירות</string>
     <string name="show_weather_location_getter_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות ומידע אודות מזג האויר, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
     <string name="sign_in_to" formatted="false">היכנס אל %s1 %s2\"</string>
-    <string name="site_sort_des">בצע ארגון מחדש על ידי גרירת פריטים</string>
+    <string name="site_sort_des">ארגון מחדש של הפריטים</string>
     <string name="skip_button_label">דלג</string>
     <string name="skip_current_version">דלג על גרסה זו</string>
     <string name="snapshot">מקומי</string>

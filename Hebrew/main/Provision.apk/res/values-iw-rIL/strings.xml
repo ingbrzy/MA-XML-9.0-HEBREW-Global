@@ -24,6 +24,8 @@
     <string name="other_settings_upload_debug_log_summary">המידע שאנו אוספים יעזור באיתור וניתוח הבעיות במערכת ועשוי להכיל מידע אישי. לא יעשה שימוש בנתונים על מנת לזהות אותך באופן אישי.</string>
     <string name="other_settings_auto_update">התקנה אוטומטית</string>
     <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הרגע המתאים ביותר להתקנת העדכונים.</string>
+    <string name="other_settings_ad_enable">המלצות מותאמות אישית אודות פרסומות</string>
+    <string name="other_settings_ad_enable_summary">המלצות מותאמות אישית אודות פרסומות על סמך נתוני ההתנהגות שלך</string>
     <string name="back">הקודם</string>
     <string name="next">הבא</string>
     <string name="skip_underline">דלג על שלב זה</string>
@@ -69,8 +71,8 @@
     <string name="content_description_complete">הסתיים</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>
     <string name="language_settings">בחירת שפה</string>
-    <string name="navigation_picker_radio_text_full_screen">מצב מסך מלא</string>
-    <string name="navigation_picker_radio_text_virtual_key">מצב מפתח וירטואלי</string>
+    <string name="navigation_picker_radio_text_full_screen">מחוות מסך מלא</string>
+    <string name="navigation_picker_radio_text_virtual_key">לחצנים</string>
     <string name="congratulation_swipe">החלק מעלה על מנת להיכנס למערכת</string>
     <string name="enable_accessibility_dialog_message">"הפעלת את TalkBack על ידי לחיצה על המסך באמצעות 2 אצבעות למשך יותר מ-10 שניות. TalkBack מספק מחוות קוליות עבור בעלי לקויות ראיה. במידה והפעלת אותו בשוגג, לחץ על 'ביטול', ואז הקש הקשה כפולה על המסך."</string>
     <string name="enable_accessibility_dialog_positive_btn">אישור</string>

@@ -115,4 +115,6 @@
     <string name="phone_get_text">לאפשר ל-%1$s לקבל את מספר הטלפון שלך (%2$s)?</string>
     <string name="phone_get_processing">מקבל…</string>
     <string name="agree">אפשר</string>
+    <string name="privacy_revoke_tips">במידה ותשלול הרשאה זו, לא ניתן יהיה עוד להשתמש בסנכרון המסרונים</string>
+    <string name="privacy_revoke_failed_msg">שלילת פרטיות, לא ניתן לקבל את מספר הטלפון, ההפעלה נכשלה</string>
 </resources>

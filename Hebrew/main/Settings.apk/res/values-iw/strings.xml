@@ -304,6 +304,7 @@
     <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
     <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
     <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="status_bar_notification_info_overflow">‎999+‎</string>
     <string name="abc_capital_on">פועל</string>
     <string name="abc_capital_off">כבוי</string>
     <string name="yes">כן</string>
@@ -580,6 +581,7 @@
     <string name="security_enable_widgets_title">"הפעל יישומי ווידג'ט"</string>
     <string name="security_enable_widgets_disabled_summary">הושבת על ידי מנהל המערכת</string>
     <string name="owner_info_settings_summary">ללא</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Android של יוסי.</string>
     <string name="user_info_settings_title">פרטי משתמש</string>
     <string name="show_profile_info_on_lockscreen_label">הצג פרטי פרופיל במסך הנעילה</string>
@@ -841,6 +843,7 @@
     <string name="wifi_display_options_name">שם</string>
     <string name="wifi_band_24ghz">‎2.4 GHz</string>
     <string name="wifi_band_5ghz">‎5 GHz</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">אפשר החלפת נתונים כאשר הטלפון נוגע במכשיר אחר</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -2110,6 +2113,7 @@
     <string name="gadget_title">בקרת צריכת חשמל</string>
     <string name="gadget_toggle_wifi">‏מעדכן את הגדרת ה-Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">‏מעדכן הגדרת Bluetooth</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">פועל</string>
     <string name="gadget_state_off">כבוי</string>
     <string name="gadget_state_turning_on">מפעיל</string>
@@ -2533,6 +2537,7 @@
     <string name="nfc_payment_no_apps">שלם עם הטלפון בחנויות</string>
     <string name="nfc_payment_default">ברירת המחדל לתשלום</string>
     <string name="nfc_payment_default_not_set">לא מוגדרת</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">השתמש בברירת המחדל</string>
     <string name="nfc_payment_favor_default">תמיד</string>
     <string name="nfc_payment_favor_open">מלבד כשאפליקציית תשלום אחרת פועלת</string>
@@ -2593,6 +2598,7 @@
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">‏כרטיסי SIM</string>
     <string name="sim_settings_title">‏כרטיסי SIM</string>
+    <string name="sim_settings_summary">%1$s ‏- %2$s</string>
     <string name="sim_cards_changed_message">‏כרטיסי SIM השתנו</string>
     <string name="sim_cards_changed_message_summary">הקש כדי להגדיר פעילויות</string>
     <string name="sim_cellular_data_unavailable">נתונים סלולריים אינם זמינים</string>
@@ -2713,6 +2719,7 @@
     <string name="zen_mode_option_important_interruptions">רק הודעות בעדיפות</string>
     <string name="zen_mode_option_alarms">רק התראות</string>
     <string name="zen_mode_option_no_interruptions">שקט מוחלט</string>
+    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">חסום הפרעות חזותיות</string>
     <string name="configure_notification_settings">הגדרת הודעות</string>
     <string name="advanced_section_header">מתקדם</string>
@@ -2806,6 +2813,7 @@
     <string name="zen_mode_schedule_alarm_title">ההתראה יכולה לבטל את שעת הסיום</string>
     <string name="zen_mode_schedule_alarm_summary">עצור בשעת הסיום או בהתראה הבאה, מה שיגיע קודם</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s עד %2$s</string>
     <string name="zen_mode_calls">שיחות</string>
     <string name="zen_mode_messages">הודעות</string>
@@ -2987,6 +2995,8 @@
     <string name="memory_avg_use">ממוצע</string>
     <string name="memory_max_desc">מקסימום %1$s</string>
     <string name="memory_avg_desc">%1$s בממוצע</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
+    <string name="process_format">%1$s (%2$d)</string>
     <string name="high_power_apps">אופטימיזציה של סוללה</string>
     <string name="high_power_filter_on">לא בוצעה אופטימיזציה</string>
     <string name="high_power_on">לא בוצעה אופטימיזציה</string>

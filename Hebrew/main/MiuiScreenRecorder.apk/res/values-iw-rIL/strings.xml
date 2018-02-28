@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">מקליט המסך</string>
-    <string name="app_notification_info">Screen Recorder is working in the background</string>
+    <string name="app_notification_info">"'מקליט המסך' פועל ברקע"</string>
     <string name="app_notification_title">מקליט המסך</string>
     <string name="auto_stop_title">הסרטון נשמר בהצלחה</string>
     <string name="battery_not_allowed" formatted="false">לא ניתן להקליט כאשר טעינת הסוללה נמוכה מ-3%. ודא כי הסוללה טעונה ב-20% לפחות.</string>
@@ -18,7 +18,7 @@
     <string name="date_day" />
     <string name="date_month">/</string>
     <string name="date_year">/</string>
-    <string name="description_content">הקלטת המסך מספקת יכולות הקלטה ברמת המערכת. משמעות פעולה זו הינה שהינך מבטל את תכונת הקלטת המסך. אשר על מנת להמשיך.</string>
+    <string name="description_content">"מקליט המסך מספק יכולות הקלטה ברמת המערכת. לא תוכל להשתמש ב'מקליט המסך' במידה ותמשיך. אשר על מנת להמשיך."</string>
     <string name="description_title">"אודות 'מקליט המסך'"</string>
     <string name="deselect_all">הסר בחירה מהכל</string>
     <string name="error_open_file_failed_no_app_found">לא ניתן היה למצוא יישום לפתיחת קובץ זה</string>
@@ -37,7 +37,7 @@
     <string name="low_battery">טען את הטלפון שלך לפני שתתחיל להקליט</string>
     <string name="low_battery_title">סוללה חלשה</string>
     <string name="low_battery_warning">הסוללה חלשה מידי. ההקלטה נעצרה והסרטון נשמר.</string>
-    <string name="low_memory">You have less than 1GB of available storage. You can record up to 20 minutes now.</string>
+    <string name="low_memory">ברשותך פחות מ-1GB של שטח אחסון זמין. באפשרותך להקליט עד כ-20 דקות כעת.</string>
     <string name="low_memory_title">אין מספיק שטח אחסון</string>
     <string name="low_momery_warning">אין מספיק שטח אחסון. ההקלטה נעצרה והסרטון נשמר.</string>
     <string name="memory_not_allowed">אין שטח אחסון זמין. פנה שטח על מנת להקליט.</string>
@@ -50,7 +50,7 @@
     <string name="quit_recording">"יצא מ'מקליט המסך'"</string>
     <string name="recording_failure">לא ניתן היה להקליט, התחל מחדש</string>
     <string name="recording_max_size">ההקלטה נעצרה ונשמרה כיוון שקובץ הוידאו הגיע לתקרת מגבלת הגודל שלו. התחל להקליט מהמקום בו היא נעצרה במידה ועדיין לא סיימת.</string>
-    <string name="recording_without_mic">Microphone is occupied and microphone sound cannot be recorded</string>
+    <string name="recording_without_mic">המיקרופון נמצא בשימוש, אינך יכול להקליט שמע.</string>
     <string name="resolution">רזולוציה</string>
     <string name="resolution_summary">סרטונים בעלי רזולוציה גבוהה יותר נראים חדים יותר</string>
     <string name="screen_orientation">כיוון</string>

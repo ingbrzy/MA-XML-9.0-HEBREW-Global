@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d שעות "</item>
-        <item quantity="one">"שעה %1$d "</item>
-        <item quantity="two">"שעתיים "</item>
-        <item quantity="many">"%1$d שעות "</item>
-    </plurals>
-    <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d דקות "</item>
-        <item quantity="one">"דקה %1$d "</item>
-        <item quantity="two">"%1$d דקות "</item>
-        <item quantity="many">"%1$d דקות "</item>
-    </plurals>
-    <plurals name="timer_message_second">
-        <item quantity="other">%1$d שניות</item>
-        <item quantity="one">שניה %1$d</item>
-        <item quantity="two">%1$d שניות</item>
-        <item quantity="many">%1$d שניות</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d שניות</item>
-        <item quantity="one">שניה 1</item>
-        <item quantity="two">%1$d שניות</item>
-        <item quantity="many">%1$d שניות</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d דקות</item>
-        <item quantity="one">דקה 1</item>
-        <item quantity="two">%1$d דקות</item>
-        <item quantity="many">%1$d דקות</item>
-    </plurals>
-    <plurals name="snooze_message">
-        <item quantity="other">הפעל נודניק למשך %d דקות</item>
-        <item quantity="one">הפעל נודניק למשך דקה %d</item>
-        <item quantity="two">הפעל נודניק למשך %d דקות</item>
-        <item quantity="many">הפעל נודניק למשך %d דקות</item>
-    </plurals>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">נודניק למשך %d דקות.</item>
         <item quantity="one">נודניק למשך דקה %d.</item>
@@ -59,5 +23,41 @@
         <item quantity="one">\"למחוק אזור זמן זה?</item>
         <item quantity="two">למחוק את אזור הזמן הנבחר?</item>
         <item quantity="many">למחוק את אזור הזמן הנבחר?</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">הפעל נודניק למשך %d דקות</item>
+        <item quantity="one">הפעל נודניק למשך דקה %d</item>
+        <item quantity="two">הפעל נודניק למשך %d דקות</item>
+        <item quantity="many">הפעל נודניק למשך %d דקות</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">דקה 1</item>
+        <item quantity="two">%1$d דקות</item>
+        <item quantity="many">%1$d דקות</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">שניה 1</item>
+        <item quantity="two">%1$d שניות</item>
+        <item quantity="many">%1$d שניות</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d שעות "</item>
+        <item quantity="one">"שעה %1$d "</item>
+        <item quantity="two">"שעתיים "</item>
+        <item quantity="many">"%1$d שעות "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d דקות "</item>
+        <item quantity="one">"דקה %1$d "</item>
+        <item quantity="two">"%1$d דקות "</item>
+        <item quantity="many">"%1$d דקות "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">שניה %1$d</item>
+        <item quantity="two">%1$d שניות</item>
+        <item quantity="many">%1$d שניות</item>
     </plurals>
 </resources>

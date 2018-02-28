@@ -266,7 +266,7 @@
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">שליחה אל Weibo</string>
     <string name="xspace_qq_title">QQ</string>
-    <string name="qq_send">שליחה אל חברי/התקני QQ</string>
+    <string name="qq_send">שליחה אל חברי QQ/מחשב</string>
     <string name="xspace_default_setting_label">יישום ברירת מחדל</string>
     <string name="xspace_default_app_title">יישום ברירת מחדל</string>
     <string name="xspace_default_app_summary">הגדר יישומי ברירת מחדל עבור תשלומים, שיתוף, מועדפים ועוד.</string>

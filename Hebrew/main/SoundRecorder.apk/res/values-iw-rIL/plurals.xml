@@ -25,10 +25,10 @@
         <item quantity="many">%d לא מסונכרנות</item>
     </plurals>
     <plurals name="btn_clear_records">
-        <item quantity="other">מחק הקלטות (%d פריטים)</item>
-        <item quantity="one">מחק הקלטות (פריט %d)</item>
-        <item quantity="two">מחק הקלטות (%d פריטים)</item>
-        <item quantity="many">מחק הקלטות (%d פריטים)</item>
+        <item quantity="other">מחיקת %d הקלטות</item>
+        <item quantity="one">מחיקת הקלטה %d</item>
+        <item quantity="two">מחיקת %d הקלטות</item>
+        <item quantity="many">מחיקת %d הקלטות</item>
     </plurals>
     <plurals name="choose_call_records_count">
         <item quantity="other">%d פריטים</item>

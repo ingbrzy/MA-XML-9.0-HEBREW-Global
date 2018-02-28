@@ -84,6 +84,12 @@
         <item quantity="two">%d כניסות לרשימת החסומים</item>
         <item quantity="many">%d כניסות לרשימת החסומים</item>
     </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d כניסות לכספת היישומים</item>
+        <item quantity="one">כניסה %d לכספת היישומים</item>
+        <item quantity="two">%d כניסות לכספת היישומים</item>
+        <item quantity="many">%d כניסות לכספת היישומים</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
         <item quantity="one">תמונה מוסתרת %d לא סונכרנה. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -334,6 +338,7 @@
     <string name="trans_device_wait_for_reconnecting">החיבור נקטע. התחבר שוב על מנת להמשיך.</string>
     <string name="trans_device_auto_reconnecting">המכשיר התנתק. מתחבר מחדש באופן אוטומטי…</string>
     <string name="trans_connecting_toast">מתחבר…</string>
+    <string name="trans_switching_5g">מחליף לרשת אלחוטית 5GHz…</string>
     <string name="trans_connect_failed_toast">לא ניתן היה להתחבר</string>
     <string name="trans_generate_qr_code_failed">לא ניתן היה ליצור קוד QR</string>
     <string name="trans_scan_invalid_qrcode">קוד ה-QR אינו חוקי</string>
@@ -487,6 +492,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>
@@ -510,6 +516,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="error_permissions">"אין ליישום זה את ההרשאה הנדרשת על מנת לגשת ל'לוח שנה'. עבור אל 'הגדרות' ובדוק הרשאות על מנת להמשיך."</string>
     <string name="succ_description">הצלחה</string>
     <string name="failed_description">כשלון</string>
+    <string name="notif_miasist_try_to_connect">Mi PC Suite מנסה להתחבר למכשירך</string>
     <string name="notif_connect_miasist">מחובר ל-Mi PC Suite</string>
     <string name="notif_disconnect_miasist">לא מחובר ל-Mi PC Suite</string>
     <string name="notif_sending_transingsd">שולח %1$s (%2$s)…</string>
