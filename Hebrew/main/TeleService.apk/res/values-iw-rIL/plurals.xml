@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">אין חיבור לרשת למשך %s דקות</item>
-        <item quantity="one">אין חיבור לרשת למשך דקה %s</item>
-        <item quantity="two">אין חיבור לרשת למשך %s דקות</item>
-        <item quantity="many">אין חיבור לרשת למשך %s דקות</item>
-    </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">"הטלפון יהיה מצוי במצב 'שיחת חרום חוזרת' למשך %s דקות. במצב זה לא תוכל להשתמש ביישומים הזקוקים לחיבור נתונים. ברצונך לצאת כעת?"</item>
         <item quantity="one">"הטלפון יהיה מצוי במצב 'שיחת חרום חוזרת' למשך דקה %s. במצב זה לא תוכל להשתמש ביישומים הזקוקים לחיבור נתונים. ברצונך לצאת כעת?"</item>
@@ -51,5 +45,11 @@
 %d נסיונות נותרו."</item>
         <item quantity="many">"
 %d נסיונות נותרו."</item>
+    </plurals>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">אין חיבור לרשת למשך %s דקות</item>
+        <item quantity="one">אין חיבור לרשת למשך דקה %s</item>
+        <item quantity="two">אין חיבור לרשת למשך %s דקות</item>
+        <item quantity="many">אין חיבור לרשת למשך %s דקות</item>
     </plurals>
 </resources>

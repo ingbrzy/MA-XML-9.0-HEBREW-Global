@@ -161,16 +161,13 @@
 תכונה זו תוסף ל'שטח שני' אוטומטית."</string>
     <string name="openSuccess">מופעל</string>
     <string name="closeSuccess">כבוי</string>
-    <string name="settings_notification_and_switch">החלפה &amp; התראות</string>
+    <string name="settings_switch_shortcut_title">לחץ על קיצור הדרך על מנת להחליף</string>
     <string name="settings_cross_notification_title">התראות</string>
     <string name="settings_cross_notification_summary">קבל התראות מהשטח האחר</string>
-    <string name="settings_switch_shortcut_title">לחץ על קיצור הדרך על מנת להחליף</string>
     <string name="settings_switch_shortcut_summary">"הצג את קיצור הדרך של 'מסך הבית' ב'שטח שני'"</string>
     <string name="settings_space_data">נתונים</string>
     <string name="settings_status_icon_title">"אייקון של 'שטח שני'"</string>
     <string name="settings_status_icon_summary">"הצג את אייקון 'שטח שני' בשורת המצב"</string>
-    <string name="settings_msg_add_shortcut">"קיצור הדרך נוסף על 'שטח ראשון'"</string>
-    <string name="settings_msg_remove_shortcut">"קיצור הדרך הוסר מ'שטח ראשון'"</string>
     <string name="start_setting_guide_desc_title">ישנם מספר דברים שיש להגדיר</string>
     <string name="setting_is_show_text_contacts">הגדר אנשי קשר והודעות פרטיות</string>
     <string name="switch_data_app">"העבר פריטים ל'שטח שני'"</string>
@@ -342,4 +339,7 @@
     <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
 במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
     <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
+    <string name="settings_notification_and_switch">החלפה &amp; התראות</string>
+    <string name="settings_msg_add_shortcut">"קיצור הדרך נוסף על 'שטח ראשון'"</string>
+    <string name="settings_msg_remove_shortcut">"קיצור הדרך הוסר מ'שטח ראשון'"</string>
 </resources>

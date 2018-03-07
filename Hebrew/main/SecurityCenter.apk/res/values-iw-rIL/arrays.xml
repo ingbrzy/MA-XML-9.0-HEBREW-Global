@@ -8,7 +8,8 @@
     <string-array name="date_of_traffic">
         <item>"אתמול "</item>
         <item>"היום "</item>
-        <item>"החודש "</item>
+        <item>"Last month "</item>
+        <item>"This month "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
         <item>"השבוע: "</item>
@@ -18,15 +19,18 @@
     <string-array name="date_of_traffic_prefix">
         <item>"אתמול: "</item>
         <item>"היום: "</item>
-        <item>"החודש: "</item>
+        <item>"Last month: "</item>
+        <item>"This month: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>אתמול (נתונים)</item>
         <item>היום (נתונים)</item>
-        <item>החודש (נתונים)</item>
-        <item>אתמול באמצעות רשת אלחוטית</item>
-        <item>היום באמצעות רשת אלחוטית</item>
-        <item>החודש באמצעות רשת אלחוטית</item>
+        <item>Last month (data)</item>
+        <item>This month (data)</item>
+        <item>Yesterday Wi-Fi</item>
+        <item>Today Wi-Fi</item>
+        <item>Last month Wi-Fi</item>
+        <item>This month Wi-Fi</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"שימוש ברשת סלולרית "</item>
@@ -49,6 +53,11 @@
         <item>כאשר המכשיר נעול</item>
         <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
         <item>כאשר המכשיר נעול או דקה 1 לאחר יציאה מיישום</item>
+    </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
     </string-array>
     <string-array name="sort_type">
         <item>סטטוס</item>
@@ -127,5 +136,10 @@
         <item>לעולם אל תפעיל רטט</item>
         <item>רטט וכשהושתק</item>
         <item>תמיד לרטוט</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

@@ -33,6 +33,7 @@
     <string name="attach_sound">שמע</string>
     <string name="attach_subject">נושא</string>
     <string name="attach_take_photo">צלם תמונה</string>
+    <string name="attach_transaction">שליחת כסף</string>
     <string name="attach_video">וידאו</string>
     <string name="audio_download_failed">לא ניתן היה להוריד שמע</string>
     <string name="audio_message_expired">פג תוקף הודעה קולית זו.</string>
@@ -178,6 +179,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -511,6 +513,7 @@
     <string name="select_local_audio">בחר שמע</string>
     <string name="select_local_video">בחר וידאו</string>
     <string name="select_message_send_sim">בחר כרטיס SIM</string>
+    <string name="select_phone_number">בחירת מספר טלפון</string>
     <string name="select_recipient">בחר נמענים</string>
     <string name="select_sim">בחר כרטיס SIM</string>
     <string name="select_top_text">טקסט למעלה</string>
@@ -525,6 +528,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>

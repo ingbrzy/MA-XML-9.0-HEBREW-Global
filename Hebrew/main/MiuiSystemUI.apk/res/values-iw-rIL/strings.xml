@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -25,7 +27,6 @@
     <string name="wifi_not_in_range">לא בטווח</string>
     <string name="wifi_no_internet">אין גישה לאינטרנט, לא יתבצע חיבור מחדש באופן אוטומטי.</string>
     <string name="saved_network">נשמר על ידי %1$s</string>
-    <string name="connected_via_wfa">מחובר באמצעות אשף הרשתות האלחוטיות</string>
     <string name="connected_via_passpoint">מחובר באמצעות %1$s</string>
     <string name="available_via_passpoint">זמין באמצעות %1$s</string>
     <string name="wifi_connected_no_internet">מחובר, ללא אינטרנט</string>
@@ -167,7 +168,6 @@
     <string name="allow_mock_location">אפשר דימוי מיקומים</string>
     <string name="allow_mock_location_summary">אפשר דימוי מיקומים</string>
     <string name="debug_view_attributes">אפשר הצגת תכונות</string>
-    <string name="legacy_dhcp_client_summary">השתמש בלקוח ה-DHCP מ-Lollipop במקום לקוח ה-Android DHCP החדש.</string>
     <string name="mobile_data_always_on_summary">השאר תמיד את חיבור הנתונים הסלולרי פעיל, גם כאשר חיבור הרשתות האלחוטיות פעיל (לצורך החלפה מהירה בין רשתות).</string>
     <string name="adb_warning_title">לאפשר ניפוי שגיאות USB?</string>
     <string name="adb_warning_message">ניפוי שגיאות USB מיועד לצרכי פיתוח בלבד. השתמש בתכונה זו להעתקת נתונים בין המחשב למכשיר שלך, התקנת יישומים במכשירך ללא התראות וקריאת נתוני רישום.</string>
@@ -217,8 +217,6 @@
     <string name="debug_layout_summary">"הצג גבולות גזירה, שוליים וכו'."</string>
     <string name="force_rtl_layout_all_locales">אלץ כיוון פריסת RTL</string>
     <string name="force_rtl_layout_all_locales_summary">אלץ כיוון פריסת המסך ל-RTL עבור כל המיקומים</string>
-    <string name="show_cpu_usage">הצג שימוש ב-CPU</string>
-    <string name="show_cpu_usage_summary">הצג שימוש ב-CPU באמצעות שכבת העל של המסך</string>
     <string name="force_hw_ui">אלץ צלימת GPU</string>
     <string name="force_hw_ui_summary">אלץ שימוש ב-GPU עבור ציור דו-מימדי</string>
     <string name="force_msaa">אלץ 4x MSAA</string>
@@ -252,8 +250,6 @@
     <string name="inactive_app_active_summary">פעיל. לחץ להפעלה/כיבוי.</string>
     <string name="runningservices_settings_title">שירותים פעילים</string>
     <string name="runningservices_settings_summary">הצג ושלוט בשירותים הפעילים הנוכחיים</string>
-    <string name="enable_webview_multiprocess">WebView מרובה תהליכים</string>
-    <string name="enable_webview_multiprocess_desc">הפעל צולמי WebView בנפרד</string>
     <string name="select_webview_provider_title">הטמעת WebView</string>
     <string name="select_webview_provider_dialog_title">הגדר הטמעת WebView</string>
     <string name="select_webview_provider_toast_text">אפשרות זו אינה חוקית יותר. נסה שוב.</string>
@@ -280,12 +276,6 @@
     <string name="power_remaining_duration_only_short">%1$s left</string>
     <string name="battery_info_status_unknown">לא ידוע</string>
     <string name="battery_info_status_charging">טוען</string>
-    <string name="battery_info_status_charging_ac">טעינת AC</string>
-    <string name="battery_info_status_charging_ac_short">טוען</string>
-    <string name="battery_info_status_charging_usb">טעינת USB</string>
-    <string name="battery_info_status_charging_usb_short">טוען</string>
-    <string name="battery_info_status_charging_wireless">טעינה אלחוטית</string>
-    <string name="battery_info_status_charging_wireless_short">טוען</string>
     <string name="battery_info_status_discharging">לא טוען</string>
     <string name="battery_info_status_not_charging">לא טוען</string>
     <string name="battery_info_status_full">מלאה</string>
@@ -539,6 +529,8 @@ d MMMM"</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_recent_memory_info1">זמינים %2$sB | %1$sB בסה\"כ</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="memory_clear_result_mega">%1$sMB cleared</string>
+    <string name="memory_clear_result_giga">%1$sGB cleared</string>
     <string name="accessibility_recent_task_exit">"'אחרונים' נסגר"</string>
     <string name="accessibility_recent_task_memory_info">סה\"כ זכרון RAM: %2$s | זכרון RAM זמין: %1$s. הקשה כפולה לניקוי.</string>
     <string name="accessibility_recent_task_locked">נעול, החלק מטה לביטול הנעילה.</string>
@@ -625,6 +617,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
     <string name="ext_media_mountable_notification_message">"לחץ לפתיחה ב'מנהל הקבצים'."</string>
     <string name="ext_media_safe_remove">הסר בבטחה</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">М/s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
@@ -703,6 +696,7 @@ d MMMM"</string>
     <string name="notification_header_title">התראות</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="no_weather_description">קבל מידע אודות מזג האויר ></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">לוח ההתראות</string>
     <string name="accessibility_desc_quick_settings">הגדרות מהירות</string>
     <string name="accessibility_desc_details_page">עמוד הפרטים של %1$s</string>
@@ -756,7 +750,7 @@ d MMMM"</string>
     <string name="unimportant_desc">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת.</string>
     <string name="important_desc">"כל ההתראות החשובות יופיעו ישירות ב'לוח ההתראות'."</string>
     <string name="cancel">ביטול</string>
-    <string name="search_hint">חיפוש אתרים, יישומים, אנשי קשר וסרטונים</string>
+    <string name="search_hint">Search for websites, apps, contacts, videos...</string>
     <string name="description_image_button_reject">דחיה</string>
     <string name="description_image_button_answer">מענה</string>
     <string name="screenshot_feedback_txt">משוב</string>
@@ -780,4 +774,16 @@ d MMMM"</string>
     <string name="fs_gesture_final_summary">"באפשרותך לחזור לשימוש בלחצנים ב'הגדרות' > 'תצוגת מסך מלא'"</string>
     <string name="fs_gesture_final_restart">עוד פעם אחת</string>
     <string name="fs_gesture_final_over">סיימתי</string>
+    <string name="connected_via_wfa">מחובר באמצעות אשף הרשתות האלחוטיות</string>
+    <string name="legacy_dhcp_client_summary">השתמש בלקוח ה-DHCP מ-Lollipop במקום לקוח ה-Android DHCP החדש.</string>
+    <string name="show_cpu_usage">הצג שימוש ב-CPU</string>
+    <string name="show_cpu_usage_summary">הצג שימוש ב-CPU באמצעות שכבת העל של המסך</string>
+    <string name="enable_webview_multiprocess">WebView מרובה תהליכים</string>
+    <string name="enable_webview_multiprocess_desc">הפעל צולמי WebView בנפרד</string>
+    <string name="battery_info_status_charging_ac">טעינת AC</string>
+    <string name="battery_info_status_charging_ac_short">טוען</string>
+    <string name="battery_info_status_charging_usb">טעינת USB</string>
+    <string name="battery_info_status_charging_usb_short">טוען</string>
+    <string name="battery_info_status_charging_wireless">טעינה אלחוטית</string>
+    <string name="battery_info_status_charging_wireless_short">טוען</string>
 </resources>

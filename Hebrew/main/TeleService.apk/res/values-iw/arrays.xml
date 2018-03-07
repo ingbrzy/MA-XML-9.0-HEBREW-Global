@@ -38,6 +38,84 @@
         <item>‏השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
         <item>‏תמיד השתמש בבדיקת HDCP</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>‏AVRCP 1.4 (ברירת המחדל)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>‏הפעלה של Codecs אופציונליים</item>
+        <item>‏השבתה של Codecs אופציונליים</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>‏הפעלה של Codecs אופציונליים</item>
+        <item>‏השבתה של Codecs אופציונליים</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>44.1 קילו-הרץ</item>
+        <item>48.0 קילו-הרץ</item>
+        <item>88.2 קילו-הרץ</item>
+        <item>96.0 קילו-הרץ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
+        <item>44.1 קילו-הרץ</item>
+        <item>48.0 קילו-הרץ</item>
+        <item>88.2 קילו-הרץ</item>
+        <item>96.0 קילו-הרץ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>16 סיביות לדגימה</item>
+        <item>24 סיביות לדגימה</item>
+        <item>32 סיביות לדגימה</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
+        <item>16 סיביות לדגימה</item>
+        <item>24 סיביות לדגימה</item>
+        <item>32 סיביות לדגימה</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>מונו</item>
+        <item>סטריאו</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
+        <item>מונו</item>
+        <item>סטריאו</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>‏אופטימיזציה להשגת איכות אודיו מרבית (990kbps/909kbps)</item>
+        <item>‏איזון בין איכות החיבור לאיכות אודיו (660kbps/606kbps)</item>
+        <item>‏אופטימיזציה להשגת איכות חיבור מרבית (330kbps/303kbps)</item>
+        <item>האיכות הטובה ביותר (קצב העברת נתונים מותאם)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>אופטימיזציה להשגת איכות אודיו מרבית</item>
+        <item>אזן בין איכות החיבור לאיכות אודיו</item>
+        <item>אופטימיזציה להשגת איכות חיבור מרבית</item>
+        <item>האיכות הטובה ביותר (קצב העברת נתונים מותאם)</item>
+    </string-array>
     <string-array name="select_logd_size_titles">
         <item>כבוי</item>
         <item>64K</item>
@@ -59,6 +137,18 @@
         <item>‏1M לכל מאגר יומן</item>
         <item>‏4M לכל מאגר יומן</item>
         <item>‏16M לכל מאגר יומן</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>כבוי</item>
+        <item>הכול</item>
+        <item>הכול מלבד רדיו</item>
+        <item>ליבה בלבד</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>כבוי</item>
+        <item>כל מאגרי הנתונים הזמניים של היומן</item>
+        <item>הכול מלבד מאגרי הנתונים הזמניים של יומן הרדיו</item>
+        <item>מאגר נתונים זמני של היומן השמור בליבה בלבד</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>אנימציה כבויה</item>
@@ -115,12 +205,16 @@
     <string-array name="track_frame_time_entries">
         <item>כבוי</item>
         <item>במסך כעמודות</item>
-        <item>‏ב-adb shell dumpsys gfxinfo</item>
+        <item>ב-adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>כבוי</item>
         <item>הצגת אזורים עם חריגה</item>
         <item>הצגת אזורים לעיוורון צבעים</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>‏OpenGL (ברירת מחדל)</item>
+        <item>OpenGL (Skia)‎</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>הגבלה סטנדרטית</item>
@@ -169,10 +263,40 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
+    <string-array name="preferred_network_mode_values_world_mode">
+        <item>10</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
     <string-array name="clir_display_values">
         <item>רשת ברירת מחדל</item>
         <item>הסתר מספר</item>
         <item>הצג מספר</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>@string/preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_wcdma_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_wcdma_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_only_choice</item>
+        <item>@string/preferred_network_mode_lte_wcdma_choice</item>
+        <item>@string/preferred_network_mode_lte_choice</item>
+        <item>@string/preferred_network_mode_global_choice</item>
+        <item>@string/preferred_network_mode_gsm_wcdma_lte_choice</item>
+        <item>@string/preferred_network_mode_cdma_lte_evdo_choice</item>
+        <item>@string/preferred_network_mode_cdma_evdo_gsm_wcdma_choice</item>
+        <item>@string/preferred_network_mode_evdo_only_choice</item>
+        <item>@string/preferred_network_mode_cdma_wo_evdo_choice</item>
+        <item>@string/preferred_network_mode_cdma_evdo_auto_choice</item>
+        <item>@string/preferred_network_mode_gsm_wcdma_auto_choice</item>
+        <item>@string/preferred_network_mode_wcdma_only_choice</item>
+        <item>@string/preferred_network_mode_gsm_only_choice</item>
+        <item>@string/preferred_network_mode_gsm_wcdma_preferred_choice</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>אנגלית</item>
@@ -183,6 +307,15 @@
         <item>סינית</item>
         <item>עברית</item>
     </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>בית בלבד</item>
         <item>אוטומטי</item>
@@ -190,6 +323,10 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>‏TTY כבוי</item>

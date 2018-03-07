@@ -30,7 +30,7 @@
     <string name="remove_download">מחק</string>
     <string name="retry_download">נסה שוב</string>
     <string name="select_all">בחירת הכל</string>
-    <string name="selected_count">נבחרו %1$d מתוך %2$d</string>
+    <string name="selected_count">%1$d מתוך %2$d נבחרו</string>
     <string name="DOWNLOAD_UNIT_BIT">B</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
@@ -45,13 +45,13 @@
     <string name="ad_title_other">אנשים שהורידו תמונה זו הורידו גם את</string>
     <string name="add_flow_fail_haveget_msg">תקופת הנסיון תמה.</string>
     <string name="add_flow_fail_vip_msg">מאיץ ההורדות של Xunlei מופעל</string>
-    <string name="add_flow_success_msg">%s נוספו החודש</string>
     <string name="all_downloads">כל ההורדות</string>
     <string name="all_fileter">הכל</string>
     <string name="all_share_files_content">הקבצים שבחרת נמחקו כבר.</string>
     <string name="all_the_internet">כל הרשתות</string>
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s הורדות</string>
+    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">חשבון Xunlei</string>
     <string name="auth_fail">לא ניתן היה לקבל אישור</string>
     <string name="bind_xunlei_account">הוספת חשבון Xunlei</string>
@@ -66,7 +66,6 @@
     <string name="clear_data">הסרה</string>
     <string name="complete_time">הושלם:</string>
     <string name="confirm">אישור</string>
-    <string name="confirm_delete_downloads_message">%d הורדות ימחקו.</string>
     <string name="confirm_delete_the_download_item_message">למחוק הורדות אלו?</string>
     <string name="continue_download">המשך</string>
     <string name="copy">העתק</string>
@@ -82,7 +81,7 @@
     <string name="dialog_btn_ok">אישור</string>
     <string name="dialog_btn_ok_disabled_net">הגדרות רשת</string>
     <string name="dialog_confirm_delete_checkbox_message">מחק גם קבצים מקומיים</string>
-    <string name="dialog_confirm_delete_downloads_message">למחוק %d משימות?</string>
+    <string name="dialog_confirm_delete_downloads_message">למחוק את המשימות שנבחרו?</string>
     <string name="dialog_confirm_delete_the_download_item_message">מחק משימות אלו</string>
     <string name="dialog_file_missing_title">לא ניתן לפתוח את הקובץ</string>
     <string name="dialog_msg_disabled_net">"%1$s אסר על הורדות ברשת הנוכחית. לחץ על 'הגדרות רשת' על מנת לעבור ליישום ה'אבטחה'."</string>
@@ -102,7 +101,6 @@
     <string name="download_filesize_unknown">לא ידוע</string>
     <string name="download_from">מקור:</string>
     <string name="download_in_process">מוריד</string>
-    <string name="download_info_count_deleted_tasks">%s הורדות הוסרו</string>
     <string name="download_info_start_deleted_tasks">מחיקת הורדות</string>
     <string name="download_list_get_free_vip">גרסת נסיון של Xunlei</string>
     <string name="download_list_get_hightspeed_flow_auto_open">מאיץ ההורדות של Xunlei מופעל</string>
@@ -117,6 +115,7 @@
     <string name="download_list_open_xl_title">מאיץ ההורדות של Xunlei</string>
     <string name="download_list_title_browser">הורדות</string>
     <string name="download_no_application">אין יישומים התומכים בפורמט זה</string>
+    <string name="download_num_size">%1$s  |  %2$s</string>
     <string name="download_paused">ההורדה הופסקה</string>
     <string name="download_pending">ההורדה ממתינה</string>
     <string name="download_remain_time">נותר:</string>
@@ -136,10 +135,8 @@
     <string name="dredge_xunlei_account">יצירת חשבון Xunlei</string>
     <string name="durationDayHour">יום %1$d שעה %2$d</string>
     <string name="durationDayHours">יום %1$d %2$d שעות</string>
-    <string name="durationDays">%1$d ימים</string>
     <string name="durationHourMinute">שעה %1$d דקה %2$d</string>
     <string name="durationHourMinutes">שעה %1$d %2$d דקות</string>
-    <string name="durationHours">%1$d שעות</string>
     <string name="durationMinute">דקה %1$d</string>
     <string name="durationMinuteSecond">דקה %1$d שניה %2$d</string>
     <string name="durationMinuteSeconds">דקה %1$d %2$d שניות</string>
@@ -313,37 +310,8 @@
     <string name="shortcut_dialog_content">"הוסף קיצור ל'מסך הבית' על מנת למצוא מקורות מהר יותר."</string>
     <string name="shortcut_dialog_create">צור</string>
     <string name="shortcut_dialog_title">"ליצור קיצור דרך ב'מסך הבית'?"</string>
-    <string name="show_more">הצג עוד %s</string>
-    <string name="sniff_associate_text">פופולרי</string>
-    <string name="sniff_bt_text">קובץ Torrent</string>
-    <string name="sniff_btn_text">מקור</string>
-    <string name="sniff_cannot_use">לא ניתן להשתמש בחיפוש גלובלי, לחץ על הקישור להורדה</string>
-    <string name="sniff_connect_error_page_tips">לא ניתן היה לפתוח את קישור האינטרנט</string>
-    <string name="sniff_connect_error_refresh">טעינה מחדש</string>
     <string name="sniff_copyright_text">לא ניתן להציג תוצאות עקב בעיות הקשורות לזכויות יוצרים</string>
-    <string name="sniff_download_task_already_exist">הורדה זו קיימת כבר</string>
-    <string name="sniff_download_task_create_success">ההורדה נוספה</string>
-    <string name="sniff_finding_resource_prompt">מחפש ברשת…</string>
-    <string name="sniff_hot_text">קשור</string>
-    <string name="sniff_no_network_tip">בדוק את חיבור הרשת שלך ונסה שוב</string>
-    <string name="sniff_no_result_text">אין תוצאות</string>
-    <string name="sniff_result_empty_prompt">תוצאות חיפוש באינטרנט</string>
-    <string name="sniff_result_num_prefix">נמצאו</string>
-    <string name="sniff_result_num_video_suffix">פריטים</string>
-    <string name="sniff_result_num_website_suffix">אתרים</string>
-    <string name="sniff_result_website_intro">סהכ &lt;font color=\"#6699ff\">%1$d&lt;/font> פריטים | מקור: %2$s</string>
-    <string name="sniff_search_assoicate_sizeinfo">גודל: %1$s</string>
-    <string name="sniff_search_install">התקנה</string>
-    <string name="sniff_shortcut_cloudconfig_btn">הבנתי</string>
-    <string name="sniff_shortcut_cloudconfig_context">מעדכן מקור…</string>
-    <string name="sniff_shortcut_cloudconfig_title">רק רגע…</string>
-    <string name="sniff_shortcut_create">קיצור הדרך נוצר</string>
-    <string name="sniff_shortcut_exist">קיצור הדרך קיים כבר</string>
-    <string name="sniff_shortcut_failed">לא ניתן היה ליצור קיצור דרך</string>
     <string name="sniff_shortcut_name">חיפוש ברשת</string>
-    <string name="sniff_shortcut_tip">"תוכל להוסיף קיצור דרך לחיפוש באינטרנט ב'מסך הבית'"</string>
-    <string name="sniff_shortcut_tip2">"מצא מקורות עבור הורדות מ'מסך הבית' שלך."</string>
-    <string name="sniff_sniffing_btn_text">מחפש מקור…</string>
     <string name="sniff_terms_agree">קבלה</string>
     <string name="sniff_terms_agree_new">מסכים</string>
     <string name="sniff_terms_check_text">"מסכים ל'תנאי השירות'"</string>
@@ -354,7 +322,6 @@
     <string name="sniff_terms_msg_bold_new">תנאי השירות</string>
     <string name="sniff_terms_reject">דחיה</string>
     <string name="sniff_terms_title">שים לב</string>
-    <string name="sniff_text_sniff_next_page">המשך ></string>
     <string name="sniff_vip_tip_speedup">תוכל לנסות את האצת המהירות בחינם פעם אחת</string>
     <string name="sniff_vip_tip_vip">Xunlei יכול להמשיך את האצת המהירות שלך</string>
     <string name="start_analysis">בדוק כעת</string>
@@ -406,8 +373,6 @@
     <string name="vip_show_info">"5 מיליון חברים.
 האץ את ההורדות בכל המכשירים שלך."</string>
     <string name="vip_speedup">האצת מהירות:</string>
-    <string name="web_dialog_cancel">ביטול</string>
-    <string name="web_dialog_confirm">אישור</string>
     <string name="xiaomi_account_not_exist_message">חשבון Mi זה אינו קיים</string>
     <string name="xl_annual_vip_open">מנוי שנתי (%1$s נקודות Mi או %2$s בכל חודש)</string>
     <string name="xl_annual_vip_renew">חידוש לשנה 1 (%1$s נקודות Mi או %2$s בכל חודש)</string>
@@ -438,6 +403,7 @@
     <string name="xl_vip_semiannual">6 חודשים:  %1$s נקודות Mi × 6</string>
     <string name="xunlei_account_has_unbind_message">חשבון Xunlei הוסר</string>
     <string name="xunlei_brand">מופעל על ידי Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">הפעלה</string>
     <string name="xunlei_close_tips_content">מאיץ ההורדות של Xunlei.</string>
     <string name="xunlei_close_tips_title">האץ את ההורדות שלך</string>

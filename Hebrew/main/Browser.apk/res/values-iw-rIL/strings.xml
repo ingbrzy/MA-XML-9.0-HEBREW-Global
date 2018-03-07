@@ -168,6 +168,7 @@
     <string name="color_picker_dialog_title">בחירת צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -514,10 +515,10 @@
     <string name="nav_bottom_bar_new_tab">תוית חדשה</string>
     <string name="nav_screen_container_tab_incognito">תוית אנונימית</string>
     <string name="nav_screen_container_tab_normal">תוית רגילה</string>
-    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
-Remember that the files you download and the bookmarks you add will still be saved."</string>
-    <string name="nav_screen_incognito_title">Incongnito mode</string>
-    <string name="navigation_delete_all">swipe left and right to close all tabs</string>
+    <string name="nav_screen_incognito_message">"היסטורית הגלישה והחיפוש שלך לא תישמר במצב 'גלישה בסתר'.
+זכור כי הקבצים שתוריד והסימניות שתוסיף עדיין ישמרו."</string>
+    <string name="nav_screen_incognito_title">מצב גלישה בסתר</string>
+    <string name="navigation_delete_all">החלק שמאלה וימינה לסגירת כל התויות</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ביטול</string>
     <string name="navigationbar_rightbutton_actiontext_go">המשך</string>
     <string name="navigationbar_rightbutton_actiontext_search">חיפוש</string>

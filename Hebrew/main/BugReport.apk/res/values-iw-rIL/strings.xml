@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -162,9 +163,9 @@
     <string name="cta_confirm">אישור</string>
     <string name="submit_dialog_title">שלח דו\"ח</string>
     <string name="submit_dialog_content">המשוב שלך, יחד עם קבצים מצורפים ויומנים, ישלח לשרתי MIUI. המשוב עשוי להכיל מידע אישי ואת נתוני המיקום שלך.</string>
-    <string name="submit_dialog_content_global">המשוב שלך, יחד עם הקבצים המצורפים (במידה ויש) והיומנים (באפשרותך לבטל את סימון התיבות עבור הפריטים אשר אינך מעוניין להעלות) ישלחו אל שרתי MIUI ואל חלקה מוגבלת עבור מפתחים של פורום MIUI לצורך ניתוח והתקשרות נוספת. היומנים עשויים להכיל פרטים אישיים ואת נתוני המיקום שלך.</string>
-    <string name="submit_dialog_cancel">ביטול</string>
-    <string name="submit_dialog_confirm">שליחה</string>
+    <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers. The information about your threads and forum activity will also be collected for analysis and further communication. Logs may contain personal info and your location data."</string>
+    <string name="submit_dialog_cancel">"Don't agree"</string>
+    <string name="submit_dialog_confirm">Agree</string>
     <string name="mobile_data_note_dialog_title">אזהרת שימוש בנתונים</string>
     <string name="mobile_data_note_dialog_content">שימוש בנתונים סלולריים להעלאת יומנים עשוי לגרום לחיובים נוספים.</string>
     <string name="mobile_data_note_dialog_content_with_file_size">העלאת יומנים באמצעות חיבור הנתונים הסלולרי תזדקק ל-%sMB של נתונים.</string>

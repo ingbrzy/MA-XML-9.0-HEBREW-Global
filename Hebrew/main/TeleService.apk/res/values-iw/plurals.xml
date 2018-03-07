@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">ללא חיבור נתונים למשך %s דקות</item>
-        <item quantity="one">ללא חיבור נתונים למשך דקה %s</item>
-        <item quantity="two">ללא חיבור נתונים למשך %s דקות</item>
-        <item quantity="many">ללא חיבור נתונים למשך %s דקות</item>
-    </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">הטלפון יהיה במצב חירום של התקשרות חזרה למשך %s דקות. בזמן שהטלפון במצב הזה, לא ניתן להשתמש באפליקציות הזקוקות לחיבור נתונים. האם ברצונך לצאת כעת?</item>
         <item quantity="one">הטלפון יהיה במצב חירום של התקשרות חזרה למשך דקה %s. בזמן שהטלפון במצב הזה, לא ניתן להשתמש באפליקציות הזקוקות לחיבור נתונים. האם ברצונך לצאת כעת?</item>

@@ -30,6 +30,7 @@
     <string name="pws_other_message_identifiers">התרעת חירום</string>
     <string name="cb_other_message_identifiers">שידור סלולרי</string>
     <string name="emergency_alert_settings_title">הגדרות התרעת חירום</string>
+    <string name="notification_channel_broadcast_messages">הודעות שידור</string>
     <string name="enable_emergency_alerts_title">הפעל התרעות</string>
     <string name="enable_emergency_alerts_summary">הצג שידורי התראות חירום</string>
     <string name="alert_reminder_interval_title">תזכורת התראה</string>
@@ -91,5 +92,4 @@
     <string name="cmas_opt_out_dialog_text">נכון לעכשיו אתה מקבל התראות חירום. האם ברצונך להמשיך לקבל התראות חירום?</string>
     <string name="cmas_opt_out_button_yes">כן</string>
     <string name="cmas_opt_out_button_no">לא</string>
-    <string name="alert_sound_duration_title">משך צליל התראה</string>
 </resources>

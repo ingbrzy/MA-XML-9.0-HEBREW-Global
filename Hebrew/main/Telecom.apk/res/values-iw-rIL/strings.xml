@@ -30,6 +30,9 @@
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="add_vm_number_str">הוסף מספר</string>
     <string name="change_default_dialer_dialog_title">להגדיר את %s כיישום ברירת המחדל שלך עבור שיחות?</string>
+    <string name="change_default_dialer_dialog_affirmative">הגדרה כיישום ברירת המחדל עבור שיחות</string>
+    <string name="change_default_dialer_dialog_negative">ביטול</string>
+    <string name="change_default_dialer_warning_message">%s יוכל לבצע ולשלוט בכל ההיבטים של שיחות. יש להגדיר יישומים בהם הינך בוטח בלבד כברירת המחדל שלך עבור שיחות.</string>
     <string name="blocked_numbers">מספרים שנחסמו</string>
     <string name="blocked_numbers_msg">לא תקבל הודעות או שיחות ממספרים חסומים.</string>
     <string name="block_number">הוספת מספר</string>
@@ -57,9 +60,6 @@
     <string name="test_account_3_short_description">Chat with Chat Network users</string>
     <string name="handle_restricted">RESTRICTED</string>
     <string name="toast_personal_call_msg">השתמש בחייגן מותאם אישית</string>
-    <string name="toast_make_video_call_failed">לא ניתן לבצע שיחת וידאו. המספר שהזנת שגוי.</string>
-    <string name="headset_plugin_view_text">אוזניות מחוברות.</string>
-    <string name="headset_plugin_view_title">אוזניות</string>
     <string name="voice_report_incoming_call">שיחה נכנסת</string>
     <string name="voice_report_unknown_num">מספר לא ידוע</string>
     <string name="incall_error_call_failed">לא ניתן היה לבצע את השיחה.</string>
@@ -74,7 +74,7 @@
     <string name="callFailed_simError">שגיאת כרטיס SIM</string>
     <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
     <string name="incall_error_power_off">"כבה את 'מצב טיסה' על מנת לבצע שיחה."</string>
-    <string name="change_default_dialer_dialog_affirmative">הגדרה כיישום ברירת המחדל עבור שיחות</string>
-    <string name="change_default_dialer_dialog_negative">ביטול</string>
-    <string name="change_default_dialer_warning_message">%s יוכל לבצע ולשלוט בכל ההיבטים של שיחות. יש להגדיר יישומים בהם הינך בוטח בלבד כברירת המחדל שלך עבור שיחות.</string>
+    <string name="toast_make_video_call_failed">לא ניתן לבצע שיחת וידאו. המספר שהזנת שגוי.</string>
+    <string name="headset_plugin_view_text">אוזניות מחוברות.</string>
+    <string name="headset_plugin_view_title">אוזניות</string>
 </resources>

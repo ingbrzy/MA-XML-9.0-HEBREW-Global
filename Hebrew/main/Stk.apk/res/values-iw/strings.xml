@@ -25,4 +25,5 @@
     <string name="stk_dialog_accept">כן</string>
     <string name="stk_dialog_reject">לא</string>
     <string name="no_sim_card_inserted">‏הכנס כרטיס SIM כדי להפעיל את Toolkit SIM.</string>
+    <string name="stk_channel_name">הודעות שירות סלולרי</string>
 </resources>

@@ -35,7 +35,7 @@
     <string name="wifi_detail_label">פרטים</string>
     <string name="wifi_install_label">התקן</string>
     <string name="wifi_installing_label">מתקין</string>
-    <string name="wifi_cancel_label">בטל</string>
+    <string name="wifi_cancel_label">ביטול</string>
     <string name="wifi_dismiss_label">סגור</string>
     <string name="wifi_no_config">ללא</string>
     <string name="wifi_config_text">"‏שם: %1$s

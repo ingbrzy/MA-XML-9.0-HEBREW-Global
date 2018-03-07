@@ -53,6 +53,7 @@
     <string name="switchDesc">החלפה</string>
     <string name="scannerDesc">סורק</string>
     <string name="reciprocalDesc">הפכי</string>
+    <string name="negDesc">החלף בין טמפרטורות מתחת ומעל לאפס</string>
     <string name="home_title_calculator">מחשבון</string>
     <string name="item_title_calculator">מחשבון</string>
     <string name="item_title_scientific_calculator">מדעי</string>

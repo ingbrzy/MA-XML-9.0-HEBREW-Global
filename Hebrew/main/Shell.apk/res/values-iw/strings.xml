@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">מעטפת</string>
+    <string name="bugreport_notification_channel">דוחות על באגים</string>
     <string name="bugreport_in_progress_title">יצירת הדוח על הבאג #%d מתבצעת</string>
     <string name="bugreport_finished_title">הדוח על הבאג #%d צולם</string>
     <string name="bugreport_updating_title">מוסיף פרטים לדוח על הבאג</string>
@@ -22,4 +23,5 @@
     <string name="bugreport_info_title">כותרת הבאג</string>
     <string name="bugreport_info_description">סיכום הבאג</string>
     <string name="save">שמור</string>
+    <string name="bugreport_intent_chooser_title">שיתוף דוח על באג</string>
 </resources>
