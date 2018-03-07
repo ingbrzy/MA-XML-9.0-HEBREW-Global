@@ -242,7 +242,6 @@
     <string name="sending_shortcut">שולח…</string>
     <string name="service_unavailiable">השירות אינו זמין</string>
     <string name="share">שיתוף</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">מזהה מתקשר</string>
     <string name="toast_finish_delete_call_log">יומן השיחות נמחק</string>
     <string name="toast_text_copied">הטקסט הועתק</string>

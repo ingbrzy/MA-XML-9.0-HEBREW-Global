@@ -51,7 +51,6 @@
     <string name="all_the_internet">כל הרשתות</string>
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s הורדות</string>
-    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">חשבון Xunlei</string>
     <string name="auth_fail">לא ניתן היה לקבל אישור</string>
     <string name="bind_xunlei_account">הוספת חשבון Xunlei</string>
@@ -115,7 +114,6 @@
     <string name="download_list_open_xl_title">מאיץ ההורדות של Xunlei</string>
     <string name="download_list_title_browser">הורדות</string>
     <string name="download_no_application">אין יישומים התומכים בפורמט זה</string>
-    <string name="download_num_size">%1$s  |  %2$s</string>
     <string name="download_paused">ההורדה הופסקה</string>
     <string name="download_pending">ההורדה ממתינה</string>
     <string name="download_remain_time">נותר:</string>
@@ -403,7 +401,6 @@
     <string name="xl_vip_semiannual">6 חודשים:  %1$s נקודות Mi × 6</string>
     <string name="xunlei_account_has_unbind_message">חשבון Xunlei הוסר</string>
     <string name="xunlei_brand">מופעל על ידי Xunlei</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">הפעלה</string>
     <string name="xunlei_close_tips_content">מאיץ ההורדות של Xunlei.</string>
     <string name="xunlei_close_tips_title">האץ את ההורדות שלך</string>

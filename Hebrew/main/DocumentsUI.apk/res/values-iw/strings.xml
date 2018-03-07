@@ -106,7 +106,6 @@
     <string name="sort_dimension_summary">סיכום</string>
     <string name="sort_direction_ascending">סדר עולה</string>
     <string name="sort_direction_descending">סדר יורד</string>
-    <string name="status_bar_notification_info_overflow">‎999+‎</string>
     <string name="title_open">פתח מ-</string>
     <string name="title_save">שמור ב-</string>
     <string name="toast_failed_delete">לא ניתן למחוק חלק מהמסמכים</string>
