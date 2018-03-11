@@ -80,7 +80,6 @@
     <string name="accessibility_wifi_two_bars">2 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_three_bars">3 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_signal_full">קליטת רשת אלחוטית מלאה.</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">יישומים שהועברו</string>
     <string name="data_usage_uninstalled_apps_users">יישומים ומשתמשים שהועברו</string>
     <string name="tether_settings_title_usb">שיתוף אינטרנט USB</string>

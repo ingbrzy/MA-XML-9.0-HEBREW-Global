@@ -555,7 +555,6 @@
     <string name="you_liao_goddess_desc">"העלי סרטונים באופן קבוע על מנת להרחיב את מעגל המעריצים שלך ולקבל סטטוס 'גברת'"</string>
     <string name="default_user_desc">אדם זה עדיין לא הוסיף תאור</string>
     <string name="recommend">מומלץ</string>
-    <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">"סימוני ה'אהבתי' שלי"</string>
     <string name="message_comment_prefix">"הערה: "</string>
     <string name="message_reply_prefix">השב</string>
