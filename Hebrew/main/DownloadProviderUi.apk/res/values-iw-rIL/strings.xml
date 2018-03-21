@@ -204,7 +204,6 @@
     <string name="add_flow_fail_vip_msg">מאיץ ההורדות של Xunlei מופעל</string>
     <string name="all_the_internet">כל הרשתות</string>
     <string name="app_downloads">%s הורדות</string>
-    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">חשבון Xunlei</string>
     <string name="bind_xunlei_account">הוספת חשבון Xunlei</string>
     <string name="bt_download">הורדה</string>
@@ -230,7 +229,6 @@
     <string name="download_list_open_xl_message">מאיץ ההורדות Xunlei יסייע להאצת הורדות.</string>
     <string name="download_list_open_xl_title">מאיץ ההורדות של Xunlei</string>
     <string name="download_list_title_browser">הורדות</string>
-    <string name="download_num_size">%1$s  |  %2$s</string>
     <string name="dredge_xunlei_account">יצירת חשבון Xunlei</string>
     <string name="edit_hint"> הזן כתובת http, torrent או eMule</string>
     <string name="engine_open">פתיחה</string>
@@ -403,7 +401,6 @@
     <string name="xl_vip_semiannual">6 חודשים:  %1$s נקודות Mi × 6</string>
     <string name="xunlei_account_has_unbind_message">חשבון Xunlei הוסר</string>
     <string name="xunlei_brand">מופעל על ידי Xunlei</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">הפעלה</string>
     <string name="xunlei_close_tips_content">מאיץ ההורדות של Xunlei.</string>
     <string name="xunlei_close_tips_title">האץ את ההורדות שלך</string>
