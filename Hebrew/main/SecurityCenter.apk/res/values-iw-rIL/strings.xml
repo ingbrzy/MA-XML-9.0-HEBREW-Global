@@ -71,6 +71,16 @@
     <string name="dlg_add_white">שיחות והודעות חדשות מהמספרים אשר נוספו לרשימת החריגים יוצגו ביומן השיחות ותיבת ההודעות הנכנסות. עם זאת, פריטים אשר נחסמו בעבר לא יוצגו. להוסיף את המספרים שנבחרו לרשימת החריגים?</string>
     <string name="dlg_not_block_sms">לבטל את חסימת המספרים שנבחרו? הם יתווספו לרשימת החריגים, אך פריטים אשר נחסמו בעבר לא יוצגו בתיבת ההודעות הנכנסות.</string>
     <string name="dlg_not_block_call">לבטל את חסימת המספרים שנבחרו? הם יתווספו לרשימת החריגים, אך פריטים אשר נחסמו בעבר לא יוצגו ביומן השיחות.</string>
+    <string name="dlg_update_date_title">אזהרה</string>
+    <string name="dlg_update_data_content">אינך מחובר לרשת האלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
+    <string name="dlg_sec_network_unavailable">"יישום ה'אבטחה' אינו יכול לבצע עדכון כיוון שהגבלת את החיבור לאינטרנט. לאפשר ל'אבטחה' להתחבר לאינטרנט?"</string>
+    <string name="dlg_update_btn_contiue">המשך</string>
+    <string name="dlg_update_btn_open">אפשר</string>
+    <string name="dlg_update_updating">מעדכן…</string>
+    <string name="toast_update_nonetwork">לא ניתן היה להתחבר לרשת</string>
+    <string name="toast_update_fail">לא ניתן היה לעדכן</string>
+    <string name="toast_update_success">עודכן בהצלחה</string>
+    <string name="toast_update_notneed">מעודכן</string>
     <string name="menu_call">חיוג</string>
     <string name="menu_sms">שליחת הודעה</string>
     <string name="menu_bl_call_log">צפיה בשיחות שנחסמו</string>
@@ -251,6 +261,7 @@
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">דווח על מספר</string>
     <string name="sms_smart_engine_update">עדכן את סנן המסרונים באופן אוטומטי</string>
+    <string name="sms_smart_engine_update_now">עדכון</string>
     <string name="mark_number_setting_guide_title">חסום מספרים שדווחו</string>
     <string name="mark_number_setting_guide_content1">לחסום שיחות ממספרים שדווחו?</string>
     <string name="mark_number_setting_guide_content2">חסום שיחות ממספרים שדווחו על ידי משתמשים אחרים באופן אוטומטי</string>
@@ -304,6 +315,7 @@
     <string name="cta_dialog_title">חיבור אינטרנט</string>
     <string name="cta_dialog_msg">"יישום ה'אבטחה' דורש חיבור לאינטרנט על מנת לקבל עדכונים, כמו גם גישה למיקום על מנת לעבוד כראוי."</string>
     <string name="cta_settings">אפשר חיבור לאינטרנט</string>
+    <string name="gdpr_msg"><Data>"על מנת שתוכל להשתמש בתכונות הבסיסיות של 'אבטחה', עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע אודות הדרכים בהן הינך משתמש בתכונות האבטחה (לדוגמה: סטטיסטיקות של שימוש בנתונים סלולריים, מידע אודות תוכנות זדוניות, וכמו כן מידע בסיסי אודות מכשירך) ובסוגים אחרים של מידע המצויינים ב&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> שלנו."</Data></string>
     <string name="app_name_na">שימוש בנתונים</string>
     <string name="list_empty_text">ריק</string>
     <string name="dialog_title_attention">שים לב</string>
@@ -383,6 +395,12 @@
     <string name="firewall_wifi_dialog_message">היישום המותקן לא יוכל להתחבר לאינטרנט באמצעות רשת אלחוטית כאשר מתג זה כבוי</string>
     <string name="firewall_system_title">שימוש בנתונים על ידי יישומי מערכת</string>
     <string name="firewall_temp_rule_reason">%2$s הגביל את החיבור לאינטרנט עבור %1$s​</string>
+    <string name="dialog_restrict_all_wlan_title">הגבלת החיבור לרשת האלחוטית</string>
+    <string name="dialog_restrict_all_wlan_summary">החיבור לרשת האלחוטית יוגבל עבור כל היישומים.</string>
+    <string name="dialog_restrict_all_mobile_title">הגבלת חיבור הנתונים הסלולריים של %s</string>
+    <string name="dialog_restrict_all_mobile_summary">חיבור הנתונים הסלולריים של %s יוגבל עבור כל היישומים.</string>
+    <string name="dialog_restrict_positive">ביטול</string>
+    <string name="dialog_restrict_negative">הגבלה</string>
     <string name="usage_sorted_activity_lable">שימוש בנתונים</string>
     <string name="usage_sorted_loading_text">רק רגע…</string>
     <string name="usage_sorted_empty_text">ריק</string>
@@ -405,6 +423,7 @@
     <string name="detail_app_button">פרטי היישום</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -517,6 +536,12 @@
     <string name="leisure_usage_dialog_message">"הגעת לתקרת מגבלת הנתונים בשפל שלך.
 
  ספק הרשת עשוי לגבות ממך חיובים נוספים במידה ותשתמש שוב בחיבור הנתונים הסלולרי."</string>
+    <string name="data_usage_protected_notify_title">השתמשת כבר ב-5GB של נתונים סלולריים</string>
+    <string name="data_usage_protected_notify_message">מערכת MIUI כיבתה את חיבור הנתונים הסלולריים על מנת להימנע מחיובים נוספים על ידי ספק הרשת.</string>
+    <string name="data_usage_mobile_dialog_title">השתמשת כבר ב-5GB של נתונים סלולריים. מערכת MIUI כיבתה את חיבור הנתונים הסלולריים.</string>
+    <string name="data_usage_protected_dialog_message">"מערכת MIUI כיבתה את חיבור הנתונים הסלולריים על מנת להימנע מחיובים נוספים על ידי ספק הרשת.
+
+ספק הרשת שלך עשוי לגבות ממך חיובים נוספים במידה ותפעיל שוב את חיבור הנתונים הסלולריים."</string>
     <string name="lock_screen_traffic_warn_title">התראות מסך הנעילה</string>
     <string name="lock_screen_traffic_notify_body">ננעל למשך %2$s ב- %1$s, נתונים שנוצלו %3$s</string>
     <string name="timeshow_s">%d שנ</string>
@@ -918,6 +943,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -976,6 +1002,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1321,6 +1348,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1681,6 +1709,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1904,7 +1933,7 @@ Rolled over extra data"</string>
     <string name="sponsored_sec_fb">ממומן</string>
     <string name="add_game_notification_summary">לחץ להתחלה והאצת המהירות</string>
     <string name="app_manager_title">ניהול יישומים</string>
-    <string name="app_manager_app_lock">נועל היישומים</string>
+    <string name="app_manager_uninstall">Uninstall</string>
     <string name="app_manager_bipartition">יישומים משוכפלים</string>
     <string name="app_manager_perm">הרשאות</string>
     <string name="app_manager_app_update">עדכונים</string>
@@ -2011,8 +2040,6 @@ Rolled over extra data"</string>
     <string name="app_manager_cache_size">מטמון</string>
     <string name="app_manager_clear_all_data">ניקוי כל הנתונים</string>
     <string name="app_manager_dlg_clear_cache_title">לנקות מטמון?</string>
-    <string name="app_manager_support_uninstall">באפשרותך להסיר את התקנת יישומים אלה</string>
-    <string name="app_manager_not_support_uninstall">לא ניתן להסיר יישומים אלה</string>
     <string name="app_manager_comuting_size">מחשב…</string>
     <string name="app_manager_show_all_apps_opened">מציג תוצאות מכל היישומים…</string>
     <string name="app_manager_search_prompt">לא מצאת דבר? נסה להציג תוצאות מכל היישומים.</string>
@@ -2173,6 +2200,25 @@ Rolled over extra data"</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_ad_game_size">MB</string>
     <string name="gb_new_feature">תכונה חדשה</string>
+    <string name="gb_sign_notification_title">Boost network speed for games</string>
+    <string name="gb_sign_notification_summary">Check in daily to receive Xunyou boost</string>
+    <string name="gs_sign_notification">Remind to check in at 8 PM daily</string>
+    <string name="gb_sign_gift">Check in to get rewards</string>
+    <string name="signed_rule">Rules</string>
+    <string name="signed_rule_one">1.Check in 10, 20, or 28 days in a row every month to get a Xunyou boost for 1, 2, or 3 days respectively.</string>
+    <string name="signed_rule_two">2.You can get only 1 Xunyou boost per month.</string>
+    <string name="signed_rule_three">"3.Days when you check in are annulled at the beginning of every month. The remaining days aren't rolled over."</string>
+    <string name="gb_get_gift_right_now">Check in now</string>
+    <string name="gb_have_signed">Checked in today</string>
+    <string name="gb_sign_gift_button_text">Receive</string>
+    <string name="gb_xunyou_gift_type_one">Xunyou 1-day boost</string>
+    <string name="gb_xunyou_gift_type_two">Xunyou 2-day boost</string>
+    <string name="gb_xunyou_gift_type_three">Xunyou 3-day boost</string>
+    <string name="gb_signed_title">Checked in this month</string>
+    <string name="gb_network_status_bad">A connection error occurred.</string>
+    <string name="gs_open_game_booster_summary">Boost network speed for games</string>
+    <string name="gb_signed_gift_loading_summary">Just a sec…</string>
+    <string name="gb_signed_gift_loading_fail">"Couldn't load"</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

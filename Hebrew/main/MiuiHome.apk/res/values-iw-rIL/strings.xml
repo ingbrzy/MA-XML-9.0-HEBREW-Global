@@ -81,6 +81,7 @@
     <string name="current_preview">תצוגה מקדימה</string>
     <string name="current_wallpaper">נוכחי</string>
     <string name="custom_wallpaper_picker">סייר</string>
+    <string name="defalut_launcher_title">משגר היישומים ברירת המחדל</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">משחקים</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
@@ -179,13 +180,16 @@
     <string name="invalid_contact_shortcut">איש קשר לא חוקי</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
     <string name="is_system_wallpaper_message">לא ניתן למחוק קבצי מערכת</string>
+    <string name="launcher_auto_fill_empty_title">מלא תאים ריקים</string>
     <string name="launcher_not_exist">"אירעה שגיאה, חזור ל'מסך הבית' ונסה שוב."</string>
+    <string name="launcher_title">מסך הבית &amp; אחרונים</string>
     <string name="like">מועדף</string>
     <string name="liked">נשמר למועדפים</string>
     <string name="loading_desktop">רק רגע…</string>
     <string name="loading_wallpaper">רק רגע…</string>
     <string name="local_wallpaper">הורדו</string>
     <string name="lock_screen">מסך הנעילה</string>
+    <string name="lock_screen_cells_title">"נעל את פריסת 'מסך הבית'"</string>
     <string name="lock_screen_failed_message">"לא ניתן להגדיר את טפט 'מסך הנעילה'"</string>
     <string name="lock_screen_success_message">"נקבע כטפט 'מסך הנעילה'"</string>
     <string name="lock_screen_wallpaper">טפט מסך הנעילה</string>
@@ -212,6 +216,7 @@
     <string name="menu_wallpaper">טפט</string>
     <string name="menu_workspace_preview">"תצוגות מקדימות של 'מסך הבית'"</string>
     <string name="mi_wallpaper">חנות ערכות נושא MIUI</string>
+    <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
     <string name="mtzgadget_missing_text">"הווידג'ט לא זמין"</string>
     <string name="multi_selecting_tips">על מנת לבחור יישום, גרור את האייקון שלו לכאן</string>
     <string name="no_detail_page">עמוד ללא פרטים</string>
@@ -220,6 +225,11 @@
     <string name="notification_installed">הותקן בהצלחה</string>
     <string name="notification_open_button">פתח</string>
     <string name="online_wallpaper">מקוון</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">ביטול</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">כיבוי</string>
+    <string name="open_personal_assistant_dialog_desc">"לא תוכל להשתמש ב'כספת היישומים' ולקבל את העדכונים שלה. לכבות כעת?"</string>
+    <string name="open_personal_assistant_dialog_title">"כיבוי 'כספת היישומים'"</string>
+    <string name="open_personal_assistant_title">"הפעלת 'כספת היישומים'"</string>
     <string name="out_of_space">אין עוד מקום פנוי בדף מסך הבית הזה</string>
     <string name="permdesc_install_shortcut">אפשר ליישום להוסיף קיצורי דרך ללא התערבות המשתמש.</string>
     <string name="permdesc_install_widget">"אפשר ליישום להוסיף ווידג'טים ללא התערבות המשתמש."</string>
@@ -249,6 +259,8 @@
     <string name="pref_wallpaper_scroll_type_title">גלילת טפט</string>
     <string name="preferences_general_title">הגדרות נוספות</string>
     <string name="preferences_title">"הגדרות 'משגר היישומים'"</string>
+    <string name="preferred_app_settings_not_selected">Not selected</string>
+    <string name="recents_config_title">לאחרונה</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">ריק</string>
     <string name="recommend_apps_no_data">אין נתונים</string>
@@ -258,6 +270,7 @@
     <string name="recommend_apps_tips">דרוש חיבור לאינטרנט על מנת שתכונה זו תוכל לעבוד כראוי. לכיבוי תכונה זו, גע בשם של תיקיה זו.</string>
     <string name="recommend_loading">טוען</string>
     <string name="reset_scene_prompt">פריסת המסך תאופס לברירת מחדל.</string>
+    <string name="screen_cells_config_title">"פריסת 'מסך הבית'"</string>
     <string name="screen_locked_toast">"פריסת 'עמוד הבית' נעולה"</string>
     <string name="screen_number">%d מסך</string>
     <string name="select_all">בחר הכל</string>
@@ -268,6 +281,7 @@
     <string name="settings_shortcut">הגדרות</string>
     <string name="share">שיתוף</string>
     <string name="show_all">הצג הכל</string>
+    <string name="show_mem_info_title">הצג סטטוס זכרון</string>
     <string name="sort_by_abc">מיין לפי שם</string>
     <string name="sort_by_frequency">מיין לפי שימוש</string>
     <string name="sort_by_not_defined">מיון אוטומטי</string>
@@ -278,6 +292,7 @@
     <string name="status_installing">מתקין</string>
     <string name="status_paused">נעצר</string>
     <string name="status_pending">ממתין</string>
+    <string name="title_jeejen">"'מסך הבית' של Jeejen"</string>
     <string name="title_select_live_folder">בחר תיקיה</string>
     <string name="title_select_shortcut">בחר קיצור דרך</string>
     <string name="toast_screen_icons_misplaced">שוחזר ממקור אחר, יתכן שאייקונים מסויימים אבדו</string>
@@ -314,18 +329,4 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
-    <string name="defalut_launcher_title">משגר היישומים ברירת המחדל</string>
-    <string name="launcher_auto_fill_empty_title">מלא תאים ריקים</string>
-    <string name="launcher_title">מסך הבית &amp; אחרונים</string>
-    <string name="lock_screen_cells_title">"נעל את פריסת 'מסך הבית'"</string>
-    <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">ביטול</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">כיבוי</string>
-    <string name="open_personal_assistant_dialog_desc">"לא תוכל להשתמש ב'כספת היישומים' ולקבל את העדכונים שלה. לכבות כעת?"</string>
-    <string name="open_personal_assistant_dialog_title">"כיבוי 'כספת היישומים'"</string>
-    <string name="open_personal_assistant_title">"הפעלת 'כספת היישומים'"</string>
-    <string name="recents_config_title">לאחרונה</string>
-    <string name="screen_cells_config_title">"פריסת 'מסך הבית'"</string>
-    <string name="show_mem_info_title">הצג סטטוס זכרון</string>
-    <string name="title_jeejen">"'מסך הבית' של Jeejen"</string>
 </resources>

@@ -110,9 +110,9 @@
     <string name="bookmark_group_lable">קבוצה</string>
     <string name="bookmark_needs_title">יש להזין שם סימניה</string>
     <string name="bookmark_needs_url">על הסימניה להכיל כתובת אינטרנט</string>
-    <string name="bookmark_not_saved">לא ניתן היה לשמור סימניה</string>
+    <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
     <string name="bookmark_rename_group">שינוי שם הקבוצה</string>
-    <string name="bookmark_saved">נשמר כסימניה</string>
+    <string name="bookmark_saved">Added to bookmarks</string>
     <string name="bookmark_title">שם סימניה</string>
     <string name="bookmark_title_lable">כותרת</string>
     <string name="bookmark_url">כתובת http://</string>
@@ -168,6 +168,7 @@
     <string name="color_picker_dialog_title">בחירת צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -516,8 +517,8 @@
     <string name="nav_screen_container_tab_normal">תוית רגילה</string>
     <string name="nav_screen_incognito_message">"היסטורית הגלישה והחיפוש שלך לא תישמר במצב 'גלישה בסתר'.
 זכור כי הקבצים שתוריד והסימניות שתוסיף עדיין ישמרו."</string>
-    <string name="nav_screen_incognito_title">מצב גלישה בסתר</string>
-    <string name="navigation_delete_all">החלק שמאלה וימינה לסגירת כל התויות</string>
+    <string name="nav_screen_incognito_title">Incognito mode</string>
+    <string name="navigation_delete_all">Swipe left or right to close all tabs</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ביטול</string>
     <string name="navigationbar_rightbutton_actiontext_go">המשך</string>
     <string name="navigationbar_rightbutton_actiontext_search">חיפוש</string>

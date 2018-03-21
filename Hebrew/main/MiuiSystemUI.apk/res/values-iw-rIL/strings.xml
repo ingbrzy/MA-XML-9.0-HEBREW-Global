@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -80,6 +82,7 @@
     <string name="accessibility_wifi_two_bars">2 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_three_bars">3 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_signal_full">קליטת רשת אלחוטית מלאה.</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">יישומים שהועברו</string>
     <string name="data_usage_uninstalled_apps_users">יישומים ומשתמשים שהועברו</string>
     <string name="tether_settings_title_usb">שיתוף אינטרנט USB</string>
@@ -526,8 +529,8 @@ d MMMM"</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_recent_memory_info1">זמינים %2$sB | %1$sB בסה\"כ</string>
     <string name="status_bar_recent_memory_info2" />
-    <string name="memory_clear_result_mega">%1$sMB cleared</string>
-    <string name="memory_clear_result_giga">%1$sGB cleared</string>
+    <string name="memory_clear_result_mega">%1$sMB נוקו</string>
+    <string name="memory_clear_result_giga">%1$sGB נוקו</string>
     <string name="accessibility_recent_task_exit">"'אחרונים' נסגר"</string>
     <string name="accessibility_recent_task_memory_info">סה\"כ זכרון RAM: %2$s | זכרון RAM זמין: %1$s. הקשה כפולה לניקוי.</string>
     <string name="accessibility_recent_task_locked">נעול, החלק מטה לביטול הנעילה.</string>
@@ -570,7 +573,7 @@ d MMMM"</string>
     <string name="settings_toggle_position_reset">איפוס מתגים</string>
     <string name="list_delimeter">", "</string>
     <string name="camera_key_action_setting_title">כפתור Mi</string>
-    <string name="camera_key_action_category_title">השתמש אם יישום המצלמה אינו פתוח</string>
+    <string name="camera_key_action_category_title">"Use if the Camera app isn't open"</string>
     <string name="camera_key_action_none_title">אין פעולה</string>
     <string name="camera_key_action_shortcut_title">קיצור דרך</string>
     <string name="camera_key_action_toggle_title">מתג טריגר</string>
@@ -612,8 +615,9 @@ d MMMM"</string>
     <string name="ext_media_nomedia_notification_title">אחסון USB הוסר</string>
     <string name="ext_media_nomedia_notification_message">אחסון USB הוסר. הכנס מדיה חדשה.</string>
     <string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
-    <string name="ext_media_mountable_notification_message">"לחץ לפתיחה ב'מנהל הקבצים'."</string>
+    <string name="ext_media_mountable_notification_message">"לחץ לפתיחה ב'מנהל הקבצים'"</string>
     <string name="ext_media_safe_remove">הסר בבטחה</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">М/s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
@@ -692,6 +696,7 @@ d MMMM"</string>
     <string name="notification_header_title">התראות</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="no_weather_description">קבל מידע אודות מזג האויר ></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">לוח ההתראות</string>
     <string name="accessibility_desc_quick_settings">הגדרות מהירות</string>
     <string name="accessibility_desc_details_page">עמוד הפרטים של %1$s</string>
@@ -737,6 +742,7 @@ d MMMM"</string>
     <string name="accessibility_brightness_slider">מחוון בהירות</string>
     <string name="click_to_return_multi_window">"לחץ על מנת לחזור ל'מסך מפוצל'"</string>
     <string name="recent_dock_tip">לחץ לבחירת יישומים</string>
+    <string name="recent_cannot_dock">"Can't use Split screen in Second Space"</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"'מסך מפוצל' אינו נתמך ב'מסך הנעילה'."</string>
     <string name="un_important_notifications">התראות לא חשובות</string>
     <string name="as_important">חשובות</string>
@@ -745,7 +751,7 @@ d MMMM"</string>
     <string name="unimportant_desc">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת.</string>
     <string name="important_desc">"כל ההתראות החשובות יופיעו ישירות ב'לוח ההתראות'."</string>
     <string name="cancel">ביטול</string>
-    <string name="search_hint">Search for websites, apps, contacts, videos...</string>
+    <string name="search_hint">חיפוש אתרים, יישומים, אנשי קשר, סרטונים...</string>
     <string name="description_image_button_reject">דחיה</string>
     <string name="description_image_button_answer">מענה</string>
     <string name="screenshot_feedback_txt">משוב</string>
@@ -758,8 +764,8 @@ d MMMM"</string>
     <string name="fsg_demo_go_on">למד</string>
     <string name="fs_gesture_back_home_summary">החלקה מהתחתית במהירות</string>
     <string name="fs_gesture_switch_recents_summary">החלקה מהתחתית ועצירה</string>
-    <string name="how_to_use_drawer">כיצד להשתמש בפונקצית החלקת היישומים</string>
-    <string name="how_to_use_drawer_summary">החלקה מהחלק השמאלי העליון</string>
+    <string name="how_to_use_drawer">כיצד לפתוח את תפריט ההחלקה</string>
+    <string name="how_to_use_drawer_summary">החלק ימינה בחלק העליון של המסך</string>
     <string name="fs_gesture_back_ready_title">חזרה</string>
     <string name="fs_gesture_left_back_ready_summary">החלקה ימינה מהקצה</string>
     <string name="fs_gesture_right_back_ready_summary">החלקה שמאלה מהקצה</string>

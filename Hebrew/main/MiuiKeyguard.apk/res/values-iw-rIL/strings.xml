@@ -5,12 +5,13 @@
     <string name="unlockscreen_recharge_completed">סוללה טעונה</string>
     <string name="unlockscreen_low_battery">חבר מטען כעת</string>
     <string name="lockscreen_charging_msg">טוען</string>
-    <string name="reset_device_tip">טעינה איטית, אנא מקם מחדש את הטלפון</string>
-    <string name="reset_device_detail_tip">טעינה אלחוטית, אנא ישר את הטלפון על הבסיס, על מנת להבטיח את מהירות הטעינה.</string>
-    <string name="wireless_charge_stop">הטעינה האלחוטית נעצרה</string>
+    <string name="reset_device_tip">הטעינה איטית. הנח מחדש את מכשירך.</string>
+    <string name="reset_device_detail_tip">מקם את מכשירך על המטען האלחוטי בצורה נכונה על מנת להבטיח טעינה מהירה.</string>
+    <string name="wireless_charge_stop">הטעינה האלחוטית הופסקה</string>
     <string name="change_to_ac_charging">נעשה מעבר לטעינה אלחוטית</string>
-    <string name="wireless_charge_dialog_title">מיקום לא מאוזן, אנא מקם מחדש</string>
+    <string name="wireless_charge_dialog_title">הנח את מכשירך מחדש על המטען האלחוטי</string>
     <string name="wireless_charge_dialog_cancel">ביטול</string>
+    <string name="wireless_current_charge">טעינה נוכחית</string>
     <string name="emergency_call_string">חירום</string>
     <string name="forget_password_string">שכחתי סיסמה</string>
     <string name="input_puk_code">הכנס PUK</string>
@@ -64,6 +65,7 @@
     <string name="input_password_after_boot_msg">לביטול נעילת המכשיר, הזן סיסמתך</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
     <string name="input_password_handle_sdcard_fs">"לא ניתן להיכנס ל'שטח שני' מ'מסך הנעילה'. היכנס מ'שטח ראשון'."</string>
     <string name="accessibility_enter_lock_wallpaper">"לחץ לפתיחת 'טפט מתחלף'"</string>
     <string name="wallpaper_global_des_drop_down_notify_text">שחרר לצפיה בפרטים</string>
@@ -147,5 +149,6 @@
     <string name="do_disclosure_with_name">מכשיר זה מנוהל על ידי %s</string>
     <string name="face_unlock_reenter_title">בצע רישום של תוי פניך שוב.</string>
     <string name="face_unlock_reenter_content">אלגוריתם ביטול הנעילה באמצעות פנים מתעדכן. לחץ לרישום תוי הפנים שוב.</string>
+    <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">טפט קרוסלה</string>
 </resources>

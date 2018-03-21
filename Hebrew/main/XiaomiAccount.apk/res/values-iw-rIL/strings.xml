@@ -202,6 +202,7 @@
     <string name="passport_get_innetdate_msg">&lt;font color=Red>נדמה כי&lt;/font> המספר %s מוחזר על ידי ספק הרשת שלך. לבדוק מתי המספר היה מקוון?</string>
     <string name="passport_get_innetdate_agree">בדיקה</string>
     <string name="passport_get_innetdate_disagree">לא</string>
+    <string name="passport_extra_gdpr_license">"יצירת חשבון Mi שלך משמעותה שהינך מסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל נתוני אימות (לדוגמה: קודי אימות), נתוני 'שטח שני' (לדוגמה: פרטי השימוש שלך ב'שטח שני', מספרי זיהוי בהם נעשה שימוש ב'שטח ראשון' ו'שטח שני'), ונתונים אחרים המצויינים במדיניות הפרטיות שלנו. קרא את מדיניות הפרטיות שלנו על מנת להבין כיצד אנו מעבדים ומשתמשים בנתונים אישיים."</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -416,9 +417,9 @@
     <string name="find_device_activate_account">הפעל חשבון</string>
     <string name="login_check_find_device">משיג את פרטי אבטחת המכשיר…</string>
     <string name="unlock_help_notice">"עזרה:
-· במידה ושכחת את סיסמתך, עבור אל id.mi.com על מנת לאפס אותה.
-· אם אינך יכול לבטל את נעילת המכשיר, עבור אל i.mi.com על מנת לכבות את 'איתור המכשיר'.
-· מספר ביטול הנעילה שלך: %s"</string>
+1. במידה ושכחת את סיסמתך, עבור אל id.mi.com על מנת לאפס אותה.
+2. אם אינך יכול לבטל את נעילת המכשיר, עבור אל i.mi.com על מנת לכבות את 'איתור המכשיר'.
+3. מספר ביטול הנעילה שלך הינו: %s"</string>
     <string name="login_find_device_bind">מכשיר זה מקושר למזהה חשבון Mi קיים (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, מספר הטלפון המקושר: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, כתובת הדואל המקושרת: %s</string>

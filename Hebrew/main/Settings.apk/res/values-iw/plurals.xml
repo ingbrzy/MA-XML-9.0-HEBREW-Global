@@ -198,6 +198,12 @@
         <item quantity="two">הוענקו %d הרשאות</item>
         <item quantity="many">הוענקו %d הרשאות</item>
     </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d משימות הדפסה</item>
+        <item quantity="one">משימת הדפסה אחת</item>
+        <item quantity="two">%1$d משימות הדפסה</item>
+        <item quantity="many">%1$d משימות הדפסה</item>
+    </plurals>
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d שירותי הדפסה פועלים</item>
         <item quantity="one">שירות הדפסה אחד פועל</item>

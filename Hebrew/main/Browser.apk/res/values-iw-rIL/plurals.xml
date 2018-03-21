@@ -109,9 +109,9 @@
         <item quantity="many">%d דקות נותרו</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">בהיר</item>
-        <item quantity="one">בהיר</item>
-        <item quantity="two">בהיר</item>
-        <item quantity="many">בהיר</item>
+        <item quantity="other">Clear</item>
+        <item quantity="one">Clear</item>
+        <item quantity="two">Clear</item>
+        <item quantity="many">Clear</item>
     </plurals>
 </resources>

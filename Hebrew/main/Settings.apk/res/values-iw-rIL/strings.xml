@@ -334,7 +334,6 @@
     <string name="data_usage_tab_wifi">רשתות אלחוטיות</string>
     <string name="date_time_settings">תאריך &amp; שעה</string>
     <string name="day_of_week">יום בשבוע</string>
-    <string name="defalut_launcher_title">משגר היישומים ברירת המחדל</string>
     <string name="default_input_method">בחר מקלדת ברירת מחדל</string>
     <string name="default_rule_name">טיימר 1</string>
     <string name="default_usb_mode">חיבור USB</string>
@@ -642,8 +641,6 @@
     <string name="launch_google_search">הפעלת סייע Google</string>
     <string name="launch_recents">נפתחו לאחרונה</string>
     <string name="launch_voice_assistant">"הפעלת 'סייע קולי'"</string>
-    <string name="launcher_auto_fill_empty_title">מלא תאים ריקים</string>
-    <string name="launcher_title">מסך הבית &amp; אחרונים</string>
     <string name="launching_cit">מפעיל את CIT</string>
     <string name="launching_pho">פותח את פרטי הטלפון…</string>
     <string name="launching_rep">מדווח…</string>
@@ -697,7 +694,6 @@
     <string name="location_neighborhood_level">אפשר ליישומים להשתמש בנתוני רשתות אלחוטיות ורשתות סלולריות על מנת להעריך את מיקומך</string>
     <string name="location_neighborhood_level_wifi">המיקום נקבע באמצעות הרשת האלחוטית</string>
     <string name="location_network_based">רשת אלחוטית &amp; רשת סלולרית</string>
-    <string name="lock_screen_cells_title">"נעל את פריסת 'מסך הבית'"</string>
     <string name="lock_screen_notifications_summary_hide">הצג את כל ההתראות אך הסתר את תוכנן</string>
     <string name="lock_screen_notifications_summary_show">הצג את כל ההתראות והתוכן שלהן</string>
     <string name="lock_screen_signature_summary">"הודעה זו תוצג ב'מסך הנעילה'"</string>
@@ -831,7 +827,6 @@
     <string name="miui_lab_slogan">ללמוד. לחקור. לגלות.</string>
     <string name="miui_lab_taplus_desc">לחיצה ארוכה על פריטים להתחלת ביצוע פעולות</string>
     <string name="miui_master_clear_summary">מוחק את כל הנתונים מהטלפון</string>
-    <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
     <string name="miui_updater">עדכון מערכת</string>
     <string name="mms_breathing_light_color_title">צבע נורית ההודעות</string>
     <string name="mms_breathing_light_freq_title">תדירות הבהוב עבור הודעות</string>
@@ -952,6 +947,8 @@
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">הוספה</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">הוסף טביעת אצבע</string>
     <string name="next_button_label">הבא</string>
+    <string name="nfc_payment_favor_default">Always use default app</string>
+    <string name="nfc_payment_favor_open">Replace default app when another payment app is open</string>
     <string name="nfc_quick_toggle_summary">אפשר החלפת נתונים כאשר הטלפון נוגע במכשיר אחר</string>
     <string name="nfc_se_route_title">מיקום הרכיב המאובטח</string>
     <string name="nfc_se_wallet_title">ארנק ברירת מחדל</string>
@@ -991,11 +988,6 @@
     <string name="open_demo_mode_warning_message">"כאשר מצב 'דמו' מופעל, השעון בשורת המצב יעצר והאייקונים של הסוללה ואות הרשת יוצגו כמלאים. באפשרותך לכבות את מצב 'דמו' או לאתחל את המכשיר על מנת לשנות זאת."</string>
     <string name="open_miui_optimization_title">הפעל ייעול MIUI</string>
     <string name="open_miui_optimization_warning_message">מכשירך יאותחל על מנת להחיל שינוי זה.</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">ביטול</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">כיבוי</string>
-    <string name="open_personal_assistant_dialog_desc">"לא תוכל להשתמש ב'כספת היישומים' ולקבל את העדכונים שלה. לכבות כעת?"</string>
-    <string name="open_personal_assistant_dialog_title">"כיבוי 'כספת היישומים'"</string>
-    <string name="open_personal_assistant_title">"הפעלת 'כספת היישומים'"</string>
     <string name="open_wifi_connect_summary">לחץ לצפיה בפרטים.</string>
     <string name="open_wifi_connect_title">מחובר אל %1$s</string>
     <string name="optimization_cancel">ביטול</string>
@@ -1118,9 +1110,10 @@
     <string name="priority_storage_settings_summary">במידה ולא זוהה כרטיס זכרון, הנתונים שלך ישמרו בזכרון הפנימי של מכשירך באופן אוטומטי</string>
     <string name="priority_storage_summary">בחר היכן לשמור את הנתונים שלך</string>
     <string name="priority_storage_title">הגדרות אחסון</string>
+    <string name="privacy_authorize_cloud_msg">על מנת להבטיח את אבטחת החשבון שלך, היכנס אל i.mi.com במידה וברצונך לשלול את ההרשאה משירותי Mi Cloud (כולל גיבויים וסנכרון).</string>
     <string name="privacy_authorize_dialog_agree">מסכים</string>
     <string name="privacy_authorize_dialog_exit">יציאה</string>
-    <string name="privacy_authorize_dialog_message">%1$s דורש שתקרא ותסכים ל%2$s. היישום זקוק לחיבור לאינטרנט על מנת שיוכל לעבוד באופן תקין. מסכים?</string>
+    <string name="privacy_authorize_dialog_message"><Data>"על מנת שתוכל להשתמש בתכונות הבסיסיות של שירותי Mi Cloud, עליך להסכים לכך ש-Xiaomi תאסוף, תעבד, ותשתמש בנתונים האישיים שלך. קרא את 'מדיניות הפרטיות' על מנת ללמוד כיצד אנו אוספים ומעבדים נתונים אישיים. בחירה ב\"מסכים\" משמעותה שקראת והינך מסכים ל&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">הסכם המשתמש&lt;/a> שלנו."</Data></string>
     <string name="privacy_authorize_network_error">התחבר לרשת ונסה שוב.</string>
     <string name="privacy_authorize_privacy_policy">מדיניות הפרטיות</string>
     <string name="privacy_authorize_revoke">שלילה</string>
@@ -1212,7 +1205,6 @@
     <string name="receiver_clean">פנה שטח</string>
     <string name="recent_location_requests_summary">צפה ביישומים המבקשים לגשת למידע אודות המיקום שלך</string>
     <string name="recent_location_requests_title">גישה למיקום</string>
-    <string name="recents_config_title">לאחרונה</string>
     <string name="recommend_item_1">כיסוי טלפון</string>
     <string name="recommend_item_3">מטען נייד</string>
     <string name="recommend_item_4">אוזניות</string>
@@ -1242,7 +1234,6 @@
     <string name="screen">מסך</string>
     <string name="screen_button">לחצני המסך</string>
     <string name="screen_button_tips">החלק מטה להסתרת לחצני המסך</string>
-    <string name="screen_cells_config_title">"פריסת 'מסך הבית'"</string>
     <string name="screen_color_and_optimize">צבעים &amp; ניגודיות</string>
     <string name="screen_color_and_optimize_disabled">"לא ניתן להתאים טמפרטורת צבע ב'מצב קריאה'"</string>
     <string name="screen_color_temperature">צבעים</string>
@@ -1490,6 +1481,8 @@
     <string name="search_xiaomi_account">חשבון Mi;מזהה חשבון Mi;חשבון;מזהה חשבון</string>
     <string name="search_xspace">יישום משוכפל;יישומים משוכפלים;יישום כפול;יישומים כפולים;יישום משובט;יישומים משובטים;שיבוט יישום;שיבוט יישומים;שני חשבונות;2 חשבונות</string>
     <string name="second_space">שטח שני</string>
+    <string name="secondspace_category">שטח שני</string>
+    <string name="secondspace_delete_space_title">"מחיקת 'שטח שני'"</string>
     <string name="secure_keyguard_business_title">הגדר שיטה לנעילת המסך</string>
     <string name="security_encryption_alert_dialog_info_first">הגדר סיסמה עבור מסך הנעילה על מנת להפעיל תכונה זו. יהיה עליך להזין את סיסמת מסך הנעילה לאחר כל אתחול על מנת לפענח את הצפנת המכשיר ולהשתמש בו באופן תקין.</string>
     <string name="security_encryption_alert_dialog_title_first">הגדר שיטה לנעילת המסך תחילה</string>
@@ -1538,7 +1531,6 @@
     <string name="show_fc">יישומים שנסגרו בכפייה</string>
     <string name="show_fc_summary">הצגת יישומים שנסגרו בכפייה</string>
     <string name="show_magnifier_when_input">זכוכית מגדלת לטקסט</string>
-    <string name="show_mem_info_title">הצג סטטוס זכרון</string>
     <string name="show_menu">הצגת תפריט</string>
     <string name="show_owner_info_on_lockscreen_label">"הצג חתימה ב'מסך הנעילה'"</string>
     <string name="show_rounded_corners">הצג פינות מעוגלות</string>
@@ -1688,7 +1680,6 @@
     <string name="title_font_current">גופן המערכת</string>
     <string name="title_font_current2">גופן המערכת</string>
     <string name="title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
-    <string name="title_jeejen">"'מסך הבית' של Jeejen"</string>
     <string name="title_layout_current">גודל הטקסט</string>
     <string name="title_layout_current2">גודל הטקסט</string>
     <string name="toast_lockscreen_glogin_empty_password">הזן סיסמה</string>
@@ -1759,7 +1750,6 @@
     <string name="unrestrict_max_aspect_ratio_title">יישומים אלה עובדים ביעילות במצב מסך מלא</string>
     <string name="update_new_version">קיים עדכון זמין</string>
     <string name="update_progress_for_updates">מעדכן (%s)</string>
-    <string name="upload_debug_log_summary">נתוני האבחון עשויים להכיל מידע אודות השימוש שלך בחומרה, במערכת ההפעלה, וביישומים. הנתונים ישמשו לאיתור וניתוח הבעיות במערכת ולעולם לא ישמשו לזיהויך באופן אישי.</string>
     <string name="upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
     <string name="usage_log">סטטיסטיקות שימוש ביישומים</string>
     <string name="usage_type_data_wifi_recv">נתוני רשת אלחוטית שהתקבלו</string>
@@ -1795,7 +1785,6 @@
     <string name="user_dict_settings_empty_text">"אין ברשותך יומנים
 לחץ על הפלוס להוספת מילים."</string>
     <string name="user_experience_program">תוכנית חווית המשתמש</string>
-    <string name="user_experience_program_summary">עזור בשיפור MIUI על ידי שליחת נתוני שימוש אנונימיים</string>
     <string name="user_experience_program_title">תוכנית חווית המשתמש</string>
     <string name="user_settings_forbidden">"לא ניתן לשנות את הגדרות המנהל בשטח הנוכחי, חזור אל 'שטח ראשון'."</string>
     <string name="vibrate_category_title">רטט</string>
@@ -1880,6 +1869,9 @@
     <string name="wfd_menu_teardown">עצור</string>
     <string name="wfd_settings_description">התחבר לתצוגה באמצעות רשת אלחוטית</string>
     <string name="wfd_settings_title">תצוגה אלחוטית</string>
+    <string name="wfd_status_dialog_disconnect">התנתק</string>
+    <string name="wfd_status_dialog_message">התכנים שעל גבי המסך מוצגים גם על גבי התקן תצוגה אחר באמצעות חיבור אלחוטי</string>
+    <string name="wfd_status_dialog_title">תצוגה אלחוטית</string>
     <string name="wfd_wps_keypad">השתמש בלוח המקשים</string>
     <string name="wfd_wps_pbc">הזן PIN</string>
     <string name="whetstone_level_reboot">הגדרה זו תיכנס לתוקף לאחר שתאתחל את מכשירך.</string>
@@ -2059,8 +2051,4 @@
     <string name="zen_mode_option_miui_vibrate">נא לא להפריע</string>
     <string name="zen_mode_phone_calls">שיחות</string>
     <string name="zen_mode_settings_title">נא לא להפריע</string>
-    <string name="lock_screen_secure_after_timeout_immediately_never">לעולם אל תדרוש סיסמה</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">דרוש סיסמה באופן מידי</string>
-    <string name="lock_screen_secure_after_timeout_summary">דרוש סיסמה: %1$s</string>
-    <string name="lock_screen_secure_after_timeout_title">דרוש סיסמה</string>
 </resources>

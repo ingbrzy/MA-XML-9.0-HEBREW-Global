@@ -19,9 +19,10 @@
     <string name="other_settings_location">מיקום</string>
     <string name="other_settings_location_summary">אפשר ליישומים לגשת למיקומך.</string>
     <string name="other_settings_user_experience">תכנית חווית המשתמש</string>
-    <string name="other_settings_user_experience_summary">עזור לנו לשפר את המוצרים והשירותים שלנו על ידי שליחת נתונים אנונימית.</string>
+    <string name="other_settings_user_experience_summary">Help us improve our products and services by sharing your usage stats with us. Details</string>
+    <string name="other_settings_user_experience_summary_index">Details</string>
     <string name="other_settings_upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
-    <string name="other_settings_upload_debug_log_summary">המידע שאנו אוספים יעזור באיתור וניתוח הבעיות במערכת ועשוי להכיל מידע אישי. לא יעשה שימוש בנתונים על מנת לזהות אותך באופן אישי.</string>
+    <string name="other_settings_upload_debug_log_summary">Usage stats which help us locate and solve issues may contain your personal info</string>
     <string name="other_settings_auto_update">התקנה אוטומטית</string>
     <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הרגע המתאים ביותר להתקנת העדכונים.</string>
     <string name="other_settings_ad_enable">המלצות מותאמות אישית אודות פרסומות</string>
