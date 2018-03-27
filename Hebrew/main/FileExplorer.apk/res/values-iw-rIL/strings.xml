@@ -351,7 +351,6 @@
     <string name="choose_report_reason">מדוע אתה מדווח על וידאו זה?</string>
     <string name="input_memo_hint">הזן סיבות נוספות (לא חובה)</string>
     <string name="network_dialog_checkbox_tip">אל תציג שוב</string>
-    <string name="video_tag">\# %s #</string>
     <string name="remote_video_report_success">תודה על המשוב! אנו נעקוב בהקדם.</string>
     <string name="video_status_review">נמצא בבדיקה</string>
     <string name="video_status_reject">נדחה</string>
@@ -436,7 +435,6 @@
     <string name="video_publish_hint">תאור ברור יעזור לאנשים אחרים למצוא את הוידאו שלך</string>
     <string name="video_publish_hint2">תאור</string>
     <string name="video_comment_limit">%1$s תווים נותרו</string>
-    <string name="video_tag_search_lead">\#</string>
     <string name="video_data_consumption_dialog_title">אזהרת שימוש בנתונים</string>
     <string name="video_data_consumption_dialog_message">ההעלאה תדרוש שימוש ב- %1$s של נתונים סלולריים</string>
     <string name="video_data_consumption_confirm">אישור</string>
@@ -566,7 +564,6 @@
     <string name="message_praise_comment">" סימן הערה זו ב'אהבתי'"</string>
     <string name="get_user_info_err">לא ניתן היה לקבל מידע אודות אדם זה</string>
     <string name="choose_report_comment_reason">מדוע אתה מדווח על הערה זו?</string>
-    <string name="add_one">+1</string>
     <string name="no_comment">אין הערות</string>
     <string name="no_topic">אין נושאים</string>
     <string name="no_message">אין הודעות</string>

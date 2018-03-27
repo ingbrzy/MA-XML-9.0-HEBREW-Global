@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -82,7 +80,6 @@
     <string name="accessibility_wifi_two_bars">2 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_three_bars">3 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_signal_full">קליטת רשת אלחוטית מלאה.</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">יישומים שהועברו</string>
     <string name="data_usage_uninstalled_apps_users">יישומים ומשתמשים שהועברו</string>
     <string name="tether_settings_title_usb">שיתוף אינטרנט USB</string>
@@ -617,7 +614,6 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
     <string name="ext_media_mountable_notification_message">"לחץ לפתיחה ב'מנהל הקבצים'"</string>
     <string name="ext_media_safe_remove">הסר בבטחה</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">М/s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
@@ -699,7 +695,6 @@ d MMMM"</string>
     <string name="notification_header_title">התראות</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="no_weather_description">קבל מידע אודות מזג האויר ></string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">לוח ההתראות</string>
     <string name="accessibility_desc_quick_settings">הגדרות מהירות</string>
     <string name="accessibility_desc_details_page">עמוד הפרטים של %1$s</string>
