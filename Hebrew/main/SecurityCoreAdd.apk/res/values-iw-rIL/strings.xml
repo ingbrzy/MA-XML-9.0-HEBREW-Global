@@ -358,6 +358,13 @@
     <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
 במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
     <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
+    <string name="encrypt_space_delete_dialog_title">Attention</string>
+    <string name="encrypt_space_delete_dialog_message">"You're about to update Android. After the update, Second space data will become incompatible. To avoid this, move all data to First space, delete Second space, and create it again."</string>
+    <string name="encrypt_space_delete_dialog_click_message">"*If you don't need to move data, %s"</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">delete and create Second space now.</string>
+    <string name="encrypt_space_delete_dialog_positive_text">Move data</string>
+    <string name="encrypt_space_delete_notification_title">Second space</string>
+    <string name="encrypt_space_delete_notification_message">Delete your Second space and create a new one to update your device successfully.</string>
     <string name="space_create_guide_title_1">הגנה על הפרטיות שלך</string>
     <string name="space_create_guide_desc_1">אחסון יישומים ותמונות באופן בטוח</string>
     <string name="space_create_guide_title_2">יצירה בכל עת</string>
@@ -368,15 +375,14 @@
     <string name="second_space_desktop_tips_dialog_title">עדכון חשוב</string>
     <string name="second_space_desktop_tips_dialog_positive_text">הבנתי</string>
     <string name="second_space_desktop_tips_dialog_message">"לאחר העדכון הנוכחי, האייקונים עבור העברת נתונים וניהול 'שטח שני' לא יוצגו עוד ב'מסך הבית'. תוכל לגשת לתכונות אלה ב'הגדרות'."</string>
-    <string name="green_guard">蜂巢</string>
-    <string name="bind_device">绑定设备</string>
-    <string name="green_guard_des1">一键绑定设备，操作简单快捷</string>
-    <string name="green_guard_title2">查看定位</string>
-    <string name="green_guard_des2">实时定位查询，守护外出安全</string>
-    <string name="green_guard_title3">管理应用</string>
-    <string name="green_guard_des3">管理设备应用，控制使用时间</string>
-    <string name="experience_more_features">绑定设备后可体验更多功能</string>
-    <string name="add_spare_text">守护中</string>
-    <string name="control_and_guarding">管控守护中</string>
-    <string name="can_not_switch_when_green_kid_active">家长守护中禁止切换分身</string>
+    <string name="green_guard">בקרת הורים</string>
+    <string name="bind_device">הוספת מכשירים</string>
+    <string name="green_guard_des1">הוסף מכשירים על מנת לנהל אותם מרחוק</string>
+    <string name="green_guard_title2">הצגת פרטי המיקום</string>
+    <string name="green_guard_des2">דע תמיד היכן בדיוק נמצאים כל המכשירים המנוהלים</string>
+    <string name="green_guard_title3">ניהול יישומים</string>
+    <string name="green_guard_des3">שלוט ביישומים המותקנים והגבל את השימוש</string>
+    <string name="experience_more_features">הוסף מכשיר לצפיה בכל התמונות</string>
+    <string name="can_not_switch_when_green_kid_active">"מעבר ל'שטח שני' מוגבלת על ידי בקרת ההורים"</string>
+    <string name="need_network_when_bind">התחבר לרשת לפני הוספת מכשירים</string>
 </resources>

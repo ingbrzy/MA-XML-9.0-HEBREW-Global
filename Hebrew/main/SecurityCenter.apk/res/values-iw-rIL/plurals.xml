@@ -465,9 +465,9 @@
         <item quantity="many">"נותרו %d ימים לסיום תהליך 'האצת מהירות המערכת'. חדש את התהליך על מנת להימנע מבעיות מהירות של הרשת."</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
-        <item quantity="other">Checked in %d days in a row</item>
-        <item quantity="one">Checked in %d time</item>
-        <item quantity="two">Checked in %d days in a row</item>
-        <item quantity="many">Checked in %d days in a row</item>
+        <item quantity="other">"בוצע צ'ק אין %d ימים ברצף"</item>
+        <item quantity="one">"בוצע צ'ק אין פעם %d"</item>
+        <item quantity="two">"בוצע צ'ק אין %d ימים ברצף"</item>
+        <item quantity="many">"בוצע צ'ק אין %d ימים ברצף"</item>
     </plurals>
 </resources>

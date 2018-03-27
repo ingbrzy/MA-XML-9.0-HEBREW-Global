@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -80,6 +82,7 @@
     <string name="accessibility_wifi_two_bars">2 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_three_bars">3 קוי רשת אלחוטית.</string>
     <string name="accessibility_wifi_signal_full">קליטת רשת אלחוטית מלאה.</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">יישומים שהועברו</string>
     <string name="data_usage_uninstalled_apps_users">יישומים ומשתמשים שהועברו</string>
     <string name="tether_settings_title_usb">שיתוף אינטרנט USB</string>
@@ -281,7 +284,7 @@
     <string name="disabled_by_admin">מושבת על ידי המנהל</string>
     <string name="home">"עמוד הבית של 'הגדרות'"</string>
     <string name="charge_length_format">%1$s ago</string>
-    <string name="remaining_length_format">%1$s left</string>
+    <string name="remaining_length_format">נותרו %1$s</string>
     <string name="screen_zoom_summary_small">קטן</string>
     <string name="screen_zoom_summary_default">ברירת מחדל</string>
     <string name="screen_zoom_summary_large">גדול</string>
@@ -570,7 +573,7 @@ d MMMM"</string>
     <string name="settings_toggle_position_reset">איפוס מתגים</string>
     <string name="list_delimeter">", "</string>
     <string name="camera_key_action_setting_title">כפתור Mi</string>
-    <string name="camera_key_action_category_title">"Use if the Camera app isn't open"</string>
+    <string name="camera_key_action_category_title">"השתמש במידה ויישום ה'מצלמה' אינו פתוח"</string>
     <string name="camera_key_action_none_title">אין פעולה</string>
     <string name="camera_key_action_shortcut_title">קיצור דרך</string>
     <string name="camera_key_action_toggle_title">מתג טריגר</string>
@@ -614,6 +617,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">התקן אחסון USB מחובר</string>
     <string name="ext_media_mountable_notification_message">"לחץ לפתיחה ב'מנהל הקבצים'"</string>
     <string name="ext_media_safe_remove">הסר בבטחה</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">М/s</string>
     <string name="status_bar_network_flow_today">היום: %1$s</string>
@@ -665,6 +669,9 @@ d MMMM"</string>
     <string name="notification_low_battery_open_save_mode">"הפעל את מצב 'חיסכון בסוללה'"</string>
     <string name="notification_low_battery_action_btn">הפעל</string>
     <string name="notification_low_battery_need_charge">הסוללה חלשה. טען את המכשיר.</string>
+    <string name="low_temperature_warning_title">אזהרת טמפרטורה נמוכה</string>
+    <string name="low_temperature_warning_message">הטמפרטורה נמוכה מידי. הטלפון שלך עלול לכבות בכל רגע. ודא כי הינך שומר את כל השינויים החשובים.</string>
+    <string name="low_temperature_button_ok">הבנתי</string>
     <string name="oldman_airplane_mode_text">מצב טיסה</string>
     <string name="oldman_incall_text">חזרה לשיחה</string>
     <string name="demo_mode">מצב דמו</string>
@@ -692,6 +699,7 @@ d MMMM"</string>
     <string name="notification_header_title">התראות</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="no_weather_description">קבל מידע אודות מזג האויר ></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">לוח ההתראות</string>
     <string name="accessibility_desc_quick_settings">הגדרות מהירות</string>
     <string name="accessibility_desc_details_page">עמוד הפרטים של %1$s</string>
@@ -737,7 +745,7 @@ d MMMM"</string>
     <string name="accessibility_brightness_slider">מחוון בהירות</string>
     <string name="click_to_return_multi_window">"לחץ על מנת לחזור ל'מסך מפוצל'"</string>
     <string name="recent_dock_tip">לחץ לבחירת יישומים</string>
-    <string name="recent_cannot_dock">"Can't use Split screen in Second Space"</string>
+    <string name="recent_cannot_dock">"לא ניתן להשתמש ב'מסך מפוצל' ב'שטח שני'"</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"'מסך מפוצל' אינו נתמך ב'מסך הנעילה'."</string>
     <string name="un_important_notifications">התראות לא חשובות</string>
     <string name="as_important">חשובות</string>

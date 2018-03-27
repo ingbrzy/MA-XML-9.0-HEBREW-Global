@@ -615,6 +615,7 @@
     <string name="key_gesture_function_preview">תצוגות מקדימות של לחצנים ומחוות</string>
     <string name="key_gesture_function_shortcut">קיצורי דרך פונקציונליים</string>
     <string name="key_none">ללא</string>
+    <string name="key_operation_diagram">גרף פעילות</string>
     <string name="key_position_cat">מיקום הלחצנים</string>
     <string name="key_settings">קיצורי דרך באמצעות לחצנים ומחוות</string>
     <string name="key_settings_title">קיצורי דרך באמצעות לחצנים ומחוות</string>
@@ -641,6 +642,7 @@
     <string name="launch_google_search">הפעלת סייע Google</string>
     <string name="launch_recents">נפתחו לאחרונה</string>
     <string name="launch_voice_assistant">"הפעלת 'סייע קולי'"</string>
+    <string name="launcher_title">מסך הבית &amp; אחרונים</string>
     <string name="launching_cit">מפעיל את CIT</string>
     <string name="launching_pho">פותח את פרטי הטלפון…</string>
     <string name="launching_rep">מדווח…</string>
@@ -804,6 +806,8 @@
     <string name="media_button">לחצן המדיה</string>
     <string name="media_feedback_enable_title">רטט לפי הקצב</string>
     <string name="memory_rightvalue">סה\"כ: %s</string>
+    <string name="memory_system_rom">אחסון מערכת</string>
+    <string name="memory_system_space">אחסון מערכת</string>
     <string name="memory_title">זמין: %1$s\u0009\u0009סהכ: %2$s</string>
     <string name="menu_check">נסיון</string>
     <string name="menu_key">תפריט</string>
@@ -947,8 +951,8 @@
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">הוספה</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">הוסף טביעת אצבע</string>
     <string name="next_button_label">הבא</string>
-    <string name="nfc_payment_favor_default">Always use default app</string>
-    <string name="nfc_payment_favor_open">Replace default app when another payment app is open</string>
+    <string name="nfc_payment_favor_default">השתמש תמיד ביישום ברירת המחדל</string>
+    <string name="nfc_payment_favor_open">החלף את יישום ברירת המחדל בעת שיישום תשלומים אחר פתוח</string>
     <string name="nfc_quick_toggle_summary">אפשר החלפת נתונים כאשר הטלפון נוגע במכשיר אחר</string>
     <string name="nfc_se_route_title">מיקום הרכיב המאובטח</string>
     <string name="nfc_se_wallet_title">ארנק ברירת מחדל</string>
@@ -1185,6 +1189,7 @@
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
     <string name="provision_page_layout_confirm_message">על המכשיר לבצע אתחול על מנת להחיל שינויים אלה. זה לוקח בערך דקה.</string>
@@ -1750,6 +1755,7 @@
     <string name="unrestrict_max_aspect_ratio_title">יישומים אלה עובדים ביעילות במצב מסך מלא</string>
     <string name="update_new_version">קיים עדכון זמין</string>
     <string name="update_progress_for_updates">מעדכן (%s)</string>
+    <string name="upload_debug_log_summary">סטטיסטיקות השימוש אשר מסייעות לנו לאתר ולפתור בעיות עשויות להכיל את פרטיך האישיים</string>
     <string name="upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
     <string name="usage_log">סטטיסטיקות שימוש ביישומים</string>
     <string name="usage_type_data_wifi_recv">נתוני רשת אלחוטית שהתקבלו</string>
@@ -1785,6 +1791,7 @@
     <string name="user_dict_settings_empty_text">"אין ברשותך יומנים
 לחץ על הפלוס להוספת מילים."</string>
     <string name="user_experience_program">תוכנית חווית המשתמש</string>
+    <string name="user_experience_program_summary">עזור לנו לשפר את המוצרים והשירותים שלנו על ידי שיתוף סטטיסטיקות השימוש שלך איתנו</string>
     <string name="user_experience_program_title">תוכנית חווית המשתמש</string>
     <string name="user_settings_forbidden">"לא ניתן לשנות את הגדרות המנהל בשטח הנוכחי, חזור אל 'שטח ראשון'."</string>
     <string name="vibrate_category_title">רטט</string>

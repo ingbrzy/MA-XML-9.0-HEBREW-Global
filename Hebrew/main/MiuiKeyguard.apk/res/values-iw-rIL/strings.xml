@@ -65,7 +65,7 @@
     <string name="input_password_after_boot_msg">לביטול נעילת המכשיר, הזן סיסמתך</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when parental controls are on"</string>
     <string name="input_password_handle_sdcard_fs">"לא ניתן להיכנס ל'שטח שני' מ'מסך הנעילה'. היכנס מ'שטח ראשון'."</string>
     <string name="accessibility_enter_lock_wallpaper">"לחץ לפתיחת 'טפט מתחלף'"</string>
     <string name="wallpaper_global_des_drop_down_notify_text">שחרר לצפיה בפרטים</string>
@@ -149,5 +149,6 @@
     <string name="do_disclosure_with_name">מכשיר זה מנוהל על ידי %s</string>
     <string name="face_unlock_reenter_title">בצע רישום של תוי פניך שוב.</string>
     <string name="face_unlock_reenter_content">אלגוריתם ביטול הנעילה באמצעות פנים מתעדכן. לחץ לרישום תוי הפנים שוב.</string>
+    <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">טפט קרוסלה</string>
 </resources>

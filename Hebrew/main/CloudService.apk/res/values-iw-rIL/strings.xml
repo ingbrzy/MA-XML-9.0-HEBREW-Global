@@ -59,6 +59,8 @@
     <string name="sync_dspt_provision_title">Mi cloud</string>
     <string name="sync_dspt_provision_header">סנכרון</string>
     <string name="sync_dspt_provision">"סנכרן את התמונות שלך, אנשי קשר, פתקים, ועוד על כל ההתקנים שלך או גש אליהם ב "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"תוכל להפעיל או לבטל תכונה זו בכל עת בהגדרות.
 "</string>
     <string name="sync_dspt_entrance_provision">"סנכרן את התמונות, אנשי הקשר, יומן השיחות וההודעות שלך בכל המכשירים שלך. גש לדברים שסינכרנת מכל דפדפן ב: %s. "</string>
@@ -70,6 +72,8 @@
     <string name="sync_dspt_entrance_provision_skip">דלג על שלב זה</string>
     <string name="sync_dspt_entrance_provision_network">יישום זה זקוק לחיבור לאינטרנט על מנת שיוכל לעבוד באופן תקין. דרושים חיבור נתונים סלולרי והפעלת חיבור הרשת האלחוטית על מנת לסנכרן נתונים.</string>
     <string name="find_device_dspt_provision">"במידה ותאבד את מכשירך, תוכל לאתר, לנעול או לאפס אותו ב-%s. ניתן להפעיל או לכבות תכונה זו ב'הגדרות' בכל עת."</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">ניתן להפעיל ולכבות את תכונה זו בכל עת בהגדרות.</string>
     <string name="find_device_dspt_provision_4">במידה ותחליף כרטיס SIM, מסרון להפעלה מחודשת של השירות ישלח אליך באופן אוטומטי.</string>
     <string name="find_device_send_sms_alert">במידה ותחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
@@ -89,9 +93,8 @@
 תכונה זו מצפינה ושולחת את מזהה המכשיר שלך לשרתי Mi."</string>
     <string name="user_agreement_p5">"
 "</string>
-    <string name="user_agreement_p6">"על ידי שימוש בשירות זה אתה מסכים ל "</string>
-    <string name="user_agreement_p7">תנאי השירות של Mi Cloud</string>
-    <string name="user_agreement_p8">.</string>
+    <string name="user_agreement_link">"Mi Cloud's Terms of Service"</string>
+    <string name="user_agreement_content">"By using this service, you're agreeing to %s."</string>
     <string name="user_agreement_title">תנאי השירות של Mi Cloud</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="loading">רק רגע…</string>
@@ -119,6 +122,7 @@
     <string name="find_device_error_server">שגיאת שרת</string>
     <string name="find_device_success_title">איתור מכשיר</string>
     <string name="find_device_notice_p1">עבור אל</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"על מנת לאתר, לנעול או לשחזר את הטלפון שלך.
 במידה והחלפת כרטיס SIM, מסרון נוסף ישלח אוטומטית להפעלה של תכונה זו."</string>
     <string name="i_know">אישור</string>
@@ -168,7 +172,7 @@
     <string name="micloud_user_space_usage">שטח אחסון</string>
     <string name="micloud_web_discription_01">היכנס ל-i.mi.com</string>
     <string name="micloud_web_discription_02">לאחסן ולגשת לקבצים שלך מכל מקום</string>
-    <string name="micloud_web_discription_place_holder">בקר ב-%1$s</string>
+    <string name="micloud_web_discription_place_holder">בקר ב-%1$s במחשב שלך על מנת לנהל את הנתונים שלך.</string>
     <string name="micloud_full_influence_title">כאשר Mi Cloud שלך מלא…</string>
     <string name="micloud_warn_low_title">כמעט ולא נותר שטח אחסון פנוי</string>
     <string name="micloud_warn_low_sum">Mi Cloud שלך מלא ב90%.</string>
@@ -361,9 +365,6 @@
     <string name="buy_more_space_c_class">"תכונה זו דורשת כרטיס אשראי סיני.
 לקבלת עוד שטח אחסון בקר ב-mi.com/micloud."</string>
     <string name="micloud_member_buy_title">אשר הזמנה</string>
-    <string name="micloud_member_buy_content" formatted="false">"בתוקף עד %s-%s-%s
-
-%s נקודות Mi"</string>
     <string name="micloud_member_net_error_alert_title">לא ניתן להתחבר לרשת</string>
     <string name="micloud_member_net_error_alert_message">אין לך חיבור לאינטרנט.</string>
     <string name="micloud_member_pay_fail_toast">לא ניתן היה לבצע את התשלום</string>
@@ -479,6 +480,8 @@
     <string name="micloud_find_device_opened">איתור מכשיר מופעל</string>
     <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
     <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_close_fail">"לא ניתן היה לכבות את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_finish">בוצע</string>
@@ -558,6 +561,8 @@
     <string name="micloud_main_head_menu_state_close">כבוי</string>
     <string name="micloud_main_head_menu_state_unavailable">לא זמין</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">"'איתור המכשיר' אינו זמין ב'שטח שני', תוכל להשתמש בתכונה זו ב'שטח ראשון'."</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">תשלומים באמצעות טביעת אצבע</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

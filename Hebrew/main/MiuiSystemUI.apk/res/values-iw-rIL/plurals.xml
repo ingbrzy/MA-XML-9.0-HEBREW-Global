@@ -37,10 +37,10 @@
         <item quantity="many">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
-        <item quantity="one">Clear</item>
-        <item quantity="two">Clear</item>
-        <item quantity="many">Clear</item>
+        <item quantity="other">בהיר</item>
+        <item quantity="one">בהיר</item>
+        <item quantity="two">בהיר</item>
+        <item quantity="many">בהיר</item>
     </plurals>
     <plurals name="accessibility_desc_weather_temperature">
         <item quantity="other">מזג אויר %d מעלות</item>

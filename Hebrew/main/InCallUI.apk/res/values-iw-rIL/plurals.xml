@@ -6,10 +6,4 @@
         <item quantity="two">%d שיחות הוקלטו.</item>
         <item quantity="many">%d שיחות הוקלטו.</item>
     </plurals>
-    <plurals name="livetalk_left_minute">
-        <item quantity="other">%d דקות נותרו</item>
-        <item quantity="one">דקה %d נותרה</item>
-        <item quantity="two">%d דקות נותרו</item>
-        <item quantity="many">%d דקות נותרו</item>
-    </plurals>
 </resources>

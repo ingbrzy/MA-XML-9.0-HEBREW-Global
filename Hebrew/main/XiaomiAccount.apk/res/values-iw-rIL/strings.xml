@@ -418,7 +418,7 @@
     <string name="login_check_find_device">משיג את פרטי אבטחת המכשיר…</string>
     <string name="unlock_help_notice">"עזרה:
 1. במידה ושכחת את סיסמתך, עבור אל id.mi.com על מנת לאפס אותה.
-2. אם אינך יכול לבטל את נעילת המכשיר, עבור אל i.mi.com על מנת לכבות את 'איתור המכשיר'.
+2. אם אינך יכול לאפס את סיסמתך או שמישהו נעל את מכשירך, עבור אל i.mi.com על מנת לבטל את נעילת מכשירך.
 3. מספר ביטול הנעילה שלך הינו: %s"</string>
     <string name="login_find_device_bind">מכשיר זה מקושר למזהה חשבון Mi קיים (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, מספר הטלפון המקושר: %s</string>
@@ -451,7 +451,7 @@
     <string name="mipay_identity">אימות זהות</string>
     <string name="mipay_indentity_done">אומת</string>
     <string name="mipay_identitiy_no">לא אומת</string>
-    <string name="account_token_expired_title">האימות נכשל</string>
+    <string name="account_token_expired_title">לא ניתן היה לאמת</string>
     <string name="account_token_expired_msg">"פג תוקף קוד האימות, התחל מחדש או צא
  מזהה החשבון שלך: %s"</string>
     <string name="bind_safe_phone_msg">הוסף את מספר הטלפון שלך על מנת שתוכל להיכנס לחשבון Mi שלך בכל עת.</string>
