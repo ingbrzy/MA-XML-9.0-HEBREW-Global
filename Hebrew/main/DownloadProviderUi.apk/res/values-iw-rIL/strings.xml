@@ -196,6 +196,9 @@
     <string name="toast_only_wifi_download">התחבר לרשת אלחוטית על מנת להוריד פריט זה</string>
     <string name="total_speedup">האצת מהירות (סה\"כ)</string>
     <string name="version">גרסה %s</string>
-    <string name="app_downloads">%sdownloads</string>
-    <string name="dialog_confirm_delete_downloads_message">למחוק את המשימות שנבחרו?</string>
+    <string name="get_data_failed">לא ניתן היה לקבל פרטים. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="load_finish_hint">זה הכל לעת עתה.</string>
+    <string name="loading">רק רגע…</string>
+    <string name="net_error">התחבר לרשת ונסה שוב</string>
+    <string name="rank_app_list">הורדות מובילות</string>
 </resources>

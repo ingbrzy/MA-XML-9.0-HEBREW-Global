@@ -30,6 +30,18 @@
         <item quantity="two">%d פריטים</item>
         <item quantity="many">%d פריטים</item>
     </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים.</item>
+        <item quantity="one">לא ניתן היה להעביר פריט %d. לחץ להצגת פרטים.</item>
+        <item quantity="two">לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים.</item>
+        <item quantity="many">לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים.</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">לא ניתן היה להעביר %d פריטים.</item>
+        <item quantity="one">לא ניתן היה להעביר פריט %d.</item>
+        <item quantity="two">לא ניתן היה להעביר %d פריטים.</item>
+        <item quantity="many">לא ניתן היה להעביר %d פריטים.</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d דקות</item>
         <item quantity="one">דקה %d</item>

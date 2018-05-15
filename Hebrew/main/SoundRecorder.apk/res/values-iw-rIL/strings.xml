@@ -73,7 +73,7 @@
     <string name="pause">הפסקה</string>
     <string name="back">חזרה</string>
     <string name="menu">תפריט</string>
-    <string name="toast_uninstall_fileexplorer">"יישום ה'סייר' אינו מותקן"</string>
+    <string name="toast_uninstall_fileexplorer">"'מנהל הקבצים' אינו מותקן"</string>
     <string name="record_download">הורד מ-Mi Cloud</string>
     <string name="record_download_msg">ניתן לנגן הקלטות לאחר סיום הורדתן בלבד.</string>
     <string name="record_download_msg_reload">הקלטה זו אינה קיימת.</string>

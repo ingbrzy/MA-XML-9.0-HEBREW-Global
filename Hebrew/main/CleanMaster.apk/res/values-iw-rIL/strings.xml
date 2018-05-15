@@ -90,6 +90,7 @@
     <string name="hints_apk_header_left">חבילות</string>
     <string name="hints_residual_header_left">שאריות</string>
     <string name="hints_memory_header_left">זכרון</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">קבצים גדולים: %d</string>
     <string name="hints_installed_apps_header_left">יישומים מותקנים: %d</string>
     <string name="toast_resolve_apk_error">פתור שגיאת apk</string>
@@ -127,8 +128,8 @@
     <string name="msg_update_error_code_no_newer_db">"ה'מנקה' מעודכן"</string>
     <string name="msg_update_error_code_already_running">מעדכן…</string>
     <string name="msg_update_error_code_network_error">לא ניתן להתחבר לרשת</string>
-    <string name="msg_update_error_code_unknown_error">שגיאה לא ידועה</string>
-    <string name="msg_cleanup_db_update_time_unknown">מועד העדכון האחרון אינו ידוע</string>
+    <string name="msg_update_error_code_unknown_error">Servers are busy. Wait a minute or two and try again.</string>
+    <string name="msg_cleanup_db_update_time_unknown">Last update: Unknown</string>
     <string name="item_title_process_mode">בחר פעולה</string>
     <string name="clean_content_zero">ללא</string>
     <string name="clean_content_one">פריט 1</string>
@@ -265,12 +266,13 @@
     <string name="hints_cleanfinish">הניקוי הסתיים</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">נקה %s</string>
+    <string name="mainbtn_text_no_trash">דלג</string>
     <string name="mainbtn_text_quick_cleanup_default">נקה</string>
     <string name="pref_title_open_optimizer_memory_scan">סרוק את זכרון היישום</string>
     <string name="toast_select_white_need_remove">בחר פריטים להסרה</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="no_network_btn">נסה שוב</string>
-    <string name="name_debuglog_dir">יומן ניפוי שגיאות BSP</string>
+    <string name="name_debuglog_dir">BSP debug log</string>
     <string name="just_now">ממש עכשיו</string>
     <string name="yesterday">אתמול</string>
     <string name="month_day_format">dd MMM</string>
@@ -296,6 +298,7 @@
     <string name="downloading">מוריד</string>
     <string name="installing">מתקין</string>
     <string name="start_install">התקן כעת</string>
+    <string name="empty">" "</string>
     <string name="open_browser">פתח בדפדפן</string>
     <string name="title_share_link">שתף קישור אינטרנט</string>
     <string name="connecting">מתחבר…</string>
@@ -495,4 +498,25 @@
     <string name="auto_clean_time_three_day">כל 3 ימים</string>
     <string name="auto_clean_time_seven_day">כל 7 ימים</string>
     <string name="auto_clean_time_fifteen_day">כל 15 ימים</string>
+    <string name="pref_category_title_auto_clean_config_settings">ניקויים אוטומטיים</string>
+    <string name="pref_title_auto_clean">ניקוי אוטומטי</string>
+    <string name="pref_title_auto_clean_operation">שיטת ניקוי</string>
+    <string name="pref_title_auto_clean_trigger">ניקוי שטח האחסון</string>
+    <string name="auto_clean_operation_dialog_title">שיטת ניקוי</string>
+    <string name="auto_clean_operation_clean_and_alert">תזכורת וניקוי</string>
+    <string name="auto_clean_operation_just_clean">ניקוי בלבד</string>
+    <string name="auto_clean_trigger_dialog_title">ניקוי שטח האחסון</string>
+    <string name="auto_clean_trigger_percent_ninety">בתפוסה של 90%</string>
+    <string name="auto_clean_trigger_percent_eighty">בתפוסה של 80%</string>
+    <string name="auto_clean_trigger_percent_sixty">בתפוסה של 60%</string>
+    <string name="auto_clean_notification_title">הזכר לי לבצע ניקוי</string>
+    <string name="auto_clean_notification_content">ניקוי %s אשפה</string>
+    <string name="guide_secure_dialog_title">ייעול ביצועים</string>
+    <string name="guide_secure_dialog_message">ניקוד הייעול של מכשירך נמוך מ-80 נקודות. לייעל כעת?</string>
+    <string name="guide_secure_dialog_positive">ייעול</string>
+    <string name="guide_secure_dialog_negative">ביטול</string>
+    <string name="guide_virus_dialog_title">סריקת אנטי וירוס</string>
+    <string name="guide_virus_dialog_message">סריקת יישומים וחבילות התקנה מגנה על מכשירך מפני וירוסים ותוכנות זדוניות. לסרוק את מכשירך כעת?</string>
+    <string name="guide_virus_dialog_positive">סריקה</string>
+    <string name="guide_virus_dialog_negative">ביטול</string>
 </resources>

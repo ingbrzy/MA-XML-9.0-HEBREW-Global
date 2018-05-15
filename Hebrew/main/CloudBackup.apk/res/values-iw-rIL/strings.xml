@@ -44,10 +44,11 @@
     <string name="cloud_app_no_network">לא ניתן להתחבר לרשת</string>
     <string name="button_delete">מחק</string>
     <string name="customization"><u>התאמה אישית</u></string>
+    <string name="home_hint_global_launcher">"'מסך הבית' של Poco"</string>
     <string name="self_phone">טלפון זה</string>
+    <string name="self_phone_home">טלפון זה: %s</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="device_xiaomi">טלפון Mi</string>
-    <string name="device_corrupt">טלפון Mi (נתונים פגומים)</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
     <string name="start_recover">שחזר את %s</string>
@@ -69,7 +70,7 @@
     <string name="desktop_downloading">מוריד</string>
     <string name="desktop_installing">מתקין</string>
     <string name="desktop_wait_wifi">ממתין</string>
-    <string name="desktop_failed">כשלון</string>
+    <string name="desktop_failed">שגיאה</string>
     <string name="recover_from_micloud">שחזר מגיבוי ב-Mi Cloud</string>
     <string name="click_try_to_restore_again">לחץ על מנת לנסות שוב</string>
     <string name="open_wifi">הפעל את החיבור לרשת האלחוטית כעת</string>
@@ -132,6 +133,8 @@
     <string name="no_account">לא מחובר לחשבון Mi.</string>
     <string name="no_backup">אין גיבויים ב-Mi Cloud.</string>
     <string name="download_meta_failed">לא ניתן היה לטעון את הנתונים.</string>
+    <string name="home_restore_error">"לא ניתן היה לשחזר את 'מסך הבית'"</string>
+    <string name="get_device_id_error">לא ניתן היה להשיג את מזהה המכשיר</string>
     <string name="download_home_data">"מוריד את פריסת 'מסך הבית'…"</string>
     <string name="restore_home_failed">"לא ניתן היה לשחזר את 'מסך הבית'."</string>
     <string name="arrange_restore_order">מארגן יישומים מחדש…</string>

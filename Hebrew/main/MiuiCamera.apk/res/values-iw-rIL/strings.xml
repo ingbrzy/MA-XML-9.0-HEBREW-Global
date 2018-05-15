@@ -95,8 +95,8 @@
     <string name="pref_camera_ai_scene_title">מצלמת AI</string>
     <string name="pref_camera_front_ai_scene_entry_on">מצלמת AI</string>
     <string name="pref_camera_front_ai_scene_entry_off">מצלמת AI כבויה</string>
-    <string name="ai_scene_mode_use_hint_text">"פותח את מצלמת סצינת ה-AI, מזהה את סצינת התמונה עבורך 
- ומייעל את התמונה על סמך הסצינה"</string>
+    <string name="ai_scene_mode_use_hint_text">"מצלמת ה-AI מזהה סצינות באופן אוטומטי
+ומייעלת את התמונות שלך על סמך מידע זה"</string>
     <string name="pref_camera_coloreffect_entry_none">רגיל</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">לומו</string>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">פופ</string>
@@ -143,6 +143,9 @@
     <string name="portait_effect_entry_maze">מבוך</string>
     <string name="portait_effect_entry_cool">מנטה</string>
     <string name="portait_effect_entry_blackwhite">שחור&amp;לבן</string>
+    <string name="portait_effect_entry_story">סיפור</string>
+    <string name="portait_effect_entry_riddle">חידה</string>
+    <string name="portait_effect_entry_movie">סרט</string>
     <string name="pref_camera_touchafaec_entry_off">כבוי</string>
     <string name="pref_camera_touchafaec_entry_on">מופעל</string>
     <string name="pref_camera_multilevel_entry_lowest">הכי נמוך</string>
@@ -243,6 +246,7 @@
     <string name="pref_camera_video_duration_entry_120">ללא הגבלה</string>
     <string name="pref_camera_zsl_entry_off">כבוי</string>
     <string name="pref_camera_zsl_entry_on">מופעל</string>
+    <string name="pref_camera_facedetection_title">זיהוי פנים</string>
     <string name="camera_facedetection_sub_option_hint">תכונה נסיונית</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="camera_settings_label">מצלמה</string>
@@ -411,6 +415,7 @@
     <string name="pref_camera_zoom_mode_entry_tele">טלסקופית</string>
     <string name="pref_camera_zoom_mode_entry_standard">רגיל</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">תאורה חלשה</string>
+    <string name="pref_camera_zoom_value_title">זום</string>
     <string name="pref_camera_portrait_mode_title">מצב דיוקן</string>
     <string name="pref_camera_portrait_mode_entry_off">"מצב 'דיוקן' כבוי"</string>
     <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
@@ -420,6 +425,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -434,6 +440,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -503,4 +510,6 @@
 אם תסובב את הטלפון שלך"</string>
     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
+    <string name="pref_camera_asd_popup_title">התרע כאשר יש צורך במבזק</string>
+    <string name="pref_video_captrue_ability_title">לכידת תמונה במהלך הקלטה</string>
 </resources>

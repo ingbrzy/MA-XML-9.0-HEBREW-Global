@@ -6,6 +6,16 @@
         <item>אחר</item>
         <item>בהתאמה אישית</item>
     </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
     <string-array name="organizationTypes">
         <item>עבודה</item>
         <item>אחר</item>
@@ -28,6 +38,7 @@
         <item>בהתאמה אישית</item>
     </string-array>
     <array name="fingerprint_acquired_vendor" />
+    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>בית</item>
         <item>עבודה</item>

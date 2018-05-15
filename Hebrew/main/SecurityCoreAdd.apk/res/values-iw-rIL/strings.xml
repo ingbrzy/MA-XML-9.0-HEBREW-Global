@@ -24,6 +24,7 @@
     <string name="title_switch_file">למחוק קבצים אלו?</string>
     <string name="msg_switch_photo">"למחוק תמונות אלה מ'שטח ראשון' לאחר שהועברו?"</string>
     <string name="msg_switch_file">"למחוק קבצים אלו מ'שטח ראשון' לאחר שהועברו?"</string>
+    <string name="msg_switch_file_second">"למחוק קבצים אלו מ'שטח שני' לאחר שהועברו?"</string>
     <string name="delete_src_photo">מחק תמונות</string>
     <string name="delete_src_file">מחק קבצים</string>
     <string name="retain_src_photo">השאר תמונות</string>
@@ -58,6 +59,8 @@
     <string name="wating">רק רגע…</string>
     <string name="Active">מופעל</string>
     <string name="ok_button">אישור</string>
+    <string name="remove_button">הסרה ואתחול</string>
+    <string name="remove_button_time">"הסרה ואתחול (%d שנ')"</string>
     <string name="cancel_button">ביטול</string>
     <string name="list_empty_text">ריק</string>
     <string name="list_empty_text_xspace">התקן את WeChat/QQ/Weibo, צור יישומים משוכפלים ונסה שוב.</string>
@@ -65,6 +68,8 @@
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
     <string name="xspace_account">חשבונות יישומים משוכפלים</string>
     <string name="declare_dialog_title">אודות יישומים משוכפלים</string>
+    <string name="stop_xspace_alert_title">מחיקת חשבונות של יישומים משוכפלים</string>
+    <string name="stop_xspace_alert_content">מחקת את כל היישומים המשוכפלים. למחוק גם את החשבונות המשוכפלים ונתוני היישומים? לאחר מכן, יהיה עליך ליצור מחדש את היישומים המשוכפלים כשתצטרך אותם.</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
     <string name="xspace_header">יישומים משוכפלים</string>
     <string name="xspace_introduce">מומלץ</string>
@@ -77,6 +82,7 @@
     <string name="xspace_install_failed">לא ניתן היה ליצור</string>
     <string name="xspace_uninstalling">מסיר התקנה…</string>
     <string name="xspace_install_completed">האייקון נוסף למסך הבית</string>
+    <string name="xspace_install_completed_global">האייקון נוסף למגירה</string>
     <string name="xspace_uninstall_completed">הסרת ההתקנה של היישום המשוכפל בוצעה בהצלחה</string>
     <string name="xspace_uninstall_dialog_title">הסר התקנה של היישום המשוכפל</string>
     <string name="xspace_uninstall_dialog_content">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
@@ -177,6 +183,10 @@
     <string name="notification_from_second_user">"הצג התראות מ'שטח שני'"</string>
     <string name="radio_button_icon_switch_title">באמצעות קיצור דרך</string>
     <string name="radio_button_password_switch_title">באמצעות סיסמה</string>
+    <string name="reset_password_dialog_title">"לא ניתן להסתיר את קיצור הדרך ל'שטח שני'"</string>
+    <string name="reset_password_dialog_message">"הינך משתמש בסוגי סיסמה שונים עבור 'שטח ראשון' ו'שטח שני'. על סיסמת 'שטח שני' להיות מסוג זהה לזו של 'שטח ראשון' על מנת שקיצור הדרך יוכל להיות מוסתר."</string>
+    <string name="reset_password_dialog_positve_btn_title">שינוי</string>
+    <string name="entrance_reopen_toast_msg">"מציג את קיצור הדרך עבור 'שטח שני' עקב סוגי סיסמה שונים"</string>
     <string name="settings_cross_notification_title">התראות</string>
     <string name="settings_cross_notification_summary">קבל התראות מהשטח האחר</string>
     <string name="settings_switch_shortcut_summary">"הצג את קיצור הדרך של 'מסך הבית' ב'שטח שני'"</string>
@@ -279,6 +289,7 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">היכנס ושתף</string>
+    <string name="use_xiaoai_open">הער באמצעות הסייע הקולי</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">שליחה אל Weibo</string>
     <string name="xspace_qq_title">QQ</string>
@@ -358,13 +369,13 @@
     <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
 במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
     <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
-    <string name="encrypt_space_delete_dialog_title">Attention</string>
-    <string name="encrypt_space_delete_dialog_message">"You're about to update Android. After the update, Second space data will become incompatible. To avoid this, move all data to First space, delete Second space, and create it again."</string>
-    <string name="encrypt_space_delete_dialog_click_message">"*If you don't need to move data, %s"</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">delete and create Second space now.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Move data</string>
-    <string name="encrypt_space_delete_notification_title">Second space</string>
-    <string name="encrypt_space_delete_notification_message">Delete your Second space and create a new one to update your device successfully.</string>
+    <string name="encrypt_space_delete_dialog_title">שים לב</string>
+    <string name="encrypt_space_delete_dialog_message">"הינך עומד לעדכן את מערכת אנדרואיד. לאחר העדכון, נתוני 'שטח שני' יהפכו ללא תואמים. על מנת להימנע מכך, העבר את כל הנתונים ל'שטח ראשון', מחק את 'שטח שני' וצור אותו שוב."</string>
+    <string name="encrypt_space_delete_dialog_click_message">*במידה ואינך צריך להעביר נתונים, %s</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">"מחק וצור את 'שטח שני' כעת."</string>
+    <string name="encrypt_space_delete_dialog_positive_text">העברת נתונים</string>
+    <string name="encrypt_space_delete_notification_title">שטח שני</string>
+    <string name="encrypt_space_delete_notification_message">"מחק את 'שטח שני' שלך וצור אחד חדש על מנת לעדכן את מכשירך בהצלחה."</string>
     <string name="space_create_guide_title_1">הגנה על הפרטיות שלך</string>
     <string name="space_create_guide_desc_1">אחסון יישומים ותמונות באופן בטוח</string>
     <string name="space_create_guide_title_2">יצירה בכל עת</string>
@@ -385,4 +396,7 @@
     <string name="experience_more_features">הוסף מכשיר לצפיה בכל התמונות</string>
     <string name="can_not_switch_when_green_kid_active">"מעבר ל'שטח שני' מוגבלת על ידי בקרת ההורים"</string>
     <string name="need_network_when_bind">התחבר לרשת לפני הוספת מכשירים</string>
+    <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. This permissions are required to send the info about battery levels, step count, and your location to the controlled devices. Allow?</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">"Don't agree"</string>
 </resources>

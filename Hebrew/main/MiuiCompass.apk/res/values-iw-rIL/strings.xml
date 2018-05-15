@@ -30,6 +30,7 @@
     <string name="direction_north_west">"צ-מע'"</string>
     <string name="direction_south_east">"ד-מז'"</string>
     <string name="direction_south_west">"ד-מע'"</string>
+    <string name="unit_degree">מעלות</string>
     <string name="guide_toast">לכיול, הזז את המכשיר על פי האיור המוצג.</string>
     <string name="mobiledata_alert_dialog_title">אזהרת שימוש בנתונים</string>
     <string name="mobiledata_alert_dialog_message">להתחבר לאינטרנט על מנת לבצע כיול גובה?</string>

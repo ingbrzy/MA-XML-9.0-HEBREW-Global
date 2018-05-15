@@ -33,7 +33,7 @@
     <string name="attach_sound">שמע</string>
     <string name="attach_subject">נושא</string>
     <string name="attach_take_photo">צלם תמונה</string>
-    <string name="attach_transaction">שליחת כסף</string>
+    <string name="attach_transaction">העברת כסף</string>
     <string name="attach_video">וידאו</string>
     <string name="audio_download_failed">לא ניתן היה להוריד שמע</string>
     <string name="audio_message_expired">פג תוקף הודעה קולית זו.</string>
@@ -51,6 +51,16 @@
     <string name="bookmark_confirm_delete_message">לבטל סימון ההודעות הנבחרות?</string>
     <string name="bookmark_empty">אין הודעות מסומנות</string>
     <string name="bookmark_list_title">מסומן בכוכב</string>
+    <string name="button_emoji_creature">"אמוג'י יצור"</string>
+    <string name="button_emoji_lifestyle">"אמוג'י לייפסטייל"</string>
+    <string name="button_emoji_smiley">"אמוג'י מחייך"</string>
+    <string name="button_emoji_symbol">"אמוג'י סמל"</string>
+    <string name="button_emoji_text">"אמוג'י מלל"</string>
+    <string name="button_fold">קיפול</string>
+    <string name="button_next_slide">הבא</string>
+    <string name="button_pre_slide">הקודם</string>
+    <string name="button_resend_message">שליחה חוזרת</string>
+    <string name="button_unfold">פרישה</string>
     <string name="call_sender">התקשר לשולח</string>
     <string name="cannot_add_picture_and_video">לא ניתן להוסיף תמונה ווידאו לאותה השקופית.</string>
     <string name="cannot_add_slide_anymore">לא ניתן להוסיף עוד שקופיות.</string>
@@ -138,6 +148,7 @@
     <string name="download_later">לא ניתן להוריד כעת. נסה שוב מאוחר יותר.</string>
     <string name="downloading">מוריד</string>
     <string name="downloading_file_can_not_play">המתן עד סיום הורדת ההקלטה</string>
+    <string name="draft">טיוטה</string>
     <string name="duration_not_a_number">"עליך להזין מספר בתור 'משך הצגת שקופית'"</string>
     <string name="duration_sec">משך (%s שניות)</string>
     <string name="duration_selector_title">"משך הצגת שקופית "</string>
@@ -152,7 +163,7 @@
     <string name="enter_edit_mode">עריכת הודעות</string>
     <string name="error_code_label">"קוד שגיאה: "</string>
     <string name="error_state">מצב נתונים לא עקבי</string>
-    <string name="error_state_text">מצב שרשורים ונמענים לא עקבי. אנא דווח על כך באמצעות צילום מסך של מסך השגיאה ב: http://go/droidanizer</string>
+    <string name="error_state_text">מצב שרשורים ונמענים לא עקבי. דווח על כך באמצעות צילום מסך של מסך השגיאה ב: http://go/droidanizer</string>
     <string name="error_timed_msg">זמן לא חוקי.</string>
     <string name="ex_type_guide">פרטים</string>
     <string name="ex_type_mx">הודעות Mi</string>
@@ -168,7 +179,6 @@
     <string name="failed_to_resize_image">גודל התמונה לא שונה.</string>
     <string name="fake_cell_alert_hint">נראה כי הודעה זו נשלחה ממספר טלפון השונה מהמספר המוצג. הזהר ממסרונים המכילים בקשות פיננסיות.</string>
     <string name="fake_cell_checking_hint">מוודא בטיחות…</string>
-    <string name="fake_cell_detection_entry">בדיקת תאימות של תחנות בסיס</string>
     <string name="fake_cell_safe_hint">הודעה זו הינה הודעה בטוחה</string>
     <string name="fake_cell_timeout_hint">לא ניתן היה לוודא בטיחות</string>
     <string name="favorite_at_time">סומן בכוכב ב: %1s</string>
@@ -179,6 +189,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -447,7 +458,7 @@
     <string name="privacy_password_title4">הסיסמה שודרגה</string>
     <string name="private_message">הודעות פרטיות</string>
     <string name="private_new_notification">התראות הודעה</string>
-    <string name="private_protect">סיסמאות</string>
+    <string name="private_protect">הגנת פרטיות</string>
     <string name="private_settings">הגדרות הודעות פרטיות</string>
     <string name="processing">מעבד/u2026</string>
     <string name="prvate_contact">אנשי קשר פרטיים</string>
@@ -527,6 +538,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -656,4 +668,5 @@
     <string name="wild_msg_title">בחר מספרי טלפון לסנכרון</string>
     <string name="yes">אישור</string>
     <string name="yesterday">אתמול</string>
+    <string name="fake_cell_detection_entry">בדיקת תאימות של תחנות בסיס</string>
 </resources>

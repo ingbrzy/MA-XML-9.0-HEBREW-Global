@@ -90,6 +90,16 @@
         <item quantity="two">למחוק %d פריטים?</item>
         <item quantity="many">למחוק %d פריטים?</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+        <item quantity="one">"Delete %d item?
+Note: File will be deleted from this device as well."</item>
+        <item quantity="two">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+        <item quantity="many">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+    </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">למחוק %d שירים?</item>
         <item quantity="one">למחוק שיר %d?</item>

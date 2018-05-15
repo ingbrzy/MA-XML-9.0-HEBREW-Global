@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="sync_items_close">
-        <item quantity="other">%d כבויים</item>
-        <item quantity="one">%d כבוי</item>
-        <item quantity="two">%d כבויים</item>
-        <item quantity="many">%d כבויים</item>
-    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">פריטים הממתינים לסנכרון: %d</item>
         <item quantity="one">פריט הממתין לסנכרון: %d</item>
         <item quantity="two">פריטים הממתינים לסנכרון: %d</item>
         <item quantity="many">פריטים הממתינים לסנכרון: %d</item>
-    </plurals>
-    <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d פריטים ממתינים לסנכרון</item>
-        <item quantity="one">פריט %d ממתין לסנכרון</item>
-        <item quantity="two">%d פריטים ממתינים לסנכרון</item>
-        <item quantity="many">%d פריטים ממתינים לסנכרון</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d אנשי קשר</item>

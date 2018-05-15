@@ -2,6 +2,7 @@
 <resources>
     <string name="accept">קבל</string>
     <string name="accept_or_deny">%1$s שיתף איתך את האלבום %2$s.</string>
+    <string name="actionbar_overflow_item_desc">אפשרויות נוספות</string>
     <string name="add_automatically_alert_msg">להוסיף תמונות מ-\"%1$s\" לאלבום זה אוטומטית?</string>
     <string name="add_automatically_alert_title">הוספת תמונות באופן אוטומטי</string>
     <string name="add_secret_ensure_title">הסתרה</string>
@@ -19,6 +20,7 @@
     <string name="add_to_secret_failed_with_reason">לא ניתן להוסיף לאלבום המוסתר. %1$s.</string>
     <string name="add_to_secret_successful">נוסף לאלבום מוסתר</string>
     <string name="add_to_share_album_not_delete">"לא ניתן למחוק תמונה מ'אלבום משותף'"</string>
+    <string name="added_to_favorites">נוסף למועדפים</string>
     <string name="added_to_favorites_tip">נוסף לאלבום \"מועדפים\"</string>
     <string name="adding">מוסיף…</string>
     <string name="adding_recipients">מוסיף נמענים…</string>
@@ -90,6 +92,7 @@
     <string name="app_name">גלריה</string>
     <string name="app_name_view_picture">הצג תמונות</string>
     <string name="app_name_view_video">הצג סרטונים</string>
+    <string name="application_icon">אייקון של יישום</string>
     <string name="apply">החל</string>
     <string name="assistant_page_label">אשף</string>
     <string name="associate_face_album">בחר אלבום</string>
@@ -109,11 +112,13 @@
     <string name="baby_album_needs_auto_backup_tip">לא ניתן לבטל גבוי אוטומטי לאלבום תינוקות</string>
     <string name="baby_album_new_photo_remind">ישנם תמונות חדשות באלבום התינוקות שלך.</string>
     <string name="baby_album_setting_title">פרטי התינוק</string>
+    <string name="baby_album_settings">"הגדרות של 'אלבום תינוקות'"</string>
     <string name="baby_album_sharer_accept_dialog_msg">"%2$s של %1$s היקר,
 %4$s של %3$s שיתף איתך את האלבום של %5$s"</string>
     <string name="baby_album_sharer_recommand_face">להוסיף תמונות קיימות של %1$s?</string>
     <string name="baby_album_sharers_page_title">שיתוף עם המשפחה</string>
     <string name="baby_birthday">יום הולדת</string>
+    <string name="baby_face_desc">אלבום תינוקות</string>
     <string name="baby_lock_wallpaper">טפט מסך הנעילה</string>
     <string name="baby_lock_wallpaper_cancelled">הוחלף לטפט ברירת המחדל של מסך הנעילה</string>
     <string name="baby_lock_wallpaper_save_settings_msg">להחיל הגדרות נוכחיות?</string>
@@ -125,6 +130,7 @@
     <string name="baby_nick_name">כינוי</string>
     <string name="baby_sexy">מין</string>
     <string name="baby_suffix">תינוק</string>
+    <string name="back">חזרה</string>
     <string name="backup_automatically_summary">גבה תמונות וסרטונים מכל ההתקנים ל-Mi Cloud. תוכל לדפדף, למיין, לערוך ולשתף בנוחות תמונות וסרטונים על גבי כל המכשירים שלך.</string>
     <string name="backup_automatically_title">גבה באופן אוטומטי</string>
     <string name="backup_battery_low_desc">עדיין יש באפשרותך להמשיך בגיבוי הפריטים</string>
@@ -223,6 +229,8 @@
     <string name="cleaner_stop_scan">עצירת הסריקה</string>
     <string name="click_download_gif">לחץ להורדת GIF</string>
     <string name="click_top_right">לחץ על לחצן זה</string>
+    <string name="close">סגירה</string>
+    <string name="close_dialog_desc">סגור את תיבת הדיאלוג</string>
     <string name="cloud_camera_display_name">תמונות המצלמה</string>
     <string name="cloud_guide_auto_backup_title">בחר אלבומים לגיבוי</string>
     <string name="cloud_guide_login_title">גבה תמונות וסרטונים אוטומטית</string>
@@ -245,6 +253,7 @@
     <string name="cloudfolder_contain_invalidate_char">"שם אלבום לא יכול להכיל '%s'"</string>
     <string name="cloudfolder_name_cannot_empty">הזן שם אלבום</string>
     <string name="cloudfolder_name_reserved">שם האלבום נשמר</string>
+    <string name="collage__talkback_effect">אפקט %d</string>
     <string name="collage_choose">בחירה</string>
     <string name="collage_margin_text">שוליים</string>
     <string name="collage_mirror">מראה</string>
@@ -282,6 +291,9 @@
     <string name="context_menu_add_contact">הוסף לאנשי קשר</string>
     <string name="context_menu_copy">העתק</string>
     <string name="context_menu_copy_notice">הועתק אל הלוח</string>
+    <string name="correct_photo_time">תיקון שעה ותאריך עבור תמונות</string>
+    <string name="correct_time_success">תוקן בהצלחה</string>
+    <string name="correct_time_tip">מתקן שעה ותאריך…</string>
     <string name="create_baby_album">"צור 'אלבום תינוקות'"</string>
     <string name="create_baby_album_dialog_msg">ליצור אלבום עבור \"%s\"?</string>
     <string name="create_baby_album_later_toast">"צור 'אלבום תינוקות' בכל עת בהגדרות"</string>
@@ -295,6 +307,7 @@
     <string name="custom_select_title_quickly_share">שתף</string>
     <string name="custom_select_title_select_all">בחר הכל</string>
     <string name="custom_select_title_select_item">בחר פריטים</string>
+    <string name="debugging_info">"פרטי ניפוי השגיאות נוצרו בהצלחה. לחץ על 'אישור' לפתיחת התיקיה."</string>
     <string name="debugging_tip">מייצר נתוני ניפוי שגיאות</string>
     <string name="default_relation_name">קבוצה חדשה</string>
     <string name="define_by_user">מותאם אישית</string>
@@ -424,6 +437,7 @@
     <string name="exit_share_in_process">יוצא מאלבום \"%s\"…</string>
     <string name="exit_share_successfully">יצא מ-%1$s</string>
     <string name="exit_video_play">יציאה</string>
+    <string name="expand_desc">עוד</string>
     <string name="expand_people">הצג עוד אנשים</string>
     <string name="face_album_detecting_tip">רק רגע…</string>
     <string name="face_album_empty">"אין מספיק תמונות לביצוע זיהוי אנשים.
@@ -444,12 +458,15 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
     <string name="family_member_invitation_text">בן משפחה אחר</string>
+    <string name="fancy_color_desc">צבעים</string>
     <string name="fast_share_auto_render">ייפוי</string>
     <string name="fast_share_auto_render_finish">יופה</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">זכרון</string>
     <string name="filter_bi_mono">מונו</string>
     <string name="filter_bi_pink">ורוד</string>
@@ -463,6 +480,7 @@
     <string name="filter_bi_young">נעורים</string>
     <string name="filter_category_film">סרט</string>
     <string name="filter_category_food">אוכל</string>
+    <string name="filter_category_master">ראשי</string>
     <string name="filter_category_portrait">דיוקן</string>
     <string name="filter_category_scene">נוף</string>
     <string name="filter_film_blackwhite">שחור&amp;לבן</string>
@@ -481,15 +499,23 @@
     <string name="filter_food_latte">לטה</string>
     <string name="filter_food_softdrink">מוגז</string>
     <string name="filter_food_wholemeal">דגנים</string>
+    <string name="filter_master_hazy">אביך</string>
+    <string name="filter_master_mellow">רך</string>
+    <string name="filter_master_memoire">תזכורת</string>
+    <string name="filter_master_rise">זריחה</string>
+    <string name="filter_master_somber">קודר</string>
     <string name="filter_original">ללא</string>
     <string name="filter_people_fairytale">ילדים</string>
     <string name="filter_people_heart">רגשות</string>
     <string name="filter_people_japanese">רענן</string>
     <string name="filter_people_maze">מבוך</string>
     <string name="filter_people_mint">מנטה</string>
+    <string name="filter_people_movie">סרט</string>
     <string name="filter_people_nature">טבעי</string>
     <string name="filter_people_pink">סומק</string>
+    <string name="filter_people_riddle">חידה</string>
     <string name="filter_people_roman">רומנטי</string>
+    <string name="filter_people_story">סיפור</string>
     <string name="filter_scene_city">עיר</string>
     <string name="filter_scene_df">ערפל</string>
     <string name="filter_scene_koizora">רומן</string>
@@ -502,12 +528,14 @@
     <string name="finish_fill_baby">צור</string>
     <string name="flash_off">הפלאש כבוי</string>
     <string name="flash_on">הפלאש מופעל</string>
+    <string name="free_view_desc">תלת מימד</string>
     <string name="gallery_setting">הגדרות</string>
     <string name="gallery_sync_disable_toast">סנכרון הגלריה כבוי</string>
     <string name="get_album_info_in_process">מקבל פרטים אודות האלבום המשותף…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -701,6 +729,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">תמונות חיות מחמד</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">תמונות</string>
@@ -746,6 +775,27 @@
     <string name="photo_editor_rotate">סיבוב</string>
     <string name="photo_editor_saving">שומר…</string>
     <string name="photo_editor_sticker">מדבקה</string>
+    <string name="photo_editor_talkback_cancel">ביטול</string>
+    <string name="photo_editor_talkback_confirm">אישור</string>
+    <string name="photo_editor_talkback_crop_16_9">שש עשרה לתשע</string>
+    <string name="photo_editor_talkback_crop_1_1">אחד לאחד</string>
+    <string name="photo_editor_talkback_crop_3_4">שלוש לארבע</string>
+    <string name="photo_editor_talkback_crop_4_3">ארבע לשלוש</string>
+    <string name="photo_editor_talkback_crop_9_16">תשע לשש עשרה</string>
+    <string name="photo_editor_talkback_crop_free">חופשי</string>
+    <string name="photo_editor_talkback_crop_mirror">מראה</string>
+    <string name="photo_editor_talkback_crop_original">מקור</string>
+    <string name="photo_editor_talkback_crop_rotate">סיבוב</string>
+    <string name="photo_editor_talkback_doodle_arrow">חץ</string>
+    <string name="photo_editor_talkback_doodle_circular">מעגל</string>
+    <string name="photo_editor_talkback_doodle_line">קו</string>
+    <string name="photo_editor_talkback_doodle_path">מברשת</string>
+    <string name="photo_editor_talkback_doodle_rectangle">מלבן</string>
+    <string name="photo_editor_talkback_effect">אפקט %d</string>
+    <string name="photo_editor_talkback_eraser">מחיקה</string>
+    <string name="photo_editor_talkback_recently">בשימוש לאחרונה</string>
+    <string name="photo_editor_talkback_redo">ביצוע מחדש</string>
+    <string name="photo_editor_talkback_undo">ביטול</string>
     <string name="photo_editor_text">מלל</string>
     <string name="photo_page_save_uri_image_fail">"לא ניתן היה לשמור ב'גלריה'"</string>
     <string name="photo_page_save_uri_image_ok">"התמונה נשמרה ב'גלריה'"</string>
@@ -795,6 +845,8 @@
     <string name="picker_title_specify_format_one">בחר תמונה %d</string>
     <string name="picker_title_unlimit">בחר תמונות</string>
     <string name="places_album_empty_title">ניתן למיין את התמונות על פי מיקום</string>
+    <string name="play_gif_desc">הפעלת GIF</string>
+    <string name="play_video_desc">הפעלת סרטון</string>
     <string name="preparing_data">רק רגע…</string>
     <string name="projection_cancel">ביטול</string>
     <string name="projection_checkbox_text">זכור תצוגה זו</string>
@@ -820,6 +872,19 @@
     <string name="recovery_merge_or_rename">מיזוג אלבומים</string>
     <string name="recovery_merge_or_rename_message">אלבום בעל שם זהה קיים כבר. למזג כעת?</string>
     <string name="recovery_rename">שינוי שם</string>
+    <string name="refocus_desc">מיקוד מחדש</string>
+    <string name="refocus_discard_confirm_message">לשמור את השינויים?</string>
+    <string name="refocus_discard_negative_btn">דחיה</string>
+    <string name="refocus_discard_positive_btn">שמירה</string>
+    <string name="refocus_photo_not_support">לא ניתן להחיל טשטוש עבור תמונה זו</string>
+    <string name="refocus_save_cancel">ביטול</string>
+    <string name="refocus_save_title">בחירת פורמט</string>
+    <string name="refocus_save_to_photo">שמירה כתמונה</string>
+    <string name="refocus_save_to_video">שמירה כסרטון</string>
+    <string name="refocus_saving">שומר…</string>
+    <string name="refocus_title">טשטוש</string>
+    <string name="refocus_type_static">רמת טשטוש</string>
+    <string name="refocus_type_video">שבילי אור</string>
     <string name="relation_text_empty_alert">הוסף פרטי קרבה</string>
     <string name="relation_text_family">בן משפחה</string>
     <string name="relation_text_father">אבא</string>
@@ -906,6 +971,7 @@
     <string name="search_setting_title">"מצא תמונות ב'גלריה'"</string>
     <string name="search_syncing">מסנכרן נתונים, חזור בקרוב</string>
     <string name="search_title_album">אלבום</string>
+    <string name="search_title_app_screenshot">צילומי מסך של יישומים</string>
     <string name="search_title_history">היסטורית חיפוש</string>
     <string name="search_title_location">מיקומים</string>
     <string name="search_title_more">עוד</string>
@@ -914,6 +980,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -934,8 +1003,11 @@
     <string name="see_ignore_faces">צפה באנשים שהתעלמת מהם</string>
     <string name="select_item_face">"האם זה '%s'?"</string>
     <string name="select_origin_tip">קובץ מקורי (%s)</string>
+    <string name="send_file_beautify_failed">לא ניתן היה לשתף</string>
     <string name="send_multiple_files_hint_format">שליחה (%s)</string>
     <string name="send_public_url">שלח קישור אינטרנט של האלבום</string>
+    <string name="send_secret_file_failed">לא ניתן היה לשתף</string>
+    <string name="send_secret_file_space_low">אין מספיק שטח אחסון פנוי</string>
     <string name="send_too_many_files_error">ניתן לשלוח עד %d פריטים בפעם אחת</string>
     <string name="set_as_baby_lock_wallpaper">הגדר כטפט מסך הנעילה</string>
     <string name="set_as_wallpaper_description">תמונה זו הינה תמונה מוקטנת, להוריד את התמונה המקורית?</string>
@@ -951,6 +1023,7 @@
     <string name="share">שיתוף</string>
     <string name="share_album">שיתוף אלבום</string>
     <string name="share_album_needs_auto_upload_tip">לא ניתן לכבות את הגיבוי עבור האלבומים המשותפים</string>
+    <string name="share_album_qr_code">קוד QR של האלבום</string>
     <string name="share_by_email_start">שתף את %1$s ברקע</string>
     <string name="share_by_email_successfully">%1$s שותף</string>
     <string name="share_public_url_text">שיתפתי את האלבום %1$s איתך. צפה בו ב-%2$s</string>
@@ -1136,7 +1209,9 @@
     <string name="video_not_exist">הוידאו לא קיים</string>
     <string name="view_by_gallery_tip">גלרית MIUI</string>
     <string name="view_face_album">צפה באלבום</string>
+    <string name="view_more_face_desc">הצג אנשים נוספים</string>
     <string name="view_queuing_status">בדוק סטטוס</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
     <string name="where_is_barcode">איפה קוד ה-QR?</string>
     <string name="who_is_this">מי זה?</string>

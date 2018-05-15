@@ -172,6 +172,9 @@
     <string name="close_camera_failed">לא ניתן היה לכבות את המצלמה…</string>
     <string name="change_to_voice_tips_when_background">הצד השני החליף לשיחה קולית</string>
     <string name="video_crbt_title">%s צליל חיוג וידאו</string>
+    <string name="crbt_second_hold_prompt">%s נמצא בהחזק…</string>
+    <string name="crbt_second_hold_prompt_no_name">השיחה הקודמת נמצאת בהחזק…</string>
+    <string name="crbt_second_hold_prompt_conference">שיחת הועידה נמצאת בהחזק…</string>
     <string name="call_button_tools_text">מאפיינים</string>
     <string name="call_button_dialer_text">לוח מקשים</string>
     <string name="call_button_mute_text">השתק</string>
@@ -193,4 +196,5 @@
     <string name="dialpad_seven">7</string>
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
+    <string name="prompt_no_volte_when_failed">שירותי VoLTE אינם זמינים.</string>
 </resources>

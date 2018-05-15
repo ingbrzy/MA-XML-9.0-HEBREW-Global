@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -194,7 +197,7 @@
     <string name="enable_encrypt_summery1">היכנס לחשבון Mi שלך על מנת לגשת לגיבויים מוצפנים.</string>
     <string name="enable_encrypt_summery2">הגיבויים שלך יוצפנו באופן אוטומטי. יהיה עליך להיכנס לחשבון Mi שלך על מנת לגשת אליהם.</string>
     <string name="enable_encrypt_xiaomi_account">גיבוי זה נוצר על ידי %1$s. על מנת לשחזר, מחק את החשבון הנוכחי והתחבר כ- %2$s.</string>
-    <string name="enable_encrypt_ok">אישור</string>
+    <string name="button_got_it">אישור</string>
     <string name="no_encrypt_password">אין סיסמה</string>
     <string name="enable_encrypt_fail">שגיאת הצפנה</string>
     <string name="read_encrypt_fail">לא ניתן היה לקרוא את הגיבוי המוצפן</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -247,6 +251,10 @@
     <string name="err_router_disconnected">בדוק את חיבור הנתב שלך ונסה שוב.</string>
     <string name="err_router_files_delete">לא ניתן היה למחוק קבצי גיבוי מהשרת</string>
     <string name="err_not_allow">לא נתמך</string>
+    <string name="err_bakfile_not_exist">קובץ גיבוי אינו קיים.</string>
+    <string name="err_pkg_not_exist">לא ניתן היה למצוא את היישום.</string>
+    <string name="err_user_abort">בוטל על ידי המשתמש.</string>
+    <string name="err_binder_died">היישום עצר באופן לא צפוי.</string>
     <string name="backup_is_running">מבצע גיבוי של המכשיר</string>
     <string name="restore_is_running">מבצע שחזור של המכשיר</string>
     <string name="notif_backup_title">נתוני הגיבוי</string>
@@ -287,8 +295,7 @@
     <string name="trans_receiver_time_remained">"%s נותרו.
 אל תכבה את החיבור לנקודה החמה של הרשת האלחוטית.
 השאר את המכשירים קרובים האחד לשני."</string>
-    <string name="trans_time_spent">"
-זמן שעבר: %s"</string>
+    <string name="trans_time_spent">זמן שעבר: %s</string>
     <string name="trans_restoring_no_items">מסנכרן פריטים</string>
     <string name="trans_detail_category_sysdata">נתוני מערכת (כולל הודעות, אנשי קשר והיסטורית שיחות)</string>
     <string name="trans_detail_category_userdata">יישומים</string>
@@ -354,21 +361,27 @@
 לאחר מכן לחץ על \"התחבר שוב\" על מנת ליצור קוד QR."</string>
     <string name="trans_operate_reconnect_old_tips">"המתן עד לאחר שהטלפון הישן מציג את ההודעה \"החיבור נקטע\".
 לאחר מכן לחץ על \"התחבר שוב\" על מנת לסרוק את קוד ה-QR."</string>
+    <string name="trans_generating_qrcode">יוצר קוד QR…</string>
+    <string name="trans_generate_qrcode_failed">לא ניתן היה לייצר קוד QR. נסה שוב.</string>
     <string name="trans_wait_trans_data">"מחובר אל המכשיר הישן.
 ממתין להעברת הנתונים…"</string>
     <string name="trans_select_data">בחר פריטים לשליחה</string>
     <string name="trans_select_data_tips">"בחר פריטים להעברה
 קבצים זהים הקיימים במכשיר החדש יוחלפו"</string>
-    <string name="trans_select_data_no_space">"אין מספיק מקום פנוי במכשיר החדש
-בחר קבצים שוב או פנה %s מקום על גבי המכשיר החדש"</string>
+    <string name="trans_select_data_no_space">"אין מספיק מקום פנוי בשטח האחסון של ההתקן החדש (%s זמינים).
+פנה מקום או העבר פריטים חשובים בלבד."</string>
     <string name="trans_select_data_too_large">"בחרת בפריטים רבים מידי להעברה.
 בחר בפריטים חשובים בלבד על מנת להפוך את ההעברה למהירה יותר."</string>
     <string name="trans_calculating_base_size">מחשב נפח נתונים</string>
     <string name="trans_calculating">מחשב…</string>
-    <string name="trans_native_no_space">"אין מספיק מקום במכשיר זה.
-פנה לפחות %s."</string>
+    <string name="trans_native_no_space">"אין מספיק מקום פנוי בשטח האחסון של ההתקן הישן (%s זמינים).
+פנה מקום או העבר פריטים חשובים בלבד."</string>
     <string name="trans_calculating_app_sd_size">מחשב נפח: %s</string>
     <string name="trans_please_waiting">רק רגע…</string>
+    <string name="trans_old_phone_low_space_title">אין מספיק שטח אחסון פנוי</string>
+    <string name="trans_old_phone_low_space_msg">Mi Mover זקוק לשטח אחסון פנוי לצורך אריזת הנתונים המועברים, אך נראה כי אין מספיק שטח אחסון פנוי על גבי ההתקן הישן. נקה שטח אחסון ב\"אבטחה\" או העבר פריטים חשובים בלבד.</string>
+    <string name="button_clean_garbage">פינוי שטח</string>
+    <string name="button_quit">יציאה</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -423,6 +436,7 @@
     <string name="trans_disconnected_tips_title">ההתקן השני מנותק</string>
     <string name="trans_disconnected_tips_message">ההתקן השני מנותק. התחבר שוב באופן ידני או בטל את ההעברה.</string>
     <string name="trans_button_cancel">ביטול</string>
+    <string name="trans_failed_details_page_title">העברות שנכשלו</string>
     <string name="close_twice_auth_tutor">כיבוי האימות הדו-שלבי של Apple ID</string>
     <string name="close_twice_auth_steps">עקוב אחר השלבים הבאים על מנת לכבות את האימות הדו-שלבי עבור Apple ID:</string>
     <string name="close_twice_auth_step_1">1. פתח כל דפדפן אינטרנט מכל מחשב שהוא ועבור אל appleid.apple.com.</string>
@@ -489,6 +503,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>

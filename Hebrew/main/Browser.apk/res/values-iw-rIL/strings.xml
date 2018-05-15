@@ -50,6 +50,8 @@
     <string name="actionbar_textselection_title">בחירת טקסט</string>
     <string name="actionbar_web_search">חיפוש ברשת</string>
     <string name="ad_btn_default_text">התקנה</string>
+    <string name="ad_mark">פרסומת</string>
+    <string name="ad_sponsored">ממומן</string>
     <string name="adblock_force_updating_rules_toast">"מעדכן את 'חוסם המודעות'"</string>
     <string name="adblock_rules_not_updated_toast">לא ניתן היה לעדכן</string>
     <string name="adblock_rules_restore">ביטול חסימה</string>
@@ -87,6 +89,7 @@
     <string name="aqi_quality_index_moderate">מתון</string>
     <string name="aqi_quality_index_pure">מצוין</string>
     <string name="aqi_quality_index_unhealthy">לא בריא</string>
+    <string name="articles_updated">%1$d מאמרים עודכנו</string>
     <string name="autoSwithcingSearchEngineTips">מנוע החיפוש הוחלף למנוע החיפוש השכיח</string>
     <string name="autofill_keyboard_accessory_content_description">קיימות הצעות זמינות</string>
     <string name="autofill_popup_content_description">מציג חלון מילוי אוטומטי</string>
@@ -110,9 +113,9 @@
     <string name="bookmark_group_lable">קבוצה</string>
     <string name="bookmark_needs_title">יש להזין שם סימניה</string>
     <string name="bookmark_needs_url">על הסימניה להכיל כתובת אינטרנט</string>
-    <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
+    <string name="bookmark_not_saved">לא ניתן היה להוסיף לסימניות</string>
     <string name="bookmark_rename_group">שינוי שם הקבוצה</string>
-    <string name="bookmark_saved">Added to bookmarks</string>
+    <string name="bookmark_saved">נוסף לסימניות</string>
     <string name="bookmark_title">שם סימניה</string>
     <string name="bookmark_title_lable">כותרת</string>
     <string name="bookmark_url">כתובת http://</string>
@@ -134,11 +137,14 @@
     <string name="cancel">ביטול</string>
     <string name="cannot_download">ניתן להוריד קישורי \"http\" או \"https\" בלבד</string>
     <string name="card_setting_close_recommend">קבלת המלצות</string>
+    <string name="channels_edit">עריכה</string>
+    <string name="channels_finish">סיום</string>
     <string name="choosertitle_sharevia">שיתוף באמצעות</string>
     <string name="clear_history">ניקוי היסטוריה</string>
     <string name="clear_most_visited">היסטוריה אחרונה</string>
     <string name="clear_search_history">ניקוי היסטוריה</string>
     <string name="clear_video_download">ניקוי סרטונים</string>
+    <string name="click_to_refresh">עצרת כאן בפעם הקודמת, לחץ לרענון</string>
     <string name="clip_dialog_title">לפתוח את הכתובת שהועתקה?</string>
     <string name="close_ads_choice_no">אפשר</string>
     <string name="close_ads_choice_yes">חסום</string>
@@ -168,6 +174,7 @@
     <string name="color_picker_dialog_title">בחירת צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_description">הערה</string>
     <string name="comment_hint">הערה</string>
@@ -197,6 +204,7 @@
     <string name="contextmenu_webpage_snapshot">שמירת עמוד</string>
     <string name="copy_to_clipboard_failure_message">לא ניתן היה להעתיק ללוח.</string>
     <string name="copy_url">העתק כתובת אינטרנט</string>
+    <string name="could_not_load_data">לא ניתן היה לטעון, רענן ונסה שוב</string>
     <string name="create_qr_code">קוד QR</string>
     <string name="current_version_pad">טאבלט</string>
     <string name="current_version_pc">שולחן עבודה</string>
@@ -204,6 +212,7 @@
     <string name="custom_head_card_text">האמן תמיד כי משהו נפלא עומד להתרחש</string>
     <string name="custom_head_card_text_incognito">"אתה גולש במצב נסתר!
 דפים בהם תצפה לא יופיעו בהיסטוריה."</string>
+    <string name="data_error">שגיאת נתונים</string>
     <string name="data_traffic_prompt_change">שימוש בחיבור הנתונים הסלולרי שלך לצפיה בסרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
     <string name="data_traffic_prompt_message">שימוש בחיבור הנתונים הסלולרי שלך לחיפוש סרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
     <string name="data_traffic_prompt_message_short">שימוש בנתונים סלולריים להזרמת וידאו עלול לגרום לחריגה מחבילת הגלישה שלך.</string>
@@ -254,14 +263,14 @@
     <string name="download_dialog_file_length_nolength_txt">רק רגע…</string>
     <string name="download_failed">ההורדה נכשלה</string>
     <string name="download_filter_all">הכל</string>
-    <string name="download_filter_apk">Apk</string>
+    <string name="download_filter_apk">APK</string>
     <string name="download_filter_application">יישומים</string>
     <string name="download_filter_audio">מוסיקה</string>
     <string name="download_filter_image">תמונות</string>
     <string name="download_filter_others">אחר</string>
-    <string name="download_filter_text">קבצים</string>
+    <string name="download_filter_text">מסמכים</string>
     <string name="download_filter_video">סרטונים</string>
-    <string name="download_filter_zip">Zip</string>
+    <string name="download_filter_zip">ZIP</string>
     <string name="download_in_process">מוריד…</string>
     <string name="download_list_open_xl_ok">אישור</string>
     <string name="download_memory_info_avai">" זמין %s|"</string>
@@ -365,10 +374,10 @@
     <string name="keep_queued_download">השאר</string>
     <string name="last_month">החודש הקודם</string>
     <string name="license_activity_title">רשיונות WebView של המערכת</string>
-    <string name="load_more">הצג עוד</string>
     <string name="loading_tips">משוך מטה לרענון</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">לא ניתן היה להיכנס, רענן ונסה שוב</string>
+    <string name="long_press_edit">לחיצה ארוכה לעריכה</string>
     <string name="low_memory_error">לא ניתן היה להשלים את הפעולה האחרונה עקב זכרון מערכת נמוך.</string>
     <string name="low_memory_toast">"לא ניתן להשתמש ב'דפדפן' עקב זכרון נמוך"</string>
     <string name="max_tabs_warning">לא ניתן לפתוח תויות נוספות</string>
@@ -386,7 +395,7 @@
     <string name="media_player_error_text_invalid_progressive_playback">סרטון זה לא ניתן להזרמה במכשיר זה.</string>
     <string name="media_player_error_text_unknown">לא ניתן להפעיל סרטון זה.</string>
     <string name="media_player_error_title">לא ניתן להפעיל את הסרטון</string>
-    <string name="media_player_loading_video">טוען וידאו</string>
+    <string name="media_player_loading_video">רק רגע…</string>
     <string name="menu_addtodesk">"הוספה ל'מסך הבית'"</string>
     <string name="menu_exit_nightmode">יציאה</string>
     <string name="menu_hv_swap">סיבוב מסך</string>
@@ -394,7 +403,7 @@
     <string name="menu_preferences">הגדרות</string>
     <string name="menu_theme_setting">הגדרות ערכת נושא</string>
     <string name="menu_title_clear_all">ניקוי הכל</string>
-    <string name="menu_title_open_file_management">"פתח את 'סייר הקבצים'"</string>
+    <string name="menu_title_open_file_management">"פתיחת 'מנהל הקבצים'"</string>
     <string name="menu_title_pause_all">הפסקת הכל</string>
     <string name="menu_title_resume_all">התחלת הכל</string>
     <string name="miui_autologin_bar_error">לא ניתן להיכנס</string>
@@ -509,6 +518,7 @@
     <string name="month_picker_dialog_title">הגדר חודש</string>
     <string name="more_description">תפריט</string>
     <string name="more_option">אפשרויות נוספות</string>
+    <string name="my_cahnnel">הערוצים שלי</string>
     <string name="nav_bottom_bar_back">הקודם</string>
     <string name="nav_bottom_bar_close_all">סגור הכל</string>
     <string name="nav_bottom_bar_new_tab">תוית חדשה</string>
@@ -516,16 +526,21 @@
     <string name="nav_screen_container_tab_normal">תוית רגילה</string>
     <string name="nav_screen_incognito_message">"היסטורית הגלישה והחיפוש שלך לא תישמר במצב 'גלישה בסתר'.
 זכור כי הקבצים שתוריד והסימניות שתוסיף עדיין ישמרו."</string>
-    <string name="nav_screen_incognito_title">Incognito mode</string>
-    <string name="navigation_delete_all">Swipe left or right to close all tabs</string>
+    <string name="nav_screen_incognito_title">מצב גלישה בסתר</string>
+    <string name="navigation_delete_all">החלק שמאלה או ימינה לסגירת כל התויות</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ביטול</string>
     <string name="navigationbar_rightbutton_actiontext_go">המשך</string>
     <string name="navigationbar_rightbutton_actiontext_search">חיפוש</string>
+    <string name="net_error">שגיאת רשת</string>
     <string name="network_show_wifi_setting_tip_dialog_description">נמצאה נקודה חמה של רשת אלחוטית בקרבת מקום. לנסות להתחבר?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">קיימתת רשת אלחוטית זמינה</string>
+    <string name="news_load_failed">לחץ על מנת לנסות שוב</string>
+    <string name="news_loading">טוען…</string>
     <string name="next_button_label">הבא</string>
     <string name="no_app_open_document">לא נמצא יישום מתאים לביצוע פעולה זו</string>
+    <string name="no_items">אין עוד פריטים להצגה, בחר קטגוריה אחרת.</string>
     <string name="no_matches">אין התאמות</string>
+    <string name="no_network">בדוק את חיבור הרשת שלך ונסה שוב.</string>
     <string name="no_space_alert_cancel">מאוחר יותר</string>
     <string name="no_space_alert_clean">פינוי שטח</string>
     <string name="no_space_alert_text">אין מספיק שטח אחסון פנוי</string>
@@ -540,10 +555,10 @@
     <string name="onews__category_cricket">קריקט</string>
     <string name="onews__category_reddit">Reddit</string>
     <string name="open_app_confirm_message">לאפשר לדף זה לפתוח את %s?</string>
-    <string name="open_file_explorer_failed">"לא ניתן לפתוח את 'סייר הקבצים'"</string>
-    <string name="open_private_folder">שחרר להצגת תיקיות מוסתרות</string>
+    <string name="open_file_explorer_failed">"לא ניתן לפתוח את 'מנהל הקבצים'"</string>
     <string name="open_voice_permission">אפשר למיקרופון להתחבר לאינטרנט</string>
     <string name="opening_file_error">לא ניתן היה לפתוח את הקובץ הנבחר.</string>
+    <string name="other_channel">לחץ להוספת ערוצים נוספים.</string>
     <string name="page_info">פרטי העמוד</string>
     <string name="page_info_address">כתובת:</string>
     <string name="page_info_view">צפיה בפרטי העמוד</string>
@@ -588,6 +603,7 @@
     <string name="pref_content_night_read_mode">מצב לילה</string>
     <string name="pref_content_search_engine">מנוע חיפוש בשורת הכתובת</string>
     <string name="pref_content_search_engine_summary">בחירת מנוע חיפוש</string>
+    <string name="pref_develop_mode">מצב מפתחים</string>
     <string name="pref_enable_adblock_notification">"הצג התראות של 'חוסם המודעות'"</string>
     <string name="pref_enable_news">חדשות</string>
     <string name="pref_enable_novels">ספרים</string>
@@ -665,6 +681,7 @@
     <string name="profiler_started_toast">יצירת פרופיל החלה</string>
     <string name="profiler_stopped_toast">יצירת הפרופיל הסתיימה. התוצאות נמצאות ב: %1$s.</string>
     <string name="progress_dialog_setting_wallpaper">מגדיר טפט…</string>
+    <string name="pull_to_refresh">משוך מטה לרענון</string>
     <string name="pull_to_refresh_pull_label">משוך לרענון</string>
     <string name="pull_to_refresh_release_label">שחרר להמלצה ורענון</string>
     <string name="qr_code_title">קוד QR</string>
@@ -695,6 +712,11 @@
     <string name="readmode_recommend_message">כבר קראת את הספר הזה. :)</string>
     <string name="readmode_refresh">רענון</string>
     <string name="readmodelist_bookmarks_to_show">רשימת קריאה</string>
+    <string name="refresh">רענון</string>
+    <string name="refresh_fail">לא ניתן היה לטעון את המידע</string>
+    <string name="refresh_success">נמצאו %1$d מאמרים שעשויים לעניין אותך</string>
+    <string name="refreshing">מרענן…</string>
+    <string name="release_to_refresh">שחרר לרענון</string>
     <string name="remember_passwords_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="remove_bookmark">מחיקת סימניה</string>
     <string name="remove_bookmark_group">מחיקת קבוצה</string>
@@ -708,11 +730,6 @@
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת</string>
     <string name="retry_download">נסה שוב</string>
     <string name="return_to_homepage">חזרה לעמוד הבית</string>
-    <string name="rlv_last_refreshing_time">עודכן ב: %1$s</string>
-    <string name="rlv_loading_more">רק רגע…</string>
-    <string name="rlv_pull_to_refresh">משוך מטה לרענון</string>
-    <string name="rlv_refreshing">מרענן…</string>
-    <string name="rlv_release_to_refresh">שחרר לרענון</string>
     <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">ללא</string>
     <string name="router_download_exist">קובץ זה קיים כבר</string>
@@ -722,7 +739,7 @@
     <string name="same_folder_name_warning">קבוצה עם שם זהה כבר קיימת</string>
     <string name="save_button_text">שמירה</string>
     <string name="save_dialog_title">שמירה</string>
-    <string name="save_file">שמירת קובץ %s</string>
+    <string name="save_file">שמירה %s</string>
     <string name="save_file_already_exist_alert_message">קובץ עם שם זהה קיים כבר, להחליף אותו?</string>
     <string name="save_file_already_exist_alert_title">להחליף את הקובץ?</string>
     <string name="save_form_data_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
@@ -775,10 +792,6 @@
     <string name="sendstartpage">עמוד הבית</string>
     <string name="share_image_text">תראו מה שיתפתי! @MIUI</string>
     <string name="share_page_text">תראו מה שיתפתי: %1$s @MIUI| %2$s</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
-    <string name="show_check_security_url_check_tip_dialog_description_international">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לקבל המלצות רלוונטיות נוספות, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
-    <string name="show_security_tip_dialog_title">תנאי השירות</string>
-    <string name="show_weather_location_getter_tip_dialog_description">"על ה'דפדפן' להתחבר לאינטרנט על מנת לעבוד באופן תקין. על מנת לשפר את האבטחה ולקבל המלצות רלוונטיות נוספות ומידע אודות מזג האויר, אפשר ל'דפדפן' לקבל את כתובות ה-URL של האתרים בהם הינך מבקר ולגשת לפרטי המיקום שלך."</string>
     <string name="sign_in_to" formatted="false">היכנס אל %s1 %s2\"</string>
     <string name="site_sort_des">ארגון מחדש של הפריטים</string>
     <string name="skip_button_label">דלג</string>
@@ -828,6 +841,7 @@
     <string name="time_picker_dialog_pm">PM</string>
     <string name="time_picker_dialog_second_subsecond_separator">.</string>
     <string name="time_picker_dialog_title">הגדר שעה</string>
+    <string name="tip_drag">לחיצה ארוכה לעריכה וגרירה למיון.</string>
     <string name="title_bar_loading">טוען…</string>
     <string name="too_many_windows_dialog_message">"לא ניתן לפתוח תויות חדשה ב'דפדפן' עד לסגירת תוית אחרת"</string>
     <string name="too_many_windows_dialog_title">לא ניתן לפתוח תויות נוספות</string>
@@ -837,7 +851,7 @@
     <string name="unsecurity_url_toast">אתר זה אינו מאובטח</string>
     <string name="up_to_loading_tips">שחרר לרענון</string>
     <string name="update_no_network_toast">לא ניתן להתחבר לרשת</string>
-    <string name="updating_chrome">מעדכן את Chrome‧</string>
+    <string name="updating_chrome">מעדכן את Chrome…</string>
     <string name="uploads_disabled">העלאת הקבצים מושבתת</string>
     <string name="url_copy_done">כתובת האתר הועתקה ללוח</string>
     <string name="url_find_on_page_result">הצג בדפדפן</string>
@@ -865,7 +879,7 @@
     <string name="version_check_button_no_network">לא ניתן להתחבר לרשת</string>
     <string name="version_check_button_resume_download">המשך הורדה</string>
     <string name="version_check_button_update">עדכון</string>
-    <string name="version_check_failed">כשלון בבדיקת עדכונים</string>
+    <string name="version_check_failed">לא ניתן היה לבדוק זמינות עדכונים</string>
     <string name="version_dialog_buttion_ok">אישור</string>
     <string name="version_dialog_buttion_update">עדכון</string>
     <string name="version_update_file_download_toast">מוריד</string>

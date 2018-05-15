@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="folder_operations">
-        <item>שינוי שם</item>
-        <item>מחיקה</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>מצלמה</item>
         <item>גלריה</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>על פי תאריך יצירה</item>
-        <item>על פי תאריך שינוי אחרון</item>
     </string-array>
     <string-array name="contact_entries">
         <item>שם</item>
@@ -25,11 +17,19 @@
         <item>כתובת</item>
         <item>פתק</item>
     </string-array>
+    <string-array name="folder_operations">
+        <item>שינוי שם</item>
+        <item>מחיקה</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>קטן</item>
         <item>בינוני</item>
         <item>גדול</item>
         <item>ענק</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>על פי תאריך יצירה</item>
+        <item>על פי תאריך שינוי אחרון</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"ברוכים הבאים אל 'פתקים'

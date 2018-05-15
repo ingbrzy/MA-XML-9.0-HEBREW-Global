@@ -22,8 +22,9 @@
     <string name="find_device_noise_title">"התרעת 'איתור המכשיר'"</string>
     <string name="find_device_success_title">איתור המכשיר</string>
     <string name="find_device_notice_p1">עבור אל</string>
-    <string name="find_device_notice_p3">"על מנת לאתר, לנעול או לשחזר את הטלפון שלך.
-במידה והחלפת כרטיס SIM, מסרון נוסף ישלח אוטומטית להפעלה של תכונה זו."</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
+    <string name="find_device_notice_p3">לאיתור, נעילה או שחזור של מכשירך.</string>
+    <string name="find_device_notice_sms_alert">במידה ותחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
     <string name="i_know">אישור</string>
     <string name="unlock_error_network">לא ניתן להתחבר לרשת</string>
     <string name="unlock_error_device_id">לא ניתן להשיג את מזהה המכשיר</string>
@@ -57,14 +58,14 @@
     <string name="login_failed">לא ניתן היה להיכנס. %s.</string>
     <string name="change_find_device_status_failed">לא ניתן היה לבטל את הנעילה. %s.</string>
     <string name="unlock_help_title">עזרה בביטול הנעילה:</string>
-    <string name="unlock_help">"הישאר מחובר לרשת
-ודא כי התקנת כרטיס SIM תקין, ושהמכשיר אינו מחובר לרשת אלחוטית שאינה יעילה
+    <string name="unlock_help">"הישאר מחובר לרשת.
+ודא כי התקנת כרטיס SIM תקין (במידה ומכשירך תומך בכך), ושהמכשיר אינו מחובר לרשת אלחוטית שאינה חוקית.
 
 שכחת את הסיסמה שלך?
 עבור אל id.mi.com על מנת לאתחל את הסיסמה שלך
 
 סיבות נוספות
- היכנס אל i.mi.com ונסה לבטל את נעילת מכשירך משם"</string>
+היכנס אל i.mi.com ונסה לבטל את נעילת מכשירך משם."</string>
     <string name="passport_vcode_prompt_long">הזן קוד אימות</string>
     <string name="passport_trust_device">בטח במכשיר זה</string>
     <string name="passport_verify">אימות</string>
@@ -78,8 +79,8 @@
     <string name="default_lock_msg_words_with_phone">היי! איבדתי את הטלפון שלי. תוכלו בבקשה ליצור עימי קשר? תודה!</string>
     <string name="default_lock_msg_words">מכשיר זה מקושר לחשבון Mi קיים. מטעמי אבטחה, עליך להזין סיסמה על מנת לאמת את המכשיר.</string>
     <string name="lock_msg_phone">פרטי איש קשר: %s</string>
-    <string name="emergency_call">Emergency Call</string>
-    <string name="return_to_call">Return to Call</string>
+    <string name="emergency_call">שיחת חירום</string>
+    <string name="return_to_call">חזרה לשיחה</string>
     <string name="default_debt_msg_words">"מכשיר זה ננעל עקב איחור בתשלום.
 צור קשר עם סוכן המכירות שלך לקבלת פרטים."</string>
     <string name="sys_notification_async_verify_title">"הפעל מחדש את 'איתור המכשיר'"</string>

@@ -150,6 +150,7 @@
     <string name="ola_trip">Call a cab</string>
     <string name="ola_trip_content">Estimate the fare and call an Ola</string>
     <string name="ola_trip_content_detail">Estimate the approximate fare and call an Ola.</string>
+    <string name="phone_check">Optimization</string>
     <string name="place_label">Frequent places</string>
     <string name="record_name">Record</string>
     <string name="record_parent">Recorder</string>
@@ -210,6 +211,7 @@
     <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Color scheme</string>
     <string name="stock_list_empty_text">"You aren't following any companies."</string>
+    <string name="stock_provider">Stock market quotes are provided by Webull</string>
     <string name="stock_search_empty">"Couldn't find stocks."</string>
     <string name="stock_title">Stocks</string>
     <string name="stock_title_schema">Stocks display options</string>
@@ -252,6 +254,7 @@
     <string name="upgrade_now">Update</string>
     <string name="user_id">User ID: %s</string>
     <string name="walk">Walk</string>
+    <string name="webull_title">Webull</string>
     <string name="which_transport">How do you normally get to your destination?</string>
     <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">MM/dd/yyyy</string>
