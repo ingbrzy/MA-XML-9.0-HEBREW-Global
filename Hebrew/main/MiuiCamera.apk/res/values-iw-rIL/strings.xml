@@ -415,7 +415,6 @@
     <string name="pref_camera_zoom_mode_entry_tele">טלסקופית</string>
     <string name="pref_camera_zoom_mode_entry_standard">רגיל</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">תאורה חלשה</string>
-    <string name="pref_camera_zoom_value_title">זום</string>
     <string name="pref_camera_portrait_mode_title">מצב דיוקן</string>
     <string name="pref_camera_portrait_mode_entry_off">"מצב 'דיוקן' כבוי"</string>
     <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
