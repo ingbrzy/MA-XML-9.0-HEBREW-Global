@@ -21,8 +21,7 @@
     <string name="find_device_stop_noise">"לחץ 'אישור' להשתקה"</string>
     <string name="find_device_noise_title">"התרעת 'איתור המכשיר'"</string>
     <string name="find_device_success_title">איתור המכשיר</string>
-    <string name="find_device_notice_p1">עבור אל</string>
-    <string name="find_device_notice_p3">לאיתור, נעילה או שחזור של מכשירך.</string>
+    <string name="find_device_notice">עבור אל&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />כדי לאתר, לנעול או לשחזר את המכשיר שלך.</string>
     <string name="find_device_notice_sms_alert">במידה ותחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
     <string name="i_know">אישור</string>
     <string name="unlock_error_network">לא ניתן להתחבר לרשת</string>

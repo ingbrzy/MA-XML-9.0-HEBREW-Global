@@ -3,6 +3,7 @@
     <string name="camera_setting">מצלמה</string>
     <string name="path_settings">יישומי מערכתצלמהגדרות</string>
     <string name="search_settings">הגדרות מצלמה;איכות;איכות תמונה;מיקום תמונה;מיקום תמונה;זיהוי פנים;צליל מצלמה</string>
+    <string name="hibernate_hint">הקש על המסך כדי להעיר את המצלמה</string>
     <string name="camera_error_title">שגיאת מצלמה</string>
     <string name="cannot_connect_camera_once">לא ניתן להתחבר למצלמה</string>
     <string name="cannot_connect_camera_twice">עדיין לא ניתן להתחבר למצלמה. נסה להפעיל את מכשירך מחדש.</string>
@@ -31,10 +32,15 @@
     <string name="pref_front_mirror_title">מצלמה קידמית</string>
     <string name="pref_video_quality_title">איכות וידאו</string>
     <string name="pref_video_hfr_title">וידאו HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_video_encoder_title">מקודד וידאו</string>
+    <string name="pref_video_encoder_entry_h264">H.264 תאימות גבוהה</string>
+    <string name="pref_video_encoder_entry_h265">H.265 ביצועים גבוהים</string>
     <string name="pref_video_time_lapse_frame_interval_title">מרווח הזמן בצילום דולג זמן</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (מרווח של 0.06 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (מרווח של 0.12 שניות)</string>
@@ -92,11 +98,6 @@
     <string name="pref_camera_coloreffect_entry_negative" />
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
-    <string name="pref_camera_ai_scene_title">מצלמת AI</string>
-    <string name="pref_camera_front_ai_scene_entry_on">מצלמת AI</string>
-    <string name="pref_camera_front_ai_scene_entry_off">מצלמת AI כבויה</string>
-    <string name="ai_scene_mode_use_hint_text">"מצלמת ה-AI מזהה סצינות באופן אוטומטי
-ומייעלת את התמונות שלך על סמך מידע זה"</string>
     <string name="pref_camera_coloreffect_entry_none">רגיל</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">לומו</string>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">פופ</string>
@@ -217,6 +218,8 @@
     <string name="accessibility_filter_close_panel">תפריט הסנן נסגר</string>
     <string name="accessibility_bokeh_normal">טשטוש הרקע במצלמה הקדמית כבוי</string>
     <string name="accessibility_bokeh_on">טשטוש הרקע במצלמה הקדמית מופעל</string>
+    <string name="accessibility_ai_scene_on">מצלמת AI מופעלת</string>
+    <string name="accessibility_ai_scene_off">AI camera is off</string>
     <string name="accessibility_more">עוד</string>
     <string name="accessibility_setting">הגדרות</string>
     <string name="accessibility_protrait">דיוקן</string>
@@ -408,6 +411,7 @@
     <string name="dual_camera_lens_covered_toast">העדשה מוסתרת.</string>
     <string name="dual_camera_use_hint">ודא כי העצם אינו רחוק יותר מ-2 מטרים.</string>
     <string name="bokeh_use_hint">אפקט עומק</string>
+    <string name="back_bokeh_use_hint">ודא שהמרחק עד העצם המצולם לא עולה על 1.5 מטר.</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">עדשה</string>
@@ -415,6 +419,7 @@
     <string name="pref_camera_zoom_mode_entry_tele">טלסקופית</string>
     <string name="pref_camera_zoom_mode_entry_standard">רגיל</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">תאורה חלשה</string>
+    <string name="pref_camera_zoom_value_title">זום</string>
     <string name="pref_camera_portrait_mode_title">מצב דיוקן</string>
     <string name="pref_camera_portrait_mode_entry_off">"מצב 'דיוקן' כבוי"</string>
     <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
@@ -424,6 +429,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -438,6 +444,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -459,6 +466,7 @@
     <string name="hint_fast_motion">הסרטון שתצלם יתנגן מהר יותר.</string>
     <string name="hint_slow_motion">הסרטון שתצלם יתנגן לאט יותר.</string>
     <string name="hunt_dual_water_mark">סימני מים של המצלמה הכפולה יתווספו באופן אוטומטי.</string>
+    <string name="hint_ae_af_lock">בוצעה נעילת המיקוד האוטומטי / החשיפה האוטומטית</string>
     <string name="hint_device_water_mark">סימן המים של התמונה יתווסף באופן אוטומטי.</string>
     <string name="module_name_fun">סרטון קצר</string>
     <string name="module_name_video">וידאו</string>
@@ -480,11 +488,21 @@
     <string name="config_name_super_resolution">רזולוצית סופר</string>
     <string name="beauty_fragment_tab_name_beauty">ייפוי</string>
     <string name="beauty_fragment_tab_name_makeup">מתקדם</string>
+    <string name="beauty_fragment_tab_name_3d_beauty">יופי</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">מידול מחדש</string>
     <string name="edit_skin_white">גוון</string>
     <string name="edit_skin_smooth">חלק</string>
     <string name="edit_eye_large">עיניים גדולות</string>
     <string name="edit_face_slender">צנום</string>
     <string name="edit_face_ruddy">אדמדם</string>
+    <string name="edit_nose">אף</string>
+    <string name="edit_risorius">שריר החיוך</string>
+    <string name="edit_lips">שפתיים</string>
+    <string name="edit_chin">סנטר</string>
+    <string name="edit_neck">צוואר</string>
+    <string name="edit_smile">חיוך</string>
+    <string name="edit_slim_nose">אף</string>
+    <string name="popup_tip_3d_beauty_intro_text">יופי תלת-ממדי</string>
     <string name="sticker_tab1">חמוד</string>
     <string name="sticker_tab2">מצחיק</string>
     <string name="user_agreement2">תנאי השירות</string>
@@ -505,8 +523,20 @@
     <string name="front_camera_hint_text_rotate">סובב את הטלפון שלך</string>
     <string name="front_camera_hint_text_place">"צילום תמונות סלפי יהיה נוח יותר
 אם תסובב את הטלפון שלך"</string>
+    <string name="pref_camera_ai_scene_title">מצלמת בינה מלאכותית</string>
+    <string name="pref_camera_front_ai_scene_entry_on">מצלמת AI</string>
+    <string name="pref_camera_front_ai_scene_entry_off">מצלמת AI כבויה</string>
     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
+    <string name="ai_scene_mode_use_hint_text">"מצלמת בינה מלאכותית (AI) מזהה את הסביבה באופן אוטומטי
+וממטבת את התמונה לפי הנתונים האלה"</string>
     <string name="pref_camera_asd_popup_title">התרע כאשר יש צורך במבזק</string>
     <string name="pref_video_captrue_ability_title">לכידת תמונה במהלך הקלטה</string>
+    <string name="face_analyze_info">גיל: %2$s (%1$s)</string>
+    <string name="pref_camera_picturesize_entry_standard">רגיל 4:3</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">מסך מלא 16:9</string>
+    <string name="lens_dirty_detected_title_back">עדשת המצלמה האחורית מלוכלכת</string>
+    <string name="lens_dirty_detected_title_front">עדשת המצלמה הקדמית מלוכלכת</string>
+    <string name="lens_dirty_detected_content">"נראה שעדשת המצלמה במכשירך מלוכלכת.
+נקה את העדשה לקבלת תמונה טובה יותר."</string>
 </resources>

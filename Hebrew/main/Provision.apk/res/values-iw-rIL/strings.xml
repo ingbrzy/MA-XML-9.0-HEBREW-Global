@@ -15,6 +15,8 @@
     <string name="sim_card_detection_info">על מנת להכניס את כרטיס ה-SIM שלך, קרא את ההוראות שהגיעו יחד עם מכשירך.</string>
     <string name="sim_card_detecting">מחפש כרטיס SIM…</string>
     <string name="sim_card_detecting_check">לא ניתן היה למצוא את כרטיס ה-SIM. ודא כי כרטיס ה-SIM מותקן כראוי וכי יתרתך מספקת.</string>
+    <string name="sim_card_detection_mobile_not_available">כרטיס הסים לא מצליח להתחבר לרשת</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">כרטיס הסים שלך לא הצליח להתחבר לספק רשת פעיל. ודא שיש בחשבונך יתרה מספיקה ונסה להתחבר שוב.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">לאפשר חיבור לרשתות נתונים סלולריות? במידה ותאפשר, כרטיס ה-SIM שתכניס ישמש לחיבור לרשתות נתונים סלולריות.</string>
     <string name="other_settings">הגדרות נוספות</string>
     <string name="other_settings_location">מיקום</string>
@@ -43,12 +45,12 @@
     <string name="ime_privacy_policy">"'מדיניות הפרטיות' עבור מקלדת הנבחרת"</string>
     <string name="ime_privacy_policy_no_network">"אין חיבור לרשת. הצג את 'מדיניות הפרטיות' עבור מקלדת זו ב- %s."</string>
     <string name="terms_of_use">תנאי השימוש</string>
-    <string name="terms_of_use_label">"הפרטיות שלך חשובה לנו מאוד. קרא את 'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ואילו אפשרויות עומדות בפניך.
+    <string name="terms_of_use_label">"הפרטיות שלך חשובה לנו מאוד. קרא את תנאי השירות ואת מדיניות הפרטיות שלנו כדי להבין אילו נתונים אנו אוספים, איך אנו משתמשים בהם ומה באפשרותך לבחור.
 
-עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', 'מסך הבית', מרכז המשחקים, רכיבי המערכת MAB, MIUI Daemon ו-MSA, יישומים מהירים, App vault, סטטיסטיקות, כרטיסים חכמים, Mi Link ורכיבי חשבון Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
-    <string name="terms_of_use_label_gms">"הפרטיות שלך חשובה לנו מאוד. קרא את 'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ואילו אפשרויות עומדות בפניך.
+עליך להסכים לתנאי השירות ולמדיניות הפרטיות כדי להתחיל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת סים של Mi, Mi Cloud, שירות החיפוש, מסך הבית, מרכז המשחקים, MAB, רכיבי MIUI Daemon ומערכת MSA, שירותי התרגום, אפליקציות מהירות, כספת האפליקציות, סטטיסטיקה, כרטיסים חכמים, רכיבי Mi Link וחשבון Mi יתחברו לאינטרנט ויזהו את המיקום שלך."</string>
+    <string name="terms_of_use_label_gms">"הפרטיות שלך חשובה לנו מאוד. קרא את תנאי השירות ואת מדיניות הפרטיות שלנו כדי להבין אילו נתונים אנו אוספים, איך אנו משתמשים בהם ומה באפשרותך לבחור
 
-עליך להסכים ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו על מנת שתוכל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת Mi SIM, Mi Cloud 'איתור המכשיר', 'מסך הבית', מרכז המשחקים, רכיבי המערכת MAB, MIUI Daemon ו-MSA, יישומים מהירים, App vault, סטטיסטיקות, כרטיסים חכמים, רכיבי Mi Link, חשבון Mi ושירותי Google Play יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
+עליך להסכים לתנאי השירות ולמדיניות הפרטיות כדי להתחיל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת סים של Mi, Mi Cloud, שירות איתור המכשיר, מסך הבית, מרכז המשחקים, MAB, רכיבי MIUI Daemon ומערכת MSA, שירותי התרגום, אפליקציות מהירות, כספת האפליקציות, סטטיסטיקה, כרטיסים חכמים, רכיבי השירות של Mi Link, חשבון Mi ו-Google Play יתחברו לאינטרנט ויזהו את המיקום שלך."</string>
     <string name="user_agreement">תנאי השירות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="application_permissions">הרשאות של יישומים</string>
@@ -69,6 +71,7 @@
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">השתמש בטביעת האצבע שלך לביטול נעילת המכשיר, או על מנת להיכנס ליישומים ושירותים.</string>
     <string name="content_description_start">התחלה</string>
+    <string name="start_up_slogan">נועדה לחוויית מסך מלא</string>
     <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_complete">הסתיים</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>

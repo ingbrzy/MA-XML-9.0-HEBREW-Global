@@ -19,10 +19,10 @@
         <item quantity="many">%d הודעות לא סונכרנו</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">למחוק %1$s שיחות שנבחרו?</item>
-        <item quantity="one">למחוק שיחה %1$s שנבחרה?</item>
-        <item quantity="two">למחוק %1$s שיחות שנבחרו?</item>
-        <item quantity="many">למחוק %1$s שיחות שנבחרו?</item>
+        <item quantity="other">למחוק את %1$d השיחה שנבחרה?</item>
+        <item quantity="one">למחוק את %1$d השיחה שנבחרה?</item>
+        <item quantity="two">למחוק את %1$d השיחות שנבחרו?</item>
+        <item quantity="many">למחוק את %1$d השיחות שנבחרו?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d נבחרו</item>

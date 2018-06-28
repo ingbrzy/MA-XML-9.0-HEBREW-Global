@@ -57,34 +57,20 @@
         <item>Delhi</item>
         <item>Mumbai</item>
         <item>Moscow</item>
-        <item>Hyderabad</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>מתאים</item>
-        <item>לא מתאים</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>מתאים</item>
-        <item>לא מתאים</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>נמוכה</item>
-        <item>מתונה</item>
-        <item>גבוהה</item>
+        <item>"צ'נאי"</item>
+        <item>איסטנבול</item>
+        <item>"ריו דה ז'ניירו"</item>
+        <item>סינגפור</item>
+        <item>ברלין</item>
+        <item>רומא</item>
+        <item>ניו יורק</item>
+        <item>"לוס אנג'לס"</item>
+        <item>שיקגו</item>
+        <item>טוקיו</item>
+        <item>פריז</item>
+        <item>בנגקוק</item>
+        <item>סאול</item>
+        <item>קואלה לומפור</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>כבד</item>
@@ -177,12 +163,5 @@
         <item>%1$s מטר לשניה</item>
         <item>%1$s מיל לשעה</item>
         <item>%1$s קשר</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>סולם בופורט</item>
-        <item>קמ\"ש</item>
-        <item>מטר לשניה</item>
-        <item>מיל לשעה</item>
-        <item>קשר</item>
     </string-array>
 </resources>

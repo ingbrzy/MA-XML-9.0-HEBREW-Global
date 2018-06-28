@@ -138,4 +138,50 @@
         <item quantity="two">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
         <item quantity="many">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
     </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"מוחק %1$d קבצים (%2$d%%)
+"</item>
+        <item quantity="one">"מוחק קובץ %1$d (%2$d%%)
+"</item>
+        <item quantity="two">"מוחק %1$d קבצים (%2$d%%)
+"</item>
+        <item quantity="many">"מוחק %1$d קבצים (%2$d%%)
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d פריטים בשנייה | הזמן שנותר: %2$s</item>
+        <item quantity="one">פריט %1$d בשנייה | הזמן שנותר: %2$s</item>
+        <item quantity="two">%1$d פריטים בשנייה | הזמן שנותר: %2$s</item>
+        <item quantity="many">%1$d פריטים בשנייה | הזמן שנותר: %2$s</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d שעות</item>
+        <item quantity="one">שעה %1$d</item>
+        <item quantity="two">%1$d שעות</item>
+        <item quantity="many">%1$d שעות</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">דקה %1$d</item>
+        <item quantity="two">%1$d דקות</item>
+        <item quantity="many">%1$d דקות</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">שנייה %1$d</item>
+        <item quantity="two">%1$d שניות</item>
+        <item quantity="many">%1$d שניות</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="two">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="two">%1$s</item>
+        <item quantity="many">%1$s</item>
+    </plurals>
 </resources>

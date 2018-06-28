@@ -61,28 +61,28 @@
         <item quantity="many">קוד ה-PIN יכול להכיל עד %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
-        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
-        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
-        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="other">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="one">קוד ה-PIN צריך להכיל ספרה %d</item>
+        <item quantity="two">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="many">קוד ה-PIN צריך להכיל %d ספרות</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">קשר בין לפחות %d נקודות. נסה שוב.</item>
-        <item quantity="one">קשר בין נקודה %d לפחות. נסה שוב.</item>
-        <item quantity="two">קשר בין לפחות %d נקודות. נסה שוב.</item>
-        <item quantity="many">קשר בין לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="other">חבר לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="one">חבר לפחות נקודה %d. נסה שוב.</item>
+        <item quantity="two">חבר לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="many">חבר לפחות %d נקודות. נסה שוב.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">נסיונות כושלים רבים מידי. נסה שוב בעוד %d שניות.</item>
-        <item quantity="one">נסיונות כושלים רבים מידי. נסה שוב בעוד שניה %d.</item>
-        <item quantity="two">נסיונות כושלים רבים מידי. נסה שוב בעוד %d שניות.</item>
-        <item quantity="many">נסיונות כושלים רבים מידי. נסה שוב בעוד %d שניות.</item>
+        <item quantity="other">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
+        <item quantity="one">יותר מדי ניסיונות שגויים. נסה שוב בעוד שנייה %d.</item>
+        <item quantity="two">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
+        <item quantity="many">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">המתן %d שניות ונסה שוב.</item>
-        <item quantity="one">המתן למשך שניה %d ונסה שוב.</item>
-        <item quantity="two">המתן %d שניות ונסה שוב.</item>
-        <item quantity="many">המתן %d שניות ונסה שוב.</item>
+        <item quantity="other">חכה %d שניות ונסה שוב.</item>
+        <item quantity="one">חכה שנייה %d ונסה שוב.</item>
+        <item quantity="two">חכה %d שניות ונסה שוב.</item>
+        <item quantity="many">חכה %d שניות ונסה שוב.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>

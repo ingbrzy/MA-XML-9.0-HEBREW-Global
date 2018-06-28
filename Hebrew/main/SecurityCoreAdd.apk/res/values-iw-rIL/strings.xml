@@ -294,6 +294,7 @@
     <string name="weibo_send">שליחה אל Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">שליחה אל חברי QQ/מחשב</string>
+    <string name="qq_login">היכנס ל-QQ</string>
     <string name="xspace_default_setting_label">יישום ברירת מחדל</string>
     <string name="xspace_default_app_title">יישום ברירת מחדל</string>
     <string name="xspace_default_app_summary">הגדר יישומי ברירת מחדל עבור תשלומים, שיתוף, מועדפים ועוד.</string>
@@ -331,7 +332,7 @@
     <string name="can_not_delete_when_calling">לא ניתן למחוק שטחים במהלך שיחה</string>
     <string name="support_desc">שירותי האבטחה מסופקים על ידי Spaces Mobile</string>
     <string name="sdcardfs_dialog_title">עדכון חשוב</string>
-    <string name="sdcardfs_dialog_message">ל-MIUI יש קובץ מערכת חדש. יתכן שנתונים ישנים אינם מתאימים לו. על מנת לפתור בעיה זו, עקוב אחר הצעדים המפורטים להתקנת העדכון. המכשיר שלך יבצע אתחול פעמיים במהלך העדכון.</string>
+    <string name="sdcardfs_dialog_message">בעדכון זה מושקת מערכת קבצים חדשה. ייתכן שלא תהיה תאימות בין הנתונים הישנים למערכת החדשה. כדי לפתור את הבעיה הזו, בצע את הצעדים הנדרשים להתקנת עדכון. במהלך עדכון זה המכשיר שלך יבצע אתחול פעמיים.</string>
     <string name="do_not_ask">אל תשאל שוב</string>
     <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Play'?"</string>
     <string name="gpg_title">"יישום משוכפל עבור 'משחקי חנות Play'"</string>
@@ -363,14 +364,14 @@
     <string name="remove_user_click_message">"*במידה ואין לך פריטים חשובים ב'שטח שני', %s"</string>
     <string name="remove_user_click_message_action">"באפשרותך להסיר את 'שטח שני' ולאתחל את מכשירך כעת."</string>
     <string name="sdcradfs_dialog_in_owner_title">שטח שני</string>
-    <string name="sdcradfs_dialog_in_owner_message">"ל-MIUI יש קובץ מערכת חדש. יתכן שנתונים ישנים אינם מתאימים לו. על מנת לבצע עדכון, העבר פריטים מ'שטח שני', אתחל את המכשיר שלך וצור מחדש את 'שטח שני'.
-במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
+    <string name="sdcradfs_dialog_in_owner_message">"בעדכון זה מושקת מערכת קבצים חדשה. ייתכן שלא תהיה תאימות בין הנתונים הישנים למערכת החדשה. כדי לבצע עדכון העבר את הפריטים מ-Second Space, אתחל את המכשיר וצור שוב את Second Space.
+אם לא תעדכן, ייתכן שגם האפליקציות הכפולות לא יעבדו כנדרש."</string>
     <string name="sdcradfs_dialog_in_sec_title">עדכון חשוב</string>
     <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
 במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
     <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
     <string name="encrypt_space_delete_dialog_title">שים לב</string>
-    <string name="encrypt_space_delete_dialog_message">"הינך עומד לעדכן את מערכת אנדרואיד. לאחר העדכון, נתוני 'שטח שני' יהפכו ללא תואמים. על מנת להימנע מכך, העבר את כל הנתונים ל'שטח ראשון', מחק את 'שטח שני' וצור אותו שוב."</string>
+    <string name="encrypt_space_delete_dialog_message">אתה עומד לעדכן את המערכת. אחרי העדכון לא תהיה תאימות בין הנתונים מ-Second Space למערכת. כדי למנוע את הבעיה הזו העבר את כל הנתונים ל-First Space, מחק את Second Space וצור אותו מחדש.</string>
     <string name="encrypt_space_delete_dialog_click_message">*במידה ואינך צריך להעביר נתונים, %s</string>
     <string name="encrypt_space_delete_dialog_click_message_action">"מחק וצור את 'שטח שני' כעת."</string>
     <string name="encrypt_space_delete_dialog_positive_text">העברת נתונים</string>
@@ -394,9 +395,7 @@
     <string name="green_guard_title3">ניהול יישומים</string>
     <string name="green_guard_des3">שלוט ביישומים המותקנים והגבל את השימוש</string>
     <string name="experience_more_features">הוסף מכשיר לצפיה בכל התמונות</string>
-    <string name="can_not_switch_when_green_kid_active">"מעבר ל'שטח שני' מוגבלת על ידי בקרת ההורים"</string>
+    <string name="can_not_switch_when_green_kid_active">בקרת הורים מגבילה מעבר אל Second Space</string>
     <string name="need_network_when_bind">התחבר לרשת לפני הוספת מכשירים</string>
-    <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. This permissions are required to send the info about battery levels, step count, and your location to the controlled devices. Allow?</string>
-    <string name="agree">Agree</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="this_function_can_not_use_in_second_space">ניתן להשתמש במאפיין זה רק ב-First Space</string>
 </resources>

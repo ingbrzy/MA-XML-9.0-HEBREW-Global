@@ -140,6 +140,18 @@
         <item quantity="two">"%d דקות "</item>
         <item quantity="many">"%d דקות "</item>
     </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+        <item quantity="two">%d mAh</item>
+        <item quantity="many">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+        <item quantity="two">%d ℃</item>
+        <item quantity="many">%d ℃</item>
+    </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">לאחר %1$d דקות</item>
         <item quantity="one">לאחר דקה %1$d</item>

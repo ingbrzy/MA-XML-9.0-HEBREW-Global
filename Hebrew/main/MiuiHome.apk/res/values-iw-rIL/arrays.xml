@@ -4,6 +4,10 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>טפט</item>
         <item>"ווידג'טים"</item>
@@ -33,7 +37,7 @@
         <item>סופת חול קלה</item>
         <item>סופת חול</item>
         <item>ברד</item>
-        <item>אבק</item>
+        <item>Floating dust</item>
         <item>אובך</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">

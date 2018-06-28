@@ -24,6 +24,12 @@
         <item quantity="two">למחוק את אזור הזמן הנבחר?</item>
         <item quantity="many">למחוק את אזור הזמן הנבחר?</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+        <item quantity="two">%d seconds</item>
+        <item quantity="many">%d seconds</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">הפעל נודניק למשך %d דקות</item>
         <item quantity="one">הפעל נודניק למשך דקה %d</item>

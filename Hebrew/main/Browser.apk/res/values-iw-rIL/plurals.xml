@@ -12,6 +12,12 @@
         <item quantity="two">%d פריטים נחסמו</item>
         <item quantity="many">%d פריטים נחסמו</item>
     </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">מאמר %1$d עודכן עבורך</item>
+        <item quantity="one">מאמר %1$d עודכן עבורך</item>
+        <item quantity="two">%1$dמאמרים עודכנו עבורך</item>
+        <item quantity="many">%1$dמאמרים עודכנו עבורך</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">למחוק %d משימות?</item>
         <item quantity="one">למחוק משימה %d?</item>
@@ -23,18 +29,6 @@
         <item quantity="one">התאמה %d</item>
         <item quantity="two">%d התאמות</item>
         <item quantity="many">%d התאמות</item>
-    </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">ב-%d הימים האחרונים</item>
-        <item quantity="one">ביום ה-%d האחרון</item>
-        <item quantity="two">ב-%d הימים האחרונים</item>
-        <item quantity="many">ב-%d הימים האחרונים</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d מתוך %2$d</item>
-        <item quantity="one">התאמה 1</item>
-        <item quantity="two">%1$d מתוך %2$d</item>
-        <item quantity="many">%1$d מתוך %2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">עמוד חדש יווצר באופן אוטומטי לאחר %d שניות</item>
@@ -65,6 +59,12 @@
         <item quantity="one">שיר פופולרי %d</item>
         <item quantity="two">%d שירים פופולריים</item>
         <item quantity="many">%d שירים פופולריים</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">נגן סרטון בעוד שנייה %1$d</item>
+        <item quantity="one">נגן סרטון בעוד שנייה %1$d</item>
+        <item quantity="two">נגן סרטון בעוד %1$d שניות</item>
+        <item quantity="many">נגן סרטון בעוד %1$d שניות</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d נבחרו</item>
@@ -97,16 +97,22 @@
         <item quantity="many">למחוק %1$d פריטים מההיסטוריה?</item>
     </plurals>
     <plurals name="video_push_multi_message">
-        <item quantity="other">קיימים %1$d עדכונים זמינים.</item>
-        <item quantity="one">קיים עדכון זמין %1$d.</item>
-        <item quantity="two">קיימים %1$d עדכונים זמינים.</item>
-        <item quantity="many">קיימים %1$d עדכונים זמינים.</item>
+        <item quantity="other">%1$d updates available.</item>
+        <item quantity="one">%1$d update available.</item>
+        <item quantity="two">%1$d updates available.</item>
+        <item quantity="many">%1$d updates available.</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d דקות נותרו</item>
         <item quantity="one">דקה %d נותרה</item>
         <item quantity="two">%d דקות נותרו</item>
         <item quantity="many">%d דקות נותרו</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">סרטון %1$d עודכן עבורך</item>
+        <item quantity="one">סרטון %1$d עודכן עבורך</item>
+        <item quantity="two">%1$d סרטונים עודכנו עבורך</item>
+        <item quantity="many">%1$d סרטונים עודכנו עבורך</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">בהיר</item>

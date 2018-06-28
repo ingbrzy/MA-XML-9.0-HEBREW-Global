@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -254,6 +255,12 @@
     <string name="feedback_status_jira_comment">הוסף הערה</string>
     <string name="feedback_status_forum_reply">השב</string>
     <string name="feedback_status_submit_attachment">הקובץ המצורף נשלח בהצלחה</string>
+    <string name="feedback_status_collect_log_failed">לא ניתן לקבל את היומנים</string>
+    <string name="feedback_status_submit_feedback_failed">לא ניתן לשלוח משוב</string>
+    <string name="feedback_status_save_log_info_failed">לא ניתן לשנות את כתובת ה-URL של הקובץ המצורף</string>
+    <string name="feedback_status_submit_bbs_failed">לא ניתן לשלוח את תוכן המשוב</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">לא ניתן לקבל את כתובת ה-URL של הקובץ המצורף</string>
+    <string name="feedback_status_upload_log_failed">לא ניתן להעלות את הקבצים המצורפים</string>
     <string name="feedback_status_change_notification_title">התקדמות הדווח שלך עודכנה</string>
     <string name="feedback_bug_status_change_notification_desc">בעיה %1$s \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">הצעה %1$s \"%2$s\"</string>

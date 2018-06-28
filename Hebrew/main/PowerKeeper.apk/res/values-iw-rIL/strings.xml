@@ -9,10 +9,7 @@
     <string name="power_config_apps">חסכון בסוללה</string>
     <string name="app_list_title">בחר יישומים</string>
     <string name="power_hide_mode_app_list_summary">חוסך בצריכת סוללה בפעולות ברקע</string>
-    <string name="enable_hide_mode">"הפעל את מצב 'חסכון בסוללה'"</string>
-    <string name="disable_hide_mode">"כבה את מצב 'חסכון בסוללה'"</string>
     <string name="about_hide_mode">"אודות מצב 'חסכון בסוללה'"</string>
-    <string name="disable_hide_mode_warning">"כיבוי מצב 'חסכון בסוללה' עשוי להגביר את צריכת האנרגיה של מכשירך."</string>
     <string name="show_system_app">הצג יישומי מערכת</string>
     <string name="hide_system_app">הסתר יישומי מערכת</string>
     <string name="scenario_policies_title">תרחישים חכמים</string>

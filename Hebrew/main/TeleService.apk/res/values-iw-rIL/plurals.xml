@@ -46,10 +46,4 @@
         <item quantity="many">"
 %d נסיונות נותרו."</item>
     </plurals>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">אין חיבור לרשת למשך %s דקות</item>
-        <item quantity="one">אין חיבור לרשת למשך דקה %s</item>
-        <item quantity="two">אין חיבור לרשת למשך %s דקות</item>
-        <item quantity="many">אין חיבור לרשת למשך %s דקות</item>
-    </plurals>
 </resources>

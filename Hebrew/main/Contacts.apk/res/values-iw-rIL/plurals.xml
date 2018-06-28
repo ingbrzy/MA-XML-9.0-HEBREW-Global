@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
-        <item quantity="one">לפני שעה 1</item>
-        <item quantity="two">1 hour ago</item>
-        <item quantity="many">1 hour ago</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">לפני חצי שעה</item>
-        <item quantity="one">לפני חצי שעה</item>
-        <item quantity="two">לפני חצי שעה</item>
-        <item quantity="many">לפני חצי שעה</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
-        <item quantity="one">בעוד שעה 1</item>
-        <item quantity="two">In 1 hour</item>
-        <item quantity="many">In 1 hour</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">בעוד חצי שעה</item>
-        <item quantity="one">בעוד חצי שעה</item>
-        <item quantity="two">בעוד חצי שעה</item>
-        <item quantity="many">בעוד חצי שעה</item>
-    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">מידית</item>
         <item quantity="one">מידית</item>
         <item quantity="two">מידית</item>
         <item quantity="many">מידית</item>
     </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">בעוד %1$d דקות</item>
-        <item quantity="one">בעוד דקה %1$d</item>
-        <item quantity="two">בעוד %1$d דקות</item>
-        <item quantity="many">בעוד %1$d דקות</item>
-    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">ממש עכשיו</item>
         <item quantity="one">ממש עכשיו</item>
         <item quantity="two">ממש עכשיו</item>
         <item quantity="many">ממש עכשיו</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">לפני %1$d דקות</item>
-        <item quantity="one">לפני דקה %1$d</item>
-        <item quantity="two">לפני %1$d דקות</item>
-        <item quantity="many">לפני %1$d דקות</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">למחוק %1$d אנשי קשר?</item>

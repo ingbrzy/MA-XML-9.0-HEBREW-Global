@@ -3,6 +3,7 @@
     <string name="menu_clear">ניקוי</string>
     <string name="menu_view">הצג בתיקיה</string>
     <string name="menu_install">התקן יישום זה</string>
+    <string name="menu_open">פתיחה</string>
     <string name="menu_add_to_white_list">הוסף לרשימת החריגים</string>
     <string name="text_optimizer">העלה שמות של תיקיות</string>
     <string name="summary_optimizer">תכונה זו מעלה שמות תיקיות על מנת לעדכן את מסד הנתונים של Cheetah Mobile ודורשת את מזהה המכשיר שלך.</string>
@@ -90,6 +91,7 @@
     <string name="hints_apk_header_left">חבילות</string>
     <string name="hints_residual_header_left">שאריות</string>
     <string name="hints_memory_header_left">זכרון</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">קבצים גדולים: %d</string>
     <string name="hints_installed_apps_header_left">יישומים מותקנים: %d</string>
     <string name="toast_resolve_apk_error">פתור שגיאת apk</string>
@@ -127,8 +129,8 @@
     <string name="msg_update_error_code_no_newer_db">"ה'מנקה' מעודכן"</string>
     <string name="msg_update_error_code_already_running">מעדכן…</string>
     <string name="msg_update_error_code_network_error">לא ניתן להתחבר לרשת</string>
-    <string name="msg_update_error_code_unknown_error">Servers are busy. Wait a minute or two and try again.</string>
-    <string name="msg_cleanup_db_update_time_unknown">Last update: Unknown</string>
+    <string name="msg_update_error_code_unknown_error">השרתים עמוסים. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="msg_cleanup_db_update_time_unknown">עדכון אחרון: לא ידוע</string>
     <string name="item_title_process_mode">בחר פעולה</string>
     <string name="clean_content_zero">ללא</string>
     <string name="clean_content_one">פריט 1</string>
@@ -166,7 +168,7 @@
     <string name="hints_quick_scanning">סורק…</string>
     <string name="hints_quick_cleanuping">מייעל…</string>
     <string name="hints_deepclean_scanning">סורק %s</string>
-    <string name="cache_title_system_cache">מטמון המערכת</string>
+    <string name="cache_title_system_cache">מטמון</string>
     <string name="hints_storage_free">פנוי</string>
     <string name="hints_storage_free_size">%1$s סה\"כ, %2$s זמין</string>
     <string name="apps_sort_type_title">מיון</string>
@@ -271,7 +273,7 @@
     <string name="toast_select_white_need_remove">בחר פריטים להסרה</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="no_network_btn">נסה שוב</string>
-    <string name="name_debuglog_dir">BSP debug log</string>
+    <string name="name_debuglog_dir">יומן ניפוי שגיאות BSP</string>
     <string name="just_now">ממש עכשיו</string>
     <string name="yesterday">אתמול</string>
     <string name="month_day_format">dd MMM</string>
@@ -297,6 +299,7 @@
     <string name="downloading">מוריד</string>
     <string name="installing">מתקין</string>
     <string name="start_install">התקן כעת</string>
+    <string name="empty">" "</string>
     <string name="open_browser">פתח בדפדפן</string>
     <string name="title_share_link">שתף קישור אינטרנט</string>
     <string name="connecting">מתחבר…</string>
@@ -307,7 +310,7 @@
     <string name="seton_immediately">הפעל</string>
     <string name="notify_when">קבל התראה כאשר נפח האשפה מגיע ל-100MB</string>
     <string name="goto_set">הגדר</string>
-    <string name="virus_scan">סריקת אבטחה</string>
+    <string name="virus_scan">סריקת וירוסים</string>
     <string name="tips_of_virus_scan">סרוק את מכשירך אחר וירוסים באופן קבוע על מנת לשמור עליו מאובטח</string>
     <string name="conn_of_function_safe">"חיבור לרשת עבור 'אבטחה'"</string>
     <string name="tips_of_connect">"התחבר לאינטרנט על מנת להשתמש בכל התכונות של 'אבטחה'"</string>
@@ -517,4 +520,14 @@
     <string name="guide_virus_dialog_message">סריקת יישומים וחבילות התקנה מגנה על מכשירך מפני וירוסים ותוכנות זדוניות. לסרוק את מכשירך כעת?</string>
     <string name="guide_virus_dialog_positive">סריקה</string>
     <string name="guide_virus_dialog_negative">ביטול</string>
+    <string name="tips_low_storage_dialog_title">נפח האחסון כמעט מלא</string>
+    <string name="tips_low_storage_dialog_msg_storage">הינך משתמש ב-90% משטח האחסון שלך. הסר את היישומים בהם אינך משתמש.</string>
+    <string name="tips_low_storage_dialog_msg_wechat">גודל המטמון של WeChat הגיע ל-3GB. הדבר עשוי להאט את מכשירך. להסיר את המטמון של WeChat כעת?</string>
+    <string name="tips_low_storage_dialog_msg_qq">גודל המטמון של QQ הגיע ל-3GB. הדבר עשוי להאט את מכשירך. להסיר את המטמון של QQ כעת?</string>
+    <string name="tips_low_storage_dialog_ok_storage">פינוי מקום</string>
+    <string name="tips_low_storage_dialog_ok">ניקוי</string>
+    <string name="tips_low_storage_dialog_cancel">ביטול</string>
+    <string name="wechat_msg_time_long">yyyy-MM-dd</string>
+    <string name="wechat_msg_time_short">MM-dd</string>
+    <string name="wechat_video_time">%1$s:%2$s</string>
 </resources>
